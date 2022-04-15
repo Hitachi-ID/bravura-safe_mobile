@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Omiljene stavke</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Podnesite izvještaj o greški </value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Moj trezor</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Ime</value>
@@ -356,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -393,7 +393,7 @@
     <value>Posjetite našu Web Stranicu </value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Posjeti našu Web stranicu kako bi pronašli pomoć, novosti, poslali nam e-poštu i/ili saznali više o tome kako koristiti Bitwarden.</value>
+    <value>Posjeti našu Web stranicu kako bi pronašli pomoć, novosti, poslali nam e-poštu i/ili saznali više o tome kako koristiti Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Web stranica</value>
@@ -415,7 +415,7 @@
     <value>Proširenje aplikacije</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Koristi uslugu Bitwarden pristupačnosti za auto-ispunu svojih prijava u aplikacijama i na webu.</value>
+    <value>Koristi uslugu Bravura Safe pristupačnosti za auto-ispunu svojih prijava u aplikacijama i na webu.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Usluga auto-ispune</value>
@@ -424,31 +424,31 @@
     <value>Izbjegavaj dvosmislene znakove</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Dodatak Bitwarden aplikacije</value>
+    <value>Dodatak Bravura Safe aplikacije</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bitwarden aplikacije. Saznajte više o korištenju dodatka Bitwarden aplikacije tako što ćete otići u Postavke aplikacije.</value>
+    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bravura Safe aplikacije. Saznajte više o korištenju dodatka Bravura Safe aplikacije tako što ćete otići u Postavke aplikacije.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Koristite Bitwarden u Safari-ju i drugim aplikacijama za automatsko popunjavanje Vaših prijava.</value>
+    <value>Koristite Bravura Safe u Safari-ju i drugim aplikacijama za automatsko popunjavanje Vaših prijava.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Usluga automatskog popunjavanja Bitwarden-a</value>
+    <value>Usluga automatskog popunjavanja Bravura Safe-a</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Koristite Bitwarden uslugu pristupačnosti da biste automatski popunili Vaše prijave.</value>
+    <value>Koristite Bravura Safe uslugu pristupačnosti da biste automatski popunili Vaše prijave.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Promijenite e-poštu</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Možete da promenite svoju adresu e-pošte na bitwarden.com web trezoru. Da li želite da posjetite Web Stranicu sada?</value>
+    <value>Možete da promenite svoju adresu e-pošte na Bravura Safe web trezoru. Da li želite da posjetite Web Stranicu sada?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Promijenite glavnu lozinku</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Možete da promjenite svoju glavnu lozinku na bitwarden.com web trezoru. Da li želite da posjetite web stranicu sada?</value>
+    <value>Možete da promjenite svoju glavnu lozinku na Bravura Safe web trezoru. Da li želite da posjetite web stranicu sada?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Zatvori</value>
@@ -482,7 +482,7 @@
     <value>Omogućite dodatak aplikacije</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>U Safariju pronađite Bitwarden pomoću ikone za dijeljenje (savjet: skrolujte udesno u donjem redu menija).</value>
+    <value>U Safariju pronađite Bravura Safe pomoću ikone za dijeljenje (savjet: skrolujte udesno u donjem redu menija).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>Vašim prijavama sada lako možete pristupiti sa Safari-jem, Chrome-om i drugim podržanim aplikacijama.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>U Safari-ju i Chrome-u pronađite Bitwarden pomoću ikone za deljenje (savet: u desnom donjem redu menija za deljenje).</value>
+    <value>U Safari-ju i Chrome-u pronađite Bravura Safe pomoću ikone za deljenje (savet: u desnom donjem redu menija za deljenje).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Dodirnite Bitwarden ikonu u meniju da biste pokrenuli dodatak.</value>
+    <value>Dodirnite Bravura Safe ikonu u meniju da biste pokrenuli dodatak.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value> Da biste uključili Bitwarden u Safari-ju i drugim aplikacijama, dodirnite ikonu „više“ u donjem redu menija.</value>
+    <value> Da biste uključili Bravura Safe u Safari-ju i drugim aplikacijama, dodirnite ikonu „više“ u donjem redu menija.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Omiljene</value>
@@ -519,7 +519,7 @@
     <value>Uvezite stavke</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Možete da uvezete sve vaše lozinke preko bitwarden.com web trezora. Da li želite da posjetite web stranicu sada?</value>
+    <value>Možete da uvezete sve vaše lozinke preko Bravura Safe web trezora. Da li želite da posjetite web stranicu sada?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Uvezite sve lozinke i datoteke iz drugih aplikacija za upravljanje lozinkom.</value>
@@ -594,7 +594,7 @@
     <value>Više podešavanja</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Morate se prijaviti na glavnu Bitwarden aplikaciju prije nego što možete koristiti dodatak.</value>
+    <value>Morate se prijaviti na glavnu Bravura Safe aplikaciju prije nego što možete koristiti dodatak.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Nikad</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Podrazumevane opcije se postavljaju pomoću alata za generisanje lozinki glavne Bitwarden aplikacije.</value>
+    <value>Podrazumevane opcije se postavljaju pomoću alata za generisanje lozinki glavne Bravura Safe aplikacije.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Opcije</value>
@@ -643,7 +643,7 @@
     <value>Da li ste sigurni da želite da zamijenite trenutnu lozinku?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden održava Vaš trezor automatski sinhronizovanim koristeći push obaveštenja. Za najbolje moguće iskustvo, izaberite „Dozvoli“ u sledećem odzivu kada se zatraži da omogućite push obaveštenja.</value>
+    <value>Bravura Safe održava Vaš trezor automatski sinhronizovanim koristeći push obaveštenja. Za najbolje moguće iskustvo, izaberite „Dozvoli“ u sledećem odzivu kada se zatraži da omogućite push obaveštenja.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -704,7 +704,7 @@
     <value>Prijava u dva koraka</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Prijava u dva koraka čini Vaš nalog sigurnijim tako što zahteva da verifikujete svoje podatke pomoću drugog uređaja, kao što su bezbednosni ključ, aplikacija za potvrdu autentičnosti, SMS, telefonski poziv ili e-pošta. Prijavljivanje u dva koraka može se omogućiti na bitwarden.com veb trezoru. Da li želite da posetite veb stranicu sada?</value>
+    <value>Prijava u dva koraka čini Vaš nalog sigurnijim tako što zahteva da verifikujete svoje podatke pomoću drugog uređaja, kao što su bezbednosni ključ, aplikacija za potvrdu autentičnosti, SMS, telefonski poziv ili e-pošta. Prijavljivanje u dva koraka može se omogućiti na Bravura Safe veb trezoru. Da li želite da posetite veb stranicu sada?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Otključajte sa {0}</value>
@@ -723,7 +723,7 @@
     <value>Vidite stavku</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden veb trezor</value>
+    <value>Bravura Safe veb trezor</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Izgubili ste aplikaciju za autentifikaciju?</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>U Vašem trezoru nema stavki za {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Kada izaberete polje za unos i vidite prekrivač za automatsko popunjavanje Bitwarden-a, možete ga dodirnuti da biste pokrenuli uslugu automatskog popunjavanja.</value>
+    <value>Kada izaberete polje za unos i vidite prekrivač za automatsko popunjavanje Bravura Safe-a, možete ga dodirnuti da biste pokrenuli uslugu automatskog popunjavanja.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Dodirnite ovo obaveštenje da biste automatski popunili stavku iz trezora.</value>
@@ -759,7 +759,7 @@
     <value>Otvorite podešavanja pristupačnosti</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Na ekranu podešavanja pristupačnosti Android-a, dodirnite „Bitwarden“ ispod naslova Usluge.</value>
+    <value>1. Na ekranu podešavanja pristupačnosti Android-a, dodirnite „Bravura Safe“ ispod naslova Usluge.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Uključite prekidač i pritisnite U redu da biste prihvatili.</value>
@@ -774,7 +774,7 @@
     <value>Status</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bitwarden aplikacije. Saznajte više o korišćenju dodatka Bitwarden aplikacije u „Podešavanjima“.</value>
+    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bravura Safe aplikacije. Saznajte više o korišćenju dodatka Bravura Safe aplikacije u „Podešavanjima“.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Popunite automatski</value>
@@ -973,7 +973,7 @@
     <value>Samostalno okruženje</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Navedite osnovni URL vaše lokalno instalirane Bitwarden instalacije.</value>
+    <value>Navedite osnovni URL vaše lokalno instalirane Bravura Safe instalacije.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL servera</value>
@@ -1138,7 +1138,7 @@
     <value>URL adresa servera ikona</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Automatski popunite sa Bitwarden-om</value>
+    <value>Automatski popunite sa Bravura Safe-om</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Trezor je zaključan</value>
@@ -1162,10 +1162,10 @@
     <value>Usluga automatskog popunjavanja pristupačnosti</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Usluga automatskog popunjavanja Bitwarden-a koristi Android Autofill Framework za pomoć pri popunjavanju podataka o prijavi, kreditnim karticama i identitetu u druge aplikacije na uređaju.</value>
+    <value>Usluga automatskog popunjavanja Bravura Safe-a koristi Android Autofill Framework za pomoć pri popunjavanju podataka o prijavi, kreditnim karticama i identitetu u druge aplikacije na uređaju.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Koristite uslugu automatskog popunjavanja Bitwarden-a za popunjavanje podataka o prijavljivanju, kreditnim karticama i identitetu u druge aplikacije.</value>
+    <value>Koristite uslugu automatskog popunjavanja Bravura Safe-a za popunjavanje podataka o prijavljivanju, kreditnim karticama i identitetu u druge aplikacije.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Otvorite postavke automatskog popunjavanja</value>
@@ -1214,11 +1214,11 @@
     <value>Uklonite</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Novi URI</value>
+    <value>Novi URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Osnovni domen</value>
@@ -1241,11 +1241,11 @@
     <value>Počinje sa</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>Otkrivanje URI podudaranja</value>
+    <value>Otkrivanje URL podudaranja</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Otkrivanje podudaranja</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Da, i Sačuvaj</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organizacija</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Držite Vaš Yubikey pri vrhu uređaja.</value>
@@ -1281,7 +1281,7 @@
     <value>Automatsko popunjavanje lozinke aktivirano!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Morate se prijaviti na glavnu Bitwarden aplikaciju prije nego što možete koristiti dodatak.</value>
+    <value>Morate se prijaviti na glavnu Bravura Safe aplikaciju prije nego što možete koristiti dodatak.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Vaši podaci za prijavu su sada lakše dostupni putem Vaše tastature prilikom prijave na aplikacije i web stranice</value>
@@ -1308,13 +1308,13 @@
     <value>4. Uključite automatsko ispunjavanje </value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Odaberite Bitwarden</value>
+    <value>5. Odaberite Bravura Safe</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Automatska popuna lozinke</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bitwarden aplikacije. Saznajte više o korišćenju dodatka Bitwarden aplikacije u „Podešavanja“.</value>
+    <value>Najlakši način za dodavanje novih prijava u Vaš trezor je iz dodatka Bravura Safe aplikacije. Saznajte više o korišćenju dodatka Bravura Safe aplikacije u „Podešavanja“.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Neispravna email adresa</value>
@@ -1336,7 +1336,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>URLs</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Provjeravanje vaše lozinke...</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>premješteno u</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Stavka je podijeljena.</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden omogućava da podijelite vaše datoteke ili prijave iz vašeg trezora sa drugim korisnicima pomoću korištenja računa za organizacije. Želiš li posjetiti bitwarden.com da naučiš više?</value>
+    <value>Bravura Safe omogućava da podijelite vaše datoteke ili prijave iz vašeg trezora sa drugim korisnicima pomoću korištenja računa za organizacije. Želiš li posjetiti hitachi-id.com da naučiš više?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Izvoz trezora</value>
@@ -1478,7 +1478,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Prijavljen kao {0} na {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Vaš trezor je zaključan. Potvrdite glavnu lozinku da nastavite.</value>
@@ -1521,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Zadani otkrivanje URI podudaranja</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Zadani otkrivanje URL podudaranja</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Biranje zadanog načina na koji će se riješavati otkrivanje URI-ja za prijavu pri izvođenju radnji kao što je auto-ispuna lozinki.</value>
+    <value>Biranje zadanog načina na koji će se riješavati otkrivanje URL-ja za prijavu pri izvođenju radnji kao što je auto-ispuna lozinki.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema aplikacije</value>
@@ -1544,7 +1544,7 @@
     <value>Izlaz</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Sigurno želiš izaći iz Bitwarden-a?</value>
+    <value>Sigurno želiš izaći iz Bravura Safe-a?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Obavezno otključavanje glavnom lozinkom pri ponovnom pokretanju aplikacije?</value>
@@ -1554,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Crna lista URI-ja</value>
+    <value>Crna lista URL-ja</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>URI koji su na crnoj listi neće nuditi auto-ispunu. Popis treba odvojiti zarezima. Npr.: „https://webstranica.com, androidapp://com.aplikcacija.android”.</value>
+    <value>URL koji su na crnoj listi neće nuditi auto-ispunu. Popis treba odvojiti zarezima. Npr.: „https://webstranica.com, androidapp://com.aplikcacija.android”.</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Onemogući upit za spremanje</value>
@@ -1569,7 +1569,7 @@
     <value>Kod ponovnog pokretanja</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Auto-ispuna olakšava siguran pristup tvom Bitwarden trezoru iz drugih aplikacija i na web stranicama. Izgleda da nije omogućena usluga auto-ispune za Bitwarden. Omogući uslugu auto-ispune u Bitwarden postavkama.</value>
+    <value>Auto-ispuna olakšava siguran pristup tvom Bravura Safe trezoru iz drugih aplikacija i na web stranicama. Izgleda da nije omogućena usluga auto-ispune za Bravura Safe. Omogući uslugu auto-ispune u Bravura Safe postavkama.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Promjene teme su aktivne nakon ponovog pokretanja aplikacije.</value>
@@ -1603,7 +1603,7 @@
     <value>Koristi biometriju za otključavanje</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden zahtijeva radnju - pogledajte „Usluga auto-ispune kroz pristupačnost” u Bitwarden postavkama</value>
+    <value>Bravura Safe zahtijeva radnju - pogledajte „Usluga auto-ispune kroz pristupačnost” u Bravura Safe postavkama</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
     <value>3. U postavkama aplikacije uključi „Prikaz iznad drugih aplikacija” za omogućavanje podrške za preklapanje.</value>
@@ -1645,11 +1645,11 @@
     <value>Ovaj izvoz šifrira tvoje podatke koristeći ključ za šifriranje tvojeg računa. Ako ikada zamjeniš ključ za šifriranje, potrebno je ponovno izvesti podatke, jer neće biti moguće dešifrirati ovu izvezenu datoteku.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Ključ za šifriranje jedinstven je za svakog Bitwarden korisnika, kako bi se šifrirani izvoz mogao uvesti u drugi korisnički račun.</value>
+    <value>Ključ za šifriranje jedinstven je za svakog Bravura Safe korisnika, kako bi se šifrirani izvoz mogao uvesti u drugi korisnički račun.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Potvrdi izvoz trezora</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Upozorenje</value>
@@ -1678,7 +1678,7 @@
     <value>Prilog uspješno spremljen</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>U Bitwarden postavkama -> „Usluga auto-ispune kroz pristupačnost” uključi opciju „Koristi pristupačnost”.</value>
+    <value>U Bravura Safe postavkama -> „Usluga auto-ispune kroz pristupačnost” uključi opciju „Koristi pristupačnost”.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Nema pronađenih polja za unos lozinke</value>
@@ -1796,7 +1796,7 @@
     <value>Pravila o privatnosti</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden zahtijeva radnju - Bitwarden Postavke -> Usluge auto-ispune -> uključi opciju „Koristi preklapanje”</value>
+    <value>Bravura Safe zahtijeva radnju - Bravura Safe Postavke -> Usluge auto-ispune -> uključi opciju „Koristi preklapanje”</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Usluga automatskog popunjavanja</value>
@@ -1811,13 +1811,13 @@
     <value>Koristi pristupačnost</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Koristi uslugu Bitwarden pristupačnosti za auto-ispunu tvojih prijava u aplikacijama i na webu. Kada je uključeno, prilikom odabira polja za prijavu, prikazati će se iskočni okvir. </value>
+    <value>Koristi uslugu Bravura Safe pristupačnosti za auto-ispunu tvojih prijava u aplikacijama i na webu. Kada je uključeno, prilikom odabira polja za prijavu, prikazati će se iskočni okvir. </value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Koristi uslugu Bitwarden pristupačnosti za auto-ispunu tvojih prijava u aplikacijama i na webu (Zahtijeva uključenu opciju „Koristi preklapanje”).</value>
+    <value>Koristi uslugu Bravura Safe pristupačnosti za auto-ispunu tvojih prijava u aplikacijama i na webu (Zahtijeva uključenu opciju „Koristi preklapanje”).</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Koristi uslugu Bitwarden pristupačnosti za auto-ispunu kroz pločicu brze radnje i/ili prikaz iskočnog okvira koristeći Preklapanje (ako je uključeno).</value>
+    <value>Koristi uslugu Bravura Safe pristupačnosti za auto-ispunu kroz pločicu brze radnje i/ili prikaz iskočnog okvira koristeći Preklapanje (ako je uključeno).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Obavezno za korištenje auto-ispune kroz pločicu brze radnje ili kao ispomoć za korištenje usluge automatskog popunjavanja koristeći Preklapanje (ako je uključeno).</value>
@@ -1826,10 +1826,10 @@
     <value>Koristi preklapanje</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Kada je uključeno, omogućuje usluzi Bitwarden prikaz iskočnog okvira prilikom odabira polja za prijavu.</value>
+    <value>Kada je uključeno, omogućuje usluzi Bravura Safe prikaz iskočnog okvira prilikom odabira polja za prijavu.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Ako je uključena, usluga Bitwarden prikazati će iskočni okvir prilikom odabira polja za prijavu kao pomoć pri auto-ispuni.</value>
+    <value>Ako je uključena, usluga Bravura Safe prikazati će iskočni okvir prilikom odabira polja za prijavu kao pomoć pri auto-ispuni.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Ako je uključeno, pristupačnost će prikazati iskočni okvir kao pomoć usluzi automatskog popunjavanja za starije aplikacije koje ne podržavaju Android strukturu auotmatskog popunjavanja.</value>
@@ -1841,20 +1841,20 @@
     <value>Pravila organizacije utječu na tvoje mogućnosti vlasništva.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Svi Send-ovi</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Svi Share-ovi</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send-ovi</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-ovi</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Nadimak za ovaj Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Nadimak za ovaj Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Tekst</value>
@@ -1863,8 +1863,8 @@
     <value>Tekst kojeg želiš poslati.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Zadano sakrij tekst pri pristupanju Send-u</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Zadano sakrij tekst pri pristupanju Share-u</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Datoteka</value>
@@ -1879,8 +1879,8 @@
     <value>Vrijeme brisanja</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Ovaj Send će biti trajno izbrisan na odabrani datum i vrijeme.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ovaj Share će biti trajno izbrisan na odabrani datum i vrijeme.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Brisanje na čekanju </value>
@@ -1893,7 +1893,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>Ako je postavljeno, pristup ovom Sendu ističe na navedeni datum i vrijeme.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Isteklo</value>
@@ -1902,8 +1902,8 @@
     <value>Maksimalan broj pristupa</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Ako je određeno, ovom Send-u će se moći pristupiti samo ograničeni broj puta.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ako je određeno, ovom Share-u će se moći pristupiti samo ograničeni broj puta.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Dostignut najveći broj pristupanja</value>
@@ -1915,8 +1915,8 @@
     <value>Nova lozinka</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Neobavezno zahtijevaj lozinku od korisnika za pristup ovom Send-u.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Neobavezno zahtijevaj lozinku od korisnika za pristup ovom Share-u.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Ukloni lozinku</value>
@@ -1931,20 +1931,20 @@
     <value>Lozinka je uklonjena.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Privatne bilješke o ovom Send-u.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Privatne bilješke o ovom Share-u.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Onemogući ovaj Send da mu niko drugi ne može pristupiti.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Onemogući ovaj Share da mu niko drugi ne može pristupiti.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Nema Send-ova na tvom računu.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Nema Share-ova na tvom računu.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Dodaj Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Dodaj Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Kopiraj link</value>
@@ -1953,36 +1953,36 @@
     <value>Podijeli link</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Link od Send-a</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Link od Share-a</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Pretraži Send-ove</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Pretraži Share-ove</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Uredi Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Uredi Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Dodaj Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Dodaj Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Sigurno želiš izbrisati ovaj Send?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Sigurno želiš izbrisati ovaj Share?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send izbrisan.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share izbrisan.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send ažuriran.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ažuriran.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Novi Send kreiran.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Novi Share kreiran.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 dan</value>
@@ -2003,31 +2003,31 @@
     <value>Prilagođeno</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Podijeli Send nakon spremanja.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Podijeli Share nakon spremanja.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>Pravila tvrtke omogućuju brisanje samo postojećeg Senda.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>O Sendu</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Sakrij moju adresu e-pošte od primatelja.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>Jedno ili više pravila organizacije utječe na postavke Senda.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Kod besplatnog računa moguće je dijeljenje samo teksta. Za slanje datoteka potrebno je Premium članstvo.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Moraš potvrditi svoju e-poštu za koritšenje datoteka sa Sendom. Možeš potvrditi svoju adresu e-pošte preko web trezora.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Ponovno zatraži glavnu lozinku</value>
@@ -2156,7 +2156,7 @@
     <value>Slanje</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Kopiraj link od Send-a prilikom spremanja</value>
+    <value>Kopiraj link od Share-a prilikom spremanja</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Kod se šalje </value>

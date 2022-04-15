@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Favoriler</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Hata bildiriminde bulunun</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Kasam</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Ad</value>
@@ -393,7 +393,7 @@
     <value>Web sitemizi ziyaret edin</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Yardım almak, haberlere göz atmak, bize ulaşmak ve Bitwarden'ı kullanmayı öğrenmek için web sitemizi ziyaret edin.</value>
+    <value>Yardım almak, haberlere göz atmak, bize ulaşmak ve Bravura Safe'ı kullanmayı öğrenmek için web sitemizi ziyaret edin.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Web sitesi</value>
@@ -415,7 +415,7 @@
     <value>Uygulama uzantısı</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Uygulamalarda ve web'de giriş bilgilerinizi otomatik doldurmak için Bitwarden erişilebilirlik hizmetini kullanabilirsiniz.</value>
+    <value>Uygulamalarda ve web'de giriş bilgilerinizi otomatik doldurmak için Bravura Safe erişilebilirlik hizmetini kullanabilirsiniz.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Otomatik doldurma hizmeti</value>
@@ -424,31 +424,31 @@
     <value>Okurken karışabilecek karakterleri kullanma</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden Uygulama Uzantısı</value>
+    <value>Bravura Safe Uygulama Uzantısı</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden uygulama uzantısıdır. Bitwarden uygulama uzantısı hakkında daha fazla bilgi almak için "Ayarlar" ekranına bakabilirsiniz.</value>
+    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bravura Safe uygulama uzantısıdır. Bravura Safe uygulama uzantısı hakkında daha fazla bilgi almak için "Ayarlar" ekranına bakabilirsiniz.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Giriş bilgilerinizi otomatik doldurmak için Safari'de ve diğer uygulamalarda Bitwarden'ı kullanın.</value>
+    <value>Giriş bilgilerinizi otomatik doldurmak için Safari'de ve diğer uygulamalarda Bravura Safe'ı kullanın.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden otomatik doldurma hizmeti</value>
+    <value>Bravura Safe otomatik doldurma hizmeti</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Giriş bilgilerinizi otomatik olarak doldurmak için Bitwarden erişilebilirlik hizmetini kullanabilirsiniz.</value>
+    <value>Giriş bilgilerinizi otomatik olarak doldurmak için Bravura Safe erişilebilirlik hizmetini kullanabilirsiniz.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>E-postayı değiştir</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>E-posta adresinizi bitwarden.com web kasası üzerinden değiştirebilirsiniz. Siteye gitmek ister misiniz?</value>
+    <value>E-posta adresinizi Bravura Safe web kasası üzerinden değiştirebilirsiniz. Siteye gitmek ister misiniz?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Ana parolayı değiştir</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Ana parolanızı bitwarden.com web kasası üzerinden değiştirebilirsiniz. Siteye gitmek ister misiniz?</value>
+    <value>Ana parolanızı Bravura Safe web kasası üzerinden değiştirebilirsiniz. Siteye gitmek ister misiniz?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Kapat</value>
@@ -482,7 +482,7 @@
     <value>Uygulama uzantısını etkinleştir</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safari'de paylaşım simgesini kullanarak Bitwarden'ı bulun. (İpucu: Menünün en alt satırının sağ tarafına bakın.)</value>
+    <value>Safari'de paylaşım simgesini kullanarak Bravura Safe'ı bulun. (İpucu: Menünün en alt satırının sağ tarafına bakın.)</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>Artık hesaplarınıza Safari, Chrome ve diğer desteklenen uygulamalardan kolayca ulaşabilirsiniz.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safari ve Chrome'da paylaşım simgesini kullanarak Bitwarden'ı bulun. (İpucu: Paylaş menüsünün alt satırının sağ tarafına bakın.)</value>
+    <value>Safari ve Chrome'da paylaşım simgesini kullanarak Bravura Safe'ı bulun. (İpucu: Paylaş menüsünün alt satırının sağ tarafına bakın.)</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Uzantıyı açmak için menüdeki Bitwarden simgesine dokunun.</value>
+    <value>Uzantıyı açmak için menüdeki Bravura Safe simgesine dokunun.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Safari ve diğer uygulamalarda Bitwarden'ı açmak için menünün alt satırındaki "Daha Fazla" simgesine dokunun.</value>
+    <value>Safari ve diğer uygulamalarda Bravura Safe'ı açmak için menünün alt satırındaki "Daha Fazla" simgesine dokunun.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Favori</value>
@@ -519,7 +519,7 @@
     <value>Hesapları içe aktar</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>bitwarden.com web kasasından hesaplarınız topluca içe aktarabilirsiniz. Siteyi şimdi ziyaret etmek ister misiniz?</value>
+    <value>Bravura Safe web kasasından hesaplarınız topluca içe aktarabilirsiniz. Siteyi şimdi ziyaret etmek ister misiniz?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Diğer parola yönetim uygulamalarındaki hesaplarınızı topluca ve hızlıca içe aktarabilirsiniz.</value>
@@ -594,7 +594,7 @@
     <value>Diğer ayarlar</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Uzantıyı kullanabilmek için ana Bitwarden uygulamasına giriş yapmalısınız.</value>
+    <value>Uzantıyı kullanabilmek için ana Bravura Safe uygulamasına giriş yapmalısınız.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Asla</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Varsayılan ayarlar, ana Bitwarden uygulamasının parola üreticisi aracından ayarlanır.</value>
+    <value>Varsayılan ayarlar, ana Bravura Safe uygulamasının parola üreticisi aracından ayarlanır.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Seçenekler</value>
@@ -643,7 +643,7 @@
     <value>Mevcut parolanın üzerine kaydetmek istediğinize emin misiniz?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden, anında ilet bildirimlerini kullanarak kasanızı otomatik olarak eşitleyebilir. Bitwarden'dan en iyi şekilde faydalanmak için lütfen bir sonraki ekranda "İzin Ver"i seçerek bildirimlere izin verin.</value>
+    <value>Bravura Safe, anında ilet bildirimlerini kullanarak kasanızı otomatik olarak eşitleyebilir. Bravura Safe'dan en iyi şekilde faydalanmak için lütfen bir sonraki ekranda "İzin Ver"i seçerek bildirimlere izin verin.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -704,7 +704,7 @@
     <value>İki aşamalı giriş</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>İki aşamalı giriş, hesabınıza girererken işlemi bir güvenlik anahtarı, şifrematik uygulaması, SMS, telefon araması veya e-posta gibi ek bir yöntemle doğrulamanızı isteyerek hesabınızın güvenliğini artırır. İki aşamalı giriş özelliğini bitwarden.com web kasası üzerinden etkinleştirebilirsiniz. Şimdi siteye gitmek ister misiniz?</value>
+    <value>İki aşamalı giriş, hesabınıza girererken işlemi bir güvenlik anahtarı, şifrematik uygulaması, SMS, telefon araması veya e-posta gibi ek bir yöntemle doğrulamanızı isteyerek hesabınızın güvenliğini artırır. İki aşamalı giriş özelliğini Bravura Safe web kasası üzerinden etkinleştirebilirsiniz. Şimdi siteye gitmek ister misiniz?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Kilidi {0} ile aç</value>
@@ -723,7 +723,7 @@
     <value>Kaydı görüntüle</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden web kasası</value>
+    <value>Bravura Safe web kasası</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Kimlik doğrulama uygulamanızı kayıp mı ettiniz?</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Kasanızda hiç {0} hesabı bulunmuyor.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Bir giriş alanını seçip Bitwarden otomatik doldurma kutusunu gördüğünüzde otomatik doldurma hizmetini başlatmak için kutuya dokunabilirsiniz.</value>
+    <value>Bir giriş alanını seçip Bravura Safe otomatik doldurma kutusunu gördüğünüzde otomatik doldurma hizmetini başlatmak için kutuya dokunabilirsiniz.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Formu kasanızdaki bilgilerle otomatik doldurmak için bu bildirime dokunun.</value>
@@ -759,7 +759,7 @@
     <value>Erişebilirlik ayarlarını açın</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Android Erişilebilirlik Ayarları ekranında, Hizmetler başlığı altındaki "Bitwarden"a dokunun.</value>
+    <value>1. Android Erişilebilirlik Ayarları ekranında, Hizmetler başlığı altındaki "Bravura Safe"a dokunun.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Ayarı açıp Tamam'a dokunarak onaylayın.</value>
@@ -774,7 +774,7 @@
     <value>Durum</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden Otomatik Doldurma Hizmeti'dir. Bu özellik hakkında daha fazla bilgi almak için "Ayarlar" ekranına gidin.</value>
+    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bravura Safe Otomatik Doldurma Hizmeti'dir. Bu özellik hakkında daha fazla bilgi almak için "Ayarlar" ekranına gidin.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Otomatik doldur</value>
@@ -973,7 +973,7 @@
     <value>Şirket içinde barındırılan ortam</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Kurum içinde barındırılan Bitwarden kurulumunuzun taban URL'sini belirtin.</value>
+    <value>Kurum içinde barındırılan Bravura Safe kurulumunuzun taban URL'sini belirtin.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Sunucu URL'si</value>
@@ -1138,7 +1138,7 @@
     <value>Sunucu URL simgeleri</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Bitwarden ile otomatik doldur</value>
+    <value>Bravura Safe ile otomatik doldur</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Kasa kilitli</value>
@@ -1162,10 +1162,10 @@
     <value>Otomatik doldur erişilebilirlik hizmeti</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden otomatik doldurma hizmeti, cihazınızdaki diğer uygulamalarda hesap bilgilerini doldurmak için Android Otomatik Doldurma Sistemi'ni kullanır.</value>
+    <value>Bravura Safe otomatik doldurma hizmeti, cihazınızdaki diğer uygulamalarda hesap bilgilerini doldurmak için Android Otomatik Doldurma Sistemi'ni kullanır.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Diğer uygulamalarda hesap bilgilerinizi doldurmak için Bitwarden otomatik doldurma hizmetini kullanabilirsiniz.</value>
+    <value>Diğer uygulamalarda hesap bilgilerinizi doldurmak için Bravura Safe otomatik doldurma hizmetini kullanabilirsiniz.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Otomatik doldurma ayarlarını aç</value>
@@ -1214,11 +1214,11 @@
     <value>Kaldır</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Yeni URI</value>
+    <value>Yeni URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Taban alan adı</value>
@@ -1238,14 +1238,14 @@
     <comment>A programming term, also known as 'RegEx'.</comment>
   </data>
   <data name="StartsWith" xml:space="preserve">
-    <value>URI başlangıcı</value>
+    <value>URL başlangıcı</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI eşleşme tespiti</value>
+    <value>URL eşleşme tespiti</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Eşleşme tespiti</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Evet ve kaydet</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Kuruluş</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Yubikey'inizi cihazınızın üzerine doğru tutun.</value>
@@ -1281,7 +1281,7 @@
     <value>Otomatik doldurma etkinleştirildi!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Otomatik doldurmayı kullanabilmek için Bitwarden ana uygulamasına giriş yapmalısınız.</value>
+    <value>Otomatik doldurmayı kullanabilmek için Bravura Safe ana uygulamasına giriş yapmalısınız.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Uygulamalara ve web sitelerine giriş yaparken artık hesaplarınıza klavyenizden kolayca ulaşabilirsiniz.</value>
@@ -1308,13 +1308,13 @@
     <value>4. Otomatik doldurmayı etkinleştirin</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. "Bitwarden"ı seçin</value>
+    <value>5. "Bravura Safe"ı seçin</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Otomatik parola doldurma</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden Otomatik Parola Doldurma uzantısını kullanmaktır. Bitwarden Otomatik Parola Doldurma uzantısı hakkında daha fazla bilgi almak için "Ayarlar" ekranına bakabilirsiniz.</value>
+    <value>Kasanıza yeni hesaplar eklemenin en kolay yolu Bravura Safe Otomatik Parola Doldurma uzantısını kullanmaktır. Bravura Safe Otomatik Parola Doldurma uzantısı hakkında daha fazla bilgi almak için "Ayarlar" ekranına bakabilirsiniz.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Geçersiz e-posta adresi.</value>
@@ -1336,7 +1336,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>URl'ler</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Parola kontrol ediliyor...</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0}, {1} kuruluşuna taşındı.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Öge paylaşıldı.</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden, kuruluş hesabı kullanarak kasanızdaki kayıtları başkalarıyla paylaşmanıza olanak verir. Daha fazla bilgi için bitwarden.com sitesini ziyaret etmek ister misiniz?</value>
+    <value>Bravura Safe, kuruluş hesabı kullanarak kasanızdaki kayıtları başkalarıyla paylaşmanıza olanak verir. Daha fazla bilgi için hitachi-id.com sitesini ziyaret etmek ister misiniz?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Kasayı dışa aktar</value>
@@ -1474,11 +1474,11 @@
     <value>30 dakika</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Bitwarden'ı açarken kullanacağınız PIN kodunu belirleyin. Uygulamadan tamamen çıkış yaparsanız PIN ayarlarınız sıfırlanacaktır.</value>
+    <value>Bravura Safe'ı açarken kullanacağınız PIN kodunu belirleyin. Uygulamadan tamamen çıkış yaparsanız PIN ayarlarınız sıfırlanacaktır.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1} sitesine {0} olarak giriş yapıldı.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Kasanız kilitlendi. Devam etmek için ana parolanızı doğrulayın.</value>
@@ -1521,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Varsayılan URI eşleşme tespiti</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Varsayılan URL eşleşme tespiti</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Otomatik doldurma gibi eylemler gerçekleştirilirken hesaplar için URI eşleşme tespitinin nasıl yapılacağını seçin.</value>
+    <value>Otomatik doldurma gibi eylemler gerçekleştirilirken hesaplar için URL eşleşme tespitinin nasıl yapılacağını seçin.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
@@ -1544,7 +1544,7 @@
     <value>Çıkış</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Bitwarden'dan çıkmak istediğinize emin misiniz?</value>
+    <value>Bravura Safe'dan çıkmak istediğinize emin misiniz?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Uygulama yeniden başlatılınca ana parola girilmesine zorunlu tutmak ister misiniz?</value>
@@ -1554,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>URI kara listesi</value>
+    <value>URL kara listesi</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Kara listeye alınan URI'lerde otomatik doldurma önerileri sunulmayacaktır. Listeyi virgülle ayırabilirsiniz. Örnek: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>Kara listeye alınan URL'lerde otomatik doldurma önerileri sunulmayacaktır. Listeyi virgülle ayırabilirsiniz. Örnek: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Kaydetme istemini kapat</value>
@@ -1569,7 +1569,7 @@
     <value>Uygulama yeniden başlatılınca</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Otomatik doldurma, web sitelerinden ve uygulamalardan Bitwarden kasanıza güvenle erişmenizi kolaylaştırır. Bitwarden otomatik doldurma hizmetini henüz etkinleştirmemişsiniz. "Ayarlar" ekranından otomatik doldurmayı etkinleştirin.</value>
+    <value>Otomatik doldurma, web sitelerinden ve uygulamalardan Bravura Safe kasanıza güvenle erişmenizi kolaylaştırır. Bravura Safe otomatik doldurma hizmetini henüz etkinleştirmemişsiniz. "Ayarlar" ekranından otomatik doldurmayı etkinleştirin.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Tema değişiklikleriniz uygulama yeniden başlatılınca uygulanacaktır.</value>
@@ -1603,10 +1603,10 @@
     <value>Kilidi biyometri ile aç</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden'la ilgilenmeniz gerekiyor: Bitwarden ayarlarından "Otomatik doldurma erişilebilirlik hizmeti"ne bakın</value>
+    <value>Bravura Safe'la ilgilenmeniz gerekiyor: Bravura Safe ayarlarından "Otomatik doldurma erişilebilirlik hizmeti"ne bakın</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Android'in uygulama ayarları bölümünde Bitwarden'ı bulun ve "diğer uygulamaların üstünde göster" ayarını açın. ("Gelişmiş" altında olabilir.)</value>
+    <value>3. Android'in uygulama ayarları bölümünde Bravura Safe'ı bulun ve "diğer uygulamaların üstünde göster" ayarını açın. ("Gelişmiş" altında olabilir.)</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>İzin</value>
@@ -1615,7 +1615,7 @@
     <value>Üzerinde gösterme izni ayarlarını açın</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Android'in uygulama ayarları bölümünde Bitwarden'ı bulun ve "diğer uygulamaların üstünde göster" ayarını açın. ("Gelişmiş" altında olabilir.)</value>
+    <value>3. Android'in uygulama ayarları bölümünde Bravura Safe'ı bulun ve "diğer uygulamaların üstünde göster" ayarını açın. ("Gelişmiş" altında olabilir.)</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Reddedildi</value>
@@ -1645,11 +1645,11 @@
     <value>Dışa aktardığınız bu dosyadaki verileriniz, hesabınızın şifreleme anahtarıyla şifrelenir. Hesabınızın şifreleme anahtarını değiştirirseniz bu dosyanın şifresi çözülemez hale gelir, dolayısıyla dosyayı yeniden dışa aktarmanız gerekir.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Hesap şifreleme anahtarları her Bitwarden kullanıcı hesabı için farklıdır. Dolayısıyla şifrelenmiş bir dışa aktarmayı başka bir hesapta içe aktaramazsınız.</value>
+    <value>Hesap şifreleme anahtarları her Bravura Safe kullanıcı hesabı için farklıdır. Dolayısıyla şifrelenmiş bir dışa aktarmayı başka bir hesapta içe aktaramazsınız.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Kasayı dışa aktarmayı onaylayın</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Uyarı</value>
@@ -1678,7 +1678,7 @@
     <value>Dosya başarıyla kaydedildi</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Otomatik doldurma kutusunu kullanmak için lütfen Bitwarden ayarlarından "Otomatik doldurma erişilebilirlik hizmeti"ni açın.</value>
+    <value>Otomatik doldurma kutusunu kullanmak için lütfen Bravura Safe ayarlarından "Otomatik doldurma erişilebilirlik hizmeti"ni açın.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Parola alanı tespit edilemedi</value>
@@ -1796,7 +1796,7 @@
     <value>Gizlilik Politikası</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden'la ilgilenmeniz gerekiyor: Bitwarden ayarlarında "Otomatik doldurma hizmetleri"nden "Üstünde gösterme"yi açın</value>
+    <value>Bravura Safe'la ilgilenmeniz gerekiyor: Bravura Safe ayarlarında "Otomatik doldurma hizmetleri"nden "Üstünde gösterme"yi açın</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Otomatik doldurma hizmetleri</value>
@@ -1811,13 +1811,13 @@
     <value>Erişilebilirliği kullan</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Uygulamalarda ve web'de hesap bilgilerinizi otomatik olarak doldurmak için Bitwarden erişilebilirlik hizmetini kullanabilirsiniz. Bu özelliği açarsanız giriş alanlarını seçtiğinizde bir açılır pencere karşınıza çıkacaktır.</value>
+    <value>Uygulamalarda ve web'de hesap bilgilerinizi otomatik olarak doldurmak için Bravura Safe erişilebilirlik hizmetini kullanabilirsiniz. Bu özelliği açarsanız giriş alanlarını seçtiğinizde bir açılır pencere karşınıza çıkacaktır.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Uygulamalarda ve web'de hesap bilgilerinizi otomatik olarak doldurmak için Bitwarden erişilebilirlik hizmetini kullanın.  ("Üstünde gösterme"nin açılması gerekir.)</value>
+    <value>Uygulamalarda ve web'de hesap bilgilerinizi otomatik olarak doldurmak için Bravura Safe erişilebilirlik hizmetini kullanın.  ("Üstünde gösterme"nin açılması gerekir.)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Bitwarden erişilebilirlik hizmetini açarak otomatik doldurma hızlı eylem kutusunu kullanabilir ve/veya üstünde gösterme yöntemiyle (bu özellliği açarsanız) açılır pencere açabilirisiniz.</value>
+    <value>Bravura Safe erişilebilirlik hizmetini açarak otomatik doldurma hızlı eylem kutusunu kullanabilir ve/veya üstünde gösterme yöntemiyle (bu özellliği açarsanız) açılır pencere açabilirisiniz.</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Otomatik doldurma hızlı eylem kutusunu kullanmak veya üstünde gösterme yöntemiyle (etkinleştirildiyse) otomatik doldurma hizmetini taklit etmek için gereklidir.</value>
@@ -1826,10 +1826,10 @@
     <value>Üstünde göstermeyi kullan</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Bu seçeneği açarsanız, giriş formları seçildiğinde Bitwarden erişilebilirlik hizmeti bir açılır pencere görüntüleyebilir.</value>
+    <value>Bu seçeneği açarsanız, giriş formları seçildiğinde Bravura Safe erişilebilirlik hizmeti bir açılır pencere görüntüleyebilir.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Bu seçeneği açarsanız, giriş formları seçildiğinde Bitwarden Erişilebilirlik Hizmeti formu otomatik doldurmanızı sağlamak için bir pencere açabilir.</value>
+    <value>Bu seçeneği açarsanız, giriş formları seçildiğinde Bravura Safe Erişilebilirlik Hizmeti formu otomatik doldurmanızı sağlamak için bir pencere açabilir.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Bu seçeneği açarsanız, Android'in otomatik doldurma özelliğini desteklemeyen eski uygulamalarda bu özelliği taklit eden bir pencere açılacaktır.</value>
@@ -1841,20 +1841,20 @@
     <value>Bir kuruluş ilkesi sahiplik seçeneklerinizi etkiliyor.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Tüm Send'ler</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tüm Share'ler</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send'ler</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share'ler</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Bu Send'i açıklayan anlaşılır bir ad</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bu Share'i açıklayan anlaşılır bir ad</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Metin</value>
@@ -1863,8 +1863,8 @@
     <value>Göndermek istediğiniz metin.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Send'e erişirken varsayılan olarak metni gizle</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share'e erişirken varsayılan olarak metni gizle</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Dosya</value>
@@ -1879,8 +1879,8 @@
     <value>Silinme saati</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Bu Send belirtilen tarih ve saatte kalıcı olacak silinecek.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bu Share belirtilen tarih ve saatte kalıcı olacak silinecek.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Silinmesi bekleniyor</value>
@@ -1892,8 +1892,8 @@
     <value>Son kullanma saati</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Bunu ayarlarsanız belirtilen tarih ve saatten sonra bu Send'e erişilemeyecektir.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bunu ayarlarsanız belirtilen tarih ve saatten sonra bu Share'e erişilemeyecektir.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Süresi dolmuş</value>
@@ -1902,8 +1902,8 @@
     <value>Maksimum erişim sayısı</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Bunu ayarlarsanız maksimum erişim sayısına ulaşıldıktan sonra bu Send'e erişilemeyecektir.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bunu ayarlarsanız maksimum erişim sayısına ulaşıldıktan sonra bu Share'e erişilemeyecektir.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Maksimum erişim sayısına ulaşıldı</value>
@@ -1915,8 +1915,8 @@
     <value>Yeni parola</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Kullanıcıların bu Send'e erişmek için parola girmelerini isteyebilirsiniz.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Kullanıcıların bu Share'e erişmek için parola girmelerini isteyebilirsiniz.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Parolayı kaldır</value>
@@ -1931,20 +1931,20 @@
     <value>Parola kaldırıldı.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Bu Send ile ilgili özel notlar.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bu Share ile ilgili özel notlar.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Kimsenin erişememesi için bu Send'i devre dışı bırak</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Kimsenin erişememesi için bu Share'i devre dışı bırak</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Hesabınızda hiç Send yok.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Hesabınızda hiç Share yok.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Send ekle</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ekle</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Bağlantıyı kopyala</value>
@@ -1953,36 +1953,36 @@
     <value>Bağlantıyı paylaş</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send bağlantısı</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share bağlantısı</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Send'lerde ara</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share'lerde ara</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Send'i düzenle</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share'i düzenle</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Send ekle</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ekle</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Bu Send'i silmek istediğinizden emin misiniz?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bu Share'i silmek istediğinizden emin misiniz?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send silindi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share silindi.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send güncellendi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share güncellendi.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Yeni Send oluşturuldu.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Yeni Share oluşturuldu.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 gün</value>
@@ -2003,31 +2003,31 @@
     <value>Özel</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Bu Send'i kaydettikten sonra paylaş</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bu Share'i kaydettikten sonra paylaş</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Bir kuruluş ilkesi nedeniyle yalnızca mevcut Send'leri silebilirsiniz.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bir kuruluş ilkesi nedeniyle yalnızca mevcut Share'leri silebilirsiniz.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Send hakkında</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share hakkında</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>E-posta adresimi alıcılardan gizle</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Bir veya daha fazla kuruluş ilkesi Send seçeneklerinizi etkiliyor.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bir veya daha fazla kuruluş ilkesi Share seçeneklerinizi etkiliyor.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Ücretsiz hesaplar yalnızca metin paylaşabilir. Send ile dosya paylaşmak için premium üyelik gerekir.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ücretsiz hesaplar yalnızca metin paylaşabilir. Share ile dosya paylaşmak için premium üyelik gerekir.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Send ile dosya paylaşmak için e-postanızı doğrulamalısınız. E-postanızı web kasası üzerinden doğrulayabilirsiniz.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ile dosya paylaşmak için e-postanızı doğrulamalısınız. E-postanızı web kasası üzerinden doğrulayabilirsiniz.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Ana parolayı yeniden iste</value>
@@ -2156,7 +2156,7 @@
     <value>Gönderiliyor</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Kaydederken Send bağlantısını kopyala</value>
+    <value>Kaydederken Share bağlantısını kopyala</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Kod gönderiliyor</value>

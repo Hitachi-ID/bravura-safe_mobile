@@ -140,7 +140,7 @@
                                       TextColor="{DynamicResource HyperlinkColor}">
                                     <Span.GestureRecognizers>
                                         <TapGestureRecognizer Command="{Binding PoliciesClickCommand}"
-                                                              CommandParameter="https://bitwarden.com/terms/" />
+                                                              CommandParameter="https://hitachi-id.com/terms/" />
                                     </Span.GestureRecognizers>
                                 </Span>
                                 <Span Text=", " />
@@ -148,7 +148,7 @@
                                       TextColor="{DynamicResource HyperlinkColor}">
                                     <Span.GestureRecognizers>
                                         <TapGestureRecognizer Command="{Binding PoliciesClickCommand}"
-                                                              CommandParameter="https://bitwarden.com/privacy/" />
+                                                              CommandParameter="https://hitachi-id.com/privacy/" />
                                     </Span.GestureRecognizers>
                                 </Span>
                             </FormattedString>

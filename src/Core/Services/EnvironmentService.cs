@@ -8,8 +8,8 @@ namespace Bit.Core.Services
 {
     public class EnvironmentService : IEnvironmentService
     {
-        private const string DEFAULT_WEB_VAULT_URL = "https://vault.bitwarden.com";
-        private const string DEFAULT_WEB_SEND_URL = "https://send.bitwarden.com/#";
+        private const string DEFAULT_WEB_VAULT_URL = "https://vault.hitachi-id.com";
+        private const string DEFAULT_WEB_SEND_URL = "https://send.hitachi-id.com/#";
 
         private readonly IApiService _apiService;
         private readonly IStateService _stateService;

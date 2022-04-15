@@ -129,21 +129,9 @@ namespace Bit.App.Pages
 
         public async Task AboutAsync()
         {
-            var debugText = string.Format("{0}: {1} ({2})", AppResources.Version,
-                _platformUtilsService.GetApplicationVersion(), _deviceActionService.GetBuildNumber());
-
-#if DEBUG
-            var pushNotificationsRegistered = ServiceContainer.Resolve<IPushNotificationService>("pushNotificationService").IsRegisteredForPush;
-            var pnServerRegDate = await _stateService.GetPushLastRegistrationDateAsync();
-            var pnServerError = await _stateService.GetPushInstallationRegistrationErrorAsync();
-
-            var pnServerRegDateMessage = default(DateTime) == pnServerRegDate ? "-" : $"{pnServerRegDate.GetValueOrDefault().ToShortDateString()}-{pnServerRegDate.GetValueOrDefault().ToShortTimeString()} UTC";
-            var errorMessage = string.IsNullOrEmpty(pnServerError) ? string.Empty : $"Push Notifications Server Registration error: {pnServerError}";
-
-            var text = string.Format("© Bitwarden Inc. 2015-{0}\n\n{1}\nPush Notifications registered:{2}\nPush Notifications Server Last Date :{3}\n{4}", DateTime.Now.Year, debugText, pushNotificationsRegistered, pnServerRegDateMessage, errorMessage);
-#else
-            var text = string.Format("© Bitwarden Inc. 2015-{0}\n\n{1}", DateTime.Now.Year, debugText);
-#endif
+            var debugText = string.Format("{0}: {1}", AppResources.Version,
+                _platformUtilsService.GetApplicationVersion());
+            var text = string.Format("© 2022, Bitwarden Inc., with modifications\n© 2022, Hitachi ID Systems Inc.\n\n{0}", debugText);
 
             var copy = await _platformUtilsService.ShowDialogAsync(text, AppResources.Bitwarden, AppResources.Copy,
                 AppResources.Close);
@@ -155,7 +143,7 @@ namespace Bit.App.Pages
 
         public void Help()
         {
-            _platformUtilsService.LaunchUri("https://bitwarden.com/help/");
+            _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/MY_SAFE_/10/11");
         }
 
         public async Task FingerprintAsync()
@@ -175,7 +163,7 @@ namespace Bit.App.Pages
                 AppResources.LearnMore, AppResources.Close);
             if (learnMore)
             {
-                _platformUtilsService.LaunchUri("https://bitwarden.com/help/fingerprint-phrase/");
+                _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/27269/10/11");
             }
         }
 
@@ -186,7 +174,7 @@ namespace Bit.App.Pages
 
         public void Import()
         {
-            _platformUtilsService.LaunchUri("https://bitwarden.com/help/import-data/");
+            _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/27912/10/11");
         }
 
         public void WebVault()
@@ -200,7 +188,7 @@ namespace Bit.App.Pages
                AppResources.LearnOrg, AppResources.Yes, AppResources.Cancel);
             if (confirmed)
             {
-                _platformUtilsService.LaunchUri("https://bitwarden.com/help/about-organizations/");
+                _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/27454/10/11");
             }
         }
 
@@ -491,18 +479,19 @@ namespace Bit.App.Pages
             };
             if (IncludeLinksWithSubscriptionInfo())
             {
-                toolsItems.Add(new SettingsPageListItem { Name = AppResources.LearnOrg });
                 toolsItems.Add(new SettingsPageListItem { Name = AppResources.WebVault });
             }
             var otherItems = new List<SettingsPageListItem>
             {
                 new SettingsPageListItem { Name = AppResources.Options },
-                new SettingsPageListItem { Name = AppResources.About },
-                new SettingsPageListItem { Name = AppResources.HelpAndFeedback },
-                new SettingsPageListItem { Name = AppResources.RateTheApp },
-                new SettingsPageListItem { Name = AppResources.DeleteAccount }
+                new SettingsPageListItem { Name = AppResources.About }
             };
-
+            if (IncludeLinksWithSubscriptionInfo())
+            {
+                otherItems.Add(new SettingsPageListItem { Name = AppResources.LearnOrg });
+            }
+            otherItems.Add(new SettingsPageListItem { Name = AppResources.HelpAndFeedback });
+            otherItems.Add(new SettingsPageListItem { Name = AppResources.DeleteAccount });
             // TODO: improve this. Leaving this as is to reduce error possibility on the hotfix.
             var settingsListGroupItems = new List<SettingsPageListGroup>()
             {

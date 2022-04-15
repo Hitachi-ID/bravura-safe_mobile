@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>즐겨찾기</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>버그 보고서 첨부</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>내 보관함</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>이름</value>
@@ -356,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -393,7 +393,7 @@
     <value>웹 사이트 방문</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>도움이 필요하거나 뉴스, 이메일 또는 Bitwarden을 사용하는 방법이 궁금하시면 웹 사이트를 방문하세요.</value>
+    <value>도움이 필요하거나 뉴스, 이메일 또는 Bravura Safe을 사용하는 방법이 궁금하시면 웹 사이트를 방문하세요.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>웹 사이트</value>
@@ -415,7 +415,7 @@
     <value>앱 확장 프로그램</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>웹 사이트 및 앱에서 자동 완성 서비스를 사용하려면 Bitwarden 접근성 서비스를 사용 설정하세요.</value>
+    <value>웹 사이트 및 앱에서 자동 완성 서비스를 사용하려면 Bravura Safe 접근성 서비스를 사용 설정하세요.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>자동 완성 서비스</value>
@@ -424,31 +424,31 @@
     <value>모호한 문자 사용 안 함</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden 앱 확장 프로그램</value>
+    <value>Bravura Safe 앱 확장 프로그램</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bitwarden 확장 프로그램을 사용하는 것입니다. "설정" 화면으로 이동하여 Bitwarden 확장 프로그램에 대해 더 자세히 알아보세요.</value>
+    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bravura Safe 확장 프로그램을 사용하는 것입니다. "설정" 화면으로 이동하여 Bravura Safe 확장 프로그램에 대해 더 자세히 알아보세요.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Safari 및 다른 앱에서 Bitwarden을 사용하여 로그인을 자동 완성하세요.</value>
+    <value>Safari 및 다른 앱에서 Bravura Safe을 사용하여 로그인을 자동 완성하세요.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden 자동 완성 서비스</value>
+    <value>Bravura Safe 자동 완성 서비스</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>자동 완성 서비스를 사용하려면 Bitwarden 접근성 서비스를 사용 설정하세요.</value>
+    <value>자동 완성 서비스를 사용하려면 Bravura Safe 접근성 서비스를 사용 설정하세요.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>이메일 변경</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>bitwarden.com 웹 보관함에서 이메일 주소를 바꿀 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
+    <value>Bravura Safe 웹 보관함에서 이메일 주소를 바꿀 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>마스터 비밀번호 변경</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>bitwarden.com 웹 보관함에서 마스터 비밀번호를 바꿀 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
+    <value>Bravura Safe 웹 보관함에서 마스터 비밀번호를 바꿀 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>닫기</value>
@@ -482,7 +482,7 @@
     <value>앱 확장 프로그램 활성화</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safari에서는 공유 아이콘을 사용하면 Bitwarden을 찾을 수 있습니다(참고: 메뉴의 아래쪽 줄을 오른쪽으로 스크롤하세요).</value>
+    <value>Safari에서는 공유 아이콘을 사용하면 Bravura Safe을 찾을 수 있습니다(참고: 메뉴의 아래쪽 줄을 오른쪽으로 스크롤하세요).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>이제 Safari, Chrome 및 다른 앱에서 로그인에 간단히 접근할 수 있습니다.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safari 및 Chrome에서는 공유 아이콘을 사용하면 Bitwarden을 찾을 수 있습니다(참고: 공유 메뉴의 아래쪽 줄을 오른쪽으로 스크롤하세요).</value>
+    <value>Safari 및 Chrome에서는 공유 아이콘을 사용하면 Bravura Safe을 찾을 수 있습니다(참고: 공유 메뉴의 아래쪽 줄을 오른쪽으로 스크롤하세요).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>확장 프로그램을 실행하려면 메뉴에서 Bitwarden 아이콘을 누르세요.</value>
+    <value>확장 프로그램을 실행하려면 메뉴에서 Bravura Safe 아이콘을 누르세요.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Safari 및 다른 앱에서 Bitwarden을 사용 설정하려면 메뉴의 아래쪽 줄에서 "기타" 아이콘을 누르세요.</value>
+    <value>Safari 및 다른 앱에서 Bravura Safe을 사용 설정하려면 메뉴의 아래쪽 줄에서 "기타" 아이콘을 누르세요.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>즐겨찾기</value>
@@ -519,7 +519,7 @@
     <value>항목 가져오기</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>bitwarden.com 웹 보관함에서 항목을 한꺼번에 가져올 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
+    <value>Bravura Safe 웹 보관함에서 항목을 한꺼번에 가져올 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>다른 비밀번호 관리 앱에서 사용자의 항목을 한꺼번에 빠르게 가져옵니다.</value>
@@ -594,7 +594,7 @@
     <value>기타 설정</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>확장 프로그램을 사용하려면 먼저 Bitwarden 앱에 로그인해야 합니다.</value>
+    <value>확장 프로그램을 사용하려면 먼저 Bravura Safe 앱에 로그인해야 합니다.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>잠그지 않음</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>옵션 기본값은 Bitwarden 앱의 비밀번호 생성기에서 설정할 수 있습니다.</value>
+    <value>옵션 기본값은 Bravura Safe 앱의 비밀번호 생성기에서 설정할 수 있습니다.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>옵션</value>
@@ -643,7 +643,7 @@
     <value>정말 현재 비밀번호를 덮어쓰시겠습니까?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden은 푸시 알림을 사용하여 사용자의 보관함을 자동으로 동기화합니다. 다음 대화 상자에서 푸시 알림에 대해 물어보면 최상의 사용자 경험을 위해 "승인"을 선택해 주세요.</value>
+    <value>Bravura Safe은 푸시 알림을 사용하여 사용자의 보관함을 자동으로 동기화합니다. 다음 대화 상자에서 푸시 알림에 대해 물어보면 최상의 사용자 경험을 위해 "승인"을 선택해 주세요.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -704,7 +704,7 @@
     <value>2단계 인증</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>2단계 인증은 보안 키, 인증 앱, SMS, 전화 통화 등의 다른 기기로 사용자의 로그인 시도를 검증하여 사용자의 계정을 더욱 안전하게 만듭니다. 2단계 인증은 bitwarden.com 웹 보관함에서 활성화할 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
+    <value>2단계 인증은 보안 키, 인증 앱, SMS, 전화 통화 등의 다른 기기로 사용자의 로그인 시도를 검증하여 사용자의 계정을 더욱 안전하게 만듭니다. 2단계 인증은 Bravura Safe 웹 보관함에서 활성화할 수 있습니다. 지금 웹 사이트를 방문하시겠습니까?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>{0}을 사용하여 잠금 해제</value>
@@ -723,7 +723,7 @@
     <value>항목 보기</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden 웹 보관함</value>
+    <value>Bravura Safe 웹 보관함</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>인증 앱에 접근할 수 없는 상황인가요?</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>보관함에 {0}에 대한 항목이 없습니다.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>입력 필드를 선택할 때 Bitwarden 자동 입력 오버레이가 보인다면 탭해서 자동 입력 서비스를 실행할 수 있습니다.</value>
+    <value>입력 필드를 선택할 때 Bravura Safe 자동 입력 오버레이가 보인다면 탭해서 자동 입력 서비스를 실행할 수 있습니다.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>보관함에 있는 항목으로 자동 완성을 사용하려면 이 알림을 누르세요.</value>
@@ -759,7 +759,7 @@
     <value>접근성 설정 열기</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Android 접근성 설정 화면에서 "Bitwarden" 항목을 누르세요.</value>
+    <value>1. Android 접근성 설정 화면에서 "Bravura Safe" 항목을 누르세요.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. 토글을 눌러 사용 설정하고 확인을 누르세요.</value>
@@ -774,7 +774,7 @@
     <value>상태</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bitwarden 자동 완성 서비스를 사용하는 것입니다. "설정" 화면으로 이동하여 Bitwarden 자동 완성 서비스에 대해 더 자세히 알아보세요.</value>
+    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bravura Safe 자동 완성 서비스를 사용하는 것입니다. "설정" 화면으로 이동하여 Bravura Safe 자동 완성 서비스에 대해 더 자세히 알아보세요.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>자동 완성</value>
@@ -973,7 +973,7 @@
     <value>자체 호스팅 환경</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>온-프레미스 Bitwarden이 호스팅되고 있는 서버의 기본 URL을 지정하세요.</value>
+    <value>온-프레미스 Bravura Safe이 호스팅되고 있는 서버의 기본 URL을 지정하세요.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>서버 URL</value>
@@ -1138,7 +1138,7 @@
     <value>아이콘 서버 URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Bitwarden으로 자동 완성</value>
+    <value>Bravura Safe으로 자동 완성</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>보관함이 잠겨 있음</value>
@@ -1162,10 +1162,10 @@
     <value>자동 완성 접근성 서비스</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden 자동 완성 서비스는 기기의 다른 앱에서 로그인, 신용 카드 및 신원 정보를 입력하기 위해 Android 자동완성 프레임워크를 사용합니다.</value>
+    <value>Bravura Safe 자동 완성 서비스는 기기의 다른 앱에서 로그인, 신용 카드 및 신원 정보를 입력하기 위해 Android 자동완성 프레임워크를 사용합니다.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>다른 앱에서 로그인, 신용 카드, 신원 정보를 자동으로 채우려면 Bitwarden 자동완성 서비스를 사용하세요.</value>
+    <value>다른 앱에서 로그인, 신용 카드, 신원 정보를 자동으로 채우려면 Bravura Safe 자동완성 서비스를 사용하세요.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>자동완성 설정 열기</value>
@@ -1214,11 +1214,11 @@
     <value>제거</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>새 URI</value>
+    <value>새 URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>기본 도메인</value>
@@ -1241,11 +1241,11 @@
     <value>...으로 시작</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI 일치 인식</value>
+    <value>URL 일치 인식</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>일치 인식</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>예, 저장하겠습니다.</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>조직</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>기기의 위쪽에 Yubikey를 가져다 대세요.</value>
@@ -1281,7 +1281,7 @@
     <value>자동 완성 활성화!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>자동 완성을 사용하려면 먼저 Bitwarden 앱에 로그인해야 합니다.</value>
+    <value>자동 완성을 사용하려면 먼저 Bravura Safe 앱에 로그인해야 합니다.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>앱과 웹 사이트에 로그인할 때 키보드에서 바로 실행할 수 있습니다.</value>
@@ -1308,13 +1308,13 @@
     <value>4. 자동 완성을 켜기</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. "Bitwarden"을 선택하세요.</value>
+    <value>5. "Bravura Safe"을 선택하세요.</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>비밀번호 자동 완성</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bitwarden 비밀번호 자동 완성 확장 프로그램을 사용하는 것입니다. "설정" 화면으로 이동하여 Bitwarden 비밀번호 자동 완성 확장 프로그램에 대해 더 자세히 알아보세요.</value>
+    <value>보관함에 새 로그인을 추가하는 가장 쉬운 방법은 Bravura Safe 비밀번호 자동 완성 확장 프로그램을 사용하는 것입니다. "설정" 화면으로 이동하여 Bravura Safe 비밀번호 자동 완성 확장 프로그램에 대해 더 자세히 알아보세요.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>잘못된 이메일 주소입니다.</value>
@@ -1335,8 +1335,8 @@
     <value>모든 항목</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>비밀번호 확인 중...</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} 항목이 {1} 조직으로 이동되었습니다.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>항목이 공유되었습니다.</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden은 조직용 계정을 사용하면 사용자의 보관함 내 항목을 타인에게 공유할 수 있습니다. bitwarden.com 웹 사이트를 방문하여 더 자세히 알아보시겠습니까?</value>
+    <value>Bravura Safe은 조직용 계정을 사용하면 사용자의 보관함 내 항목을 타인에게 공유할 수 있습니다. hitachi-id.com 웹 사이트를 방문하여 더 자세히 알아보시겠습니까?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>보관함 내보내기</value>
@@ -1474,11 +1474,11 @@
     <value>30분</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Bitwarden 잠금해제에 사용될 PIN 코드를 설정합니다. 이 애플리케이션에서 완전히 로그아웃할 경우 PIN 설정이 초기화됩니다.</value>
+    <value>Bravura Safe 잠금해제에 사용될 PIN 코드를 설정합니다. 이 애플리케이션에서 완전히 로그아웃할 경우 PIN 설정이 초기화됩니다.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1}에 {0}으로 로그인되었습니다.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>보관함이 잠겨 있습니다. 마스터 비밀번호를 입력하여 계속하세요.</value>
@@ -1521,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>기본 URI 일치 인식</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>기본 URL 일치 인식</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>자동 완성 등의 작업에서 각 로그인 항목의 URI 일치 감지를 처리할 기본 방법을 선택하세요.</value>
+    <value>자동 완성 등의 작업에서 각 로그인 항목의 URL 일치 감지를 처리할 기본 방법을 선택하세요.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>테마</value>
@@ -1544,7 +1544,7 @@
     <value>끝내기</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>정말 Bitwarden을 종료하시겠습니까?</value>
+    <value>정말 Bravura Safe을 종료하시겠습니까?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>애플리케이션을 다시 시작했을 때 마스터 비밀번호로 잠금 해제가 필요하도록 하시겠습니까?</value>
@@ -1554,7 +1554,7 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>URI 블랙리스트</value>
+    <value>URL 블랙리스트</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
     <value>블랙리스트에 있는 URI는 자동 완성에 나타나지 않습니다. 각 항목은 쉼표로 구분합니다. 예) "https://twitter.com, androidapp://com.twitter.android".</value>
@@ -1569,7 +1569,7 @@
     <value>앱 재시작 시</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>자동 입력은 다른 웹사이트나 앱에서 Bitwarden 보관함에 안전하게 액세스하기 쉽게 만들어줍니다. Bitwarden의 자동 입력 서비스를 활성화하지 않은 것으로 보입니다. "설정" 화면에서 Bitwarden의 자동 입력을 활성화해주세요.</value>
+    <value>자동 입력은 다른 웹사이트나 앱에서 Bravura Safe 보관함에 안전하게 액세스하기 쉽게 만들어줍니다. Bravura Safe의 자동 입력 서비스를 활성화하지 않은 것으로 보입니다. "설정" 화면에서 Bravura Safe의 자동 입력을 활성화해주세요.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>앱을 다시 시작하면 변경한 테마가 적용됩니다.</value>
@@ -1603,10 +1603,10 @@
     <value>잠금 해제에 생체 인식 사용</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden에 권한이 필요합니다 - Bitwarden 설정의 "자동 입력 접근성 서비스"를 확인해 주세요.</value>
+    <value>Bravura Safe에 권한이 필요합니다 - Bravura Safe 설정의 "자동 입력 접근성 서비스"를 확인해 주세요.</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>Bitwarden의 Android 앱 설정 화면에 있는 (고급 아래에 위치) "다른 앱 위에 표시"에 들어간 뒤 토글을 눌러 오버레이 지원을 활성화해 주세요.</value>
+    <value>Bravura Safe의 Android 앱 설정 화면에 있는 (고급 아래에 위치) "다른 앱 위에 표시"에 들어간 뒤 토글을 눌러 오버레이 지원을 활성화해 주세요.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>권한</value>
@@ -1615,7 +1615,7 @@
     <value>다른 앱 위에 그리기 권한 설정 열기</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>Bitwarden의 Android 앱 설정 화면에 있는 (고급 아래에 위치) "다른 앱 위에 표시"에 들어간 뒤 토글을 눌러 오버레이를 허용해 주세요.</value>
+    <value>Bravura Safe의 Android 앱 설정 화면에 있는 (고급 아래에 위치) "다른 앱 위에 표시"에 들어간 뒤 토글을 눌러 오버레이를 허용해 주세요.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>거부됨</value>
@@ -1645,11 +1645,11 @@
     <value>이 내보내기는 계정의 암호화 키를 사용하여 데이터를 암호화합니다. 추후 계정의 암호화 키를 교체할 경우 다시 내보내기를 진행해야 합니다. 그러지 않을 경우 이 내보내기 파일을 해독할 수 없게 됩니다.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>모든 Bitwarden 사용자 계정은 고유한 계정 암호화 키를 가지고 있습니다. 따라서, 다른 계정에서는 암호화된 내보내기를 가져올 수 없습니다.</value>
+    <value>모든 Bravura Safe 사용자 계정은 고유한 계정 암호화 키를 가지고 있습니다. 따라서, 다른 계정에서는 암호화된 내보내기를 가져올 수 없습니다.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>보관함 내보내기 확인</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>경고</value>
@@ -1678,7 +1678,7 @@
     <value>첨부 파일을 성공적으로 저장했습니다.</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>자동 채우기 타일을 사용하려면 Bitwarden 설정에서 "자동 채우기 접근성 서비스"를 활성화해주세요.</value>
+    <value>자동 채우기 타일을 사용하려면 Bravura Safe 설정에서 "자동 채우기 접근성 서비스"를 활성화해주세요.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>비밀번호 필드가 탐지되지 않음</value>
@@ -1796,7 +1796,7 @@
     <value>개인 정보 보호 정책</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden에 권한이 필요합니다 - Bitwarden 설정에서 "자동 입력 접근성 서비스"를 활성화해 주세요.</value>
+    <value>Bravura Safe에 권한이 필요합니다 - Bravura Safe 설정에서 "자동 입력 접근성 서비스"를 활성화해 주세요.</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>자동 완성 서비스</value>
@@ -1811,13 +1811,13 @@
     <value>접근성 서비스 사용</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>앱과 웹에 로그인하기 위해 Bitwarden Accessibility Service를 사용해주세요. 활성화되면 로그인 필드 선택 시에 팝업을 표시합니다.</value>
+    <value>앱과 웹에 로그인하기 위해 Bravura Safe Accessibility Service를 사용해주세요. 활성화되면 로그인 필드 선택 시에 팝업을 표시합니다.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>앱과 웹에 로그인하기 위해 Bitwarden Accessibility Service를 사용해주세요. (다른 앱 위에 표시 활성화 필요)</value>
+    <value>앱과 웹에 로그인하기 위해 Bravura Safe Accessibility Service를 사용해주세요. (다른 앱 위에 표시 활성화 필요)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Autofill Quick-Action Tile 및 (활성화 시) 다른 앱 위에 표시를 사용한 팝업을 위해 Bitwarden Accessibility Service를 사용해주세요.</value>
+    <value>Autofill Quick-Action Tile 및 (활성화 시) 다른 앱 위에 표시를 사용한 팝업을 위해 Bravura Safe Accessibility Service를 사용해주세요.</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Autofill Quick-Action Tile을 사용하기 위해 필요합니다. 또는 (활성화 시) 다른 앱 위에 표시를 사용해서 자동 채우기 서비스를 구현합니다.</value>
@@ -1826,10 +1826,10 @@
     <value>다른 앱 위에 그리기 사용</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>활성화되면 Bitwarden Accessibility Service가 로그인 부분에 팝업을 표시합니다.</value>
+    <value>활성화되면 Bravura Safe Accessibility Service가 로그인 부분에 팝업을 표시합니다.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>활성화되면 Bitwarden Accessibility Service가 로그인을 자동으로 채우기 위해 로그인 부분에 팝업을 표시합니다.</value>
+    <value>활성화되면 Bravura Safe Accessibility Service가 로그인을 자동으로 채우기 위해 로그인 부분에 팝업을 표시합니다.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>활성화되면 접근성이 Android Autofill Framework를 지원하지 않는 구형 앱들을 위해 자동 채움 서비스 팝업을 표시합니다.</value>
@@ -1841,20 +1841,20 @@
     <value>조직의 정책이 소유권 설정에 영향을 미치고 있습니다.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>모든 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>모든 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>이 Send의 이름</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>이 Share의 이름</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>텍스트</value>
@@ -1864,7 +1864,7 @@
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>Send에 접근할 때 기본적으로 텍스트를 숨김</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>파일</value>
@@ -1880,7 +1880,7 @@
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
     <value>이 Send가 정해진 일시에 영구적으로 삭제됩니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>삭제 대기 중</value>
@@ -1893,7 +1893,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>설정할 경우, 이 Send에 대한 접근 권한이 정해진 일시에 만료됩니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>만료됨</value>
@@ -1903,7 +1903,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>설정할 경우, 최대 접근 횟수에 도달할 때 이 Send에 접근할 수 없게 됩니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>최대 접근 횟수 도달</value>
@@ -1916,7 +1916,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>이 Send에 접근하기 위해 암호를 입력하도록 선택적으로 요구합니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>비밀번호 제거</value>
@@ -1932,19 +1932,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>이 Send에 대한 비공개 메모</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
     <value>이 Send를 비활성화하여 아무도 접근할 수 없게 합니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>계정에 Send가 없습니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Send 추가</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 추가</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>링크 복사</value>
@@ -1953,36 +1953,36 @@
     <value>링크 공유</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send 링크</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 링크</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Send 검색</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 검색</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Send 편집</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 편집</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Send 추가</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 추가</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>정말 이 Send를 삭제하시겠습니까?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>Send가 삭제되었습니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send 업데이트됨.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 업데이트됨.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>새 Send 생성됨.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>새 Share 생성됨.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1일</value>
@@ -2004,30 +2004,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>저장할 때 이 Send를 공유합니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>엔터프라이즈 정책으로 인해 이미 생성된 Send를 삭제하는 것만 허용됩니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Send 정보</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 정보</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>받는 사람으로부터 나의 이메일 주소 숨기기</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>하나 이상의 단체 정책이 Send 설정에 영향을 미치고 있습니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>하나 이상의 단체 정책이 Share 설정에 영향을 미치고 있습니다.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>무료 계정은 텍스트만 공유할 수 있습니다. Premium 멤버십이 있어야 Send에서 파일을 사용할 수 있습니다</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>이메일을 인증해야 Send에서 파일을 사용할 수 있습니다.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>마스터 비밀번호 재확인</value>
@@ -2156,7 +2156,7 @@
     <value>전송 중</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>저장 시에 Send 링크 복사하기</value>
+    <value>저장 시에 Share 링크 복사하기</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>코드 전송 증</value>

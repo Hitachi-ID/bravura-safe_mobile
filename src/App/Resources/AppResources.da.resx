@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Favoritter</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Indsend en fejlrapport</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Min boks</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Navn</value>
@@ -356,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -393,7 +393,7 @@
     <value>Besøg vores hjemmeside</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Besøg vores hjemmeside for at få hjælp, nyheder, e-maile os og/eller få mere at vide om, hvordan du benytter Bitwarden.</value>
+    <value>Besøg vores hjemmeside for at få hjælp, nyheder, e-maile os og/eller få mere at vide om, hvordan du benytter Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Hjemmeside</value>
@@ -415,7 +415,7 @@
     <value>App-udvidelse</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Brug Bitwardens hjælpefunktion til autoudfyldning af dine logins på tværs af apps og nettet.</value>
+    <value>Brug Bravura Safes hjælpefunktion til autoudfyldning af dine logins på tværs af apps og nettet.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Autoudfyldningstjeneste</value>
@@ -424,31 +424,31 @@
     <value>Undgå tvetydige tegn</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden app-udvidelse</value>
+    <value>Bravura Safe app-udvidelse</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Den letteste måde at tilføje nye logins til din boks er fra Bitwarden app-udvidelsen. Få mere at vide om brugen af Bitwarden app-udvidelsen ved at gå til skærmen "Indstillinger".</value>
+    <value>Den letteste måde at tilføje nye logins til din boks er fra Bravura Safe app-udvidelsen. Få mere at vide om brugen af Bravura Safe app-udvidelsen ved at gå til skærmen "Indstillinger".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Benyt Bitwarden i Safari og andre apps til autoudfyldelse af dine logins.</value>
+    <value>Benyt Bravura Safe i Safari og andre apps til autoudfyldelse af dine logins.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden autoudfyldningstjeneste</value>
+    <value>Bravura Safe autoudfyldningstjeneste</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Benyt Bitwardens hjælpefunktion til autoudfyldning af dine logins.</value>
+    <value>Benyt Bravura Safes hjælpefunktion til autoudfyldning af dine logins.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Skift e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Du kan skifte din e-mailadresse i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan skifte din e-mailadresse i Bravura Safe web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Skift hovedadgangskode</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Du kan skifte din hovedadgangskode i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan skifte din hovedadgangskode i Bravura Safe web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Luk</value>
@@ -482,7 +482,7 @@
     <value>Aktivér app-udvidelse</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>I Safari, find Bitwarden ved hjælp af delingsikonet (tip: Rul til højre på den nederste række i menuen).</value>
+    <value>I Safari, find Bravura Safe ved hjælp af delingsikonet (tip: Rul til højre på den nederste række i menuen).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>Dine logins er nu let tilgængelige fra Safari, Chrome og andre understøttede apps.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>I Safari og Chrome, find Bitwarden ved hjælp af delingsikonet (tip: Rul til højre på den nederste række i delingsmenuen).</value>
+    <value>I Safari og Chrome, find Bravura Safe ved hjælp af delingsikonet (tip: Rul til højre på den nederste række i delingsmenuen).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Tryk på Bitwarden-ikonet i menuen for at starte udvidelsen.</value>
+    <value>Tryk på Bravura Safe-ikonet i menuen for at starte udvidelsen.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>For at aktivere Bitwarden i Safari og andre apps trykkes på "mere"-ikonet på den nederste række i menuen.</value>
+    <value>For at aktivere Bravura Safe i Safari og andre apps trykkes på "mere"-ikonet på den nederste række i menuen.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Favorit</value>
@@ -519,7 +519,7 @@
     <value>Importér elementer</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Du kan masseimportere elementer i din web-boks på bitwarden.com. Vil du besøge hjemmesiden nu?</value>
+    <value>Du kan masseimportere elementer i din web-boks på Bravura Safe. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Masseimportér hurtigt dine elementer fra andre adgangskodehåndterings-apps.</value>
@@ -594,7 +594,7 @@
     <value>Flere indstillinger</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Du skal logge ind på den primære Bitwarden-app, før du kan benytte udvidelsen.</value>
+    <value>Du skal logge ind på den primære Bravura Safe-app, før du kan benytte udvidelsen.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Aldrig</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Standardindstillinger opsættes fra Bitwarden-app'ens adgangskodegeneratorværktøj.</value>
+    <value>Standardindstillinger opsættes fra Bravura Safe-app'ens adgangskodegeneratorværktøj.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Indstillinger</value>
@@ -643,7 +643,7 @@
     <value>Er du sikker du vil overskrive den aktuelle adgangskode?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden holder automatisk din boks synkroniseret ved hjælp af push-notifikationer. For den bedst mulige oplevelse bør du vælge "Tillad" i den følgende prompt for at aktivere push-notifikationer.</value>
+    <value>Bravura Safe holder automatisk din boks synkroniseret ved hjælp af push-notifikationer. For den bedst mulige oplevelse bør du vælge "Tillad" i den følgende prompt for at aktivere push-notifikationer.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -704,7 +704,7 @@
     <value>To-trins login</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>To-trins login øger din kontosikkerhed, ved at kræve at du verificerer dit login med en anden enhed, såsom en sikkerhedsnøgle, autentificerings app, SMS, telefonopkald eller e-mail. To-trins login kan aktiveres i bitwarden.com web-boksen. Vil du besøge hjemmesiden nu?</value>
+    <value>To-trins login øger din kontosikkerhed, ved at kræve at du verificerer dit login med en anden enhed, såsom en sikkerhedsnøgle, autentificerings app, SMS, telefonopkald eller e-mail. To-trins login kan aktiveres i Bravura Safe web-boksen. Vil du besøge hjemmesiden nu?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Lås op med {0}</value>
@@ -723,7 +723,7 @@
     <value>Vis element</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden web-boks</value>
+    <value>Bravura Safe web-boks</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Mistet autentificerings-app?</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Der er ingen elementer i din boks til {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Når du vælger et inputfelt og ser en Bitwarden-autoudfyldningoverlejring, kan du trykke på den for at starte autoudfyldningstjenesten.</value>
+    <value>Når du vælger et inputfelt og ser en Bravura Safe-autoudfyldningoverlejring, kan du trykke på den for at starte autoudfyldningstjenesten.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Tryk på denne notifikation for at autoudfylde med et element fra din boks.</value>
@@ -759,7 +759,7 @@
     <value>Åbn indstillinger for hjælpefunktioner</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Tryk fra Androids Hjælpefunktioner på "Bitwarden" under Tjenester-sektionen.</value>
+    <value>1. Tryk fra Androids Hjælpefunktioner på "Bravura Safe" under Tjenester-sektionen.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Slå kontakten til og tryk på OK for at acceptere.</value>
@@ -774,7 +774,7 @@
     <value>Status</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Den letteste måde at tilføje nye logins til din boks er fra Bitwarden Autoudfyldningstjenesten. Få mere at vide om brugen af Bitwarden Autoudfyldningstjenesten ved at gå til skærmen "Indstillinger".</value>
+    <value>Den letteste måde at tilføje nye logins til din boks er fra Bravura Safe Autoudfyldningstjenesten. Få mere at vide om brugen af Bravura Safe Autoudfyldningstjenesten ved at gå til skærmen "Indstillinger".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Autoudfyld</value>
@@ -973,7 +973,7 @@
     <value>Selv-hostet miljø</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Angiv grund-URL'en til din lokal-hostede Bitwarden-installation.</value>
+    <value>Angiv grund-URL'en til din lokal-hostede Bravura Safe-installation.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Server URL</value>
@@ -1138,7 +1138,7 @@
     <value>Ikonserver URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Autoudfyld med Bitwarden</value>
+    <value>Autoudfyld med Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Boksen er låst</value>
@@ -1162,10 +1162,10 @@
     <value>Autoudfyld hjælpefunktion</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden autoudfyld tjenesten bruger Androids AutoFyld framework til at hjælpe med at udfylde loginoplysninger i andre apps på din enhed.</value>
+    <value>Bravura Safe autoudfyld tjenesten bruger Androids AutoFyld framework til at hjælpe med at udfylde loginoplysninger i andre apps på din enhed.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Brug Bitwarden autoudfyld tjenesten til at udfylde loginoplysninger i andre apps.</value>
+    <value>Brug Bravura Safe autoudfyld tjenesten til at udfylde loginoplysninger i andre apps.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Åbn autoudfyld indstillinger</value>
@@ -1214,11 +1214,11 @@
     <value>Fjern</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Ny URI</value>
+    <value>Ny URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Grund-domæne</value>
@@ -1241,11 +1241,11 @@
     <value>Begynder med</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI matchmetode</value>
+    <value>URL matchmetode</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Matchmetode</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Ja, og gem</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organisation</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Hold din Yubikey nær toppen af enheden.</value>
@@ -1281,7 +1281,7 @@
     <value>Autoudfyld aktiveret!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Du skal logge ind på den primære Bitwarden-app, før du kan bruge Autoudfyld.</value>
+    <value>Du skal logge ind på den primære Bravura Safe-app, før du kan bruge Autoudfyld.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Dine logins kan nu nemt tilgås direkte fra dit tastatur, når du logger ind på apps og hjemmesider.</value>
@@ -1308,13 +1308,13 @@
     <value>4. Aktivér Autoudfyld</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Vælg "Bitwarden"</value>
+    <value>5. Vælg "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Adgangskode Autoudfyld</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Den letteste måde at tilføje nye logins til din boks er ved at bruge Bitwarden adgangskode Autoudfyld udvidelsen. Få mere at vide om brugen af Bitwarden adgangskode Autoudfyld udvidelsen ved at navigere til skærmbilledet "Indstillinger".</value>
+    <value>Den letteste måde at tilføje nye logins til din boks er ved at bruge Bravura Safe adgangskode Autoudfyld udvidelsen. Få mere at vide om brugen af Bravura Safe adgangskode Autoudfyld udvidelsen ved at navigere til skærmbilledet "Indstillinger".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Ugyldig e-mailadresse.</value>
@@ -1335,8 +1335,8 @@
     <value>Alle elementer</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI'er</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL'er</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Kontrollerer adgangskode...</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} flyttet til {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Element er blevet delt.</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden giver dig mulighed for at dele dine boks-elementer med andre ved at bruge en organisationskonto. Vil du besøge webstedet bitwarden.com for at få mere at vide?</value>
+    <value>Bravura Safe giver dig mulighed for at dele dine boks-elementer med andre ved at bruge en organisationskonto. Vil du besøge webstedet hitachi-id.com for at få mere at vide?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Eksportér boks</value>
@@ -1474,11 +1474,11 @@
     <value>30 minutter</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Indstil din pinkode til at låse Bitwarden op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af app'en.</value>
+    <value>Indstil din pinkode til at låse Bravura Safe op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af app'en.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Logget ind som {0} på {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Din boks er låst. Bekræft din hovedadgangskode for at fortsætte.</value>
@@ -1521,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Standard URI-matchdetektering</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Standard URL-matchdetektering</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Vælg den standard måde, som URI matchmetode håndteres til logins, når du udfører handlinger som f.eks. Autoudfyld.</value>
+    <value>Vælg den standard måde, som URL matchmetode håndteres til logins, når du udfører handlinger som f.eks. Autoudfyld.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
@@ -1544,7 +1544,7 @@
     <value>Afslut</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Er du sikker på, at du vil afslutte Bitwarden?</value>
+    <value>Er du sikker på, at du vil afslutte Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Vil du kræve oplåsning med din hovedadgangskode ved app-genstart?</value>
@@ -1554,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Sortlistede URI'er</value>
+    <value>Sortlistede URL'er</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Sortlistede URI'er tilbyder ikke autoudfyldning. Listen skal være kommasepareret. F.eks: "https://twitter.com, androidapp: //com.twitter.android".</value>
+    <value>Sortlistede URL'er tilbyder ikke autoudfyldning. Listen skal være kommasepareret. F.eks: "https://twitter.com, androidapp: //com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Deaktivér gem-forespørgsel</value>
@@ -1569,7 +1569,7 @@
     <value>Ved app-genstart</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Autoudfyldning gør det nemt at få en sikret adgang til din Bitwarden boks fra andre websteder og apps. Det ser ud til, at du ikke har aktiveret en autoudfyldningstjeneste for Bitwarden. Aktivér autoudfyldning for Bitwarden fra skærmen "Indstillinger".</value>
+    <value>Autoudfyldning gør det nemt at få en sikret adgang til din Bravura Safe boks fra andre websteder og apps. Det ser ud til, at du ikke har aktiveret en autoudfyldningstjeneste for Bravura Safe. Aktivér autoudfyldning for Bravura Safe fra skærmen "Indstillinger".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Dine temaændringer effektueres efter appen genstartes.</value>
@@ -1603,10 +1603,10 @@
     <value>Benyt biometri til oplåsning</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden har brug for din opmærksomhed - se "Autoudfyld hjælpefunktion" i Bitwarden-indstillinger</value>
+    <value>Bravura Safe har brug for din opmærksomhed - se "Autoudfyld hjælpefunktion" i Bravura Safe-indstillinger</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. På Android-appindstillinger for Bitwarden, gå til indstillingen "Vis oven på andre apps" (under Avanceret) og tryk på knappen for at aktivere overlejringsunderstøttelse.</value>
+    <value>3. På Android-appindstillinger for Bravura Safe, gå til indstillingen "Vis oven på andre apps" (under Avanceret) og tryk på knappen for at aktivere overlejringsunderstøttelse.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Tilladelse</value>
@@ -1615,7 +1615,7 @@
     <value>Åbn indstillinger for Overlejringstilladelser</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. På Android-appindstillinger for Bitwarden, vælg "Vis oven på andre apps" (under Avanceret) og slå omskifteren til for at aktivere overlejringen.</value>
+    <value>3. På Android-appindstillinger for Bravura Safe, vælg "Vis oven på andre apps" (under Avanceret) og slå omskifteren til for at aktivere overlejringen.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Nægtet</value>
@@ -1645,11 +1645,11 @@
     <value>Denne eksport krypterer dine data vha. din kontos krypteringsnøgle. Roterer du på et tidspunkt denne krypteringsnøgle, skal du eksportere igen, da du ikke vil kunne dekryptere denne eksportfil.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Kontokrypteringsnøgler er unikke for hver Bitwarden-brugerkonto, så du kan ikke importere en krypteret eksport til en anden konto.</value>
+    <value>Kontokrypteringsnøgler er unikke for hver Bravura Safe-brugerkonto, så du kan ikke importere en krypteret eksport til en anden konto.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Bekræft eksport af boks</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Advarsel</value>
@@ -1678,7 +1678,7 @@
     <value>Vedhæftning gemt</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Aktivér "Autoudfyld Tilgængelighedstjeneste" fra Bitwarden-indstillinger for at benytte flisen Autoudfyld.</value>
+    <value>Aktivér "Autoudfyld Tilgængelighedstjeneste" fra Bravura Safe-indstillinger for at benytte flisen Autoudfyld.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Ingen adgangskodefelter fundet</value>
@@ -1796,7 +1796,7 @@
     <value>Fortrolighedspolitik</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden behøver tilladelse - Aktivér "Tegn over" i "Autoudfyldtjeneste" i Bitwarden-indstillingerne</value>
+    <value>Bravura Safe behøver tilladelse - Aktivér "Tegn over" i "Autoudfyldtjeneste" i Bravura Safe-indstillingerne</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Autoudfyldtjeneste</value>
@@ -1811,13 +1811,13 @@
     <value>Brug Tilgængelighed</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Brug Bitwarden-tilgængelighedstjenesten til at autoudfylde dine logins i apps og på internettet. Når aktiveret, vises en popup, når login-felter vælges.</value>
+    <value>Brug Bravura Safe-tilgængelighedstjenesten til at autoudfylde dine logins i apps og på internettet. Når aktiveret, vises en popup, når login-felter vælges.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Brug Bitwarden-tilgængelighedstjenesten til at autoudfylde dine logins på tværs af apps og internettet (kræver også at "Tegn over" er aktiveret).</value>
+    <value>Brug Bravura Safe-tilgængelighedstjenesten til at autoudfylde dine logins på tværs af apps og internettet (kræver også at "Tegn over" er aktiveret).</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Brug Bitwarden-tilgængelighedstjenesten til at benytte Autoudfyld hurtig-handlings flisen, og/eller vise en popup vha. "Tegn over" (hvis aktiveret).</value>
+    <value>Brug Bravura Safe-tilgængelighedstjenesten til at benytte Autoudfyld hurtig-handlings flisen, og/eller vise en popup vha. "Tegn over" (hvis aktiveret).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Påkrævet for at bruge Autoudfyld hurtig-handlings flisen, eller for at udvide Autofyldtjenesten vha. "Tegn over" (hvis aktiveret).</value>
@@ -1826,10 +1826,10 @@
     <value>Brug "Tegn over"</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Når aktiveret, tillades Bitwarden-tilgængelighedstjenesten at vise en popup, når login-felter vælges.</value>
+    <value>Når aktiveret, tillades Bravura Safe-tilgængelighedstjenesten at vise en popup, når login-felter vælges.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Hvis aktiveret, vil Bitwarden-tilgængelighedstjenesten vise en popup, når login-felter vælges for at hjælpe med autoudfyldning af logins.</value>
+    <value>Hvis aktiveret, vil Bravura Safe-tilgængelighedstjenesten vise en popup, når login-felter vælges for at hjælpe med autoudfyldning af logins.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Hvis aktiveret, vil tilgængelighedstjenesten vise en popup for at udvide Autoudfyldtjenesten for ældre apps, som ikke understøtter Android Autoudfyld Framework.</value>
@@ -1841,20 +1841,20 @@
     <value>En organisationspolitik påvirker dine ejerskabsmuligheder.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Alle Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Alle Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Et venligt navn til at beskrive denne Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Et venligt navn til at beskrive denne Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Tekst</value>
@@ -1863,8 +1863,8 @@
     <value>Den tekst, du vil sende.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Når Send tilgås, skjul som standard teksten</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Når Share tilgås, skjul som standard teksten</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Fil</value>
@@ -1879,8 +1879,8 @@
     <value>Sletningstidspunkt</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Send'en slettes permanent på den angivne dato og tid.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share'en slettes permanent på den angivne dato og tid.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Afventer sletning</value>
@@ -1892,8 +1892,8 @@
     <value>Udløbstidspunkt</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Hvis angivet, vil adgangen til denne Send udløbe på den angivne dato og tidspunkt.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Hvis angivet, vil adgangen til denne Share udløbe på den angivne dato og tidspunkt.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Udløbet</value>
@@ -1902,8 +1902,8 @@
     <value>Maksimalt antal tilgange</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Hvis opsat, vil brugere ikke længere kunne tilgå denne Send, når det maksimale adgangsantal er nået.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Hvis opsat, vil brugere ikke længere kunne tilgå denne Share, når det maksimale adgangsantal er nået.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Maksimalt adgangsantal nået</value>
@@ -1915,8 +1915,8 @@
     <value>Ny adgangskode</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Valgfrit brugeradgangskodekrav for at tilgå denne Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Valgfrit brugeradgangskodekrav for at tilgå denne Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Fjern adgangskode</value>
@@ -1931,20 +1931,20 @@
     <value>Adgangskoden er fjernet.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Private notater om denne Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Private notater om denne Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Deaktivér denne Send, så ingen kan tilgå den</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Deaktivér denne Share, så ingen kan tilgå den</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Der er ingen Sends i din konto.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Der er ingen Shares i din konto.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Tilføj en Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tilføj en Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Kopiér link</value>
@@ -1953,36 +1953,36 @@
     <value>Del link</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send link</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share link</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Søg i Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Søg i Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Redigér Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Redigér Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Tilføj Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tilføj Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Er du sikker på, at du vil slette denne Send?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Er du sikker på, at du vil slette denne Share?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send er blevet slettet.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share er blevet slettet.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send opdateret.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share opdateret.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Ny Send oprettet.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ny Share oprettet.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 dag</value>
@@ -2003,31 +2003,31 @@
     <value>Tilpasset</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Del denne Send, når den gemmes</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Del denne Share, når den gemmes</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Du kan grundet en virksomhedspolitik kun slette en eksisterende Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Du kan grundet en virksomhedspolitik kun slette en eksisterende Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Om Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Om Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Skjul min e-mailadresse for modtagere</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Én eller flere organisationspolitikker påvirker dine Send-valgmuligheder.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Én eller flere organisationspolitikker påvirker dine Share-valgmuligheder.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Gratis konti er begrænsede til tekstdeling alene. Et Premium-medlemskab kræves for a bruge filer med Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Gratis konti er begrænsede til tekstdeling alene. Et Premium-medlemskab kræves for a bruge filer med Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Du skal bekræfte din e-mail for at bruge filer med Send. Du kan bekræfte din e-mail i web-boksen.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Du skal bekræfte din e-mail for at bruge filer med Share. Du kan bekræfte din e-mail i web-boksen.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Genanmodning om hovedadgangskode</value>
@@ -2156,7 +2156,7 @@
     <value>Sender</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Kopiér Send-link ved gem</value>
+    <value>Kopiér Share-link ved gem</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Sender kode</value>

@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>பிடித்தவை</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>பிழையறிக்கை தாக்கல் செய்</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>என் பெட்டகம்</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>பெயர்</value>
@@ -393,7 +393,7 @@
     <value>எங்கள் வலைத்தளத்தைப் பார்வையிடு</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>உதவி, செய்திகள், எங்களுக்கு மின்னஞ்சலிடுதல் மற்றும்/அல்லது Bitwarden ஐ எவ்வாறு பயன்படுத்துவது என்பது பற்றி மேலும் அறிய எங்கள் வலைத்தளத்தைப் பார்வையிடவும்.</value>
+    <value>உதவி, செய்திகள், எங்களுக்கு மின்னஞ்சலிடுதல் மற்றும்/அல்லது Bravura Safe ஐ எவ்வாறு பயன்படுத்துவது என்பது பற்றி மேலும் அறிய எங்கள் வலைத்தளத்தைப் பார்வையிடவும்.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>வலைத்தளம்</value>
@@ -415,7 +415,7 @@
     <value>செயலி நீட்டிப்பு</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>செயலிகள் மற்றும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bitwarden அணுகல்தன்மை சேவையைப் பயன்படுத்து.</value>
+    <value>செயலிகள் மற்றும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bravura Safe அணுகல்தன்மை சேவையைப் பயன்படுத்து.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>தன்னிரப்பி சேவை</value>
@@ -424,31 +424,31 @@
     <value>தெளிவற்ற எழுத்துக்களைத் தவிர்</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden செயலி நீட்டிப்பு</value>
+    <value>Bravura Safe செயலி நீட்டிப்பு</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
     <value>உங்கள் பெட்டகத்திற்கு புதிய உள்நுழைவுகளைச் சேர்ப்பதற்கான மிக எளிய வழி பிட்வார்டன் செயலி நீட்டிப்பு மூலமே. "அமைப்புகள்" திரைக்கு செல்வதன் மூலம் பிட்வார்டன் செயலி நீட்டிப்பைப் பயன்படுத்துவது பற்றி மேலுமறிக.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Safari மற்றும் பிற செயலிகளில் உமது உள்நுழைவுகளைத் தன்னிரப்ப Bitwardenஐப் பயன்படுத்து.</value>
+    <value>Safari மற்றும் பிற செயலிகளில் உமது உள்நுழைவுகளைத் தன்னிரப்ப Bravura Safeஐப் பயன்படுத்து.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden தன்னிரப்பி சேவை</value>
+    <value>Bravura Safe தன்னிரப்பி சேவை</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>உம் உள்நுழைவுகளைத் தன்னிரப்ப Bitwarden அணுகல்தன்மை சேவையைப் பயன்படுத்து.</value>
+    <value>உம் உள்நுழைவுகளைத் தன்னிரப்ப Bravura Safe அணுகல்தன்மை சேவையைப் பயன்படுத்து.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>மின்னஞ்சலை மாற்று</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>bitwarden.com வலைப்பெட்டகத்தில் நீங்கள் உங்கள் மின்னஞ்சலை மாற்ற இயலும். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
+    <value>Bravura Safe வலைப்பெட்டகத்தில் நீங்கள் உங்கள் மின்னஞ்சலை மாற்ற இயலும். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>பிரதான கடவுச்சொல்லை மாற்று</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>bitwarden.com வலைப்பெட்டகத்தில் நீங்கள் உங்கள் பிரதான கடவுச்சொல்லை மாற்ற இயலும். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
+    <value>Bravura Safe வலைப்பெட்டகத்தில் நீங்கள் உங்கள் பிரதான கடவுச்சொல்லை மாற்ற இயலும். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>மூடு</value>
@@ -482,7 +482,7 @@
     <value>செயலி நீட்டிப்பை இயக்கு</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safari இல், பகிர்வு படவுருவைப் பயன்படுத்தி Bitwarden ஐ கண்டறியவும் (குறிப்பு: பட்டியலின் கீழ் வரிசையில் வலதுபுறமாக உருட்டவும்).</value>
+    <value>Safari இல், பகிர்வு படவுருவைப் பயன்படுத்தி Bravura Safe ஐ கண்டறியவும் (குறிப்பு: பட்டியலின் கீழ் வரிசையில் வலதுபுறமாக உருட்டவும்).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>உங்கள் உள்நுழைவுகள் இப்போது Safari, Chrome மற்றும் மற்ற ஆதரிக்கப்பட்ட செயலிகளில் எளிதாக அணுகக்கூடும்.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safari மற்றும் Chrome இல், பகிர்வு படவுருவைப் பயன்படுத்தி Bitwarden ஐ கண்டறியவும் (குறிப்பு: பட்டியலின் கீழ் வரிசையில் வலதுபுறமாக உருட்டவும்).</value>
+    <value>Safari மற்றும் Chrome இல், பகிர்வு படவுருவைப் பயன்படுத்தி Bravura Safe ஐ கண்டறியவும் (குறிப்பு: பட்டியலின் கீழ் வரிசையில் வலதுபுறமாக உருட்டவும்).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>நீட்டிப்பை ஏவ பட்டியலிலுள்ள Bitwarden படவுருவைத் தட்டவும்.</value>
+    <value>நீட்டிப்பை ஏவ பட்டியலிலுள்ள Bravura Safe படவுருவைத் தட்டவும்.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Safari மற்றும் மற்ற செயலிகளில் Bitwardenஐ இயக்க, பட்டியலின் கீழ்வரிசையிலுள்ள "மேலும்" படவுருவைத் தட்டு.</value>
+    <value>Safari மற்றும் மற்ற செயலிகளில் Bravura Safeஐ இயக்க, பட்டியலின் கீழ்வரிசையிலுள்ள "மேலும்" படவுருவைத் தட்டு.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>பிடித்தது</value>
@@ -519,7 +519,7 @@
     <value>உருப்படிகளை இறக்குமதி செய்</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>bitwarden.com வலைப்பெட்டகத்தில் நீங்கள் உருப்படிகளை மொத்த இறக்குமதி செய்யலாம். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
+    <value>Bravura Safe வலைப்பெட்டகத்தில் நீங்கள் உருப்படிகளை மொத்த இறக்குமதி செய்யலாம். நீங்கள் இப்போது வலைத்தளத்தை பார்வையிட வேண்டுமா?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>உங்கள் உருப்படிகளை மற்ற கடவுச்சொல் நிர்வாக செயலிகளிலிருந்து விரைவாக மொத்த இறக்குமதி செய்க.</value>
@@ -594,7 +594,7 @@
     <value>மேலும் அமைவுகள்</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>நீட்டிப்பை பயன்படுத்தும் முன் நீங்கள் முதன்மை Bitwarden செயலியில் உள்நுழைய வேண்டும்.</value>
+    <value>நீட்டிப்பை பயன்படுத்தும் முன் நீங்கள் முதன்மை Bravura Safe செயலியில் உள்நுழைய வேண்டும்.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>ஒருபோதுமில்லை</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>விருப்ப இயல்புநிலைகள் முதன்மை Bitwarden செயலியின் கடவுச்சொல் உருவாக்கி கருவியிலிருந்து அமைக்கப்படுகிறது.</value>
+    <value>விருப்ப இயல்புநிலைகள் முதன்மை Bravura Safe செயலியின் கடவுச்சொல் உருவாக்கி கருவியிலிருந்து அமைக்கப்படுகிறது.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>விருப்பங்கள்</value>
@@ -643,7 +643,7 @@
     <value>தற்போதைய கடவுச்சொல்லை மேலெழுத உறுதியா?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>push அறிவிப்புகள் பயன்படுத்தி Bitwarden உம் பெட்டகத்தை தானாக ஒத்திசைகிறது. சிறந்த சாத்தியமான அனுபவத்திற்கு, பின்வரும் தூண்டியில் push அறிவிப்புகளை இயக்கச்சொல்லி கேட்டால் "அனுமதி"ஐ தேர்ந்தெடுக்கவும்.</value>
+    <value>push அறிவிப்புகள் பயன்படுத்தி Bravura Safe உம் பெட்டகத்தை தானாக ஒத்திசைகிறது. சிறந்த சாத்தியமான அனுபவத்திற்கு, பின்வரும் தூண்டியில் push அறிவிப்புகளை இயக்கச்சொல்லி கேட்டால் "அனுமதி"ஐ தேர்ந்தெடுக்கவும்.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -704,7 +704,7 @@
     <value>இரு-படி உள்நுழைவு</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>பாதுகாப்பு விசை, அங்கீகார செயலி, குறுஞ்செய்தி, தொலைபேசி அழைப்பு அ மின்னஞ்சல் போன்ற மற்றொரு சாதனத்துடன் உங்கள் உள்நுழைவை சரிபார்க்குமாறு கோருவதன் மூலம் இரு-படி உள்நுழைவு உங்கள் கணக்கை மிகவும் பாதுகாப்பாக்குகிறது. bitwarden.com வலைப்பெட்டகத்தில் இரு-படி உள்நுழைவை இயக்க முடியும். நீங்கள் இப்போது வலைத்தளத்தைப் பார்வையிட வேண்டுமா?</value>
+    <value>பாதுகாப்பு விசை, அங்கீகார செயலி, குறுஞ்செய்தி, தொலைபேசி அழைப்பு அ மின்னஞ்சல் போன்ற மற்றொரு சாதனத்துடன் உங்கள் உள்நுழைவை சரிபார்க்குமாறு கோருவதன் மூலம் இரு-படி உள்நுழைவு உங்கள் கணக்கை மிகவும் பாதுகாப்பாக்குகிறது. Bravura Safe வலைப்பெட்டகத்தில் இரு-படி உள்நுழைவை இயக்க முடியும். நீங்கள் இப்போது வலைத்தளத்தைப் பார்வையிட வேண்டுமா?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>{0} மூலம் பூட்டவிழ்</value>
@@ -723,7 +723,7 @@
     <value>உருப்படியை பார்</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden வலைப்பெட்டகம்</value>
+    <value>Bravura Safe வலைப்பெட்டகம்</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>அங்கீகார செயலியை இழந்தீர்களா?</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>உம் பெட்டகத்தில் {0} க்கான உருப்படிகள் ஏதுமில்லை.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>நீங்கள் ஓர் உள்ளீடு புலத்தை தேர்ந்து Bitwarden தன்னிரப்பி மேலடுக்கை பார்க்கும்போது, தன்னிரப்பி சேவையை தொடங்க நீங்கள் அதை தட்டலாம்.</value>
+    <value>நீங்கள் ஓர் உள்ளீடு புலத்தை தேர்ந்து Bravura Safe தன்னிரப்பி மேலடுக்கை பார்க்கும்போது, தன்னிரப்பி சேவையை தொடங்க நீங்கள் அதை தட்டலாம்.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>உங்கள் பெட்டகத்திலிருந்து உருப்படியைத் தானாக-நிரப்ப இந்த அறிவிப்பைத் தட்டவும்.</value>
@@ -759,7 +759,7 @@
     <value>அணுகல்தன்மை அமைவுகளைத் திற</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>௧. Android அணுகல்தன்மை அமைப்புகள் திரையில், சேவைகள் தலைப்பின் கீழ் "Bitwarden" ஐத் தொடு.</value>
+    <value>௧. Android அணுகல்தன்மை அமைப்புகள் திரையில், சேவைகள் தலைப்பின் கீழ் "Bravura Safe" ஐத் தொடு.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>௨. நிலைமாற்றியை இயக்கி ஏற்றுக்கொள்ள சரியை அழுத்து.</value>
@@ -774,7 +774,7 @@
     <value>நிலை</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>உம் பெட்டகத்திற்கு புது உள்நுழைவுகளை சேர்ப்பதற்கான மிக எளிய வழி Bitwarden தன்னிரப்பி சேவையிலிருந்தே. "அமைப்புகள்" திரைக்கு சென்று Bitwarden தன்னிரப்பி  சேவையை பயன்படுத்துவது பற்றி மேலும் அறிக.</value>
+    <value>உம் பெட்டகத்திற்கு புது உள்நுழைவுகளை சேர்ப்பதற்கான மிக எளிய வழி Bravura Safe தன்னிரப்பி சேவையிலிருந்தே. "அமைப்புகள்" திரைக்கு சென்று Bravura Safe தன்னிரப்பி  சேவையை பயன்படுத்துவது பற்றி மேலும் அறிக.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>தன்னிரப்பு</value>
@@ -974,7 +974,7 @@
     <value>சுய-வழங்கப்பட்ட சுற்றுசூழல்</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>உம் வளாகத்திலேயே வழங்கியுள்ள Bitwarden நிறுவலின் அடித்தள உரலியைக் குறிப்பிடு.</value>
+    <value>உம் வளாகத்திலேயே வழங்கியுள்ள Bravura Safe நிறுவலின் அடித்தள உரலியைக் குறிப்பிடு.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>தேக்க உரலி</value>
@@ -1139,7 +1139,7 @@
     <value>படவுரு தேக்க உரலி</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Bitwarden உடன் தன்னிரப்பல்</value>
+    <value>Bravura Safe உடன் தன்னிரப்பல்</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>பெட்டகம் பூட்டப்பட்டுள்ளது</value>
@@ -1163,10 +1163,10 @@
     <value>தன்னிரப்பி அணுகல்தன்மை சேவை</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden தன்னிரப்பி சேவை உள்நுழைவு தகவலை உம் சாதனத்திலிருக்கும் பிற செயலிகளினுள்ளே நிரப்ப உதவ Android தன்னிரப்பி சட்டகத்தைப் பயன்படுத்துகிறது.</value>
+    <value>Bravura Safe தன்னிரப்பி சேவை உள்நுழைவு தகவலை உம் சாதனத்திலிருக்கும் பிற செயலிகளினுள்ளே நிரப்ப உதவ Android தன்னிரப்பி சட்டகத்தைப் பயன்படுத்துகிறது.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>பிற செயலிகளினுள்ளே உள்நுழைவு தகவலை நிரப்ப Bitwarden தன்னிரப்பி சேவை பயன்படுத்து.</value>
+    <value>பிற செயலிகளினுள்ளே உள்நுழைவு தகவலை நிரப்ப Bravura Safe தன்னிரப்பி சேவை பயன்படுத்து.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>தன்னிரப்பல் அமைவுகளைத் திற</value>
@@ -1219,7 +1219,7 @@
   </data>
   <data name="URIPosition" xml:space="preserve">
     <value>உரலி {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>அடித்தள களம்</value>
@@ -1246,7 +1246,7 @@
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>பொருத்தம் கண்டறிதல்</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>ஆம், சேமிக்கவும்</value>
@@ -1256,7 +1256,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>நிறுவனம்</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>உம் யூபிவிசையை சாதனத்தின் உச்சிக்கருகில் பிடித்திரு.</value>
@@ -1282,7 +1282,7 @@
     <value>தன்னிரப்பல் செயல்படுத்தப்பட்டது!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>தன்னிரப்பலை பயன்படுத்தும் முன் நீங்கள் முதன்மை Bitwarden செயலியில் உள்நுழைய வேண்டும்.</value>
+    <value>தன்னிரப்பலை பயன்படுத்தும் முன் நீங்கள் முதன்மை Bravura Safe செயலியில் உள்நுழைய வேண்டும்.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>செயலிகள் மற்றும் வலைத்தளங்களில் உள்நுழையும்போது உம் உள்நுழைவுகளை இப்போது விசைப்பலகையிலிருந்து எளிதாக அணுக இயலும்.</value>
@@ -1309,7 +1309,7 @@
     <value>4. தன்னிரப்பலை இயக்கு</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. "Bitwarden"ஐத் தேர்ந்தெடு</value>
+    <value>5. "Bravura Safe"ஐத் தேர்ந்தெடு</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>கடவுச்சொல் தன்னிரப்பல்</value>
@@ -1337,7 +1337,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>உரலிகள்</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>கடவுச்சொல்லைச் சரிபார்க்கிறது…</value>
@@ -1402,7 +1402,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} {1}-க்கு நகர்த்தப்பட்டது.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>உருப்படி பகிரப்பட்டது.</value>
@@ -1454,7 +1454,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>நிறுவன கணக்கைப் பயன்படுத்தி உம் பெட்ட உருப்படிகளைப் பிறருடன் பகிர உம்மை Bitwarden அனுமதிக்கிறது. மேலும் அறிய bitwarden.com வலைத்தளத்தைப் பார்வையிட விருப்பமா?</value>
+    <value>நிறுவன கணக்கைப் பயன்படுத்தி உம் பெட்ட உருப்படிகளைப் பிறருடன் பகிர உம்மை Bravura Safe அனுமதிக்கிறது. மேலும் அறிய hitachi-id.com வலைத்தளத்தைப் பார்வையிட விருப்பமா?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>பெட்டகத்தை ஏற்றுமதி செய்</value>
@@ -1475,11 +1475,11 @@
     <value>௩௦ நிமிடங்கள்</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Bitwardenஐ பூட்டவிழ்க்க உம் கடவெண் குறியை அமை. நீங்கள் எப்போதாவது முழுமையாக செயலியிலிருந்து வெளியேறினால் உம் கடவெண் அமைவுகள்  அகரமாக்கப்படும்.</value>
+    <value>Bravura Safeஐ பூட்டவிழ்க்க உம் கடவெண் குறியை அமை. நீங்கள் எப்போதாவது முழுமையாக செயலியிலிருந்து வெளியேறினால் உம் கடவெண் அமைவுகள்  அகரமாக்கப்படும்.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1} இல் {0} ஆக உள்நுழைந்துள்ளது.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>உம் பெட்டகம் பூட்டப்பட்டுள்ளது. தொடர உம் பிரதான கடவுச்சொல்லைச் சரிபார்.</value>
@@ -1523,7 +1523,7 @@
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>இயல்புநிலை உரலிப்பொருத்தங்கண்டறிதல்</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
     <value>தன்னிரப்பல் போன்ற செயற்புரிகையில் உள்நுழைவுகளுக்கான உரலிப்பொருத்தங்கண்டறிதலின் இயல்புநிலை  முறையைத் தேர்வுசெய்.</value>
@@ -1545,7 +1545,7 @@
     <value>வெளியேறு</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Bitwarden இலிருந்து வெளியேற விரும்புகிறீர்களா?</value>
+    <value>Bravura Safe இலிருந்து வெளியேற விரும்புகிறீர்களா?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>செயலி மறுதுவக்கத்தில் பூட்டவிழ்க்க உங்கள் பிரதான கடவுச்சொல்லை கோர வேண்டுமா?</value>
@@ -1570,7 +1570,7 @@
     <value>செயலி மறுதொடக்கத்தில்</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>மற்ற வலைத்தளங்கள் மற்றும் செயலிகளிலிருந்து உம் Bitwarden பெட்டகத்தைப் பாதுகாப்பாக அணுகுவதைத் தன்னிரப்பி எளிதாக்கும். நீங்கள் Bitwardenற்கு தன்னிரப்பி சேவையை இயக்கவில்லை போலும். "அமைவுகள்" திரையில் Bitwardenற்கு தன்னிரப்பியை இயக்குக.</value>
+    <value>மற்ற வலைத்தளங்கள் மற்றும் செயலிகளிலிருந்து உம் Bravura Safe பெட்டகத்தைப் பாதுகாப்பாக அணுகுவதைத் தன்னிரப்பி எளிதாக்கும். நீங்கள் Bravura Safeற்கு தன்னிரப்பி சேவையை இயக்கவில்லை போலும். "அமைவுகள்" திரையில் Bravura Safeற்கு தன்னிரப்பியை இயக்குக.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>உமது தோற்ற மாற்றங்கள்  செயலி மறுதுவக்கும்போது செயலாகும்.</value>
@@ -1604,10 +1604,10 @@
     <value>உயிரியளவுகளைப் பயன்படுத்தி பூட்டவிழ்</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwardenக்கு கவனம் தேவை - Bitwarden அமைப்புகளிலிருந்து "தன்னிரப்பி அணுகல்தன்மை சேவை" ஐப் பார்</value>
+    <value>Bravura Safeக்கு கவனம் தேவை - Bravura Safe அமைப்புகளிலிருந்து "தன்னிரப்பி அணுகல்தன்மை சேவை" ஐப் பார்</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>௩. Bitwarden-க்கான Android செயலி அமைப்புகள் திரையில், "பிற ஆப்ஸின் மேலே காட்டு" தெரிவுகளுக்கு (மேம்பட்டவை அடியில்) செல் மற்றும் மேலடுக்கு ஆதரவை இயக்க நிலைமாற்றியை தட்டுக.</value>
+    <value>௩. Bravura Safe-க்கான Android செயலி அமைப்புகள் திரையில், "பிற ஆப்ஸின் மேலே காட்டு" தெரிவுகளுக்கு (மேம்பட்டவை அடியில்) செல் மற்றும் மேலடுக்கு ஆதரவை இயக்க நிலைமாற்றியை தட்டுக.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>அனுமதி</value>
@@ -1616,7 +1616,7 @@
     <value>மேலடுக்கு அனுமதி அமைவுகளைத் திற</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>௩. Bitwarden-க்கான Android செயலி அமைப்புகள் திரையில், "பிற ஆப்ஸின் மேலே காட்டு" (மேம்பட்டவையின் அடியில்) என்பதை தேர்ந்தெடு மற்றும் மேலடுக்கை அனுமதிக்க நிலைமாற்றியை இயக்குக.</value>
+    <value>௩. Bravura Safe-க்கான Android செயலி அமைப்புகள் திரையில், "பிற ஆப்ஸின் மேலே காட்டு" (மேம்பட்டவையின் அடியில்) என்பதை தேர்ந்தெடு மற்றும் மேலடுக்கை அனுமதிக்க நிலைமாற்றியை இயக்குக.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>மறுக்கப்பட்டது</value>
@@ -1646,11 +1646,11 @@
     <value>இவ்வேற்றுமதி உம் கணக்கின் மறையாக்கவிசை கொண்டு உம் தரவை மறையாக்குகிறது. எப்போவாவது உமது கணக்கின் மறையாகவிசையை சுழற்றினால் இவ்வேற்றுமதிக் கோப்பை மறைநீக்க இயலாததால் மறு ஏற்றுமதி செய்ய வேண்டும்.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>கணக்கு மறையாக்க விசைகள் ஒவ்வொரு Bitwarden பயனர் கணக்கிற்கும் தனித்துவமானது, ஆக ஒரு மறையாக்கப்பட்ட ஏற்றுமதியை வேறொரு கணக்கினுள்ளே இறக்க இயலாது.</value>
+    <value>கணக்கு மறையாக்க விசைகள் ஒவ்வொரு Bravura Safe பயனர் கணக்கிற்கும் தனித்துவமானது, ஆக ஒரு மறையாக்கப்பட்ட ஏற்றுமதியை வேறொரு கணக்கினுள்ளே இறக்க இயலாது.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>பெட்டக ஏற்றுமதியை உறுதிசெய்</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>எச்சரிக்கை</value>
@@ -1679,7 +1679,7 @@
     <value>சேர்ப்பு வெற்றிகரமாக சேமிக்கப்பட்டது</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>தன்னிரப்பி ஓட்டைப் பயன்படுத்த Bitwarden அமைவுகளிலிருந்து "தன்னிரப்பி அணுகல்தன்மை சேவை"-ஐ இயக்கவும்.</value>
+    <value>தன்னிரப்பி ஓட்டைப் பயன்படுத்த Bravura Safe அமைவுகளிலிருந்து "தன்னிரப்பி அணுகல்தன்மை சேவை"-ஐ இயக்கவும்.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>கடவுச்சொல் புலங்களேதும் கண்டறியப்படவில்லை</value>
@@ -1797,7 +1797,7 @@
     <value>தனியுரிமை கொள்கை</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwardenக்கு கவனம் தேவை - Bitwarden அமைப்புகளிலிருந்து "தன்னிரப்பி சேவைகள்"-இல் "மேலே-வரைதல்"-ஐ இயக்குக</value>
+    <value>Bravura Safeக்கு கவனம் தேவை - Bravura Safe அமைப்புகளிலிருந்து "தன்னிரப்பி சேவைகள்"-இல் "மேலே-வரைதல்"-ஐ இயக்குக</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>தன்னிரப்பி சேவைகள்</value>
@@ -1812,13 +1812,13 @@
     <value>அணுகல்தன்மை பயன்படுத்து</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>செயலிகளிலும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bitwarden அணுகல்தன்மை சேவை பயன்படுத்து. இயக்கப்பட்டால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது நாங்கள் ஒரு popup காட்டுவோம்.</value>
+    <value>செயலிகளிலும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bravura Safe அணுகல்தன்மை சேவை பயன்படுத்து. இயக்கப்பட்டால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது நாங்கள் ஒரு popup காட்டுவோம்.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>செயலிகளிலும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bitwarden அணுகல்தன்மை சேவை பயன்படுத்து. (மேலே-வரைதலும் இயங்க வேண்டும்)</value>
+    <value>செயலிகளிலும் இணையம் முழுதுமுள்ள உமது உள்நுழைவுகளைத் தன்னிரப்ப Bravura Safe அணுகல்தன்மை சேவை பயன்படுத்து. (மேலே-வரைதலும் இயங்க வேண்டும்)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>தன்னிரப்பு விரைவுச்செயல் ஓடு பயன்படுத்த மற்றும்/அல்லது மேலே-வரைதல்(இயங்கினால்) கொண்டு popup காட்ட Bitwarden அணுகல்தன்மை சேவை பயன்படுத்து.</value>
+    <value>தன்னிரப்பு விரைவுச்செயல் ஓடு பயன்படுத்த மற்றும்/அல்லது மேலே-வரைதல்(இயங்கினால்) கொண்டு popup காட்ட Bravura Safe அணுகல்தன்மை சேவை பயன்படுத்து.</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>தன்னிரப்பு விரைவுச்செயல் ஓடு பயன்படுத்தவோ மேலே-வரைதல்(இயங்கினால்) கொண்டு தன்னிரப்பிச் சேவையை ஆதரவுமிகுதியாக்கவோ தேவைப்படுகிறது.</value>
@@ -1827,10 +1827,10 @@
     <value>மேலே-வரைதல் பயன்படுத்து</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>இயக்கினால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது ஒரு popup காண்பிக்க  Bitwarden அணுகல்தன்மை சேவையை அனுமதிக்கிறது.</value>
+    <value>இயக்கினால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது ஒரு popup காண்பிக்க  Bravura Safe அணுகல்தன்மை சேவையை அனுமதிக்கிறது.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>இயக்கினால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது உமது உள்நுழைவுகளைத் தன்னிரப்ப உதவ Bitwarden அணுகல்தன்மை சேவை ஒரு popup காண்பிக்கும்.</value>
+    <value>இயக்கினால், உள்நுழைவு புலங்கள் தேர்ந்தெடுக்கப்படும்போது உமது உள்நுழைவுகளைத் தன்னிரப்ப உதவ Bravura Safe அணுகல்தன்மை சேவை ஒரு popup காண்பிக்கும்.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>இயக்கினால், Android தன்னிரப்பி சட்டகத்தை ஆதரிக்காப் பழைய செயலிகளுக்காகத் தன்னிரப்பி சேவையை ஆதரவுமிகுதியாக்க, அணுகல்தன்மை ஒரு popup காட்டும்.</value>
@@ -1842,20 +1842,20 @@
     <value>ஒரு நிறுவன கொள்கை உம் உரிமை விருப்பங்களைப் பாதிக்கிறது.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>எல்லா Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>இந்த Send ஐ விளக்க ஒரு நட்பார்ந்த பெயர்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>இந்த Share ஐ விளக்க ஒரு நட்பார்ந்த பெயர்.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>சொற்சரம்</value>
@@ -1864,8 +1864,8 @@
     <value>நீங்கள் அனுப்ப விரும்பும் சொற்சரம்.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Send ஐ அணுகும்போது, இயல்புநிலையில் சொற்சரத்தை மறை</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ஐ அணுகும்போது, இயல்புநிலையில் சொற்சரத்தை மறை</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>கோப்பு</value>
@@ -1880,8 +1880,8 @@
     <value>அழிக்கும் நேரம்</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>குறிப்பிடப்பட்ட தேதி மற்றும் நேரத்தில் Send நிரந்தரமாக அழிக்கப்படும்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>குறிப்பிடப்பட்ட தேதி மற்றும் நேரத்தில் Share நிரந்தரமாக அழிக்கப்படும்.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>அழித்தல் நிலுவையில்</value>
@@ -1893,8 +1893,8 @@
     <value>காலாவதி நேரம்</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>அமைத்தால், குறிப்பிடப்பட்ட தேதி மற்றும் நேரத்தில் இந்த Send க்கான அணுகல் காலாவதியாகும்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>அமைத்தால், குறிப்பிடப்பட்ட தேதி மற்றும் நேரத்தில் இந்த Share க்கான அணுகல் காலாவதியாகும்.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>காலாவதியானது</value>
@@ -1904,7 +1904,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>அமைத்தால், அதிகபட்ச அணுகலெண்ணிக்கை எட்டப்பட்டவுடன் பயனர்கள் இந்த Sendஐ இனி அணுகவியலாது.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>அதிகபட்ச அணுகல் எண்ணிக்கை எட்டப்பட்டது</value>
@@ -1916,8 +1916,8 @@
     <value>புது கடவுச்சொல்</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>விருப்பப்பட்டால் பயனர்கள் இந்த Send ஐ அணுக கடவுச்சொல் வேண்டு.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>விருப்பப்பட்டால் பயனர்கள் இந்த Share ஐ அணுக கடவுச்சொல் வேண்டு.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>கடவுச்சொல்லை அகற்று</value>
@@ -1932,20 +1932,20 @@
     <value>கடவுச்சொல் அகற்றப்பட்டது.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>இந்த Send பற்றிய தனிப்பட்ட குறிப்புகள்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>இந்த Share பற்றிய தனிப்பட்ட குறிப்புகள்.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>இந்த Send-ஐ முடக்குக எனவே யாருமிதை அணுகவியலாது</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>இந்த Share-ஐ முடக்குக எனவே யாருமிதை அணுகவியலாது</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>உம் கணக்கில் Sends எவையுமில்லை.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>ஒரு Send-ஐச் சேர்</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>ஒரு Share-ஐச் சேர்</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>தொடுப்பை நகலெடு</value>
@@ -1954,36 +1954,36 @@
     <value>தொடுப்பைப் பகிர்</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send தொடுப்பு</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share தொடுப்பு</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>Sends தேடு</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Send திருத்து</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share திருத்து</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Send-ஐச் சேர்</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-ஐச் சேர்</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>இந்த Send ஐ அழிக்க உறுதியா?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>இந்த Share ஐ அழிக்க உறுதியா?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send அழிக்கப்பட்டது.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share அழிக்கப்பட்டது.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send புதுப்பிக்கப்பட்டது.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share புதுப்பிக்கப்பட்டது.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>புது Send உருவாக்கப்பட்டது.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>புது Share உருவாக்கப்பட்டது.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>௧ நாள்</value>
@@ -2004,31 +2004,31 @@
     <value>தனிபயன்</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>சேமிக்கையில் இந்த Send ஐப் பகிர்</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>சேமிக்கையில் இந்த Share ஐப் பகிர்</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>முனைவக கொள்ளையால், உம்மால் இருக்கின்ற Sendஐ மட்டுமே அழிக்கவியலும்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Send பற்றி</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share பற்றி</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>பெறுநர்களிடமிருந்து என் மின்னஞ்சல் முகவரியை மறை</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>ஒன்று அ மேற்பட்ட நிறுவன கொள்கைகள் உமது Send தெரிவுகளை பாதிக்கிறது.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>ஒன்று அ மேற்பட்ட நிறுவன கொள்கைகள் உமது Share தெரிவுகளை பாதிக்கிறது.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>இலவச கணக்குகள் சொற்சரம் மட்டும் பகிர்தலுக்கு கட்டுப்படுத்தப்பட்டுள்ளது. Send உடன் கோப்புகளை பயன்படுத்த உயர்தர உறுப்பினர் தகுதி தேவை.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>இலவச கணக்குகள் சொற்சரம் மட்டும் பகிர்தலுக்கு கட்டுப்படுத்தப்பட்டுள்ளது. Share உடன் கோப்புகளை பயன்படுத்த உயர்தர உறுப்பினர் தகுதி தேவை.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Send உடன் கோப்புகளைப் பயன்படுத்த உம் மின்னஞ்சலைக் கட்டாயம் சரிபார்க்க வேண்டும்.  உம் மின்னஞ்சலை வலைப்பெட்டகத்தில் சரிபார்க்கலாம்.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share உடன் கோப்புகளைப் பயன்படுத்த உம் மின்னஞ்சலைக் கட்டாயம் சரிபார்க்க வேண்டும்.  உம் மின்னஞ்சலை வலைப்பெட்டகத்தில் சரிபார்க்கலாம்.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>பிரதான கடவுச்சொல் மறு-தூண்டி</value>
@@ -2157,7 +2157,7 @@
     <value>அனுப்புகிறது</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>சேமிக்கையில் Send தொடுப்பை நகலெடு</value>
+    <value>சேமிக்கையில் Share தொடுப்பை நகலெடு</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>குறியீட்டை அனுப்புகிறது</value>

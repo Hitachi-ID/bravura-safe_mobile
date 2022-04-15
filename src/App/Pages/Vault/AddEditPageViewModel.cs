@@ -760,7 +760,7 @@ namespace Bit.App.Pages
 
         public void PasswordPromptHelp()
         {
-            _platformUtilsService.LaunchUri("https://bitwarden.com/help/managing-items/#protect-individual-items");
+            _platformUtilsService.LaunchUri("https://hitachi-id.com/help/managing-items/#protect-individual-items");
         }
 
         private void TypeChanged()
