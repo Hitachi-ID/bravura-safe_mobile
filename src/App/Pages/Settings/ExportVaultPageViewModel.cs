@@ -138,7 +138,7 @@ namespace Bit.App.Pages
 
         public Command TogglePasswordCommand { get; }
 
-        public string ShowPasswordIcon => ShowPassword ? BitwardenIcons.EyeSlash : BitwardenIcons.Eye;
+        public string ShowPasswordIcon => ShowPassword ? "" : "";
 
         public void TogglePassword()
         {

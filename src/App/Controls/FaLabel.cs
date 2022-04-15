@@ -2,18 +2,19 @@
 
 namespace Bit.App.Controls
 {
-    public class IconButton : Button
+    public class FaLabel : Label
     {
-        public IconButton()
+        public bool ShouldUpdateFontSizeDynamicallyForAccesibility { get; set; }
+
+        public FaLabel()
         {
-            Padding = 0;
             switch (Device.RuntimePlatform)
             {
                 case Device.iOS:
-                    FontFamily = "bwi-font";
+                    FontFamily = "FontAwesome";
                     break;
                 case Device.Android:
-                    FontFamily = "bwi-font.ttf#bwi-font";
+                    FontFamily = "FontAwesome.ttf#FontAwesome";
                     break;
             }
         }

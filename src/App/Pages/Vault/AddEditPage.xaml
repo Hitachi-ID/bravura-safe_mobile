@@ -9,7 +9,6 @@
     xmlns:views="clr-namespace:Bit.Core.Models.View;assembly=BitwardenCore"
     xmlns:behaviors="clr-namespace:Bit.App.Behaviors"
     xmlns:effects="clr-namespace:Bit.App.Effects"
-    xmlns:core="clr-namespace:Bit.Core;assembly=BitwardenCore"
     x:DataType="pages:AddEditPageViewModel"
     x:Name="_page"
     Title="{Binding PageTitle}">
@@ -143,9 +142,9 @@
                             IsSpellCheckEnabled="False"
                             IsTextPredictionEnabled="False"
                             IsEnabled="{Binding Cipher.ViewPassword}"/>
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
-                            Text="{Binding Source={x:Static core:BitwardenIcons.CheckCircle}}"
+                            Text="&#xf058;"
                             Command="{Binding CheckPasswordCommand}"
                             Grid.Row="0"
                             Grid.Column="1"
@@ -153,7 +152,7 @@
                             AutomationProperties.IsInAccessibleTree="True"
                             AutomationProperties.Name="{u:I18n CheckPassword}"
                             IsVisible="{Binding Cipher.ViewPassword}" />
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
                             Text="{Binding ShowPasswordIcon}"
                             Command="{Binding TogglePasswordCommand}"
@@ -163,9 +162,9 @@
                             AutomationProperties.IsInAccessibleTree="True"
                             AutomationProperties.Name="{u:I18n ToggleVisibility}"
                             IsVisible="{Binding Cipher.ViewPassword}" />
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
-                            Text="{Binding Source={x:Static core:BitwardenIcons.Refresh}}"
+                            Text="&#xf021;"
                             Command="{Binding GeneratePasswordCommand}"
                             Grid.Row="0"
                             Grid.Column="3"
@@ -200,9 +199,9 @@
                             Grid.Row="1"
                             Grid.Column="0"
                             Grid.ColumnSpan="{Binding TotpColumnSpan}" />
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
-                            Text="{Binding Source={x:Static core:BitwardenIcons.Camera}}"
+                            Text="&#xf030;"
                             Clicked="ScanTotp_Clicked"
                             Grid.Row="0"
                             Grid.Column="1"
@@ -245,7 +244,7 @@
                             IsPassword="{Binding ShowCardNumber, Converter={StaticResource inverseBool}}"
                             IsSpellCheckEnabled="False"
                             IsTextPredictionEnabled="False" />
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
                             Text="{Binding ShowCardNumberIcon}"
                             Command="{Binding ToggleCardNumberCommand}"
@@ -309,7 +308,7 @@
                             IsPassword="{Binding ShowCardCode, Converter={StaticResource inverseBool}}"
                             IsSpellCheckEnabled="False"
                             IsTextPredictionEnabled="False" />
-                        <controls:IconButton 
+                        <controls:FaButton 
                             StyleClass="box-row-button, box-row-button-platform"
                             Text="{Binding ShowCardCodeIcon}"
                             Command="{Binding ToggleCardCodeCommand}"
@@ -516,9 +515,9 @@
                                     StyleClass="box-value"
                                     Grid.Row="1"
                                     Grid.Column="0" />
-                                <controls:IconButton
+                                <controls:FaButton
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Cog}}"
+                                    Text="&#xf013;"
                                     Command="{Binding BindingContext.UriOptionsCommand, Source={x:Reference _page}}"
                                     CommandParameter="{Binding .}"
                                     Grid.Row="0"
@@ -562,9 +561,9 @@
                     <Label
                         Text="{u:I18n PasswordPrompt}"
                         StyleClass="box-label-regular" />
-                    <controls:IconButton 
+                    <controls:FaButton 
                         StyleClass="box-row-button, box-row-button-platform"
-                        Text="{Binding Source={x:Static core:BitwardenIcons.QuestionCircle}}"
+                        Text="&#xf29c;"
                         Command="{Binding PasswordPromptHelpCommand}"
                         TextColor="{DynamicResource MutedColor}"
                         AutomationProperties.IsInAccessibleTree="True"
@@ -674,7 +673,7 @@
                                         Grid.Column="1"
                                         Grid.RowSpan="2"
                                         IsVisible="{Binding IsBooleanType}" />
-                                    <controls:IconButton 
+                                    <controls:FaButton 
                                         StyleClass="box-row-button, box-row-button-platform"
                                         Text="{Binding ShowHiddenValueIcon}"
                                         Command="{Binding ToggleHiddenValueCommand}"
@@ -684,9 +683,9 @@
                                         Grid.RowSpan="2"
                                         AutomationProperties.IsInAccessibleTree="True"
                                         AutomationProperties.Name="{u:I18n ToggleVisibility}" />
-                                    <controls:IconButton 
+                                    <controls:FaButton 
                                         StyleClass="box-row-button, box-row-button-platform"
-                                        Text="{Binding Source={x:Static core:BitwardenIcons.Cog}}"
+                                        Text="&#xf013;"
                                         Command="{Binding BindingContext.FieldOptionsCommand, Source={x:Reference _page}}"
                                         CommandParameter="{Binding .}"
                                         Grid.Row="0"

@@ -58,7 +58,7 @@ namespace Bit.iOS.Core.Renderers
 			// We need to revisit this when we address Accessibility Large Font issues across the app
             // to check if we can left it more generic like
 			// else if (Element.FontFamily != null)
-			else if (Element is IconLabel iconLabel && iconLabel.ShouldUpdateFontSizeDynamicallyForAccesibility)
+			else if (Element is FaLabel iconLabel && iconLabel.ShouldUpdateFontSizeDynamicallyForAccesibility)
 			{
 				var customFont = Element.ToUIFont();
 				Control.Font = new UIFontMetrics(UIFontTextStyle.Body.GetConstant()).GetScaledFont(customFont);

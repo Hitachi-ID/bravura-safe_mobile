@@ -1,5 +1,4 @@
 ﻿using Bit.App.Resources;
-using Bit.Core;
 using Bit.Core.Enums;
 using Bit.Core.Models.View;
 
@@ -54,10 +53,10 @@ namespace Bit.App.Pages
                     switch (Type.Value)
                     {
                         case SendType.Text:
-                            _icon = BitwardenIcons.FileText;
+                            _icon = "\uf0f6"; // fa-file-text-o
                             break;
                         case SendType.File:
-                            _icon = BitwardenIcons.File;
+                            _icon = "\uf016"; // fa-file-o
                             break;
                         default:
                             break;

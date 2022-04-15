@@ -1,5 +1,4 @@
 ﻿using Bit.App.Resources;
-using Bit.Core;
 using Bit.Core.Enums;
 using Bit.Core.Models.View;
 
@@ -72,34 +71,34 @@ namespace Bit.App.Pages
                 }
                 if (IsTrash)
                 {
-                    _icon = BitwardenIcons.Trash;
+                    _icon = "\uf014"; // fa-trash-o
                 }
                 else if (Folder != null)
                 {
-                    _icon = Folder.Id == null ? BitwardenIcons.FolderOpen : BitwardenIcons.FolderOpenF;
+                    _icon = Folder.Id == null ? "\uf115" : "\uf07c"; // fa-folder-open-o : fa-folder-open
                 }
                 else if (Collection != null)
                 {
-                    _icon = BitwardenIcons.Globe;
+                    _icon = "\uf1b2"; // fa-cube
                 }
                 else if (Type != null)
                 {
                     switch (Type.Value)
                     {
                         case CipherType.Login:
-                            _icon = BitwardenIcons.Globe;
+                            _icon = "\uf0ac"; // fa-globe
                             break;
                         case CipherType.SecureNote:
-                            _icon = BitwardenIcons.StickyNote;
+                            _icon = "\uf24a"; // fa-sticky-note-o
                             break;
                         case CipherType.Card:
-                            _icon = BitwardenIcons.CreditCard;
+                            _icon = "\uf09d"; // fa-credit-card
                             break;
                         case CipherType.Identity:
-                            _icon = BitwardenIcons.IdCard;
+                            _icon = "\uf2c3"; // fa-id-card-o
                             break;
                         default:
-                            _icon = BitwardenIcons.Globe;
+                            _icon = "\uf0ac"; // fa-globe
                             break;
                     }
                 }

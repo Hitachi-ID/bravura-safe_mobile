@@ -75,7 +75,7 @@ namespace Bit.App.Controls
 
         public string AuthStatusIconActive
         {
-            get => BitwardenIcons.CheckCircle;
+            get => "\uf058"; // fa-check-circle
         }
 
         public string AuthStatusIconNotActive
@@ -84,9 +84,9 @@ namespace Bit.App.Controls
             {
                 if (IsUnlocked)
                 {
-                    return BitwardenIcons.Unlock;
+                    return "\uf13e"; // fa-unlock-alt
                 }
-                return BitwardenIcons.Lock;
+                return "\uf023"; // fa-lock
             }
         }
     }
