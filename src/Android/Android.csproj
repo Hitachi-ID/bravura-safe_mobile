@@ -181,14 +181,14 @@
     <AndroidResource Include="Resources\drawable\list_item_bg.xml" />
     <AndroidResource Include="Resources\drawable\lock.xml" />
     <AndroidResource Include="Resources\drawable\login.xml" />
-    <AndroidResource Include="Resources\drawable\logo.xml" />
-    <AndroidResource Include="Resources\drawable\logo_white.xml" />
+    <AndroidResource Include="Resources\drawable\logo.png" />
+    <AndroidResource Include="Resources\drawable\logo_white.png" />
     <AndroidResource Include="Resources\drawable\paper_plane.xml" />
     <AndroidResource Include="Resources\drawable\pencil.xml" />
     <AndroidResource Include="Resources\drawable\plus.xml" />
     <AndroidResource Include="Resources\drawable\refresh.xml" />
     <AndroidResource Include="Resources\drawable\search.xml" />
-    <AndroidResource Include="Resources\drawable\shield.xml" />
+    <AndroidResource Include="Resources\drawable\shield.png" />
     <AndroidResource Include="Resources\drawable-v23\splash_screen.xml" />
     <AndroidResource Include="Resources\drawable-v23\splash_screen_dark.xml" />
     <AndroidResource Include="Resources\drawable\switch_thumb.xml" />
