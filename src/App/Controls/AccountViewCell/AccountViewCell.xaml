@@ -100,7 +100,7 @@
                     LineBreakMode="TailTruncation" />
             </Grid>
 
-            <controls:IconLabel
+            <controls:FaLabel
                 Grid.Column="2"
                 Text="{Binding AuthStatusIconNotActive}" 
                 IsVisible="{Binding IsActive, Converter={StaticResource inverseBool}}"
@@ -108,7 +108,7 @@
                 HorizontalOptions="Center"
                 VerticalOptions="Center"
                 StyleClass="list-icon, list-icon-platform" />
-            <controls:IconLabel
+            <controls:FaLabel
                 Grid.Column="2"
                 Text="{Binding AuthStatusIconActive}" 
                 IsVisible="{Binding IsActive}"

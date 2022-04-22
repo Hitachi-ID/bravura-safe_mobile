@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>我的最愛</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Bug 回報</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>我的密碼庫</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>名稱</value>
@@ -356,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -393,7 +393,7 @@
     <value>瀏覽我們的網站</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>瀏覽我們的網站以取得協助、了解新消息、傳送電子郵件給我們或瀏覽更多有關使用 Bitwarden 的秘訣。</value>
+    <value>瀏覽我們的網站以取得協助、了解新消息、傳送電子郵件給我們或瀏覽更多有關使用 Bravura Safe 的秘訣。</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>網站</value>
@@ -415,7 +415,7 @@
     <value>App 擴充套件</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網站中自動填入您的登入資料。</value>
+    <value>使用 Bravura Safe 無障礙服務在應用程式和網站中自動填入您的登入資料。</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>自動填入服務</value>
@@ -424,31 +424,31 @@
     <value>避免易混淆的字元</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden App 擴充套件</value>
+    <value>Bravura Safe App 擴充套件</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Bitwarden App 擴充套件是新增登入資料到密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden App 擴充套件的使用資訊。</value>
+    <value>Bravura Safe App 擴充套件是新增登入資料到密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bravura Safe App 擴充套件的使用資訊。</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>在 Safari 和其他應用程式中使用 Bitwarden 自動填入登入資料。</value>
+    <value>在 Safari 和其他應用程式中使用 Bravura Safe 自動填入登入資料。</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden 自動填入服務</value>
+    <value>Bravura Safe 自動填入服務</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務自動填入您的登入資料。</value>
+    <value>使用 Bravura Safe 無障礙服務自動填入您的登入資料。</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>變更電子郵件</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版密碼庫變更電子郵件地址。要現在前往嗎？</value>
+    <value>您可以在 Bravura Safe 網頁版密碼庫變更電子郵件地址。要現在前往嗎？</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>變更主密碼</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版密碼庫變更主密碼。要現在前往嗎？</value>
+    <value>您可以在 Bravura Safe 網頁版密碼庫變更主密碼。要現在前往嗎？</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>關閉</value>
@@ -482,7 +482,7 @@
     <value>啟用 App 擴充套件</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>在 Safari 中，使用分享圖示尋找 Bitwarden（提示：在選單最底行的右邊）。 </value>
+    <value>在 Safari 中，使用分享圖示尋找 Bravura Safe（提示：在選單最底行的右邊）。 </value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -495,13 +495,13 @@
     <value>現在可以在 Safari、Chrome 以及其他支援的程式中方便地存取您的登入資料了。</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>在 Safari 或 Chrome 中，使用分享圖示尋找 Bitwarden（提示：在分享選單的最底行的右邊）。</value>
+    <value>在 Safari 或 Chrome 中，使用分享圖示尋找 Bravura Safe（提示：在分享選單的最底行的右邊）。</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>在選單中按一下 Bitwarden 圖示以啟動擴充套件。</value>
+    <value>在選單中按一下 Bravura Safe 圖示以啟動擴充套件。</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>要在 Safari 或其他程式中開啟 Bitwarden ，請點選選單底部的「更多」圖示。</value>
+    <value>要在 Safari 或其他程式中開啟 Bravura Safe ，請點選選單底部的「更多」圖示。</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>我的最愛</value>
@@ -519,7 +519,7 @@
     <value>匯入項目</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>您可以在 bitwarden 網頁版密碼庫批次匯入登入資料。要現在前往嗎？</value>
+    <value>您可以在 Bravura Safe 網頁版密碼庫批次匯入登入資料。要現在前往嗎？</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>快速從其他密碼管理應用程式中批次匯入您的登入資料。</value>
@@ -594,7 +594,7 @@
     <value>更多設定</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>您必須先登入 Bitwarden 才可使用擴充套件。</value>
+    <value>您必須先登入 Bravura Safe 才可使用擴充套件。</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>永不</value>
@@ -619,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>選項預設值是通過 Bitwarden 程式的密碼產生器設定的。</value>
+    <value>選項預設值是通過 Bravura Safe 程式的密碼產生器設定的。</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>選項</value>
@@ -643,11 +643,11 @@
     <value>您確定要覆寫目前的密碼嗎？</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden 使用推送通知來自動同步您的密碼庫。為了確保同步順暢，稍後系統將詢問您是否開啟通知，請選擇「允許」。</value>
+    <value>Bravura Safe 使用推送通知來自動同步您的密碼庫。為了確保同步順暢，稍後系統將詢問您是否開啟通知，請選擇「允許」。</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
-    <value>為 Bitwarden 評分</value>
+    <value>為 Bravura Safe 評分</value>
   </data>
   <data name="RateTheAppDescription" xml:space="preserve">
     <value>請給予我們好評！</value>
@@ -704,7 +704,7 @@
     <value>兩步驟登入</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>兩步驟登入需要您從其他裝置（例如安全鑰匙、驗證器程式、SMS、手機或電子郵件）來驗證您的登入，這將使您的帳戶更加安全。兩步驟登入可以在 Bitwarden 網頁版密碼庫啟用。要現在前往嗎？</value>
+    <value>兩步驟登入需要您從其他裝置（例如安全鑰匙、驗證器程式、SMS、手機或電子郵件）來驗證您的登入，這將使您的帳戶更加安全。兩步驟登入可以在 Bravura Safe 網頁版密碼庫啟用。要現在前往嗎？</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>使用 {0} 解鎖</value>
@@ -723,7 +723,7 @@
     <value>檢視項目</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden 網頁版密碼庫</value>
+    <value>Bravura Safe 網頁版密碼庫</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>遺失了驗證器應用程式？</value>
@@ -747,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>您的密碼庫中沒有 {0} 的登入資料。</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>當您選擇輸入欄位，看到 Bitwarden 的自動填入疊加層時，可以點選該提示以啟動自動填入服務。</value>
+    <value>當您選擇輸入欄位，看到 Bravura Safe 的自動填入疊加層時，可以點選該提示以啟動自動填入服務。</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>按此自動填入存在密碼庫的登入資料。</value>
@@ -759,7 +759,7 @@
     <value>開啟無障礙設定</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. 在 Android 的無障礙設定畫面中，按一下服務標題下的「Bitwarden」。</value>
+    <value>1. 在 Android 的無障礙設定畫面中，按一下服務標題下的「Bravura Safe」。</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. 打開開關，然後按“確定”。</value>
@@ -774,7 +774,7 @@
     <value>狀態</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Bitwarden 自動填入服務是新增登入資料的最簡單方法。請到「設定」頁面了解更多有關使用 Bitwarden 自動填入服務的資訊 。</value>
+    <value>Bravura Safe 自動填入服務是新增登入資料的最簡單方法。請到「設定」頁面了解更多有關使用 Bravura Safe 自動填入服務的資訊 。</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>自動填入</value>
@@ -973,7 +973,7 @@
     <value>自我託管環境</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>指定您內部部署的 Bitwarden 安裝之基礎 URL。</value>
+    <value>指定您內部部署的 Bravura Safe 安裝之基礎 URL。</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>伺服器 URL</value>
@@ -1138,7 +1138,7 @@
     <value>圖示伺服器 URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>使用 Bitwarden 自動填入</value>
+    <value>使用 Bravura Safe 自動填入</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>密碼庫已鎖定</value>
@@ -1162,10 +1162,10 @@
     <value>自動填入無障礙服務</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden 自動填入服務使用 Android 自動填入框架來協助將登入信息填入至你裝置上的其他應用程式中。</value>
+    <value>Bravura Safe 自動填入服務使用 Android 自動填入框架來協助將登入信息填入至你裝置上的其他應用程式中。</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>使用 Bitwarden 自動填入服務將登入信息填入到其他應用程式中。</value>
+    <value>使用 Bravura Safe 自動填入服務將登入信息填入到其他應用程式中。</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>打開自動填入設定</value>
@@ -1214,11 +1214,11 @@
     <value>移除</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>新增 URI</value>
+    <value>新增 URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>基底網域</value>
@@ -1241,11 +1241,11 @@
     <value>開始於</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI 一致性偵測</value>
+    <value>URL 一致性偵測</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>一致性偵測</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>是，我要儲存</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>組織</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>將您的 Yubikey 靠近裝置的頂端。</value>
@@ -1281,7 +1281,7 @@
     <value>自動填入已啟用！</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>您必須先登入 Bitwarden 應用程式，才可以使用自動填入功能。</value>
+    <value>您必須先登入 Bravura Safe 應用程式，才可以使用自動填入功能。</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>登入應用程式和網站時，您可以透過鍵盤立即輕鬆存取您的登入資料。</value>
@@ -1293,7 +1293,7 @@
     <value>您可以直接透過鍵盤存取密碼庫以快速的自動填入密碼。</value>
   </data>
   <data name="AutofillTurnOn" xml:space="preserve">
-    <value>請按照以下步驟開啟 Bitwarden 自動填入功能：</value>
+    <value>請按照以下步驟開啟 Bravura Safe 自動填入功能：</value>
   </data>
   <data name="AutofillTurnOn1" xml:space="preserve">
     <value>1. 前往 iOS 的「設定」應用程式</value>
@@ -1308,13 +1308,13 @@
     <value>4. 開啟自動填入</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. 選擇「Bitwarden」</value>
+    <value>5. 選擇「Bravura Safe」</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>密碼自動填入</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>使用 Bitwarden 密碼自動填入擴充套件是新增登入資料到密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bitwarden 密碼自動填入擴充套件的使用資訊。</value>
+    <value>使用 Bravura Safe 密碼自動填入擴充套件是新增登入資料到密碼庫的最簡單方法。請至「設定」頁面了解更多關於 Bravura Safe 密碼自動填入擴充套件的使用資訊。</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>無效的電子郵件地址。</value>
@@ -1335,8 +1335,8 @@
     <value>所有項目</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URIs</value>
-    <comment>Plural form of a URI</comment>
+    <value>URLs</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>正在檢查密碼...</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} 已移動至 {1}。</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>項目已共享。</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden 允許您使用組織帳戶與他人共用您的密碼庫項目。您想造訪 bitwarden.com 網站以了解更多內容嗎？</value>
+    <value>Bravura Safe 允許您使用組織帳戶與他人共用您的密碼庫項目。您想造訪 hitachi-id.com 網站以了解更多內容嗎？</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>匯出密碼庫</value>
@@ -1474,11 +1474,11 @@
     <value>30 分鐘</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>設定您用來解鎖 Bitwarden 的 PIN 碼。您的 PIN 設定將在您完全結束本應用程式時被重設。</value>
+    <value>設定您用來解鎖 Bravura Safe 的 PIN 碼。您的 PIN 設定將在您完全結束本應用程式時被重設。</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>已在 {1} 以 {0} 身份登入。</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>密碼庫已鎖定。驗證主密碼以繼續。</value>
@@ -1521,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>預設的 URI 一致性偵測方式</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>預設的 URL 一致性偵測方式</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>選擇在執行自動填入等動作時對登入資料進行 URI 一致性偵測的預設方式。</value>
+    <value>選擇在執行自動填入等動作時對登入資料進行 URL 一致性偵測的預設方式。</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>主題</value>
@@ -1544,7 +1544,7 @@
     <value>結束</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>您確定要結束 Bitwarden 嗎？</value>
+    <value>您確定要結束 Bravura Safe 嗎？</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>當應用程式重新啟動時，是否要求用主密碼來解鎖？</value>
@@ -1554,7 +1554,7 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>黑名單 URI</value>
+    <value>黑名單 URL</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
     <value>被加到黑名單的網址將不提供自動填入。應用程式串列必須以逗號分隔。範例：「https://twitter.com, androidapp://com.twitter.android」。</value>
@@ -1569,7 +1569,7 @@
     <value>於程式重新啟動時</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>「自動填入」使其他網站及應用程式能更簡單地安全存取您的 Bitwarden 密碼庫。看起來您尚未啟用 Bitwarden 的自動填入服務。請在「設定」熒幕啟用 Bitwarden 的自動填入。</value>
+    <value>「自動填入」使其他網站及應用程式能更簡單地安全存取您的 Bravura Safe 密碼庫。看起來您尚未啟用 Bravura Safe 的自動填入服務。請在「設定」熒幕啟用 Bravura Safe 的自動填入。</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>App 重新啟動之後，您的主題變更將會被套用。</value>
@@ -1603,10 +1603,10 @@
     <value>使用生物特徵辨識解鎖</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden 需要注意 - 請到 Bitwarden 設定中查看「自動填入無障礙服務」</value>
+    <value>Bravura Safe 需要注意 - 請到 Bravura Safe 設定中查看「自動填入無障礙服務」</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. 在 Android 應用程式設定介面找到 Bitwarden，進入「顯示在其他應用程式上層」選項（在「進階」下），點擊開關以開啟叠加層支持。</value>
+    <value>3. 在 Android 應用程式設定介面找到 Bravura Safe，進入「顯示在其他應用程式上層」選項（在「進階」下），點擊開關以開啟叠加層支持。</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>權限</value>
@@ -1615,7 +1615,7 @@
     <value>開啟疊加層權限設定</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. 在 Android 應用程式設定介面找到 Bitwarden，選擇「顯示在其他應用程式上層」（在「進階」下），並打開開關以允許叠加層。</value>
+    <value>3. 在 Android 應用程式設定介面找到 Bravura Safe，選擇「顯示在其他應用程式上層」（在「進階」下），並打開開關以允許叠加層。</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>拒絕</value>
@@ -1645,11 +1645,11 @@
     <value>將使用您帳戶的加密金鑰來加密匯出資料，若您更新了帳戶的加密金鑰，請重新匯出，才有辦法解密匯出的檔案。</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>每個 Bitwarden 使用者帳戶的帳戶加密金鑰都不同，因此無法將加密過的匯出檔案匯入到不同帳戶中。</value>
+    <value>每個 Bravura Safe 使用者帳戶的帳戶加密金鑰都不同，因此無法將加密過的匯出檔案匯入到不同帳戶中。</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>確認匯出密碼庫</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>警告</value>
@@ -1678,7 +1678,7 @@
     <value>附件已成功儲存</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>請到 Bitwarden 設定中開啟「自動填入無障礙服務」以使用自動填入功能。</value>
+    <value>請到 Bravura Safe 設定中開啟「自動填入無障礙服務」以使用自動填入功能。</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>未偵測到密碼欄位</value>
@@ -1796,7 +1796,7 @@
     <value>隱私權政策</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden 需要注意 - 請到 Bitwarden 設定的「自動填入服務」中啓用「Draw-Over」</value>
+    <value>Bravura Safe 需要注意 - 請到 Bravura Safe 設定的「自動填入服務」中啓用「Draw-Over」</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>自動填入服務</value>
@@ -1811,13 +1811,13 @@
     <value>使用無障礙</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網路上自動填入您的登入資料。 啟用後，當選擇登入欄位時，將顯示一個彈出視窗。</value>
+    <value>使用 Bravura Safe 無障礙服務在應用程式和網路上自動填入您的登入資料。 啟用後，當選擇登入欄位時，將顯示一個彈出視窗。</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務在應用程式和網路上自動填入您的登入資料。（還需要開啟 Draw-Over）</value>
+    <value>使用 Bravura Safe 無障礙服務在應用程式和網路上自動填入您的登入資料。（還需要開啟 Draw-Over）</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>使用 Bitwarden 無障礙服務使用自動填入快速操作磁貼，和/或使用 Draw-Over 顯示彈出視窗（如果已開啟）。</value>
+    <value>使用 Bravura Safe 無障礙服務使用自動填入快速操作磁貼，和/或使用 Draw-Over 顯示彈出視窗（如果已開啟）。</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>需要使用自動填入快速操作磁貼或透過使用 Draw-Over（如果已開啟）來增強自動填入服務。</value>
@@ -1826,10 +1826,10 @@
     <value>使用 Draw-Over</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>啓用後，在選擇登入欄位時，將允許 Bitwarden 無障礙服務顯示一個彈出視窗。</value>
+    <value>啓用後，在選擇登入欄位時，將允許 Bravura Safe 無障礙服務顯示一個彈出視窗。</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>若啓用，儅選擇登入欄位自動填入您的登入資料時，Bitwarden 無障礙服務將顯示一個彈出視窗。</value>
+    <value>若啓用，儅選擇登入欄位自動填入您的登入資料時，Bravura Safe 無障礙服務將顯示一個彈出視窗。</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>若啓用，無障礙將顯示一個彈出視窗以增强不支援 Android 自動填入框架的舊應用程式的自動填入服務。</value>
@@ -1841,20 +1841,20 @@
     <value>一個組織原则正影響您的擁有權選項。</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>所有 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>所有 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>用於描述此 Send 的友好名稱。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>用於描述此 Share 的友好名稱。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>文字</value>
@@ -1863,8 +1863,8 @@
     <value>您想要傳送的文字。</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>存取此 Send 時，預設將隱藏文字</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>存取此 Share 時，預設將隱藏文字</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>檔案</value>
@@ -1879,8 +1879,8 @@
     <value>刪除時間</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>此 Send 將在指定的日期和時間被永久删除。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>此 Share 將在指定的日期和時間被永久删除。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>等待刪除中</value>
@@ -1892,8 +1892,8 @@
     <value>逾期時間</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>如果設定此選項，對此 Send 的存取將在指定的日期和時間後逾期。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>如果設定此選項，對此 Share 的存取將在指定的日期和時間後逾期。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>已逾期</value>
@@ -1902,8 +1902,8 @@
     <value>最大存取次數</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此 Send。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>如果設定此選項，當達到最大存取次數時，使用者將無法再次存取此 Share。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>已達最大存取次數</value>
@@ -1915,8 +1915,8 @@
     <value>新的密碼</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>可選。使用者需提供密碼才能存取此 Send。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>可選。使用者需提供密碼才能存取此 Share。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>移除密碼</value>
@@ -1931,20 +1931,20 @@
     <value>密碼已移除</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>關於此 Send 的私人注釋。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>關於此 Share 的私人注釋。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>停用此 Send 以阻止任何人存取它</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>停用此 Share 以阻止任何人存取它</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>您的帳戶中沒有 Send。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>您的帳戶中沒有 Share。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>新增 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>新增 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>複製連結</value>
@@ -1953,36 +1953,36 @@
     <value>分享連結</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send 連結</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 連結</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>搜尋 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>搜尋 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>編輯 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>編輯 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>新增 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>新增 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>您確定要刪除此 Send 嗎？</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>您確定要刪除此 Share 嗎？</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send 已刪除。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 已刪除。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send 已更新。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share 已更新。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>新的 Send 已創建。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>新的 Share 已創建。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 天</value>
@@ -2003,31 +2003,31 @@
     <value>自訂</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>儲存時分享此 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>儲存時分享此 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>由於某個企業原则，您只能刪除已有的 Send。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>由於某個企業原则，您只能刪除已有的 Share。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>關於 Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>關於 Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>對收件人隱藏我的電子郵件位址</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>一個或多個組織原则正影響您的 Send 選項。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>一個或多個組織原则正影響您的 Share 選項。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>免費帳戶僅限於共享文字。要使用文檔 Send，需要進階會員資格。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>免費帳戶僅限於共享文字。要使用文檔 Share，需要進階會員資格。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>必須驗證您的電子郵件才能使用文檔 Send。你可以在網頁密碼庫中驗證您的電子郵件。</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>必須驗證您的電子郵件才能使用文檔 Share。你可以在網頁密碼庫中驗證您的電子郵件。</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>重新詢問主密碼</value>
@@ -2156,7 +2156,7 @@
     <value>傳送中</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>儲存時複製 Send 連結</value>
+    <value>儲存時複製 Share 連結</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>正在傳送驗證碼</value>

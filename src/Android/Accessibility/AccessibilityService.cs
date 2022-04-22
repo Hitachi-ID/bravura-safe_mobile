@@ -22,7 +22,7 @@ namespace Bit.Droid.Accessibility
     public class AccessibilityService : Android.AccessibilityServices.AccessibilityService
     {
         private const string BitwardenPackage = "com.x8bit.bitwarden";
-        private const string BitwardenWebsite = "vault.bitwarden.com";
+        private const string BitwardenWebsite = "vault.hitachi-id.com";
 
         private IStateService _stateService;
         private IBroadcasterService _broadcasterService;

@@ -84,7 +84,7 @@ namespace Bit.App.Pages
 
         public Command LogInCommand { get; }
         public Command TogglePasswordCommand { get; }
-        public string ShowPasswordIcon => ShowPassword ? BitwardenIcons.EyeSlash : BitwardenIcons.Eye;
+        public string ShowPasswordIcon => ShowPassword ? "" : "";
         public Action StartTwoFactorAction { get; set; }
         public Action LogInSuccessAction { get; set; }
         public Action UpdateTempPasswordAction { get; set; }

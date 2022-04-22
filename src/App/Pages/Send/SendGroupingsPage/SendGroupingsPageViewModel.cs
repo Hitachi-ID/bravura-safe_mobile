@@ -285,7 +285,7 @@ namespace Bit.App.Pages
 
         public void ShowAbout()
         {
-            _platformUtilsService.LaunchUri("https://bitwarden.com/products/send/");
+            _platformUtilsService.LaunchUri("https://hitachi-id.com/products/send/");
         }
 
         private async Task LoadDataAsync()

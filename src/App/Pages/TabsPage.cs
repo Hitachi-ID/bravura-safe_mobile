@@ -32,14 +32,14 @@ namespace Bit.App.Pages
             _sendGroupingsPage = new NavigationPage(new SendGroupingsPage(true, null, null, appOptions))
             {
                 Title = AppResources.Send,
-                IconImageSource = "send.png",
+                IconImageSource = "paper_plane.png",
             };
             Children.Add(_sendGroupingsPage);
 
             _generatorPage = new NavigationPage(new GeneratorPage(true, null, this))
             {
                 Title = AppResources.Generator,
-                IconImageSource = "generate.png"
+                IconImageSource = "refresh.png"
             };
             Children.Add(_generatorPage);
 

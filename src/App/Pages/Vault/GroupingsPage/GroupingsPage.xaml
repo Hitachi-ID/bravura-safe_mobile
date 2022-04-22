@@ -56,15 +56,15 @@
                           x:DataType="pages:GroupingsPageListItem">
                 <controls:ExtendedStackLayout Orientation="Horizontal" 
                                                 StyleClass="list-row, list-row-platform">
-                    <controls:IconLabel Text="{Binding Icon, Mode=OneWay}"
+                    <controls:FaLabel Text="{Binding Icon, Mode=OneWay}"
                                         HorizontalOptions="Start"
                                         VerticalOptions="Center"
                                         StyleClass="list-icon, list-icon-platform"
                                         ShouldUpdateFontSizeDynamicallyForAccesibility="True">
-                        <controls:IconLabel.Effects>
+                        <controls:FaLabel.Effects>
                             <effects:FixedSizeEffect />
-                        </controls:IconLabel.Effects>
-                    </controls:IconLabel>
+                        </controls:FaLabel.Effects>
+                    </controls:FaLabel>
                     <Label Text="{Binding Name, Mode=OneWay}"
                             LineBreakMode="TailTruncation"
                             HorizontalOptions="FillAndExpand"

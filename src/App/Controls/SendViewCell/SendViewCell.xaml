@@ -4,7 +4,6 @@
     x:Class="Bit.App.Controls.SendViewCell"
     xmlns:controls="clr-namespace:Bit.App.Controls"
     xmlns:u="clr-namespace:Bit.App.Utilities"
-    xmlns:core="clr-namespace:Bit.Core;assembly=BitwardenCore"
     StyleClass="list-row, list-row-platform"
     RowSpacing="0"
     ColumnSpacing="0"
@@ -24,7 +23,7 @@
         <ColumnDefinition Width="60" />
     </Grid.ColumnDefinitions>
 
-    <controls:IconLabel
+    <controls:FaLabel
         Grid.Row="0"
         Grid.Column="0"
         HorizontalOptions="Center"
@@ -62,58 +61,58 @@
             Grid.ColumnSpan="6"
             StyleClass="list-subtitle, list-subtitle-platform"
             Text="{Binding Send.DisplayDate}" />
-        <controls:IconLabel
+        <controls:FaLabel
             Grid.Column="1"
             Grid.Row="0"
             HorizontalOptions="Start"
             VerticalOptions="Center"
             StyleClass="list-title-icon"
             Margin="5, 0, 0, 0"
-            Text="{Binding Source={x:Static core:BitwardenIcons.ExclamationTriangle}}"
+            Text="&#xf071;"
             IsVisible="{Binding Send.Disabled, Mode=OneTime}"
             AutomationProperties.IsInAccessibleTree="True"
             AutomationProperties.Name="{u:I18n Disabled}" />
-        <controls:IconLabel
+        <controls:FaLabel
             Grid.Column="2"
             Grid.Row="0"
             HorizontalOptions="Start"
             VerticalOptions="Center"
             StyleClass="list-title-icon"
             Margin="5, 0, 0, 0"
-            Text="{Binding Source={x:Static core:BitwardenIcons.Key}}"
+            Text="&#xf084;"
             IsVisible="{Binding Send.HasPassword, Mode=OneTime}"
             AutomationProperties.IsInAccessibleTree="True"
             AutomationProperties.Name="{u:I18n Password}" />
-        <controls:IconLabel
+        <controls:FaLabel
             Grid.Column="3"
             Grid.Row="0"
             HorizontalOptions="Start"
             VerticalOptions="Center"
             StyleClass="list-title-icon"
             Margin="5, 0, 0, 0"
-            Text="{Binding Source={x:Static core:BitwardenIcons.Ban}}"
+            Text="&#xf05e;"
             IsVisible="{Binding Send.MaxAccessCountReached, Mode=OneTime}"
             AutomationProperties.IsInAccessibleTree="True"
             AutomationProperties.Name="{u:I18n MaxAccessCountReached}" />
-        <controls:IconLabel
+        <controls:FaLabel
             Grid.Column="4"
             Grid.Row="0"
             HorizontalOptions="Start"
             VerticalOptions="Center"
             StyleClass="list-title-icon"
             Margin="5, 0, 0, 0"
-            Text="{Binding Source={x:Static core:BitwardenIcons.Clock}}"
+            Text="&#xf017;"
             IsVisible="{Binding Send.Expired, Mode=OneTime}"
             AutomationProperties.IsInAccessibleTree="True"
             AutomationProperties.Name="{u:I18n Expired}" />
-        <controls:IconLabel
+        <controls:FaLabel
             Grid.Column="5"
             Grid.Row="0"
             HorizontalOptions="Start"
             VerticalOptions="Center"
             StyleClass="list-title-icon"
             Margin="5, 0, 0, 0"
-            Text="{Binding Source={x:Static core:BitwardenIcons.Trash}}"
+            Text="&#xf1f8;"
             IsVisible="{Binding Send.PendingDelete, Mode=OneTime}"
             AutomationProperties.IsInAccessibleTree="True"
             AutomationProperties.Name="{u:I18n PendingDelete}" />

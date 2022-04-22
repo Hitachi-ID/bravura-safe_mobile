@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Любими</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Съобщаване за грешка</value>
@@ -297,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Моят трезор</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Име</value>
@@ -442,13 +442,13 @@
     <value>Промяна на адреса за е-поща</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Адресът ви за е-поща може да се промени чрез сайта bitwarden.com. Искате ли да го посетите?</value>
+    <value>Адресът ви за е-поща може да се промени чрез сайта Bravura Safe. Искате ли да го посетите?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Промяна на главната парола</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Главната парола на трезор може да се промени чрез сайта bitwarden.com. Искате ли да го посетите?</value>
+    <value>Главната парола на трезор може да се промени чрез сайта Bravura Safe. Искате ли да го посетите?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Затваряне</value>
@@ -519,7 +519,7 @@
     <value>Импортиране на елементи</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Можете да внасяте записи в трезора си през уеб сайта bitwarden.com. Искате ли да се отвори?</value>
+    <value>Можете да внасяте записи в трезора си през уеб сайта Bravura Safe. Искате ли да се отвори?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Бързо внасяне в трезора на записи от други програми за управление на пароли.</value>
@@ -704,7 +704,7 @@
     <value>Двустепенно удостоверяване</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Двустепенното вписване защищава регистрацията ви като ви кара да потвърдите влизането си чрез устройство-ключ, приложение за идентификация, мобилно съобщение, телефонно обаждане или е-поща. Двустепенното вписване може да се включи чрез сайта bitwarden.com. Искате ли да го посетите?</value>
+    <value>Двустепенното вписване защищава регистрацията ви като ви кара да потвърдите влизането си чрез устройство-ключ, приложение за идентификация, мобилно съобщение, телефонно обаждане или е-поща. Двустепенното вписване може да се включи чрез сайта Bravura Safe. Искате ли да го посетите?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Отключване с {0}</value>
@@ -747,7 +747,7 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>В трезора липсват елементи за {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
     <value>При избиране на поле за въвеждане на данни ще се появява изскачащо прозорче на Битуорден. Ако го натиснете, ще задействате услугата за автоматично дописване и имената и паролите ще бъдат попълнени.</value>
@@ -1218,7 +1218,7 @@
   </data>
   <data name="URIPosition" xml:space="preserve">
     <value>Адрес {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Основен домейн</value>
@@ -1245,7 +1245,7 @@
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Откриване на съвпадения</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Да и обновяване</value>
@@ -1255,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Организация</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Поставете устройството YubiKey върху телефона си.</value>
@@ -1308,7 +1308,7 @@
     <value>4. Включете автоматичното дописване (AutoFill)</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Изберете „Битуорден“ (Bitwarden)</value>
+    <value>5. Изберете „Битуорден“ (Bravura Safe)</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Автоматично дописване на пароли</value>
@@ -1336,7 +1336,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>Адреси</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Проверка на паролата…</value>
@@ -1401,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} се премести в {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Записът е споделен.</value>
@@ -1453,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Битуорден позволява да споделяте записите в трезора си чрез регистрация на организация. Искате ли да научите повече от сайта bitwarden.com?</value>
+    <value>Битуорден позволява да споделяте записите в трезора си чрез регистрация на организация. Искате ли да научите повече от сайта hitachi-id.com?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Изнасяне на трезора</value>
@@ -1478,7 +1478,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Влезли сте като {0} в {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Трезорът е заключен — въведете главната си парола, за да продължите.</value>
@@ -1522,7 +1522,7 @@
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>Стандартно засичане на съвпадения на адреси</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
     <value>Изберете начина за засичане на съвпадения на адресите за автоматичното дописване при вписване.</value>
@@ -1649,7 +1649,7 @@
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Потвърждаване на изнасянето на трезора</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>ВНИМАНИЕ</value>
@@ -1678,7 +1678,7 @@
     <value>Прикаченият файл беше записан успешно</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Моля, включете услугата за автоматично попълване в настройките на Bitwarden, за да я използвате.</value>
+    <value>Моля, включете услугата за автоматично попълване в настройките на Bravura Safe, за да я използвате.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Не са открити полета за пароли</value>
@@ -1842,19 +1842,19 @@
   </data>
   <data name="Send" xml:space="preserve">
     <value>Изпращане</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>Всички изпращания</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>Изпращания</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>Описателно име за това изпращане.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Текст</value>
@@ -1864,7 +1864,7 @@
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>При достъп до изпращането стандартно текстът да се скрива</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Файл</value>
@@ -1880,7 +1880,7 @@
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
     <value>Изпращането ще бъде окончателно изтрито на зададената дата и време.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Предстои изтриване</value>
@@ -1893,7 +1893,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>При задаване — това изпращане ще се изключи на зададената дата и време.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Изтекъл</value>
@@ -1903,7 +1903,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>При задаване — това изпращане ще се изключи след определен брой достъпвания.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Достигнат е максималният брой достъпвания</value>
@@ -1916,7 +1916,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>Изискване на парола за достъп до това изпращане.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Премахване на парола</value>
@@ -1932,19 +1932,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>Скрити бележки за това изпращане.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
     <value>Пълно спиране на това изпращане — никой няма да има достъп.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>Няма изпращания.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
     <value>Добавяне на изпращане</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Копиране на връзката</value>
@@ -1954,35 +1954,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>Изпращане на връзката</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>Търсене в изпратените</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>Редактиране на изпращане</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
     <value>Добавяне на изпращане</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>Сигурни ли сте, че искате да изтриете това изпращане?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>Изпратеното е изтрито.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
     <value>Изпратеното е редактирано.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
     <value>Създадено е ново изпращане.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 ден</value>
@@ -2004,30 +2004,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>Споделяне на изпратеното при запис.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>Поради политика на организация, може само да изтривате съществуващи изпращания.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>Относно изпращането</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Скриване на е-пощата ми от получателите.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>Поне една политика на организация влияе на настройките за изпращане.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Безплатните регистрации могат да споделят само текст. Необходим е платен абонамент, за да можете да изпращате файлове.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Трябва да потвърдите е-пощата си, за да можете да изпращате файлове.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Повторно запитване за главната парола</value>

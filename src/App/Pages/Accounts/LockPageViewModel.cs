@@ -127,7 +127,7 @@ namespace Bit.App.Pages
 
         public Command SubmitCommand { get; }
         public Command TogglePasswordCommand { get; }
-        public string ShowPasswordIcon => ShowPassword ? BitwardenIcons.EyeSlash : BitwardenIcons.Eye;
+        public string ShowPasswordIcon => ShowPassword ? "" : "";
         public string MasterPassword { get; set; }
         public string Pin { get; set; }
         public Action UnlockedAction { get; set; }
@@ -156,7 +156,7 @@ namespace Bit.App.Pages
             var webVault = _environmentService.GetWebVaultUrl(true);
             if (string.IsNullOrWhiteSpace(webVault))
             {
-                webVault = "https://bitwarden.com";
+                webVault = "https://hitachi-id.com";
             }
             var webVaultHostname = CoreHelpers.GetHostname(webVault);
             LoggedInAsText = string.Format(AppResources.LoggedInAsOn, _email, webVaultHostname);
