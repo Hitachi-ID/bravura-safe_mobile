@@ -118,28 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden Gestor de contraseñas</value>
+    <value>Bravura Safe Gestor de contraseñas</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden es un gestor de usuarios y contraseñas que te ayuda a mantenerte a salvo mientras estás en línea.</value>
+    <value>Bravura Safe es un gestor de usuarios y contraseñas que te ayuda a mantenerte a salvo mientras estás en línea.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden es la manera más fácil y segura de guardar todos tus usuarios y contraseñas mientras se mantienen sincronizados entre todos tus dispositivos.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-El robo de contraseñas es un grave problema. Las páginas web y aplicaciones que usas están bajo ataque cada día. Las brechas de seguridad ocurren y tus contraseñas son robadas. Cuando usas la misma contraseña en diferentes aplicaciones o sitios web, los piratas 
-informáticos pueden acceder fácilmente a tu correo electrónico, cuenta bancaria y otras cuentas importantes.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Expertos en seguridad recomiendan utilizar contraseña generadas aleatoriamente y diferentes para cada cuenta que crees. ¿Pero como puedes gestionar todas esas contraseñas? Bitwarden te facilita su creación, guardado y acceso a tus contraseñas.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Bitwarden guarda todos tus usuarios en una bóveda cifrada sincronizada a través de todos tus dispositivos. Dado que la información está completamente cifrada en tu dispositivo, solo tú tienes acceso a los datos. Ni siquiera el equipo de Bitwarden podría leer tu información aunque quisiera. Tu información está sellada con cifrado AES de 256 bits, con semilla y PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden es un software 100% código abierto. El código fuente de Bitwarden está alojado en GitHub y cualquier persona es libre de revisarlo, auditarlo o contribuir al código base de Bitwarden.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">
-    <value>Un gestor de contraseñas seguro y gratuito para todos tus dispositivos</value>
+    <value>Un gestor de contraseñas seguro para todos tus dispositivos</value>
   </data>
   <data name="Screenshot1" xml:space="preserve">
     <value>Gestiona todos tus usuarios y contraseñas desde una caja fuerte</value>

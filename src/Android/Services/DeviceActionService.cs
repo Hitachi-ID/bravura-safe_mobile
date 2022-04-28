@@ -935,7 +935,7 @@ namespace Bit.Droid.Services
             var activity = (MainActivity)CrossCurrentActivity.Current.Activity;
             var clipboardManager = activity.GetSystemService(
                 Context.ClipboardService) as Android.Content.ClipboardManager;
-            clipboardManager.PrimaryClip = ClipData.NewPlainText("bitwarden", text);
+            clipboardManager.PrimaryClip = ClipData.NewPlainText("bravurasafe", text);
         }
 
         public float GetSystemFontSizeScale()

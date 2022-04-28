@@ -491,7 +491,6 @@ namespace Bit.App.Pages
                 otherItems.Add(new SettingsPageListItem { Name = AppResources.LearnOrg });
             }
             otherItems.Add(new SettingsPageListItem { Name = AppResources.HelpAndFeedback });
-            otherItems.Add(new SettingsPageListItem { Name = AppResources.DeleteAccount });
             // TODO: improve this. Leaving this as is to reduce error possibility on the hotfix.
             var settingsListGroupItems = new List<SettingsPageListGroup>()
             {

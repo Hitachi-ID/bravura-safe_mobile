@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden Διαχειριστής Κωδικών</value>
+    <value>Bravura Safe Διαχειριστής Κωδικών</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Το Bitwarden είναι ένας διαχειριστής συνδέσεων και κωδικών πρόσβασης που σας βοηθά να βρίσκεστε με ασφάλεια στο διαδίκτυο.</value>
+    <value>Το Bravura Safe είναι ένας διαχειριστής συνδέσεων και κωδικών πρόσβασης που σας βοηθά να βρίσκεστε με ασφάλεια στο διαδίκτυο.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Το Bitwarden είναι ο ευκολότερος και ασφαλέστερος τρόπος για να αποθηκεύσετε όλες τις συνδέσεις και τους κωδικούς πρόσβασης σας, διατηρώντας παράλληλα το συγχρονισμό μεταξύ όλων των συσκευών σας. Η επέκταση της εφαρμογής Bitwarden σάς επιτρέπει να συνδεθείτε γρήγορα σε οποιαδήποτε ιστοσελίδα μέσω του Safari ή του Chrome και υποστηρίζεται από εκατοντάδες άλλες δημοφιλείς εφαρμογές.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-Η κλοπή κωδικού πρόσβασης είναι ένα σοβαρό πρόβλημα. Οι ιστοσελίδες και οι εφαρμογές που χρησιμοποιείτε, βρίσκονται υπό επίθεση κάθε μέρα. Παραβιάσεις ασφαλείας συμβαίνουν και οι κωδικοί ίσως κλαπούν. Όταν επαναχρησιμοποιείτε τους ίδιους κωδικούς πρόσβασης σε εφαρμογές και ιστοσελίδες, οι χάκερ μπορούν εύκολα να έχουν πρόσβαση στο ηλεκτρονικό σας ταχυδρομείο, στην τράπεζα σας και σε άλλους σημαντικούς λογαριασμούς.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Οι ειδικοί ασφαλείας συστήνουν να χρησιμοποιείτε διαφορετικό, τυχαία δημιουργημένο κωδικό πρόσβασης για κάθε λογαριασμό που δημιουργείτε. Αλλά πώς διαχειρίζεστε όλους αυτούς τους κωδικούς πρόσβασης; Το Bitwarden σας διευκολύνει να δημιουργείτε, να αποθηκεύετε και να έχετε πρόσβαση στους κωδικούς πρόσβασης σας.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Το Bitwarden αποθηκεύει όλες τις συνδέσεις σας σε κρυπτογραφημένη μορφή, που συγχρονίζεται σε όλες τις συσκευές σας. Δεδομένου ότι είναι πλήρως κρυπτογραφημένο, μόνο εσείς έχετε πρόσβαση στα δεδομένα σας. Ούτε η ομάδα του Bitwarden δε μπορεί να διαβάσει τα δεδομένα σας, ακόμα κι αν θέλουμε. Τα δεδομένα σας είναι σφραγισμένα με κρυπτογράφηση AES-256 bit, salted hashing και PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Το Bitwarden είναι ένα 100% ανοικτού κώδικα λογισμικό. Ο πηγαίος κώδικας για το Bitwarden φιλοξενείται στο GitHub και ο καθένας είναι ελεύθερος να επανεξετάσει, να ελέγξει και να συνεισφέρει στον κώδικα βάσης του Bitwarden.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

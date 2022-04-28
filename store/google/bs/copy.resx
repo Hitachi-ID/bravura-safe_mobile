@@ -118,39 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden - Besplatni upravitelj lozinkama</value>
+    <value>Bravura Safe - Besplatni upravitelj lozinkama</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden je menadžer za prijavljivanje i lozinke koji vam pomaže da budete bezbjedni dok ste na mreži.</value>
+    <value>Bravura Safe je menadžer za prijavljivanje i lozinke koji vam pomaže da budete bezbjedni dok ste na mreži.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden, Inc. je vlasnik tvrtke 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-THE VERGE, U.S. NEWS &amp; WORLD REPORT, CNET I DRUGI ODABRALI SU BITWARDEN ZA NAJBOLJI UPRAVITELJ LOZINKI. 
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Upravljajte, spremajte, osigurajte i dijelite neograničen broj lozinki na neograničenom broju uređaja bilo gdje. Bitwarden omogućuje upravljanje lozinkama, bazirano na otvorenom kodu, svima, bilo kod kuće, na poslu ili u pokretu.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Generirajte jake, jedinstvene i nasumične lozinke bazirane na sigurnosnim zahtjevima za svaku web stranicu koju često posjećujete.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden Send omogućuje jednostavno i brzo slanje šifriranih podataka --- datoteki ili teksta -- direktno, bilo kome.
-
-Bitwarden nudi Teams i Enterprise planove za tvrtke kako biste sigurno mogli dijeliti lozinke s kolegama na poslu.
-
-Zašto odabrati Bitwarden?
-
-Svjetski priznata enkripcija
-Lozinke su zaštićene naprednim end-to-end šifriranjem (AES-256 bit, salted hashtag i PBKDF2 SHA-256) kako bi vaši osobni podaci ostali sigurni i samo vaši.
-
-Ugrađen generator lozinki
-Generirajte jake, jedinstvene i nasumične lozinke bazirane na sigurnosnim zahtjevima za svako web mjesto koje često posjećujete.
-
-Svjetski dostupan 
-Bitwarden je, zahvaljujući našoj globalnoj zajednici, dostupan na više od 40 jezika.
-
-Podržani svi OS
-Osigurajte i sigurno dijelite osjetljive podatke sadržane u vašem Bitwarden trezoru iz bilo kojeg preglednika, mobilnog uređaja ili stolnog računala s bilo kojim OS.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

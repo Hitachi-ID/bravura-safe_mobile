@@ -118,39 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Manager de parole Bitwarden</value>
+    <value>Manager de parole Bravura Safe</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden este un manager de conectare și parole care vă ajută să fiți în siguranță când sunteți on-line.</value>
+    <value>Bravura Safe este un manager de conectare și parole care vă ajută să fiți în siguranță când sunteți on-line.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden, Inc. este compania mamă a 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-NUMIT CEL MAI BUN MANAGER DE PAROLE DE CĂTRE THE VERGE, U.S. NEWS &amp; WORLD REPORT, CNET, ȘI MULȚI ALȚII.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Gestionează, stochează, securizează și partajează parole nelimitate, pe dispozitive nelimitate, de oriunde. Bitwarden oferă soluții de gestionare a parolelor open source pentru toată lumea, fie acasă, la serviciu sau în deplasare.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Generează parole puternice, unice și aleatorii pe baza cerințelor de securitate a fiecărui site web pe care îl frecventați.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden Send transmite rapid informații criptate --- fișiere și text simplu -- direct către oricine.
-
-Bitwarden oferă planurile Echipe și Organizație pentru companii, astfel încât să puteți partaja în siguranță parolele cu colegii.
-
-De ce să alegeți Bitwarden:
-
-Criptare de clasă mondială
-Parolele sunt protejate cu criptare avansată completă (AES-256 bit, hashtag experimentat și PBKDF2 SHA-256), astfel încât datele dvs. să rămână sigure și private.
-
-Generator de parole încorporat
-Generează parole puternice, unice și aleatorii pe baza cerințelor de securitate a fiecărui site web pe care îl frecventați.
-
-Traducere în mai multe limbi
-Bitwarden este deja tradus în 40 de limbi și numărul lor crește, datorită comunității noastre mondiale.
-
-Aplicații multi-platformă
-Asigură și partajează date sensibile din seiful Bitwarden de pe orice browser, dispozitiv mobil sau sistem de operare desktop și multe altele.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

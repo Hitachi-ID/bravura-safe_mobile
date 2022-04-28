@@ -494,9 +494,9 @@ namespace Bit.Core.Services
             }
             var globalUserInputs = new List<string>
             {
-                "bitwarden",
-                "bit",
-                "warden"
+                "bravurasafe",
+                "bravura",
+                "safe"
             };
             if (userInputs != null && userInputs.Any())
             {
