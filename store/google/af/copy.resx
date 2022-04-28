@@ -118,39 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden Wagwoordbestuurder</value>
+    <value>Bravura Safe Wagwoordbestuurder</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden is ’n aanteken- en wagwoordbestuurder wat u help om veilig te bly wanneer u aanlyn is.</value>
+    <value>Bravura Safe is ’n aanteken- en wagwoordbestuurder wat u help om veilig te bly wanneer u aanlyn is.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden, Inc. is die moederbedryf van 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-BESTE WAGWOORDBESTUURDER VOLGENS THE VERGE, U.S. NEWS &amp; WORLD REPORT, CNET EN ANDER.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Beheer, bewaar, beveilig en deel ’n onbeperkte aantal wagwoorde op ’n onbeperkte aantal toestelle, waar u ookal is. Bitwarden bied oopbronwagwoordbestuuroplossings voor elk, hetsy tuis, op kantoor of op die pad.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Genereer sterk, unieke en lukrake wagwoorde gebaseer op beveiligingsvereistes vir elke webwerf wat u besoek.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden Send verstuur geënkripteerde inligting --- lêers en skoonteks -- vinnig regstreeks aan enigeen.
-
-Bitwarden bied Span- en Ondernemingsplanne vir maatskappye, sodat u wagwoorde veilig met kollega’s kan deel.
-
-Waarom Bitwarden:
-
-Eersteklasenkripsie
-Wagwoorde word beskerm met gevorderde eind-tot-eind-enkodering (AES-256 bit, salted hashtag en PBKDF2 SHA-256) sodat u data veilig en privaat bly.
-
-Ingeboude wagwoordgenereerder
-Genereer sterk, unieke en lukrake wagwoorde gebaseer op beveiligingsvereistes vir elke webwerf wat u besoek.
-
-Wêreldwye vertalings
-Bitwarden-vertalings bestaan ​​in 40 tale en groei danksy ons wêreldwye gemeenskap.
-
-Kruisplatformtoepassings
-Beveilig en deel gevoelige data in u Bitwarden kluis vanuit enige blaaier, mobiele toestel of werkskermbedryfstelsel, en meer.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

@@ -118,43 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden - Gerenciador de Senhas</value>
+    <value>Bravura Safe - Gerenciador de Senhas</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>O Bitwarden é um gerenciador de senhas que ajuda a mantê-lo seguro online.</value>
+    <value>O Bravura Safe é um gerenciador de senhas que ajuda a mantê-lo seguro online.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden, Inc. é a empresa sede da 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-NOMEADO MELHOR GERENCIADOR DE SENHAS PELA VERGE, U.S. NEWS &amp; WORLD REPORT, CNET E MAIS.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Gerencie, armazene, proteja e compartilhe senhas ilimitadas em dispositivos ilimitados em qualquer lugar. O Bitwarden oferece soluções de gerenciamento de senha de código aberto para todos, seja em casa, no trabalho ou em trânsito.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Gere senhas fortes, exclusivas e aleatórias com base nos requisitos de segurança de cada site que você frequenta.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-O Bitwarden Send transmite rapidamente informações criptografadas - arquivos e texto simples - diretamente para qualquer pessoa.
-
-O Bitwarden oferece planos Teams e Enterprise para empresas, para que você possa compartilhar as senhas com colegas em segurança.
-
-Por que Escolher o Bitwarden:
-
-Criptografia de Classe Mundial
-As senhas são protegidas com criptografia ponta a ponta avançada (AES-256 bits, salted hashtag e PBKDF2 SHA-256) para que seus dados permaneçam seguros e privados.
-
-Gerador de Senhas Embutido
-Gere senhas fortes, exclusivas e aleatórias com base nos requisitos de segurança de cada site que você frequenta.
-
-Traduções Globais
-As traduções do Bitwarden existem em 40 idiomas e estão crescendo, graças à nossa comunidade global.
-
-Aplicativos Multiplataforma
-Proteja e compartilhe dados confidenciais em seu Cofre Bitwarden com qualquer navegador, dispositivo móvel ou sistema operacional desktop e muito mais.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">
-    <value>Um gerenciador de senhas gratuito e seguro para todos os seus dispositivos</value>
+    <value>Um gerenciador de senhas seguro para todos os seus dispositivos</value>
   </data>
   <data name="Screenshot1" xml:space="preserve">
     <value>Gerencie todas as suas credenciais a partir de um cofre seguro</value>

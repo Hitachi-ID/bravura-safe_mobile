@@ -118,26 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>مدیر گذرواژه Bitwarden</value>
+    <value>مدیر گذرواژه Bravura Safe</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden یک مدیریت کننده رمز عبور و ورود است که به حفظ امنیت شما هنگام آنلاین بودن کمک میکند.</value>
+    <value>Bravura Safe یک مدیریت کننده رمز عبور و ورود است که به حفظ امنیت شما هنگام آنلاین بودن کمک میکند.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden ساده ترین و امن ترین راه گردآوری تمام داده های ورودی و پسوردها است در حالی که به راحتی آنها را بین تمامی دستگاه ها همگام میکند.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-سرقت پسورد یک مشکل جدی است. وبسایت ها و اپلیکیشن هایی که شما از آنها استفاده میکنید هر روز تحت حملات قرار دارند. نقص های امنیتی رخ میدهند و پسوردها به سرقت میروند. زمانی که شما مجدداً از همان پسورد برای تمام وبسایت ها و اپلیکیشن ها استفاده میکنید هکرها می‌توانند به راحتی به ایمیل، حساب بانکی، و سایر حسابهای کاربریتان دسترسی داشته باشند.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-متخصصان امنیتی توصیه میکنند که برای هر حساب کاربری که ایجاد میکنید از پسوردهای متفاوت و تصادفی تولید شده استفاده کنید. اما چطور تمامی این پسورها را مدیریت میکنید؟ بیت واردن ساختن، نگهداری، ودسترسی به پسوردهایتان را آسان میکند.
-
-
-Bitwarden تمامی داده های ورودی شما را در یک گاو صندوق رمزنگاری شده نگهداری میکند که قابل همگام سازی توسط تمامی دستگاه های شماست. از آنجا که این داده ها هر زمان قبل از ترک دستگاهتان کاملا رمزنگاری میشود، فقط شما به اطلاعاتتان دسترسی دارید. حتی اگر تیم ما در بیت واردن هم بخواهند نمیتوانند اطلاعات شما را مشاهده کنند. داده های شما توسط رمزگذاری AES-256 بیتی، هَش خرد شده، و PBKDF2SHA-256 رمزنگاری شده است.
-
-Bitwarden ۱۰۰٪ یک برنامه متن باز است. کد منبع بیت واردن در GitHub میزبانی میشود و هر کس آزاد است برای بررسی، تفتیش و کمک به کد دسترسی داشته باشد.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

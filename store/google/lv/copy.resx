@@ -118,24 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden paroļu pārvaldnieks</value>
+    <value>Bravura Safe paroļu pārvaldnieks</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden ir pierakstīšanās datu un paroļu pārvaldnieks, kas palīdz uzturēt Tavu drošību tiešsaistē.</value>
+    <value>Bravura Safe ir pierakstīšanās datu un paroļu pārvaldnieks, kas palīdz uzturēt Tavu drošību tiešsaistē.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden ir vieglākais un drošākais veids, kā glabāt visus pierakstīšanās vienumus un paroles, vienlaicīgi ērti uzturot tās sinhronizētas visās ierīcēs.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-Paroļu zagšana ir nopietna nebūšana. Tīmekļa vietnēm un lietotnēm uzbrūk katru dienu. Datu drošības pārkāpumos tiek nozagtas paroles. Kad viena un tā pati parole tiek izmantota lietotnēs un tīmekļa vietnēs, urķi var viegli piekļūt e-pasta, banku un citiem būtiskiem kontiem.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Drošības lietpratēji iesaka katram izveidotajam kontam izmantot dažādas, nejauši veidotas paroles. Kā tās visas pārvaldīt? Bitwarden atvieglo paroļu izveidošanu, glabāšanu un piekļūšanu tām.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Bitwarden uzglabā visus pierakstīšanās vienumus šifrētā glabātavā, kas tiek sinhronizēta visās izmantotajās ierīcēs. Tā kā tā dati tiek pilnībā šifrēti, pirms tie tiek izsūtīti no izmantotās ierīces, piekļuve tiem ir tikai glabātavas īpašniekam. Pat Bitwarden izstrādātāji nevar lasīt datus, pat ja to gribētu. Informācija tiek aizsargāta ar AES-256 bitu šifrēšanu, "sālīto" jaukšanu un PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden ir vērsts uz atvērtā pirmkoda programmatūru. Bitwarden atvērtais pirmkods ir izvietots GitHub, un ikkatram ir iespēja pārskatīt, pārbaudīt un sniegt ieguldījumu Bitwarden pirmkodā.
-</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

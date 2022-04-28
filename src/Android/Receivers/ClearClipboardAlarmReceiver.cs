@@ -8,7 +8,7 @@ namespace Bit.Droid.Receivers
         public override void OnReceive(Context context, Intent intent)
         {
             var clipboardManager = context.GetSystemService(Context.ClipboardService) as ClipboardManager;
-            clipboardManager.PrimaryClip = ClipData.NewPlainText("bitwarden", " ");
+            clipboardManager.PrimaryClip = ClipData.NewPlainText("bravurasafe", " ");
         }
     }
 }
