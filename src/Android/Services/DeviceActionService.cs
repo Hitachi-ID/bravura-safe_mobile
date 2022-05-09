@@ -271,7 +271,7 @@ namespace Bit.Droid.Services
             {
                 var intent = new Intent(Intent.ActionView);
                 var uri = FileProvider.GetUriForFile(activity.ApplicationContext,
-                    "com.x8bit.bitwarden.fileprovider", file);
+                    "com.hitachi-id.safe.fileprovider", file);
                 intent.SetDataAndType(uri, mimeType);
                 intent.SetFlags(ActivityFlags.GrantReadUriPermission);
                 return intent;
@@ -368,7 +368,7 @@ namespace Bit.Droid.Services
                             file.CreateNewFile();
                         }
                         var outputFileUri = FileProvider.GetUriForFile(activity,
-                            "com.x8bit.bitwarden.fileprovider", file);
+                            "com.hitachi-id.safe.fileprovider", file);
                         additionalIntents.AddRange(GetCameraIntents(outputFileUri));
                     }
                     catch (Java.IO.IOException) { }

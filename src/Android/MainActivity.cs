@@ -224,7 +224,7 @@ namespace Bit.Droid
                 {
                     // camera
                     var file = new Java.IO.File(FilesDir, "temp_camera_photo.jpg");
-                    uri = FileProvider.GetUriForFile(this, "com.x8bit.bitwarden.fileprovider", file);
+                    uri = FileProvider.GetUriForFile(this, "com.hitachi-id.safe.fileprovider", file);
                     fileName = $"photo_{DateTime.UtcNow.ToString("yyyyMMddHHmmss")}.jpg";
                 }
 

@@ -15,7 +15,7 @@ using Bit.Core.Utilities;
 
 namespace Bit.Droid.Autofill
 {
-    [Service(Permission = Manifest.Permission.BindAutofillService, Label = "Bitwarden")]
+    [Service(Permission = Manifest.Permission.BindAutofillService, Label = "Bravura Safe")]
     [IntentFilter(new string[] { "android.service.autofill.AutofillService" })]
     [MetaData("android.autofill", Resource = "@xml/autofillservice")]
     [Register("com.x8bit.bitwarden.Autofill.AutofillService")]
