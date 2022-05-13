@@ -31,7 +31,7 @@ namespace Bit.Droid
 #else
     [Application(Debuggable = false)]
 #endif
-    [Register("com.x8bit.bitwarden.MainApplication")]
+    [Register("com.hitachi_id.safe.MainApplication")]
 #if FDROID
     public class MainApplication : Application
 #else

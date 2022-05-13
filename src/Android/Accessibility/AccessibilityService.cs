@@ -18,10 +18,10 @@ namespace Bit.Droid.Accessibility
     [Service(Permission = Android.Manifest.Permission.BindAccessibilityService, Label = "Bravura Safe")]
     [IntentFilter(new string[] { "android.accessibilityservice.AccessibilityService" })]
     [MetaData("android.accessibilityservice", Resource = "@xml/accessibilityservice")]
-    [Register("com.x8bit.bitwarden.Accessibility.AccessibilityService")]
+    [Register("com.hitachi_id.safe.Accessibility.AccessibilityService")]
     public class AccessibilityService : Android.AccessibilityServices.AccessibilityService
     {
-        private const string BitwardenPackage = "com.x8bit.bitwarden";
+        private const string BitwardenPackage = "com.hitachi_id.safe";
         private const string BitwardenWebsite = "vault.hitachi-id.com";
 
         private IStateService _stateService;
