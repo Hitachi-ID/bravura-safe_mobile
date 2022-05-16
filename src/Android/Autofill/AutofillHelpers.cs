@@ -137,7 +137,7 @@ namespace Bit.Droid.Autofill
         {
             "androidapp://android",
             "androidapp://com.android.settings",
-            "androidapp://com.x8bit.bitwarden",
+            "androidapp://com.hitachi_id.safe",
             "androidapp://com.oneplus.applocker",
         };
 

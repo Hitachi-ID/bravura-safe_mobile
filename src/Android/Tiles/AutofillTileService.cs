@@ -14,7 +14,7 @@ namespace Bit.Droid.Tile
     [Service(Permission = Manifest.Permission.BindQuickSettingsTile, Label = "@string/AutoFillTile",
         Icon = "@drawable/shield")]
     [IntentFilter(new string[] { ActionQsTile })]
-    [Register("com.x8bit.bitwarden.AutofillTileService")]
+    [Register("com.hitachi_id.safe.AutofillTileService")]
     public class AutofillTileService : TileService
     {
         private IStateService _stateService;

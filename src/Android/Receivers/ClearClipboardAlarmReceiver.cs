@@ -2,7 +2,7 @@
 
 namespace Bit.Droid.Receivers
 {
-    [BroadcastReceiver(Name = "com.x8bit.bitwarden.ClearClipboardAlarmReceiver", Exported = false)]
+    [BroadcastReceiver(Name = "com.hitachi_id.safe.ClearClipboardAlarmReceiver", Exported = false)]
     public class ClearClipboardAlarmReceiver : BroadcastReceiver
     {
         public override void OnReceive(Context context, Intent intent)

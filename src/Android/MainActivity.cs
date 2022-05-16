@@ -26,7 +26,7 @@ namespace Bit.Droid
     // They have been hardcoded so we can use the default LaunchMode on Android 11+
     // LaunchMode defined in values/manifest.xml for Android 10- and values-v30/manifest.xml for Android 11+
     // See https://github.com/bitwarden/mobile/pull/1673 for details
-    [Register("com.x8bit.bitwarden.MainActivity")]
+    [Register("com.hitachi_id.safe.MainActivity")]
     public class MainActivity : Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         private IDeviceActionService _deviceActionService;
@@ -224,7 +224,7 @@ namespace Bit.Droid
                 {
                     // camera
                     var file = new Java.IO.File(FilesDir, "temp_camera_photo.jpg");
-                    uri = FileProvider.GetUriForFile(this, "com.hitachi-id.safe.fileprovider", file);
+                    uri = FileProvider.GetUriForFile(this, "com.hitachi_id.safe.fileprovider", file);
                     fileName = $"photo_{DateTime.UtcNow.ToString("yyyyMMddHHmmss")}.jpg";
                 }
 
