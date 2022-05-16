@@ -6,9 +6,9 @@ The original work is available at [https://github.com/bitwarden/mobile].
 The original documentation is available at [https://bitwarden.com/help/].
 A complete list of all changes is available in the git history of this project.
 
-This project contains themobile applications.
+This project contains the mobile applications.
 
-# Bitwarden Mobile Application
+# Mobile Application
 
 <a href="https://play.google.com/store/apps/details?id=com.x8bit..<replace me>" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/.<replace me>.png" width="153" height="46"></a> <a href="https://mobileapp.<replace me>/fdroid/" target="_blank"><img alt="Get it on Google Play" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/.<replace me>/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/.<replace me>.png" width="135" height="40"></a>
 
