@@ -285,7 +285,7 @@ namespace Bit.App.Pages
 
         public void ShowAbout()
         {
-            _platformUtilsService.LaunchUri("https://hitachi-id.com/products/send/");
+            _platformUtilsService.LaunchUri(" https://docs.hitachi-id.net/safe/#/home/27270/10/11");
         }
 
         private async Task LoadDataAsync()
