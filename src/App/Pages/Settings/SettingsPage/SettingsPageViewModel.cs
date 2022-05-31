@@ -143,7 +143,7 @@ namespace Bit.App.Pages
 
         public void Help()
         {
-            _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/MY_SAFE_/10/11");
+            _platformUtilsService.LaunchUri("https://docs.hitachi-id.net/safe/#/home/2202/10/11");
         }
 
         public async Task FingerprintAsync()
