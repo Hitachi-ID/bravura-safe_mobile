@@ -60,7 +60,7 @@
                         IsPassword="{Binding ShowPassword, Converter={StaticResource inverseBool}}"
                         Grid.Row="1"
                         Grid.Column="0" />
-                    <controls:IconButton
+                    <controls:FaButton
                         StyleClass="box-row-button, box-row-button-platform"
                         Text="{Binding ShowPasswordIcon}"
                         Command="{Binding TogglePasswordCommand}"
@@ -98,7 +98,7 @@
                         IsPassword="{Binding ShowPassword, Converter={StaticResource inverseBool}}"
                         Grid.Row="1"
                         Grid.Column="0" />
-                    <controls:IconButton
+                    <controls:FaButton
                         StyleClass="box-row-button, box-row-button-platform"
                         Text="{Binding ShowPasswordIcon}"
                         Command="{Binding ToggleConfirmPasswordCommand}"
@@ -140,7 +140,7 @@
                                       TextColor="{DynamicResource HyperlinkColor}">
                                     <Span.GestureRecognizers>
                                         <TapGestureRecognizer Command="{Binding PoliciesClickCommand}"
-                                                              CommandParameter="https://bitwarden.com/terms/" />
+                                                              CommandParameter="https://hitachi-id.com/terms/" />
                                     </Span.GestureRecognizers>
                                 </Span>
                                 <Span Text=", " />
@@ -148,7 +148,7 @@
                                       TextColor="{DynamicResource HyperlinkColor}">
                                     <Span.GestureRecognizers>
                                         <TapGestureRecognizer Command="{Binding PoliciesClickCommand}"
-                                                              CommandParameter="https://bitwarden.com/privacy/" />
+                                                              CommandParameter="https://hitachi-id.com/privacy/" />
                                     </Span.GestureRecognizers>
                                 </Span>
                             </FormattedString>

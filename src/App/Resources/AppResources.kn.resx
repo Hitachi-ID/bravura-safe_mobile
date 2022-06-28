@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>ಮೆಚ್ಚುಗೆಗಳು</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>ದೋಷ ವರದಿಯನ್ನು ಫೈಲ್ ಮಾಡಿ</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>ಲಾಗ್ ಔಟ್ ಮಾಡಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Remove Account</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Are you sure you want to remove this account?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Account Already Added</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Would you like to switch to it now?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>ನನ್ನ ವಾಲ್ಟ್</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>ಹೆಸರು</value>
@@ -345,7 +357,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -431,13 +443,13 @@
     <value>ಇಮೇಲ್ ಬದಲಾಯಿಸಿ</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನೀವು bitwarden.com ವೆಬ್ ವಾಲ್ಟ್‌ನಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು. ನೀವು ಈಗ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಲು ಬಯಸುವಿರಾ?</value>
+    <value>ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ನೀವು Bravura Safe ವೆಬ್ ವಾಲ್ಟ್‌ನಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು. ನೀವು ಈಗ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಲು ಬಯಸುವಿರಾ?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>ನಿಮ್ಮ ಮಾಸ್ಟರ್ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೀವು bitwarden.com ವೆಬ್ ವಾಲ್ಟ್‌ನಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು. ನೀವು ಈಗ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಲು ಬಯಸುವಿರಾ?</value>
+    <value>ನಿಮ್ಮ ಮಾಸ್ಟರ್ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೀವು Bravura Safe ವೆಬ್ ವಾಲ್ಟ್‌ನಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು. ನೀವು ಈಗ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಲು ಬಯಸುವಿರಾ?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>ಮುಚ್ಚಿ</value>
@@ -736,7 +748,7 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>{0} ಗೆ ನಿಮ್ಮ ವಾಲ್ಟ್‌ನಲ್ಲಿ ಯಾವುದೇ ಐಟಂಗಳಿಲ್ಲ.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
     <value>ನೀವು ಇನ್ಪುಟ್ ಕ್ಷೇತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ ಮತ್ತು ಬಿಟ್ವಾರ್ಡೆನ್ ಸ್ವಯಂ-ಭರ್ತಿ ಓವರ್ಲೇ ಅನ್ನು ನೋಡಿದಾಗ, ಸ್ವಯಂ-ಭರ್ತಿ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ನೀವು ಅದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಬಹುದು.</value>
@@ -787,7 +799,7 @@
     <value>ನೀವು "{0}" ಗಾಗಿ ಸ್ವಯಂ-ಭರ್ತಿ ಐಟಂ ಅನ್ನು ಹುಡುಕುತ್ತಿದ್ದೀರಿ.</value>
   </data>
   <data name="LearnOrg" xml:space="preserve">
-    <value>Learn About Organizations</value>
+    <value>Learn About Teams</value>
   </data>
   <data name="CannotOpenApp" xml:space="preserve">
     <value>"{0}" ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ.</value>
@@ -1207,7 +1219,7 @@
   </data>
   <data name="URIPosition" xml:space="preserve">
     <value>ಯುಆರ್ಐ {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>ಮೂಲ ಡೊಮೇನ್</value>
@@ -1234,7 +1246,7 @@
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>ಹೊಂದಾಣಿಕೆ ಪತ್ತೆ</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>ಹೌದು, ಮತ್ತು ಉಳಿಸಿ</value>
@@ -1244,7 +1256,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>ಸಂಸ್ಥೆ</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>ನಿಮ್ಮ ಯುಬಿಕಿಯನ್ನು ಸಾಧನದ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಹಿಡಿದುಕೊಳ್ಳಿ.</value>
@@ -1325,7 +1337,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>ಯುಆರ್ಐಗಳು</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>ಪಾಸ್‌ವರ್ಡ್ ಪರಿಶೀಲಿಸುತ್ತಿದೆ…</value>
@@ -1390,7 +1402,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} moved to {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>ಐಟಂ ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ.</value>
@@ -1405,13 +1417,13 @@
     <value>ಐಟಂ ಹಂಚಿಕೊಳ್ಳಿ</value>
   </data>
   <data name="MoveToOrganization" xml:space="preserve">
-    <value>Move to Organization</value>
+    <value>Move to Team</value>
   </data>
   <data name="NoOrgsToList" xml:space="preserve">
     <value>ಪಟ್ಟಿ ಮಾಡಲು ಯಾವುದೇ ಸಂಸ್ಥೆಗಳು ಇಲ್ಲ.</value>
   </data>
   <data name="MoveToOrgDesc" xml:space="preserve">
-    <value>Choose an organization that you wish to move this item to. Moving to an organization transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</value>
+    <value>Choose a team that you wish to move this item to. Moving to a team transfers ownership of the item to that team. You will no longer be the direct owner of this item once it has been moved.</value>
   </data>
   <data name="NumberOfWords" xml:space="preserve">
     <value>ಪದಗಳ ಸಂಖ್ಯೆ</value>
@@ -1442,7 +1454,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden allows you to share your vault items with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?</value>
+    <value>Bravura Safe allows you to share your safe items with others by using a team account. Would you like to visit the hitachi-id.com website to learn more?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>ರಫ್ತು ವಾಲ್ಟ್</value>
@@ -1457,7 +1469,7 @@
     <value>ಅನ್‌ಲಾಕ್ ಮಾಡಿ</value>
   </data>
   <data name="UnlockVault" xml:space="preserve">
-    <value>Unlock Vault</value>
+    <value>Unlock Safe</value>
   </data>
   <data name="ThirtyMinutes" xml:space="preserve">
     <value>30 ನಿಮಿಷಗಳು</value>
@@ -1467,7 +1479,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1} ನಲ್ಲಿ {0} ಆಗಿ ಲಾಗ್ ಇನ್ ಮಾಡಲಾಗಿದೆ.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>ನಿಮ್ಮ ವಾಲ್ಟ್ ಲಾಕ್ ಆಗಿದೆ. ಮುಂದುವರೆಯಲು ನಿಮ್ಮ ಮಾಸ್ಟರ್ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ.</value>
@@ -1476,7 +1488,7 @@
     <value>ನಿಮ್ಮ ವಾಲ್ಟ್ ಲಾಕ್ ಆಗಿದೆ. ಮುಂದುವರೆಯಲು ನಿಮ್ಮ ಪಿನ್ ಕೋಡ್ ಪರಿಶೀಲಿಸಿ.</value>
   </data>
   <data name="VaultLockedIdentity" xml:space="preserve">
-    <value>Your vault is locked. Verify your identity to continue.</value>
+    <value>Your safe is locked. Verify your identity to continue.</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>ಡಾರ್ಕ್</value>
@@ -1511,10 +1523,10 @@
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>ಡೀಫಾಲ್ಟ್ ಯುಆರ್ಐ ಹೊಂದಾಣಿಕೆ ಪತ್ತೆ</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>ಸ್ವಯಂ ಭರ್ತಿಯಂತಹ ಕ್ರಿಯೆಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಲಾಗಿನ್‌ಗಳಿಗಾಗಿ URI ಹೊಂದಾಣಿಕೆ ಪತ್ತೆಹಚ್ಚುವಿಕೆಯನ್ನು ನಿರ್ವಹಿಸುವ ಪೂರ್ವನಿಯೋಜಿತ ಮಾರ್ಗವನ್ನು ಆರಿಸಿ.</value>
+    <value>ಸ್ವಯಂ ಭರ್ತಿಯಂತಹ ಕ್ರಿಯೆಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಲಾಗಿನ್‌ಗಳಿಗಾಗಿ URL ಹೊಂದಾಣಿಕೆ ಪತ್ತೆಹಚ್ಚುವಿಕೆಯನ್ನು ನಿರ್ವಹಿಸುವ ಪೂರ್ವನಿಯೋಜಿತ ಮಾರ್ಗವನ್ನು ಆರಿಸಿ.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>ಥೀಮ್ಸ್</value>
@@ -1638,7 +1650,7 @@
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>ವಾಲ್ಟ್ ರಫ್ತು ಖಚಿತಪಡಿಸಿ</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>ಎಚ್ಚರಿಕೆ</value>
@@ -1824,26 +1836,26 @@
     <value>ಸಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ, ಆಂಡ್ರಾಯ್ಡ್ ಆಟೋಫಿಲ್ ಫ್ರೇಮ್‌ವರ್ಕ್ ಅನ್ನು ಬೆಂಬಲಿಸದ ಹಳೆಯ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗಾಗಿ ಆಟೋಫಿಲ್ ಸೇವೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಪ್ರವೇಶಿಸುವಿಕೆಯು ಪಾಪ್ಅಪ್ ಅನ್ನು ತೋರಿಸುತ್ತದೆ.</value>
   </data>
   <data name="PersonalOwnershipSubmitError" xml:space="preserve">
-    <value>Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections.</value>
+    <value>Due to an Enterprise Policy, you are restricted from saving items to your personal safe. Change the Ownership option to a team and choose from available Collections.</value>
   </data>
   <data name="PersonalOwnershipPolicyInEffect" xml:space="preserve">
     <value>ಸಂಸ್ಥೆಯ ನೀತಿಯು ನಿಮ್ಮ ಮಾಲೀಕತ್ವದ ಆಯ್ಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ.</value>
   </data>
   <data name="Send" xml:space="preserve">
     <value>ಕಳುಹಿಸಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>ಎಲ್ಲಾ ಕಳುಹಿಸುತ್ತದೆ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>ಕಳುಹಿಸುತ್ತದೆ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>ಇದನ್ನು ಕಳುಹಿಸಲು ವಿವರಿಸಲು ಸ್ನೇಹಪರ ಹೆಸರು.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>ಪಠ್ಯ</value>
@@ -1853,7 +1865,7 @@
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಪ್ರವೇಶಿಸುವಾಗ, ಪಠ್ಯವನ್ನು ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಮರೆಮಾಡಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>ಫೈಲ್</value>
@@ -1869,7 +1881,7 @@
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
     <value>ಕಳುಹಿಸಿದ ದಿನಾಂಕ ಮತ್ತು ಸಮಯದ ಮೇಲೆ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>ಅಳಿಸುವಿಕೆ ಬಾಕಿ ಉಳಿದಿದೆ</value>
@@ -1882,7 +1894,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>ಹೊಂದಿಸಿದ್ದರೆ, ಈ ಕಳುಹಿಸುವಿಕೆಯ ಪ್ರವೇಶವು ನಿಗದಿತ ದಿನಾಂಕ ಮತ್ತು ಸಮಯದ ಮೇಲೆ ಮುಕ್ತಾಯಗೊಳ್ಳುತ್ತದೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>ಅವಧಿ ಮೀರಿದೆ</value>
@@ -1892,7 +1904,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>ಹೊಂದಿಸಿದ್ದರೆ, ಗರಿಷ್ಠ ಪ್ರವೇಶ ಎಣಿಕೆ ತಲುಪಿದ ನಂತರ ಬಳಕೆದಾರರಿಗೆ ಈ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>ಗರಿಷ್ಠ ಪ್ರವೇಶ ಎಣಿಕೆ ತಲುಪಿದೆ</value>
@@ -1905,7 +1917,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>ಈ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಬಳಕೆದಾರರಿಗೆ ಪಾಸ್‌ವರ್ಡ್ ಐಚ್ ಗತ್ಯವಿದೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>ಪಾಸ್ವರ್ಡ್ ತೆಗೆದುಹಾಕಿ</value>
@@ -1921,19 +1933,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>ಈ ಕಳುಹಿಸುವ ಬಗ್ಗೆ ಖಾಸಗಿ ಟಿಪ್ಪಣಿಗಳು.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
     <value>ಇದನ್ನು ಕಳುಹಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ ಇದರಿಂದ ಯಾರೂ ಅದನ್ನು ಪ್ರವೇಶಿಸಲಾಗುವುದಿಲ್ಲ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ಯಾವುದೇ ಕಳುಹಿಸುವಿಕೆಗಳಿಲ್ಲ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
     <value>ಕಳುಹಿಸು ಸೇರಿಸಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>ಲಿಂಕ್ ಕಾಪಿ ಮಾಡಿ</value>
@@ -1943,35 +1955,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>ಲಿಂಕ್ ಕಳುಹಿಸಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>ಹುಡುಕಾಟ ಕಳುಹಿಸುತ್ತದೆ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>ಕಳುಹಿಸು ಸಂಪಾದಿಸಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
     <value>ಕಳುಹಿಸು ಸೇರಿಸಿ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>ಈ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>ಕಳುಹಿಸು ಅಳಿಸಲಾಗಿದೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
     <value>ನವೀಕರಿಸಲಾಗಿದೆ ಕಳುಹಿಸಿ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
     <value>ಹೊಸ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 ದಿನ</value>
@@ -1993,30 +2005,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>ಸೇವ್ ಆನ್ ಸೇವ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Due to an enterprise policy, you are only able to delete an existing Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Due to an enterprise policy, you are only able to delete an existing Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>ಕಳುಹಿಸುವ ಬಗ್ಗೆ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>ಸ್ವೀಕರಿಸುವವರಿಂದ ನನ್ನ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಮರೆಮಾಡಿ.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಸಂಸ್ಥೆಯ ನೀತಿಗಳು ನಿಮ್ಮ ಕಳುಹಿಸುವ ಆಯ್ಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>ಕಳುಹಿಸುವಿಕೆಯೊಂದಿಗೆ ಫೈಲ್‌ಗಳನ್ನು ಬಳಸಲು ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ನೀವು ಪರಿಶೀಲಿಸಬೇಕು. ವೆಬ್ ವಾಲ್ಟ್ನಲ್ಲಿ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ನೀವು ಪರಿಶೀಲಿಸಬಹುದು.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಮರು-ಪ್ರಾಂಪ್ಟ್</value>
@@ -2040,7 +2052,7 @@
     <value>Update Master Password</value>
   </data>
   <data name="UpdateMasterPasswordWarning" xml:space="preserve">
-    <value>Your Master Password was recently changed by an administrator in your organization. In order to access the vault, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
+    <value>Your Master Password was recently changed by an administrator in your team. In order to access the safe, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
   </data>
   <data name="UpdatingPassword" xml:space="preserve">
     <value>Updating Password</value>
@@ -2055,10 +2067,10 @@
     <value>{0} is using SSO with customer-managed encryption. Continuing will remove your Master Password from your account and require SSO to login.</value>
   </data>
   <data name="RemoveMasterPasswordWarning2" xml:space="preserve">
-    <value>If you do not want to remove your Master Password, you may leave this organization.</value>
+    <value>If you do not want to remove your Master Password, you may leave this team.</value>
   </data>
   <data name="LeaveOrganization" xml:space="preserve">
-    <value>Leave Organization</value>
+    <value>Leave Team</value>
   </data>
   <data name="LeaveOrganizationName" xml:space="preserve">
     <value>Leave {0}?</value>
@@ -2082,16 +2094,40 @@
     <value>Please make sure your default browser supports WebAuthn and try again.</value>
   </data>
   <data name="ResetPasswordAutoEnrollInviteWarning" xml:space="preserve">
-    <value>This organization has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow organization administrators to change your master password.</value>
+    <value>This team has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow team administrators to change your master password.</value>
   </data>
   <data name="VaultTimeoutPolicyInEffect" xml:space="preserve">
-    <value>Your organization policies are affecting your vault timeout. Maximum allowed Vault Timeout is {0} hour(s) and {1} minute(s)</value>
+    <value>Your team policies are affecting your safe timeout. Maximum allowed Safe Timeout is {0} hour(s) and {1} minute(s)</value>
   </data>
   <data name="VaultTimeoutToLarge" xml:space="preserve">
-    <value>Your vault timeout exceeds the restrictions set by your organization.</value>
+    <value>Your safe timeout exceeds the restrictions set by your team.</value>
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
-    <value>One or more organization policies prevents your from exporting your personal vault.</value>
+    <value>One or more team policies prevents you from exporting your personal safe.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Add Account</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Unlocked</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Locked</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Logged Out</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Switched to next available account</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Account Locked</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Account logged out successfully</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Account removed successfully</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Delete Account</value>
@@ -2121,7 +2157,7 @@
     <value>Sending</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copy Send link on save</value>
+    <value>Copy Share link on save</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Sending code</value>

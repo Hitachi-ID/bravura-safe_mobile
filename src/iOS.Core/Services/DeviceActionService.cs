@@ -22,17 +22,17 @@ namespace Bit.iOS.Core.Services
 {
     public class DeviceActionService : IDeviceActionService
     {
-        private readonly IStorageService _storageService;
+        private readonly IStateService _stateService;
         private readonly IMessagingService _messagingService;
         private Toast _toast;
         private UIAlertController _progressAlert;
         private string _userAgent;
 
         public DeviceActionService(
-            IStorageService storageService,
+            IStateService stateService,
             IMessagingService messagingService)
         {
-            _storageService = storageService;
+            _stateService = stateService;
             _messagingService = messagingService;
         }
 
@@ -152,7 +152,7 @@ namespace Bit.iOS.Core.Services
                     NSFileManager.DefaultManager.Remove(item, out NSError itemError);
                 }
             }
-            await _storageService.SaveAsync(Bit.Core.Constants.LastFileCacheClearKey, DateTime.UtcNow);
+            await _stateService.SetLastFileCacheClearAsync(DateTime.UtcNow);
         }
 
         public Task SelectFileAsync()
@@ -392,6 +392,11 @@ namespace Bit.iOS.Core.Services
             throw new NotImplementedException();
         }
 
+        public bool HasAutofillService()
+        {
+            return false;
+        }
+
         public bool AutofillServiceEnabled()
         {
             throw new NotImplementedException();
@@ -592,6 +597,11 @@ namespace Bit.iOS.Core.Services
             var tempHeight = 20f;
             var scaledHeight = (float)new UIFontMetrics(UIFontTextStyle.Body.GetConstant()).GetScaledValue(tempHeight);
             return scaledHeight / tempHeight;
+        }
+
+        public async Task OnAccountSwitchCompleteAsync()
+        {
+            await ASHelpers.ReplaceAllIdentities();
         }
 
         public class PickerDelegate : UIDocumentPickerDelegate

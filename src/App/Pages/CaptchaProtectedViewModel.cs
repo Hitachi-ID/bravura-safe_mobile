@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Threading.Tasks;
 using Bit.App.Abstractions;
 using Bit.App.Resources;
@@ -27,13 +27,11 @@ namespace Bit.App.Pages
                 captchaRequiredText = AppResources.CaptchaRequired,
             });
 
-            var url = environmentService.GetWebVaultUrl();
-            if (url == null)
-            {
-                url = "https://vault.bitwarden.com";
-            }
-            url += "/captcha-mobile-connector.html?" + "data=" + data +
-                "&parent=" + Uri.EscapeDataString(callbackUri) + "&v=1";
+            var url = environmentService.GetWebVaultUrl() +
+                      "/captcha-mobile-connector.html?" +
+                      "data=" + data +
+                      "&parent=" + Uri.EscapeDataString(callbackUri) +
+                      "&v=1";
 
             WebAuthenticatorResult authResult = null;
             bool cancelled = false;

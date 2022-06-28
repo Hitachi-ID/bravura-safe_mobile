@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>מועדפים</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>דווח על באג</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>האם אתה בטוח שברצונך להתנתק?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>הסר/י חשבון</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>האם את/ה בטוח/ה שברצונך להסיר חשבון זה?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>החשבון כבר נוסף</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>האם תרצה לעבור אליו עכשיו?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>סיסמה ראשית</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>הכספת שלי</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>שם</value>
@@ -381,7 +393,7 @@
     <value>בקרו באתר שלנו</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>בקר באתר שלנו לקבלת עזרה, חדשות, פניות במייל, ו\או עבור הסברים כיצד להשתמש בBitwarden.</value>
+    <value>בקר באתר שלנו לקבלת עזרה, חדשות, פניות במייל, ו\או עבור הסברים כיצד להשתמש בBravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>אתר</value>
@@ -403,7 +415,7 @@
     <value>הרחבת אפליקציה</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>השתמש בשירות הנגישות של Bitwarden עבור השלמה אוטמטית של פרטי כניסה לאפליקציות ולאתרים באינטרנט.</value>
+    <value>השתמש בשירות הנגישות של Bravura Safe עבור השלמה אוטמטית של פרטי כניסה לאפליקציות ולאתרים באינטרנט.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>שירות השלמה אוטומטית</value>
@@ -412,31 +424,31 @@
     <value>המנע מאותיות ותוים דומים</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>תוסף האפליקציה של Bitwarden</value>
+    <value>תוסף האפליקציה של Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>הדרך הקלה ביותר להוספת סיסמאות לכספת היא דרך התוסף של Bitwarden. למד עוד אודות השימוש בתוסף של Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
+    <value>הדרך הקלה ביותר להוספת סיסמאות לכספת היא דרך התוסף של Bravura Safe. למד עוד אודות השימוש בתוסף של Bravura Safe בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>השתמש בBitwarden בדפדפן Safari ואפליקציות נוספות כדי לבצע כתיבה אוטומטית של הסיסמאות שלך.</value>
+    <value>השתמש בBravura Safe בדפדפן Safari ואפליקציות נוספות כדי לבצע כתיבה אוטומטית של הסיסמאות שלך.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>שירות השלמה אוטומטית של Bitwarden</value>
+    <value>שירות השלמה אוטומטית של Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>השתמש בשירות הנגישות של Bitwarden כדי למלא בצורה אוטומטית את פרטי החיבור שלך.</value>
+    <value>השתמש בשירות הנגישות של Bravura Safe כדי למלא בצורה אוטומטית את פרטי החיבור שלך.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>החלף אימייל</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>באפשרותך לשנות את כתובת האימייל שלך דרך הכספת באתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>באפשרותך לשנות את כתובת האימייל שלך דרך הכספת באתר Bravura Safe. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>החלף סיסמה ראשית</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>באפשרותך לשנות את הסיסמה הראשית שלך דרך הכספת באתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>באפשרותך לשנות את הסיסמה הראשית שלך דרך הכספת באתר Bravura Safe. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>סגירה</value>
@@ -470,7 +482,7 @@
     <value>הפעל הרחבת אפליקציה</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>בדפדפן Safari, חפש את Bitwarden בעזרת לחצן השיתוף (רמז: גלול לצד ימין בשורה התחתונה של התפריט).</value>
+    <value>בדפדפן Safari, חפש את Bravura Safe בעזרת לחצן השיתוף (רמז: גלול לצד ימין בשורה התחתונה של התפריט).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>כל הסיסמאות שלך נגישות דרך הדפדפנים Safari, כרום, ואפליקציות נוספות שאנו תומכים בהם.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>בדפדפנים ספארי וכרום, חפש את Bitwarden בעזרת לחצן השיתוף (רמז: גלול לצד ימין בשורה התחתונה של תפריט השיתוף).</value>
+    <value>בדפדפנים ספארי וכרום, חפש את Bravura Safe בעזרת לחצן השיתוף (רמז: גלול לצד ימין בשורה התחתונה של תפריט השיתוף).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>לחץ על האייקון של Bitwarden בתפריט כדי לפתוח את התוסף.</value>
+    <value>לחץ על האייקון של Bravura Safe בתפריט כדי לפתוח את התוסף.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>בכדי להפעיל את Bitwarden בדפדפן Safari ובאפליקציות נוספות, לחץ על האייקון "עוד" בשורה התחתונה של התפריט.</value>
+    <value>בכדי להפעיל את Bravura Safe בדפדפן Safari ובאפליקציות נוספות, לחץ על האייקון "עוד" בשורה התחתונה של התפריט.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>מועדף</value>
@@ -507,7 +519,7 @@
     <value>יבא פריטים</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>באפשרותך ליבא פריטים מרובים דרך הכספת שבאתר bitwarden.com. האם ברצונך לבקר באתר כעת?</value>
+    <value>באפשרותך ליבא פריטים מרובים דרך הכספת שבאתר Bravura Safe. האם ברצונך לבקר באתר כעת?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>יבא במהירות את הפריטים שלך מתוכנות אחרות לניהול סיסמאות.</value>
@@ -582,7 +594,7 @@
     <value>הגדרות נוספות</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>חובה להתחבר לאפליקציה הראשית של Bitwarden לפני שתוכל להשתמש בהרחבה זו.</value>
+    <value>חובה להתחבר לאפליקציה הראשית של Bravura Safe לפני שתוכל להשתמש בהרחבה זו.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>לעולם לא</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>ברירות המחדל נקבעו דרך הגדרות כלי מחולל הסיסמאות של Bitwarden.</value>
+    <value>ברירות המחדל נקבעו דרך הגדרות כלי מחולל הסיסמאות של Bravura Safe.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>אפשרויות</value>
@@ -631,7 +643,7 @@
     <value>האם אתה בטוח שברצונך לדרוס את הסיסמה הקיימת?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>תוכנת Bitwarden מסנכרנת את הכספת שלך בעזרת הודעות push. לחוויה הטובה ביותר, אנא בחר "התר" או "אפשר" בחלון הבא אם תתבקש לאפשר את הרשאת "הודעות push".</value>
+    <value>תוכנת Bravura Safe מסנכרנת את הכספת שלך בעזרת הודעות push. לחוויה הטובה ביותר, אנא בחר "התר" או "אפשר" בחלון הבא אם תתבקש לאפשר את הרשאת "הודעות push".</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>התחברות בשני-שלבים</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>התחברות בשני-שלבים הופכת את החשבון שלך למאובטח יותר בכך שאתה נדרש לוודא בכל כניסה בעזרת מכשיר אחר כדוגמת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את "התחברות בשני-שלבים" בכספת שבאתר bitwarden.com. האם ברצונך לפתוח את האתר כעת?</value>
+    <value>התחברות בשני-שלבים הופכת את החשבון שלך למאובטח יותר בכך שאתה נדרש לוודא בכל כניסה בעזרת מכשיר אחר כדוגמת מפתח אבטחה, תוכנת אימות, SMS, שיחת טלפון, או אימייל. ניתן להפעיל את "התחברות בשני-שלבים" בכספת שבאתר Bravura Safe. האם ברצונך לפתוח את האתר כעת?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>בטל נעילה עם {0}</value>
@@ -711,7 +723,7 @@
     <value>צפה בפריט</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>כספת באתר Bitwarden</value>
+    <value>כספת באתר Bravura Safe</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>הסרת את אפליקצית האימות?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>אין פריטים בכספת שלך עבור {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>כשלוחצים על שדה להזנה ורואים את ההצעה להשלמה אוטומטית של Bitwarden, ניתן ללחוץ על ההצעה בכדי להפעיל את שירות ההשלמה האוטומטית.</value>
+    <value>כשלוחצים על שדה להזנה ורואים את ההצעה להשלמה אוטומטית של Bravura Safe, ניתן ללחוץ על ההצעה בכדי להפעיל את שירות ההשלמה האוטומטית.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>לחץ על הודעה זו בכדי למלא את הטופס לפי הפרטים השמורים בכספת שלך.</value>
@@ -747,7 +759,7 @@
     <value>פתח הגדרות נגישות</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. בחלון מצב הנגישות של אנדרואיד, לחץ על "Bitwarden" תחת הכותרת "שירותים".</value>
+    <value>1. בחלון מצב הנגישות של אנדרואיד, לחץ על "Bravura Safe" תחת הכותרת "שירותים".</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. הפעל את האפשרות ולחץ אישור.</value>
@@ -762,8 +774,8 @@
     <value>סטטוס</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>הדרך הקלה ביותר להוספת סיסמאות לכספת היא דרך שירות ההשלמה האוטומטי של Bitwarden. למד עוד אודות השימוש ביכולת ההשלמה האוטומטית של 
-Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
+    <value>הדרך הקלה ביותר להוספת סיסמאות לכספת היא דרך שירות ההשלמה האוטומטי של Bravura Safe. למד עוד אודות השימוש ביכולת ההשלמה האוטומטית של 
+Bravura Safe בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>השלמה אוטומטית</value>
@@ -962,7 +974,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>סביבה על שרתים מקומיים</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>הזן את כתובת השרת המקומי של Bitwarden.</value>
+    <value>הזן את כתובת השרת המקומי של Bravura Safe.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>כתובת שרת</value>
@@ -1061,7 +1073,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>שם משפחה</value>
   </data>
   <data name="FullName" xml:space="preserve">
-    <value>Full Name</value>
+    <value>שם מלא</value>
   </data>
   <data name="LicenseNumber" xml:space="preserve">
     <value>מספר רשיון</value>
@@ -1127,7 +1139,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>כתובת השרת עבור האייקון</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>השלמה אוטומטית עם Bitwarden</value>
+    <value>השלמה אוטומטית עם Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>הכספת נעולה</value>
@@ -1154,7 +1166,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>שירות ההשלמה האוטומטית משתמש ביכולת ההשלמה האוטומטית של מערכת ההפעלה אנדרואיד בכדי לעזור לך בהשלמת פרטי הכניסה, כרטיסי אשראי, ופרטי זהות לתוך אפליקציות שונות במכשירך.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>השתמש בשירות ההשלמה האוטומטי של Bitwarden בכדי למלא טפסי כניסה, פרטי כרטיס אשראי, ופרטי זהות בצורה מאובטחת לתוך אפליקציות אחרות.</value>
+    <value>השתמש בשירות ההשלמה האוטומטי של Bravura Safe בכדי למלא טפסי כניסה, פרטי כרטיס אשראי, ופרטי זהות בצורה מאובטחת לתוך אפליקציות אחרות.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>פתח את הגדרות ההשלמה האוטומטית</value>
@@ -1188,7 +1200,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>מוסתר</value>
   </data>
   <data name="FieldTypeLinked" xml:space="preserve">
-    <value>Linked</value>
+    <value>מקושר</value>
   </data>
   <data name="FieldTypeText" xml:space="preserve">
     <value>טקסט</value>
@@ -1207,7 +1219,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
     <value>כתובת {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>שם בסיס הדומיין</value>
@@ -1234,7 +1246,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>זיהוי התאמה</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>כן, ושמור</value>
@@ -1244,7 +1256,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="Organization" xml:space="preserve">
     <value>ארגון</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>קרב את מפתח הYubikey למכשיר.</value>
@@ -1270,7 +1282,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>השלמה אוטומטית הופעלה!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>חובה להתחבר לאפליקציה הראשית של Bitwarden לפני שתוכל להשתמש בהשלמה האוטומטית.</value>
+    <value>חובה להתחבר לאפליקציה הראשית של Bravura Safe לפני שתוכל להשתמש בהשלמה האוטומטית.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>כל פרטי הכניסה שלך נגישים ישירות מהמקלדת ברגע החיבור לאפליקציות ולאתרים.</value>
@@ -1297,13 +1309,13 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>4. הפעל השלמה אוטומטית</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. בחר את "Bitwarden"</value>
+    <value>5. בחר את "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>השלמת סיסמאות אוטומטית</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>הדרך הקלה ביותר להוספת פרטי כניסה לכספת שלך היא בעזרת התוסף של Bitwarden להשלמת סיסמאות. למד עוד אודות השימוש בתוסף של Bitwarden להשלמת סיסמאות בעזרת פתיחת חלון "הגדרות".</value>
+    <value>הדרך הקלה ביותר להוספת פרטי כניסה לכספת שלך היא בעזרת התוסף של Bravura Safe להשלמת סיסמאות. למד עוד אודות השימוש בתוסף של Bravura Safe להשלמת סיסמאות בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>כתובת אימייל לא תקינה.</value>
@@ -1325,7 +1337,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="URIs" xml:space="preserve">
     <value>כתובות</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>בודק סיסמה...</value>
@@ -1390,7 +1402,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} מועבר אל {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>הפריט שותף.</value>
@@ -1444,8 +1456,8 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden מאפשר לך לשתף את פריטי הכספת שלך עם אחרים באמצעות חשבון ארגוני.
-האם תרצה לבקר באתר bitwarden.com כדי ללמוד עוד?</value>
+    <value>Bravura Safe מאפשר לך לשתף את פריטי הכספת שלך עם אחרים באמצעות חשבון ארגוני.
+האם תרצה לבקר באתר hitachi-id.com כדי ללמוד עוד?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>יצוא כספת</value>
@@ -1460,17 +1472,17 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>בטל נעילה</value>
   </data>
   <data name="UnlockVault" xml:space="preserve">
-    <value>Unlock Vault</value>
+    <value>פתח נעילת כספת</value>
   </data>
   <data name="ThirtyMinutes" xml:space="preserve">
     <value>30 דקות</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>קבע קוד PIN לביטול נעילת Bitwarden. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה.</value>
+    <value>קבע קוד PIN לביטול נעילת Bravura Safe. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>התחברת כ-{0} ל {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>הכספת שלך נעולה. הזן את הסיסמה הראשית שלך כדי להמשיך.</value>
@@ -1479,7 +1491,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>הכספת שלך נעולה. הזן את קוד הPIN שלך כדי להמשיך.</value>
   </data>
   <data name="VaultLockedIdentity" xml:space="preserve">
-    <value>Your vault is locked. Verify your identity to continue.</value>
+    <value>הכספת שלך נעולה. אמת את זהותך כדי להמשיך.</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>כהה</value>
@@ -1514,7 +1526,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>ברירת מחדל לזיהוי התאמת כתובות</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
     <value>בחר את דרך ברירת המחדל עבור זיהוי התאמת כתובות כשמבצעים פעולות השלמה אוטומטית.</value>
@@ -1536,7 +1548,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>יציאה</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>האם את/ה בטוח/ה שברצונך לצאת מ-Bitwarden?</value>
+    <value>האם את/ה בטוח/ה שברצונך לצאת מ-Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>האם ברצונך לחייב הזנת סיסמה ראשית כשהאפליקציה מופעלת מחדש?</value>
@@ -1561,7 +1573,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>באתחול האפליקציה</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>השלמה אוטומטית הופכת את תהליך הכניסה לאתרים לקל ומאובטח בעת גישה לאתרים ואפליקציות. נראה שלא הפעלת את שירות ההשלמה האוטומטית עבור Bitwarden. אנא הפעל את השירות דרך חלון "הגדרות".</value>
+    <value>השלמה אוטומטית הופכת את תהליך הכניסה לאתרים לקל ומאובטח בעת גישה לאתרים ואפליקציות. נראה שלא הפעלת את שירות ההשלמה האוטומטית עבור Bravura Safe. אנא הפעל את השירות דרך חלון "הגדרות".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>שינוי בערכת הנושא יוחל בהפעלה הבאה של האפליקציה.</value>
@@ -1595,10 +1607,10 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>השתמש בזיהוי ביומטרי לפתיחת הנעילה</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>אפליקציית Bitwarden צריכה תשומת לב - פתח את "נגישות שירות ההשלמה-האוטומטית" מתוך הגדרות Bitwarden</value>
+    <value>אפליקציית Bravura Safe צריכה תשומת לב - פתח את "נגישות שירות ההשלמה-האוטומטית" מתוך הגדרות Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. במסך הגדרת האפליקציות של אנדרואיד עבור Bitwarden, עבור לאפשרות "הצג מעל אפליקציות אחרות" (תחת תפריט הגדרות מתקדמות) ולחץ בכדי לאפשר תמיכה בהצגה מעל אפליקציות אחרות.</value>
+    <value>3. במסך הגדרת האפליקציות של אנדרואיד עבור Bravura Safe, עבור לאפשרות "הצג מעל אפליקציות אחרות" (תחת תפריט הגדרות מתקדמות) ולחץ בכדי לאפשר תמיכה בהצגה מעל אפליקציות אחרות.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>הרשאה</value>
@@ -1607,7 +1619,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>פתח את הגדרות הצגה מעל אפליקציות אחרות (Overlay)</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. במסך הגדרת האפליקציות של אנדרואיד עבור Bitwarden, בחר את "הצג מעל אפליקציות אחרות" (תחת תפריט הגדרות מתקדמות) ולחץ בכדי לאפשר את הצגת Bitwarden מעל אפליקציות אחרות.</value>
+    <value>3. במסך הגדרת האפליקציות של אנדרואיד עבור Bravura Safe, בחר את "הצג מעל אפליקציות אחרות" (תחת תפריט הגדרות מתקדמות) ולחץ בכדי לאפשר את הצגת Bravura Safe מעל אפליקציות אחרות.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>נדחה</value>
@@ -1622,13 +1634,13 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>הזן את הסיסמה הראשית שלך עבור יצוא המידע מהכספת.</value>
   </data>
   <data name="SendVerificationCodeToEmail" xml:space="preserve">
-    <value>Send a verification code to your email</value>
+    <value>שליחת קוד אימות לדוא״ל שלך</value>
   </data>
   <data name="CodeSent" xml:space="preserve">
-    <value>Code Sent!</value>
+    <value>קוד נשלח!</value>
   </data>
   <data name="ConfirmYourIdentity" xml:space="preserve">
-    <value>Confirm your identity to continue.</value>
+    <value>אשר את זהותך כדי להמשיך.</value>
   </data>
   <data name="ExportVaultWarning" xml:space="preserve">
     <value>הקובץ מכיל את פרטי הכספת שלך בפורמט לא מוצפן. מומלץ להעביר את הקובץ רק בדרכים מוצפנות, ומאוד לא מומלץ לשמור או לשלוח את הקובץ הזה בדרכים לא מוצפנות (כדוגמת סתם אימייל). מחק את הקובץ מיד לאחר שסיימת את השימוש בו.</value>
@@ -1637,11 +1649,11 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>יצוא זה מצפין את המידע שלך בעזרת מפתח ההצפנה הנוכחי שלך. אם תחליף (rotate) את מפתחות ההצפנה של החשבון שלך, עליך לבצע ייצוא חדש משום שלא תוכל לפענח את הקובץ הקיים.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>מפתחות הצפנת חשבון הם ייחודיים לכל חשבון משתמש של Bitwarden, כך שלא ניתן לייבא ייצוא חשבון מוצפן לחשבון אחר.</value>
+    <value>מפתחות הצפנת חשבון הם ייחודיים לכל חשבון משתמש של Bravura Safe, כך שלא ניתן לייבא ייצוא חשבון מוצפן לחשבון אחר.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>אישור ייצוא כספת</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>אזהרה</value>
@@ -1670,7 +1682,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>הקובץ המצורף נשמר בהצלחה</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>אנא הפעל את "שירות ההשלמה האוטומטית של שירות הנגישות" מתוך ההגדרות של Bitwarden כדי להשתמש בשירות ההשלמה האוטומטית.</value>
+    <value>אנא הפעל את "שירות ההשלמה האוטומטית של שירות הנגישות" מתוך ההגדרות של Bravura Safe כדי להשתמש בשירות ההשלמה האוטומטית.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>לא זוהו תיבות לכתיבת סיסמאות</value>
@@ -1788,7 +1800,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>מדיניות הפרטיות</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>אפליקציית Bitwarden צריכה הרשאות בכדי לעבוד באופן תקין. פתח את הגדרות Bitwarden, בחר את "שירותי ההשלמה-האוטומטית" ואפשר את "צייר מעל" (Draw-Over).</value>
+    <value>אפליקציית Bravura Safe צריכה הרשאות בכדי לעבוד באופן תקין. פתח את הגדרות Bravura Safe, בחר את "שירותי ההשלמה-האוטומטית" ואפשר את "צייר מעל" (Draw-Over).</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>שירותי ההשלמה האוטומטית</value>
@@ -1803,13 +1815,13 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>השתמש בכלי נגישות</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>השתמש בשירות הנגישות של Bitwarden עבור השלמה אוטומטית בחיבור לאתרים בתוך אפליקציות ואתרים ברשת. כשאפשרות זו מופעלת, האפליקציה תציג חלון צף ברגע בחירת שדה למילוי שם משתמש או סיסמה.</value>
+    <value>השתמש בשירות הנגישות של Bravura Safe עבור השלמה אוטומטית בחיבור לאתרים בתוך אפליקציות ואתרים ברשת. כשאפשרות זו מופעלת, האפליקציה תציג חלון צף ברגע בחירת שדה למילוי שם משתמש או סיסמה.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>השתמש בשירות הנגישות של Bitwarden עבור השלמה אוטומטית בחיבור לאתרים בתוך אפליקציות ואתרים ברשת. (מחייב הפעלה של אופציית ציור-על = Draw-Over)</value>
+    <value>השתמש בשירות הנגישות של Bravura Safe עבור השלמה אוטומטית בחיבור לאתרים בתוך אפליקציות ואתרים ברשת. (מחייב הפעלה של אופציית ציור-על = Draw-Over)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>השתמש בשירות הנגישות של Bitwarden עבור הצגת מסגרת ההשלמה האוטומטית, ו\או עבור הצגת חלון צף בעזרת Draw-Over (אם אפשרות זו פועלת)</value>
+    <value>השתמש בשירות הנגישות של Bravura Safe עבור הצגת מסגרת ההשלמה האוטומטית, ו\או עבור הצגת חלון צף בעזרת Draw-Over (אם אפשרות זו פועלת)</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>נדרש להשתמש בפעולה המהירה למילוי אוטומטי, או כדי להגדיל את שירות המילוי האוטומטי באמצעות Draw-Over (אם מופעל).</value>
@@ -1818,10 +1830,10 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>השתמש ב-"Draw-Over"</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>כאשר מופעל, מאפשר לשירות הנגישות של Bitwarden להציג חלון קופץ כאשר שדות ההתחברות נבחרים.</value>
+    <value>כאשר מופעל, מאפשר לשירות הנגישות של Bravura Safe להציג חלון קופץ כאשר שדות ההתחברות נבחרים.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>אם מופעל, שירות הנגישות של Bitwarden יציג חלון קופץ כאשר שדות ההתחברות נבחרים כדי לסייע במילוי אוטומטי של פרטי ההתחברות שלך.</value>
+    <value>אם מופעל, שירות הנגישות של Bravura Safe יציג חלון קופץ כאשר שדות ההתחברות נבחרים כדי לסייע במילוי אוטומטי של פרטי ההתחברות שלך.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>אם מופעלת, הנגישות תציג חלון קופץ כדי להגדיל את שירות המילוי האוטומטי עבור אפליקציות ישנות יותר שאינן תומכות  באפשרות המילוי האוטומטי של אנדרואיד.</value>
@@ -1834,19 +1846,19 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="Send" xml:space="preserve">
     <value>חשבון</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>כל החשבונות</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>חשבונות</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>שם ידידותי לתיאור חשבון זה.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>טקסט</value>
@@ -1856,7 +1868,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>בעת גישה לחשבון, הסתר את הטקסט בברירת מחדל</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>קובץ</value>
@@ -1872,7 +1884,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
     <value>החשבון יימחק לצמיתות בתאריך ובשעה שצוינו.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>בהמתנה למחיקה</value>
@@ -1885,7 +1897,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>אם מוגדר, הגישה לחשבון זה יפוג בתאריך ובשעה שצוינו.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>פג תוקף</value>
@@ -1895,7 +1907,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>במידה ויוגדר, משתמשים לא יוכלו יותר לגשת לחשבון זה לאחר שמספר הגישות המרבי יושג.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>מספר הכניסות המרבי הושג</value>
@@ -1908,7 +1920,7 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>אופציונלי לדרוש סיסמה למשתמשים כדי לגשת לחשבון זה.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>הסר סיסמה</value>
@@ -1924,19 +1936,19 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>הערות פרטיות לגבי חשבון זה.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
     <value>השבת את החשבון הזה כדי שאף אחד לא יוכל לגשת אליו.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>אין פריטים בכספת שלך.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
     <value>הוסף פריט</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>העתק קישור</value>
@@ -1946,35 +1958,35 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>שלח קישור</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>חיפוש חשבון</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>עריכת חשבון</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
     <value>הוספת חשבון חדש</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>האם אתה בטוח שברצונך למחוק פריט זה?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>החשבון נמחק בהצלחה</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
     <value>החשבון התעדכן</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
     <value>חשבון חדש נוצר</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>יום אחד</value>
@@ -1996,32 +2008,32 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>לשתף ולשמור את החשבון</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>עקב מדיניות ארגונית, אתה יכול למחוק רק חשבון קיים.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>מידע על החשבון</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>אודות החשבון</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>מדיניות ארגון אחת או יותר משפיעה על אפשרויות החשבון שלך</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>חשבונות בחינם מוגבלים לשיתוף טקסט בלבד.
 נדרשת חברות פרימיום בתשלום כדי להשתמש בקבצים עם חשבונות. </value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>עליך לאמת את הדוא"ל שלך כדי להשתמש בקבצים עם חשבונות.
 אתה יכול לאמת את הדוא"ל שלך באפליקציה של המייל או באתר.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>הקש שוב פעם את הסיסמה הראשית</value>
@@ -2054,19 +2066,19 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
     <value>כרגע לא ניתן לעדכן את הסיסמה</value>
   </data>
   <data name="RemoveMasterPassword" xml:space="preserve">
-    <value>Remove Master Password</value>
+    <value>הסרת סיסמה ראשית</value>
   </data>
   <data name="RemoveMasterPasswordWarning" xml:space="preserve">
-    <value>{0} is using SSO with customer-managed encryption. Continuing will remove your Master Password from your account and require SSO to login.</value>
+    <value>{0} משתמש/ת ב־SSO עם הצפנה בניהול לקוחות. המשך התהליך יסיר את סיסמת האב שלך מחשבונך וידרוש SSO כדי להתחבר.</value>
   </data>
   <data name="RemoveMasterPasswordWarning2" xml:space="preserve">
-    <value>If you do not want to remove your Master Password, you may leave this organization.</value>
+    <value>אם אינך רוצה להסיר את הסיסמה הראשית שלך, תוכל לעזוב את הארגון הזה.</value>
   </data>
   <data name="LeaveOrganization" xml:space="preserve">
-    <value>Leave Organization</value>
+    <value>עזוב ארגון</value>
   </data>
   <data name="LeaveOrganizationName" xml:space="preserve">
-    <value>Leave {0}?</value>
+    <value>לעזוב את {0}?</value>
   </data>
   <data name="Fido2Title" xml:space="preserve">
     <value>אימות אינטרנט באמצעות FIDO2</value>
@@ -2099,52 +2111,76 @@ Bitwarden בעזרת פתיחת חלון "הגדרות".</value>
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>מדיניות אחת או יותר של הארגון שלך מונעות ממך לייצא את הכספת האישית שלך.</value>
   </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>הוספת חשבון</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>פתוח</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>נעול</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>בוצעה יציאה</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>הוחלף לחשבון הזמין הבא</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>החשבון נעול</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>נותק בהצלחה מהחשבון</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>חשבון נמחק בהצלחה</value>
+  </data>
   <data name="DeleteAccount" xml:space="preserve">
-    <value>Delete Account</value>
+    <value>מחק חשבון</value>
   </data>
   <data name="DeletingYourAccountIsPermanent" xml:space="preserve">
-    <value>Deleting your account is permanent</value>
+    <value>מחיקת חשבונך היא לצמיתות</value>
   </data>
   <data name="DeleteAccountExplanation" xml:space="preserve">
-    <value>Your account and all associated data will be erased and unrecoverable. Are you sure you want to continue?</value>
+    <value>החשבון שלך וכל הנתונים הקשורים יימחקו ולא ניתן יהיה לשחזרם. האם את/ה בטוח/ה שאת/ה רוצה להמשיך?</value>
   </data>
   <data name="DeletingYourAccount" xml:space="preserve">
-    <value>Deleting your account</value>
+    <value>מוחק את החשבון שלך</value>
   </data>
   <data name="YourAccountHasBeenPermanentlyDeleted" xml:space="preserve">
-    <value>Your account has been permanently deleted</value>
+    <value>חשבונך נמחק לצמיתות</value>
   </data>
   <data name="InvalidVerificationCode" xml:space="preserve">
-    <value>Invalid Verification Code.</value>
+    <value>קוד אימות שגוי.</value>
   </data>
   <data name="RequestOTP" xml:space="preserve">
-    <value>Request one-time password</value>
+    <value>בקשת סיסמה חד־פעמית</value>
   </data>
   <data name="SendCode" xml:space="preserve">
-    <value>Send Code</value>
+    <value>שליחת קוד</value>
   </data>
   <data name="Sending" xml:space="preserve">
-    <value>Sending</value>
+    <value>בשליחה</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copy Send link on save</value>
+    <value>העתק קישור שליחה בעת שמירה</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
-    <value>Sending code</value>
+    <value>שליחת קוד</value>
   </data>
   <data name="Verifying" xml:space="preserve">
-    <value>Verifying</value>
+    <value>אימות</value>
   </data>
   <data name="ResendCode" xml:space="preserve">
-    <value>Resend Code</value>
+    <value>שליחת קוד בשנית</value>
   </data>
   <data name="AVerificationCodeWasSentToYourEmail" xml:space="preserve">
-    <value>A verification code was sent to your email</value>
+    <value>קוד אימות נשלח לדוא"ל שלך</value>
   </data>
   <data name="AnErrorOccurredWhileSendingAVerificationCodeToYourEmailPleaseTryAgain" xml:space="preserve">
-    <value>An error occurred while sending a verification code to your email. Please try again</value>
+    <value>אירעה שגיאה בעת שליחת קוד אימות לדוא"ל שלך. בבקשה נסה שוב</value>
   </data>
   <data name="EnterTheVerificationCodeThatWasSentToYourEmail" xml:space="preserve">
-    <value>Enter the verification code that was sent to your email</value>
+    <value>הזן את קוד האימות שנשלח לדוא"ל שלך</value>
   </data>
 </root>

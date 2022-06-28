@@ -8,7 +8,6 @@
     xmlns:controls="clr-namespace:Bit.App.Controls"
     xmlns:effects="clr-namespace:Bit.App.Effects"
     xmlns:views="clr-namespace:Bit.Core.Models.View;assembly=BitwardenCore"
-    xmlns:core="clr-namespace:Bit.Core;assembly=BitwardenCore"
     x:DataType="pages:ViewPageViewModel"
     x:Name="_page"
     Title="{Binding PageTitle}">
@@ -83,9 +82,9 @@
                                     StyleClass="box-value"
                                     Grid.Row="1"
                                     Grid.Column="0" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                    Text="&#xf24d;"
                                     Command="{Binding CopyCommand}"
                                     CommandParameter="LoginUsername"
                                     Grid.Row="0"
@@ -126,9 +125,9 @@
                                     Grid.Column="0"
                                     LineBreakMode="CharacterWrap"
                                     IsVisible="{Binding ShowPassword}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.CheckCircle}}"
+                                    Text="&#xf058;"
                                     Command="{Binding CheckPasswordCommand}"
                                     Grid.Row="0"
                                     Grid.Column="1"
@@ -136,7 +135,7 @@
                                     AutomationProperties.IsInAccessibleTree="True"
                                     AutomationProperties.Name="{u:I18n CheckPassword}"
                                     IsVisible="{Binding Cipher.ViewPassword}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
                                     Text="{Binding ShowPasswordIcon}"
                                     Command="{Binding TogglePasswordCommand}"
@@ -146,9 +145,9 @@
                                     AutomationProperties.IsInAccessibleTree="True"
                                     AutomationProperties.Name="{u:I18n ToggleVisibility}"
                                     IsVisible="{Binding Cipher.ViewPassword}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                    Text="&#xf24d;"
                                     Command="{Binding CopyCommand}"
                                     CommandParameter="LoginPassword"
                                     Grid.Row="0"
@@ -190,9 +189,9 @@
                                     HorizontalOptions="End"
                                     HorizontalTextAlignment="End"
                                     VerticalOptions="CenterAndExpand" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                    Text="&#xf24d;"
                                     Command="{Binding CopyCommand}"
                                     CommandParameter="LoginTotp"
                                     Grid.Row="0"
@@ -243,7 +242,7 @@
                                     Grid.Row="1"
                                     Grid.Column="0"
                                     IsVisible="{Binding ShowCardNumber}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
                                     Text="{Binding ShowCardNumberIcon}"
                                     Command="{Binding ToggleCardNumberCommand}"
@@ -252,9 +251,9 @@
                                     Grid.RowSpan="2"
                                     AutomationProperties.IsInAccessibleTree="True"
                                     AutomationProperties.Name="{u:I18n ToggleVisibility}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                    Text="&#xf24d;"
                                     Command="{Binding CopyCommand}"
                                     CommandParameter="CardNumber"
                                     Grid.Row="0"
@@ -315,7 +314,7 @@
                                     Grid.Row="1"
                                     Grid.Column="0"
                                     IsVisible="{Binding ShowCardCode}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
                                     Text="{Binding ShowCardCodeIcon}"
                                     Command="{Binding ToggleCardCodeCommand}"
@@ -324,9 +323,9 @@
                                     Grid.RowSpan="2"
                                     AutomationProperties.IsInAccessibleTree="True"
                                     AutomationProperties.Name="{u:I18n ToggleVisibility}" />
-                                <controls:IconButton 
+                                <controls:FaButton 
                                     StyleClass="box-row-button, box-row-button-platform"
-                                    Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                    Text="&#xf24d;"
                                     Command="{Binding CopyCommand}"
                                     CommandParameter="CardCode"
                                     Grid.Row="0"
@@ -491,9 +490,9 @@
                                                 StyleClass="box-value"
                                                 Grid.Row="1"
                                                 Grid.Column="0" />
-                                            <controls:IconButton
+                                            <controls:FaButton
                                                 StyleClass="box-row-button, box-row-button-platform"
-                                                Text="{Binding Source={x:Static core:BitwardenIcons.ShareSquare}}"
+                                                Text="&#xf045;"
                                                 Command="{Binding BindingContext.LaunchUriCommand, Source={x:Reference _page}}"
                                                 CommandParameter="{Binding .}"
                                                 Grid.Row="0"
@@ -502,9 +501,9 @@
                                                 IsVisible="{Binding CanLaunch, Mode=OneWay}"
                                                 AutomationProperties.IsInAccessibleTree="True"
                                                 AutomationProperties.Name="{u:I18n Launch}" />
-                                            <controls:IconButton
+                                            <controls:FaButton
                                                 StyleClass="box-row-button, box-row-button-platform"
-                                                Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                                Text="&#xf24d;"
                                                 Command="{Binding BindingContext.CopyUriCommand, Source={x:Reference _page}}"
                                                 CommandParameter="{Binding .}"
                                                 Grid.Row="0"
@@ -562,13 +561,13 @@
                                                 Grid.Row="1"
                                                 Grid.Column="0"
                                                 IsVisible="{Binding IsTextType}" />
-                                            <controls:IconLabel
+                                           <controls:FaLabel
                                                 Text="{Binding ValueText, Mode=OneWay}"
                                                 StyleClass="box-value"
                                                 Grid.Row="1"
                                                 Grid.Column="0"
                                                 IsVisible="{Binding IsLinkedType}" />
-                                            <controls:IconLabel
+                                            <controls:FaLabel
                                                 Text="{Binding ValueText, Mode=OneWay}"
                                                 StyleClass="box-value"
                                                 Grid.Row="1"
@@ -579,15 +578,15 @@
                                                          Grid.Row="1"
                                                          Grid.Column="0">
                                                 <controls:MonoLabel
-                                                    Text="{Binding ValueText, Mode=OneWay}"
-                                                    StyleClass="box-value"
+                                                    Text="{Binding ColoredHiddenValue, Mode=OneWay}"
+                                                    StyleClass="box-value, text-html"
                                                     IsVisible="{Binding ShowHiddenValue}" />
                                                 <controls:MonoLabel
                                                     Text="{Binding Field.MaskedValue, Mode=OneWay}"
                                                     StyleClass="box-value"
                                                     IsVisible="{Binding ShowHiddenValue, Converter={StaticResource inverseBool}}" />
                                             </StackLayout>
-                                            <controls:IconButton 
+                                            <controls:FaButton 
                                                 StyleClass="box-row-button, box-row-button-platform"
                                                 Text="{Binding ShowHiddenValueIcon}"
                                                 Command="{Binding ToggleHiddenValueCommand}"
@@ -597,9 +596,9 @@
                                                 Grid.RowSpan="2"
                                                 AutomationProperties.IsInAccessibleTree="True"
                                                 AutomationProperties.Name="{u:I18n ToggleVisibility}" />
-                                            <controls:IconButton
+                                            <controls:FaButton
                                                 StyleClass="box-row-button, box-row-button-platform"
-                                                Text="{Binding Source={x:Static core:BitwardenIcons.Clone}}"
+                                                Text="&#xf24d;"
                                                 Command="{Binding BindingContext.CopyFieldCommand, Source={x:Reference _page}}"
                                                 CommandParameter="{Binding Field}"
                                                 IsVisible="{Binding ShowCopyButton}"
@@ -635,9 +634,9 @@
                                                 StyleClass="box-sub-label"
                                                 HorizontalTextAlignment="End"
                                                 VerticalTextAlignment="Center" />
-                                            <controls:IconButton 
+                                            <controls:FaButton 
                                                 StyleClass="box-row-button, box-row-button-platform"
-                                                Text="{Binding Source={x:Static core:BitwardenIcons.Download}}"
+                                                Text="&#xf019;"
                                                 Command="{Binding BindingContext.DownloadAttachmentCommand, Source={x:Reference _page}}"
                                                 CommandParameter="{Binding .}"
                                                 VerticalOptions="Center"

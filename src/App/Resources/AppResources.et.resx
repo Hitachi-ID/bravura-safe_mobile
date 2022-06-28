@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Lemmikud</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Esita tarkvaraviga</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Oled kindel, et soovid välja logida?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Eemalda konto</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Oled kindel, et soovid selle konto eemaldada?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Konto on juba lisatud </value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Kas soovid kohe vahetada? </value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Ülemparool</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Minu hoidla</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Külasta meie kodulehte</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Külasta kodulehte abi saamiseks, meiega kontakteerumiseks, uudiste lugemiseks või Bitwardeni kohta rohkema teabe saamiseks.</value>
+    <value>Külasta kodulehte abi saamiseks, meiega kontakteerumiseks, uudiste lugemiseks või Bravura Safei kohta rohkema teabe saamiseks.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Veebisait</value>
@@ -403,7 +415,7 @@
     <value>Rakenduse laiendus</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Kasuta Bitwardeni juurdepääsetavuse teenust, et erinevatel veebilehtedel ja rakendustes kontoandmeid sisestada.</value>
+    <value>Kasuta Bravura Safei juurdepääsetavuse teenust, et erinevatel veebilehtedel ja rakendustes kontoandmeid sisestada.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Automaattäite teenus</value>
@@ -412,31 +424,31 @@
     <value>Väldi ebamääraseid kirjamärke</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden rakenduse laiendus</value>
+    <value>Bravura Safe rakenduse laiendus</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Lihtsaim viis uute sisselogimise andmete lisamiseks on kasutada Bitwardeni rakenduse laiendust. Lisateavet Bitwardeni rakenduse laienduse kasutamiseks leiad menüüst "Seaded".</value>
+    <value>Lihtsaim viis uute sisselogimise andmete lisamiseks on kasutada Bravura Safei rakenduse laiendust. Lisateavet Bravura Safe rakenduse laienduse kasutamiseks leiad menüüst "Seaded".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Kasuta Bitwardenit Safaris ja teistes rakendustes kontoandmete sisestamiseks.</value>
+    <value>Kasuta Bravura Safeit Safaris ja teistes rakendustes kontoandmete sisestamiseks.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwardeni automaattäite teenus</value>
+    <value>Bravura Safei automaattäite teenus</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Kasuta kontoandmete sisestamiseks Bitwardeni juurdepääsetavuse teenust.</value>
+    <value>Kasuta kontoandmete sisestamiseks Bravura Safei juurdepääsetavuse teenust.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Muuda e-posti</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Saad oma e-posti aadressi muuta bitwarden.com veebihoidlas. Soovid seda kohe teha?</value>
+    <value>Saad oma e-posti aadressi muuta Bravura Safe veebihoidlas. Soovid seda kohe teha?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Muuda ülemparooli</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Saad oma ülemparooli muuta bitwarden.com veebihoidlas. Soovid seda kohe teha?</value>
+    <value>Saad oma ülemparooli muuta Bravura Safe veebihoidlas. Soovid seda kohe teha?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Sulge</value>
@@ -470,7 +482,7 @@
     <value>Aktiveeri rakenduse laiendus</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safaris pääsed Bitwardenile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).</value>
+    <value>Safaris pääsed Bravura Safeile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Pääsed nüüd oma kontoandmetele lihtsasti ligi nii Safaris, Chromes kui ka teistes toetatud rakendustes.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safaris ja Chromes pääsed Bitwardenile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).</value>
+    <value>Safaris ja Chromes pääsed Bravura Safeile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Lisa käivitamiseks vajuta menüüs Bitwardeni ikoonile.</value>
+    <value>Lisa käivitamiseks vajuta menüüs Bravura Safe ikoonile.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Bitwardeni sisselülitamiseks Safaris ja teistes rakendustes vajuta alumisel menüül "more" ikoonile.</value>
+    <value>Bravura Safe sisselülitamiseks Safaris ja teistes rakendustes vajuta alumisel menüül "more" ikoonile.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Lemmik</value>
@@ -507,7 +519,7 @@
     <value>Impordi andmed</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Saad suurema koguse kontoandmeid importida Bitwardeni veebihoidlas. Soovid seda kohe teha?</value>
+    <value>Saad suurema koguse kontoandmeid importida Bravura Safe veebihoidlas. Soovid seda kohe teha?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Kiire viis oma konto- ja muude andmete importimiseks teistest paroolihalduritest.</value>
@@ -582,7 +594,7 @@
     <value>Rohkem seadeid</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Pead enne lisarakenduse kasutamist Bitwardeni rakendusse sisse logima.</value>
+    <value>Pead enne lisarakenduse kasutamist Bravura Safei rakendusse sisse logima.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Mitte kunagi</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Vaikeväärtused on seatud Bitwardeni paroolide genereerimise tööriista poolt.</value>
+    <value>Vaikeväärtused on seatud Bravura Safei paroolide genereerimise tööriista poolt.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Valikud</value>
@@ -631,7 +643,7 @@
     <value>Oled kindel, et soovid olemasolevat parooli asendada?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden hoiab hoidla automaatselt sünkroonis läbi push teavituste. Parima võimaliku kogemuse saamiseks vajuta järgnevas märkekastis "Allow", et sünkroniseerimine lubada.</value>
+    <value>Bravura Safe hoiab hoidla automaatselt sünkroonis läbi push teavituste. Parima võimaliku kogemuse saamiseks vajuta järgnevas märkekastis "Allow", et sünkroniseerimine lubada.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Kaheastmeline kinnitamine</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Kaheastmeline kinnitamine aitab konto turvalisust tõsta. Lisaks paroolile pead kontole ligipääsemiseks kinnitama sisselogimise päringu SMS-ga, telefonikõnega, autentimise rakendusega või e-postiga. Kaheastmelist kinnitust saab sisse lülitada bitwarden.com veebihoidlas. Soovid seda kohe avada?</value>
+    <value>Kaheastmeline kinnitamine aitab konto turvalisust tõsta. Lisaks paroolile pead kontole ligipääsemiseks kinnitama sisselogimise päringu SMS-ga, telefonikõnega, autentimise rakendusega või e-postiga. Kaheastmelist kinnitust saab sisse lülitada Bravura Safe veebihoidlas. Soovid seda kohe avada?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Lukusta lahti {0}</value>
@@ -711,7 +723,7 @@
     <value>Kirje vaatamine</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden veebihoidla</value>
+    <value>Bravura Safe veebihoidla</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Kaotasid autentimise rakenduse?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Hoidlas puuduvad {0} kontod.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Kui vajutad sisendväljale ning näed Bitwardeni akent, saad sellele vajutada ning kontoandmeid ja paroole sisestada.</value>
+    <value>Kui vajutad sisendväljale ning näed Bravura Safei akent, saad sellele vajutada ning kontoandmeid ja paroole sisestada.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Vajuta andmete automaatseks sisestamiseks.</value>
@@ -747,7 +759,7 @@
     <value>Ava Juurdepääsetavuse seaded</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Vajuta Androidi Juurdepääsetavuse seadete menüüs "Bitwardeni" kirjele.</value>
+    <value>1. Vajuta Androidi Juurdepääsetavuse seadete menüüs "Bravura Safei" kirjele.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Lülita valik sisse ja seejärel OK, et sellega nõustuda.</value>
@@ -762,7 +774,7 @@
     <value>Olek:</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Lihtsaim viis hoidlasse kontosid lisada on läbi Bitwardeni automaattäite teenuse. Rohkem infot selle kohta leiad Bitwardeni rakenduse menüüst "Seaded".</value>
+    <value>Lihtsaim viis hoidlasse kontosid lisada on läbi Bravura Safei automaattäite teenuse. Rohkem infot selle kohta leiad Bravura Safei rakenduse menüüst "Seaded".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Täida automaatselt</value>
@@ -961,7 +973,7 @@
     <value>Self-hosted Environment</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Sisesta baas URL, kus sinu või ettevõtte majutatud Bitwarden asub.</value>
+    <value>Sisesta baas URL, kus sinu või ettevõtte majutatud Bravura Safe asub.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Serveri URL</value>
@@ -1126,7 +1138,7 @@
     <value>Ikoonide serveri URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Täida Bitwardeniga</value>
+    <value>Täida Bravura Safeiga</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Hoidla on lukus</value>
@@ -1150,10 +1162,10 @@
     <value>Juurdepääsetavuse teenus</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwardeni automaattäite teenus kasutab Androidi Autofill raamistikku. See aitab telefonis olevatesse rakendustesse sisestada kontoandmeid, krediitkaardi andmeid ja muud personaalset infot.</value>
+    <value>Bravura Safei automaattäite teenus kasutab Androidi Autofill raamistikku. See aitab telefonis olevatesse rakendustesse sisestada kontoandmeid, krediitkaardi andmeid ja muud personaalset infot.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Kasuta Bitwardeni automaattäite teenust, et sisestada teistesse rakendustesse kontoandmeid, krediitkaardi andmeid ja muud informatsiooni.</value>
+    <value>Kasuta Bravura Safei automaattäite teenust, et sisestada teistesse rakendustesse kontoandmeid, krediitkaardi andmeid ja muud informatsiooni.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Ava Automaattäite seaded</value>
@@ -1202,11 +1214,11 @@
     <value>Eemalda</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Uus URI</value>
+    <value>Uus URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Baasdomeen</value>
@@ -1229,11 +1241,11 @@
     <value>Algab</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI sobivuse tuvastamine</value>
+    <value>URL sobivuse tuvastamine</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Sobivuse tuvastamine</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Jah, ja salvesta</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organisatsioon</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Hoia oma Yubikey seadme ülaosa lähedal.</value>
@@ -1269,7 +1281,7 @@
     <value>Automaattäide on aktiveeritud!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Pead enne Automaattäite kasutamist Bitwardeni rakendusse sisse logima.</value>
+    <value>Pead enne Automaattäite kasutamist Bravura Safei rakendusse sisse logima.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Sinu kontoandmed on otse klaviatuurilt ligipääsetavad. Saad nüüd kergemini äppides ja veebilehtedel sisse logida.</value>
@@ -1296,13 +1308,13 @@
     <value>4. Lülita AutoFill sisse</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Vali "Bitwarden"</value>
+    <value>5. Vali "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Paroolide Automaatne täitmine</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Kõige lihtsam viis uute kontoandmete sisestamiseks on kasutada Bitwardeni Automaattäite lisatööriista. Rohkem teavet selle kasutamise kohta leiad menüüst "Seaded".</value>
+    <value>Kõige lihtsam viis uute kontoandmete sisestamiseks on kasutada Bravura Safei Automaattäite lisatööriista. Rohkem teavet selle kasutamise kohta leiad menüüst "Seaded".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Vigane e-posti aadress.</value>
@@ -1323,8 +1335,8 @@
     <value>Kõik kirjed</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI-d</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL-d</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Parooli kontrollimine...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} teisaldati {1}'sse.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Kirje on jagatud.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwardeniga saad oma hoidla sisu teistega jagada, kasutades selleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada bitwarden.com veebilehe?</value>
+    <value>Bravura Safeiga saad oma hoidla sisu teistega jagada, kasutades selleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada Bravura Safe veebilehe?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Ekspordi hoidla</value>
@@ -1462,11 +1474,11 @@
     <value>30 minuti pärast</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Määra Bitwardeni lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded.</value>
+    <value>Määra Bravura Safei lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Sisse logitud kontoga {0} lehel {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Hoidla on lukus. Jätkamiseks sisesta ülemparool.</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Vaike URI sobivuse tuvastamine</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Vaike URL sobivuse tuvastamine</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Vali vaikeviis, kuidas kirje ja URI-i sobivus tuvastatakse. Seda kasutatakse näiteks siis, kui lehele üritatakse automaatselt andmeid sisestada.</value>
+    <value>Vali vaikeviis, kuidas kirje ja URL-i sobivus tuvastatakse. Seda kasutatakse näiteks siis, kui lehele üritatakse automaatselt andmeid sisestada.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Kujundus</value>
@@ -1532,7 +1544,7 @@
     <value>Välju</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Soovid tõesti Bitwardeni sulgeda?</value>
+    <value>Soovid tõesti Bravura Safei sulgeda?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>You you want to require unlocking with your master password when the application is restarted?</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Musta nimekirja URI-d</value>
+    <value>Musta nimekirja URL-d</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Musta nimekirja pandud URI-de puhul ei pakuta automaattäitmist. Eralda nimed komaga. Nt: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>Musta nimekirja pandud URL-de puhul ei pakuta automaattäitmist. Eralda nimed komaga. Nt: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Keela "Lisa konto andmed"</value>
@@ -1557,7 +1569,7 @@
     <value>Äpi taaskäivitamisel</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Automaattäite teenus võimaldab teistes äppides Bitwardeni kirjetele hõlpsasti ligi pääseda. Paistab, et selles seadmes ei ole Bitwardeni Automaattäite teenus sisselülitatud. Saad selle sisse lülitada menüüst "Seaded".</value>
+    <value>Automaattäite teenus võimaldab teistes äppides Bravura Safei kirjetele hõlpsasti ligi pääseda. Paistab, et selles seadmes ei ole Bravura Safei Automaattäite teenus sisselülitatud. Saad selle sisse lülitada menüüst "Seaded".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Välimuse muudatus rakendatakse äpi taaskäivitamisel.</value>
@@ -1591,10 +1603,10 @@
     <value>Lukusta lahti biomeetriaga</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden vajab tähelepanu! Vaata Seaded - Juurdepääsetavuse teenuse seaded.</value>
+    <value>Bravura Safe vajab tähelepanu! Vaata Seaded - Juurdepääsetavuse teenuse seaded.</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Ava Androidi rakenduste seaded. Leia üles Bitwarden, liigu sektsiooni "Täpsemalt" ning vajuta "Kuva peal" valikule ning lülita see sisse.</value>
+    <value>3. Ava Androidi rakenduste seaded. Leia üles Bravura Safe, liigu sektsiooni "Täpsemalt" ning vajuta "Kuva peal" valikule ning lülita see sisse.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Õigus</value>
@@ -1603,7 +1615,7 @@
     <value>Ava Kuva peal seaded</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Ava Androidi rakenduste seaded. Leia üles Bitwarden, liigu sektsiooni "Täpsemalt" ning vajuta "Kuva peal" valikule ning lülita see sisse.</value>
+    <value>3. Ava Androidi rakenduste seaded. Leia üles Bravura Safe, liigu sektsiooni "Täpsemalt" ning vajuta "Kuva peal" valikule ning lülita see sisse.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Keelatud</value>
@@ -1633,11 +1645,11 @@
     <value>Eksporditavate andmete krüpteerimiseks kasutatakse kontol olevat krüpteerimisvõtit. Kui sa peaksid seda krüpteerimise võtit roteerima, ei saa sa järgnevalt eksporditavaid andmeid enam dekrüpteerida.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Iga Bitwardeni kasutaja krüpteerimisvõti on unikaalne. Eksporditud andmeid ei saa importida teise Bitwardeni kasutajakontosse.</value>
+    <value>Iga Bravura Safei kasutaja krüpteerimisvõti on unikaalne. Eksporditud andmeid ei saa importida teise Bravura Safei kasutajakontosse.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Hoidla eksportimise kinnitamine</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Hoiatus</value>
@@ -1666,7 +1678,7 @@
     <value>Manus on edukalt lisatud</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Palun lülita "Automaattäite juurdepääsetavuse teenus" Bitwardeni seadetest sisse, et Automaattäite kasti kasutada.</value>
+    <value>Palun lülita "Automaattäite juurdepääsetavuse teenus" Bravura Safei seadetest sisse, et Automaattäite kasti kasutada.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Paroolivälju ei tuvastatud</value>
@@ -1784,7 +1796,7 @@
     <value>Privaatsuspoliitika</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden vajab tähelepanu! Vaata Bitwardeni menüüd Seaded -> Automaattäite teenused ning luba valik „Kuva peal“</value>
+    <value>Bravura Safe vajab tähelepanu! Vaata Bravura Safei menüüd Seaded -> Automaattäite teenused ning luba valik „Kuva peal“</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Automaattäite teenused</value>
@@ -1799,13 +1811,13 @@
     <value>Kasuta juurdepääsetavust</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Kasuta rakendustes ja veebis andmete sisestamiseks Bitwardeni juurdepääsetavuse teenust. Aktiveerimisel kuvatakse logimisväljadele vajutamisel väike hüpikaken.</value>
+    <value>Kasuta rakendustes ja veebis andmete sisestamiseks Bravura Safei juurdepääsetavuse teenust. Aktiveerimisel kuvatakse logimisväljadele vajutamisel väike hüpikaken.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Kasuta Bitwardeni juurdepääsetavuse teenust, et rakendustes ja veebis kontoandmeid sisestada. (Vajalik on valiku „Kuva peal“ sisselülitamine).</value>
+    <value>Kasuta Bravura Safei juurdepääsetavuse teenust, et rakendustes ja veebis kontoandmeid sisestada. (Vajalik on valiku „Kuva peal“ sisselülitamine).</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Kasuta Bitwardeni juurdepääsetavuse teenust, nägemaks Automaattäite valikute listi ja/või selleks, et näidata hüpikakent, kasutades „Kuva peal“ (kui see on sisse lülitatud).</value>
+    <value>Kasuta Bravura Safei juurdepääsetavuse teenust, nägemaks Automaattäite valikute listi ja/või selleks, et näidata hüpikakent, kasutades „Kuva peal“ (kui see on sisse lülitatud).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Vajalik Automaattäite valikute listi nägemiseks ning selleks, et toetada Automaattäite teenust läbi valiku „Kuva peal“ (kui see on sisse lülitatud).</value>
@@ -1814,10 +1826,10 @@
     <value>Kasuta Kuva peal</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Sisselülitatuna lubatakse Bitwardeni juurdepääsetavuse teenusel kuvada hüpikakent (kui valitud on sisselogimise väli).</value>
+    <value>Sisselülitatuna lubatakse Bravura Safei juurdepääsetavuse teenusel kuvada hüpikakent (kui valitud on sisselogimise väli).</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Sisselülitatuna lubatakse Bitwardeni juurdepääsetavuse teenusel kuvada hüpikakent (kui valitud on sisselogimise väli). See aitab kontoandmeid lihtsamini sisestada.</value>
+    <value>Sisselülitatuna lubatakse Bravura Safei juurdepääsetavuse teenusel kuvada hüpikakent (kui valitud on sisselogimise väli). See aitab kontoandmeid lihtsamini sisestada.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Sisselülitatuna kuvatakse hüpikakent, et võimaldada sisselogimist vanemates äppides, mis ei toeta Androidi Autofill raamistikku.</value>
@@ -1829,20 +1841,20 @@
     <value>Organisatsiooni poliitika piirab kirje omaniku valikuvõimalusi.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>Kõik Sendid</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>Sendid</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>Sisesta Sendi nimi (kohustuslik).</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Tekst</value>
@@ -1852,7 +1864,7 @@
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>Sendi avamisel peida tekst automaatselt</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Fail</value>
@@ -1867,8 +1879,8 @@
     <value>Kustutamise aeg</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Send kustutatakse määratud kuupäeval ja kellaajal jäädavalt.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share kustutatakse määratud kuupäeval ja kellaajal jäädavalt.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Kustutamise ootel</value>
@@ -1881,7 +1893,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>Selle valimisel ei pääse sellele Sendile enam pärast määratud kuupäeva ligi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Aegunud</value>
@@ -1891,7 +1903,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>Selle valimisel ei saa kasutajad pärast maksimaalse ligipääsude arvu saavutamist sellele Sendile enam ligi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Maksimaalne ligipääsude arv on saavutatud</value>
@@ -1904,7 +1916,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>Soovi korral nõua parooli, millega Sendile ligi pääseb.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Eemalda parool</value>
@@ -1920,19 +1932,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>Privaatne märkus selle Sendi kohta.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Keela see Send, et keegi ei pääseks sellele ligi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Keela see Share, et keegi ei pääseks sellele ligi.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>Kontol pole ühtegi Sendi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Lisa Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Lisa Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Kopeeri link</value>
@@ -1942,35 +1954,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>Sendi link</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>Otsi Sende</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>Muuda Sendi</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Lisa Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Lisa Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>Soovid tõesti selle Sendi kustutada?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send on kustutatud.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share on kustutatud.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send on uuendatud.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share on uuendatud.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Uus Send on loodud.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Uus Share on loodud.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 päev</value>
@@ -1992,30 +2004,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>Jaga seda Sendi salvestamise ajal.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>Ettevõtte poliitika kohaselt saad ainult olemasolevat Sendi kustutada.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>Rohkem infot</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Ära näita saajatele minu e-posti aadressi.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>Organisatsiooni seaded mõjutavad sinu Sendi sätteid.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Tasuta kontoga on võimalik saata ainult tekste. Failide saatmiseks on vajalik omada tasulist kontot.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Sendi kasutamiseks pead kinnitama oma e-posti aadressi. Saad seda teha veebihoidlas.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Nõutav on ülemparool</value>
@@ -2091,6 +2103,30 @@
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Üks või enam organisatsiooni poliitikat ei võimalda sul oma personaalset hoidlat eksportida.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Lisa konto</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Lukustamata</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Lukustatud</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Välja logitud </value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Vahetati järgmise saadaoleva konto peale</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Kasutajakonto on lukus</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Konto on edukalt välja logitud</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Konto on edukalt eemaldatud</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Kustuta konto</value>

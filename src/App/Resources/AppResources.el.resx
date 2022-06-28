@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Αγαπημένα</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Υποβολή Αναφοράς Σφάλματος</value>
@@ -276,6 +276,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε;</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Αφαίρεση λογαριασμού</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτόν τον λογαριασμό?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Ο Λογαριασμός Προστέθηκε Ήδη</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Θα θέλατε να το αλλάξετε τώρα?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Κύριος Κωδικός</value>
     <comment>Label for a master password.</comment>
@@ -286,7 +298,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Το Vault μου</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Όνομα</value>
@@ -345,7 +357,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -382,7 +394,7 @@
     <value>Επισκεφθείτε την ιστοσελίδα μας</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Επισκευθείτε την ιστοσελίδα μας για να λάβετε βοήθεια, νέα, να μας στείλετε email ή να μάθετε περισσότερα σχετικά με τον τρόπο χρήσης του Bitwarden.</value>
+    <value>Επισκευθείτε την ιστοσελίδα μας για να λάβετε βοήθεια, νέα, να μας στείλετε email ή να μάθετε περισσότερα σχετικά με τον τρόπο χρήσης του Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Ιστοσελίδα</value>
@@ -404,7 +416,7 @@
     <value>Επέκταση Εφαρμογής</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Χρησιμοποιείστε την υπηρεσία προσβασιμότητας Bitwarden, για την αυτόματη συμπλήρωση συνδέσεων σε εφαρμογές και στο διαδίκτυο.</value>
+    <value>Χρησιμοποιείστε την υπηρεσία προσβασιμότητας Bravura Safe, για την αυτόματη συμπλήρωση συνδέσεων σε εφαρμογές και στο διαδίκτυο.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Υπηρεσία Αυτόματης Συμπλήρωσης</value>
@@ -413,31 +425,31 @@
     <value>Αποφυγή Αμφιλεγόμενων Χαρακτήρων</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Επέκταση Εφαρμογής Bitwarden</value>
+    <value>Επέκταση Εφαρμογής Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Ο ευκολότερος τρόπος για να προσθέστε νέες συνδέσεις στο vault σας, είναι μέσω της επέκτασης εφαρμογής Bitwarden. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης, μεταβαίνοντας στις "Ρυθμίσεις".</value>
+    <value>Ο ευκολότερος τρόπος για να προσθέστε νέες συνδέσεις στο vault σας, είναι μέσω της επέκτασης εφαρμογής Bravura Safe. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης, μεταβαίνοντας στις "Ρυθμίσεις".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Χρήση του Bitwarden στο Safari και σε άλλες εφαρμογές για αυτόματη συμπλήρωση των συνδέσεων σας.</value>
+    <value>Χρήση του Bravura Safe στο Safari και σε άλλες εφαρμογές για αυτόματη συμπλήρωση των συνδέσεων σας.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Υπηρεσία Αυτόματης Συμπλήρωσης Bitwarden</value>
+    <value>Υπηρεσία Αυτόματης Συμπλήρωσης Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Χρησιμοποιείστε την υπηρεσία προσβασιμότητας Bitwarden, για την αυτόματη συμπλήρωση συνδέσεων.</value>
+    <value>Χρησιμοποιείστε την υπηρεσία προσβασιμότητας Bravura Safe, για την αυτόματη συμπλήρωση συνδέσεων.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Αλλαγή Email</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Μπορείτε να αλλάξετε τη διεύθυνση του email σας στο bitwarden.com. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
+    <value>Μπορείτε να αλλάξετε τη διεύθυνση του email σας στο Bravura Safe. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Αλλαγή Κύριου Κωδικού</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Μπορείτε να αλλάξετε τον κύριο κωδικό στο bitwarden.com. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
+    <value>Μπορείτε να αλλάξετε τον κύριο κωδικό στο Bravura Safe. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Κλείσιμο</value>
@@ -471,7 +483,7 @@
     <value>Ενεργοποίηση Επέκτασης Εφαρμογής</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Στο Safari, βρείτε το Bitwarden χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).</value>
+    <value>Στο Safari, βρείτε το Bravura Safe χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -484,13 +496,13 @@
     <value>Οι συνδέσεις σας είναι τώρα εύκολα προσβάσιμες από το Safari, το Chrome και απο άλλες υποστηριζόμενες εφαρμογές.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Στο Safari, βρείτε το Bitwarden χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).</value>
+    <value>Στο Safari, βρείτε το Bravura Safe χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Πατήστε στο εικονίδιο Bitwarden στο μενού για εκκίνηση της επέκτασης.</value>
+    <value>Πατήστε στο εικονίδιο Bravura Safe στο μενού για εκκίνηση της επέκτασης.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Για να ενεργοποιήσετε το Bitwarden στο Safari και σε άλλες εφαρμογές, πατήστε στο εικονίδιο "Περισσότερα" στην κάτω σειρά του μενού.</value>
+    <value>Για να ενεργοποιήσετε το Bravura Safe στο Safari και σε άλλες εφαρμογές, πατήστε στο εικονίδιο "Περισσότερα" στην κάτω σειρά του μενού.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Αγαπημένο</value>
@@ -508,7 +520,7 @@
     <value>Εισαγωγή Στοιχείων</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Μπορείτε να εισαγάγετε μαζικά στοιχεία διαδικτυακά στο bitwarden.com. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
+    <value>Μπορείτε να εισαγάγετε μαζικά στοιχεία διαδικτυακά στο Bravura Safe. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Γρήγορη μαζική εισαγωγή των στοιχείων σας από άλλες εφαρμογές διαχείρισης κωδικών.</value>
@@ -583,7 +595,7 @@
     <value>Περισσότερες Ρυθμίσεις</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Πρέπει να συνδεθείτε στην κύρια εφαρμογή Bitwarden για να μπορέσετε να χρησιμοποιήσετε την επέκταση.</value>
+    <value>Πρέπει να συνδεθείτε στην κύρια εφαρμογή Bravura Safe για να μπορέσετε να χρησιμοποιήσετε την επέκταση.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Ποτέ</value>
@@ -608,7 +620,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Οι προεπιλεγμένες επιλογές έχουν οριστεί από το κύριο εργαλείο δημιουργίας κωδικού του Bitwarden.</value>
+    <value>Οι προεπιλεγμένες επιλογές έχουν οριστεί από το κύριο εργαλείο δημιουργίας κωδικού του Bravura Safe.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Επιλογές</value>
@@ -632,7 +644,7 @@
     <value>Είστε βέβαιοι ότι θέλετε να αντικαταστήσετε τον τρέχον κωδικό;</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Το Bitwarden κρατάει αυτόματα το vault σας, με τη χρήση ειδοποιήσεων push. Για την καλύτερη δυνατή εμπειρία, επιλέξτε "Να επιτρέπεται" στην παρακάτω ερώτηση, όταν σας ζητηθεί να ενεργοποιήσετε τις ειδοποιήσεις push.</value>
+    <value>Το Bravura Safe κρατάει αυτόματα το vault σας, με τη χρήση ειδοποιήσεων push. Για την καλύτερη δυνατή εμπειρία, επιλέξτε "Να επιτρέπεται" στην παρακάτω ερώτηση, όταν σας ζητηθεί να ενεργοποιήσετε τις ειδοποιήσεις push.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -693,7 +705,7 @@
     <value>Σύνδεση σε δύο βήματα</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Η σύνδεση σε δύο βήματα καθιστά πιο ασφαλή τον λογαριασμό σας, απαιτώντας να επαληθεύσετε τα στοιχεία σας με μια άλλη συσκευή, όπως κλειδί ασφαλείας, εφαρμογή επαλήθευσης, μήνυμα SMS, τηλεφωνική κλήση ή email. Μπορείτε να ενεργοποιήσετε τη σύνδεση σε δύο βήματα στο bitwarden.com. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
+    <value>Η σύνδεση σε δύο βήματα καθιστά πιο ασφαλή τον λογαριασμό σας, απαιτώντας να επαληθεύσετε τα στοιχεία σας με μια άλλη συσκευή, όπως κλειδί ασφαλείας, εφαρμογή επαλήθευσης, μήνυμα SMS, τηλεφωνική κλήση ή email. Μπορείτε να ενεργοποιήσετε τη σύνδεση σε δύο βήματα στο Bravura Safe. Θέλετε να επισκεφθείτε την ιστοσελίδα τώρα;</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Ξεκλείδωμα με {0}</value>
@@ -712,7 +724,7 @@
     <value>Προβολή Στοιχείου</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden Web Vault</value>
+    <value>Bravura Safe Web Vault</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Χάσατε την εφαρμογή επαλήθευσης;</value>
@@ -736,10 +748,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Δεν υπάρχουν στοιχεία στην λίστα σας για {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Όταν επιλέξετε ένα πεδίο εισαγωγής και δείτε μια επικάλυψη αυτόματης συμπλήρωσης Bitwarden, μπορείτε να πατήσετε για να ξεκινήσει η υπηρεσία αυτόματης συμπλήρωσης.</value>
+    <value>Όταν επιλέξετε ένα πεδίο εισαγωγής και δείτε μια επικάλυψη αυτόματης συμπλήρωσης Bravura Safe, μπορείτε να πατήσετε για να ξεκινήσει η υπηρεσία αυτόματης συμπλήρωσης.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Πατήστε στην ειδοποίηση για να συμπληρώσετε αυτόματα ένα στοιχείο από το vault σας.</value>
@@ -748,7 +760,7 @@
     <value>Άνοιγμα των Ρυθμίσεων Προσβασιμότητας</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>Στις Ρυθμίσεις προσβασιμότητας, πατήστε "Bitwarden" στην επικεφαλίδα Υπηρεσίες.</value>
+    <value>Στις Ρυθμίσεις προσβασιμότητας, πατήστε "Bravura Safe" στην επικεφαλίδα Υπηρεσίες.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>Ενεργοποιείστε την εναλλαγή και πατήστε αποδοχή.</value>
@@ -763,7 +775,7 @@
     <value>Κατάσταση</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο vault σας, είναι με την υπηρεσία αυτόματης συμπλήρωσης του Bitwarden. Μάθετε περισσότερα σχετικά με τη χρήση της, μεταβαίνοντας στις "Ρυθμίσεις".</value>
+    <value>Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο vault σας, είναι με την υπηρεσία αυτόματης συμπλήρωσης του Bravura Safe. Μάθετε περισσότερα σχετικά με τη χρήση της, μεταβαίνοντας στις "Ρυθμίσεις".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Αυτόματη συμπλήρωση</value>
@@ -962,7 +974,7 @@
     <value>Αυτο-Φιλοξενούμενο Περιβάλλον</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Καθορίστε το URL εγκατάστασης Bitwarden.</value>
+    <value>Καθορίστε το URL εγκατάστασης Bravura Safe.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL Διακομιστή</value>
@@ -1127,7 +1139,7 @@
     <value>Εικονίδια Διακομιστή URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Αυτόματη συμπλήρωση με Bitwarden</value>
+    <value>Αυτόματη συμπλήρωση με Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Το Vault είναι κλειδωμένο</value>
@@ -1151,10 +1163,10 @@
     <value>Υπηρεσία προσβασιμότητας αυτόματης συμπλήρωσης</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Η υπηρεσία αυτόματης συμπλήρωσης Bitwarden, χρησιμοποιεί το Android Autofill Framework για να σας βοηθήσει να συμπληρώσετε στοιχεία σύνδεσης, τις πιστωτικές κάρτες και τις πληροφορίες ταυτότητας σε άλλες εφαρμογές της συσκευής σας.</value>
+    <value>Η υπηρεσία αυτόματης συμπλήρωσης Bravura Safe, χρησιμοποιεί το Android Autofill Framework για να σας βοηθήσει να συμπληρώσετε στοιχεία σύνδεσης, τις πιστωτικές κάρτες και τις πληροφορίες ταυτότητας σε άλλες εφαρμογές της συσκευής σας.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Χρησιμοποιήστε την υπηρεσία αυτόματης συμπλήρωσης Bitwarden για να συμπληρώσετε τις συνδέσεις, τις πιστωτικές κάρτες και τις πληροφορίες ταυτότητας σε άλλες εφαρμογές.</value>
+    <value>Χρησιμοποιήστε την υπηρεσία αυτόματης συμπλήρωσης Bravura Safe για να συμπληρώσετε τις συνδέσεις, τις πιστωτικές κάρτες και τις πληροφορίες ταυτότητας σε άλλες εφαρμογές.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Άνοιγμα των Ρυθμίσεων Αυτόματης Συμπλήρωσης</value>
@@ -1203,11 +1215,11 @@
     <value>Διαγραφή</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Νέο URI</value>
+    <value>Νέο URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Βασικός τομέας</value>
@@ -1230,11 +1242,11 @@
     <value>Έναρξη με</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>Εντοπισμός Αντιστοίχισης URI</value>
+    <value>Εντοπισμός Αντιστοίχισης URL</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Εντοπισμός Αντιστοίχισης</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Αποδοχή και Αποθήκευση</value>
@@ -1244,7 +1256,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Οργανισμός</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Κρατήστε το Yubikey κοντά στην κορυφή της συσκευής.</value>
@@ -1270,7 +1282,7 @@
     <value>Η αυτόματη συμπλήρωση ενεργοποιήθηκε!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Για να μπορέσετε να χρησιμοποιήσετε την Αυτόματη συμπλήρωση, πρέπει να συνδεθείτε στην κύρια εφαρμογή Bitwarden.</value>
+    <value>Για να μπορέσετε να χρησιμοποιήσετε την Αυτόματη συμπλήρωση, πρέπει να συνδεθείτε στην κύρια εφαρμογή Bravura Safe.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Οι συνδέσεις σας είναι πλέον εύκολα προσβάσιμες απευθείας από το πληκτρολόγιό σας κατά τη σύνδεση σε εφαρμογές και ιστοσελίδες.</value>
@@ -1297,13 +1309,13 @@
     <value>4. Ενεργοποιήστε την αυτόματη συμπλήρωση</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Επιλέξτε "Bitwarden"</value>
+    <value>5. Επιλέξτε "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Αυτόματη Συμπλήρωση Κωδικού</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο vault σας, είναι με την επέκταση αυτόματης συμπλήρωσης κωδικών Bitwarden. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης αυτής, μεταβαίνοντας στις "Ρυθμίσεις".</value>
+    <value>Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο vault σας, είναι με την επέκταση αυτόματης συμπλήρωσης κωδικών Bravura Safe. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης αυτής, μεταβαίνοντας στις "Ρυθμίσεις".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Μη έγκυρη διεύθυνση email.</value>
@@ -1324,8 +1336,8 @@
     <value>Όλα τα Στοιχεία</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URIs</value>
-    <comment>Plural form of a URI</comment>
+    <value>URLs</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Έλεγχος κωδικού...</value>
@@ -1390,7 +1402,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} μετακινήθηκε στο {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Το στοιχείο έχει κοινοποιηθεί.</value>
@@ -1442,10 +1454,10 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Το Bitwarden επιτρέπει να μοιράζεστε τα στοιχεία του vault σας με άλλους χρησιμοποιώντας ένα λογαριασμό οργανισμού. Θέλετε να επισκεφθείτε την ιστοσελίδα bitwarden.com για να μάθετε περισσότερα;</value>
+    <value>Το Bravura Safe επιτρέπει να μοιράζεστε τα στοιχεία του vault σας με άλλους χρησιμοποιώντας ένα λογαριασμό οργανισμού. Θέλετε να επισκεφθείτε την ιστοσελίδα hitachi-id.com για να μάθετε περισσότερα;</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
-    <value>Εξαγωγή Vault</value>
+    <value>Εξαγωγή Safe</value>
   </data>
   <data name="LockNow" xml:space="preserve">
     <value>Κλείδωμα Τώρα</value>
@@ -1463,11 +1475,11 @@
     <value>30 λεπτά</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Ορίστε τον κωδικό PIN για να ξεκλειδώσετε το Bitwarden. Οι ρυθμίσεις PIN θα επαναρυθμιστούν αν αποσυνδεθείτε πλήρως από την εφαρμογή.</value>
+    <value>Ορίστε τον κωδικό PIN για να ξεκλειδώσετε το Bravura Safe. Οι ρυθμίσεις PIN θα επαναρυθμιστούν αν αποσυνδεθείτε πλήρως από την εφαρμογή.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Συνδεθήκατε ως {0} στις {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Το vault σας είναι κλειδωμένο. Επαληθεύστε τον κύριο κωδικό για να συνεχίσετε.</value>
@@ -1510,11 +1522,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Προεπιλεγμένη Ανίχνευση Αντιστοιχίας URI</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Προεπιλεγμένη Ανίχνευση Αντιστοιχίας URL</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Επιλέξτε τον προκαθορισμένο τρόπο με τον οποίο αντιμετωπίζεται η ανίχνευση αντιστοίχισης URI για τις συνδέσεις, κατά την εκτέλεση ενεργειών, όπως είναι η αυτόματη συμπλήρωση.</value>
+    <value>Επιλέξτε τον προκαθορισμένο τρόπο με τον οποίο αντιμετωπίζεται η ανίχνευση αντιστοίχισης URL για τις συνδέσεις, κατά την εκτέλεση ενεργειών, όπως είναι η αυτόματη συμπλήρωση.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Θέμα</value>
@@ -1533,7 +1545,7 @@
     <value>Έξοδος</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Είστε βέβαιοι ότι θέλετε να βγείτε από το Bitwarden;</value>
+    <value>Είστε βέβαιοι ότι θέλετε να βγείτε από το Bravura Safe;</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Θέλετε να απαιτείται ξεκλείδωμα με τον κύριο κωδικό κατά την επανεκκίνηση της εφαρμογής;</value>
@@ -1543,10 +1555,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Μαύρη λίστα URIs</value>
+    <value>Μαύρη λίστα URLs</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Τα URI που βρίσκονται στη μαύρη λίστα δεν προσφέρουν αυτόματη συμπλήρωση. Ο κατάλογος πρέπει να διαχωριστεί με κόμμα. Παράδειγμα: "https://twitter.com, androidapp: //com.twitter.android".</value>
+    <value>Τα URL που βρίσκονται στη μαύρη λίστα δεν προσφέρουν αυτόματη συμπλήρωση. Ο κατάλογος πρέπει να διαχωριστεί με κόμμα. Παράδειγμα: "https://twitter.com, androidapp: //com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Απενεργοποίηση Προτροπής Αποθήκευσης</value>
@@ -1558,7 +1570,7 @@
     <value>Κατά την Επανεκκίνηση Εφαρμογής</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Η αυτόματη συμπλήρωση διευκολύνει την ασφαλή πρόσβαση στη λίστα από άλλες ιστοσελίδες και εφαρμογές. Φαίνεται ότι δεν έχετε ενεργοποιήσει την υπηρεσία αυτόματης συμπλήρωσης για το Bitwarden. Ενεργοποιήστε την από τις "Ρυθμίσεις".</value>
+    <value>Η αυτόματη συμπλήρωση διευκολύνει την ασφαλή πρόσβαση στη λίστα από άλλες ιστοσελίδες και εφαρμογές. Φαίνεται ότι δεν έχετε ενεργοποιήσει την υπηρεσία αυτόματης συμπλήρωσης για το Bravura Safe. Ενεργοποιήστε την από τις "Ρυθμίσεις".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Οι αλλαγές θεμάτων θα ισχύουν όταν γίνει επανεκκίνηση της εφαρμογής.</value>
@@ -1592,10 +1604,10 @@
     <value>Χρήση βιομετρικής μεθόδου για ξεκλείδωμα</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Το Bitwarden χρειάζεται προσοχή - Ανατρέξτε στην ενότητα "Υπηρεσία προσβασιμότητας αυτόματης συμπλήρωσης" από τις ρυθμίσεις Bitwarden</value>
+    <value>Το Bravura Safe χρειάζεται προσοχή - Ανατρέξτε στην ενότητα "Υπηρεσία προσβασιμότητας αυτόματης συμπλήρωσης" από τις ρυθμίσεις Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Στις Ρυθμίσεις του Bitwarden για Android , μεταβείτε στην ενότητα "Εμφάνιση από άλλες εφαρμογές" (Για προχωρημένους) και πατήστε το διακόπτη για να ενεργοποιήσετε την υποστήριξη επικάλυψης.</value>
+    <value>3. Στις Ρυθμίσεις του Bravura Safe για Android , μεταβείτε στην ενότητα "Εμφάνιση από άλλες εφαρμογές" (Για προχωρημένους) και πατήστε το διακόπτη για να ενεργοποιήσετε την υποστήριξη επικάλυψης.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Άδειες</value>
@@ -1604,7 +1616,7 @@
     <value>Ρυθμίσεις Δικαιωμάτων Επικάλυψης</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Στις Ρυθμίσεις του Bitwarden για Android , μεταβείτε στην ενότητα "Εμφάνιση πάνω σε άλλες εφαρμογές" (κάτω απο "Για προχωρημένους") και πατήστε το διακόπτη για να ενεργοποιήσετε την υποστήριξη επικάλυψης.</value>
+    <value>3. Στις Ρυθμίσεις του Bravura Safe για Android , μεταβείτε στην ενότητα "Εμφάνιση πάνω σε άλλες εφαρμογές" (κάτω απο "Για προχωρημένους") και πατήστε το διακόπτη για να ενεργοποιήσετε την υποστήριξη επικάλυψης.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Αρνήθηκε</value>
@@ -1634,11 +1646,11 @@
     <value>Αυτή η εξαγωγή κρυπτογραφεί τα δεδομένα σας χρησιμοποιώντας το κλειδί κρυπτογράφησης του λογαριασμού σας. Εάν ποτέ περιστρέψετε το κλειδί κρυπτογράφησης του λογαριασμού σας, θα πρέπει να κάνετε εξαγωγή ξανά, καθώς δεν θα μπορείτε να αποκρυπτογραφήσετε αυτό το αρχείο εξαγωγής.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Τα κλειδιά κρυπτογράφησης λογαριασμού είναι μοναδικά για κάθε λογαριασμό χρήστη Bitwarden, οπότε δεν μπορείτε να εισάγετε μια κρυπτογραφημένη εξαγωγή σε διαφορετικό λογαριασμό.</value>
+    <value>Τα κλειδιά κρυπτογράφησης λογαριασμού είναι μοναδικά για κάθε λογαριασμό χρήστη Bravura Safe, οπότε δεν μπορείτε να εισάγετε μια κρυπτογραφημένη εξαγωγή σε διαφορετικό λογαριασμό.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Επιβεβαίωση εξαγωγής Vault</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Προειδοποίηση</value>
@@ -1667,7 +1679,7 @@
     <value>Το συνημμένο αποθηκεύτηκε με επιτυχία</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Ενεργοποιήστε την "Υπηρεσία αυτόματης συμπλήρωσης προσβασιμότητας" από τις ρυθμίσεις Bitwarden για να χρησιμοποιήσετε το εικονίδιο αυτόματης συμπλήρωσης.</value>
+    <value>Ενεργοποιήστε την "Υπηρεσία αυτόματης συμπλήρωσης προσβασιμότητας" από τις ρυθμίσεις Bravura Safe για να χρησιμοποιήσετε το εικονίδιο αυτόματης συμπλήρωσης.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Δεν εντοπίστηκαν πεδία κωδικού πρόσβασης</value>
@@ -1785,7 +1797,7 @@
     <value>Πολιτική Απορρήτου</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Το Bitwarden χρειάζεται προσοχή - Ενεργοποιήστε το "Draw-Over" στις "Υπηρεσίες αυτόματης συμπλήρωσης" από το Bitwarden Settings</value>
+    <value>Το Bravura Safe χρειάζεται προσοχή - Ενεργοποιήστε το "Draw-Over" στις "Υπηρεσίες αυτόματης συμπλήρωσης" από το Bravura Safe Settings</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Υπηρεσία Αυτόματης Συμπλήρωσης</value>
@@ -1800,13 +1812,13 @@
     <value>Χρησιμοποιήστε την Προσβασιμότητα</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bitwarden για να συμπληρώσετε αυτόματα τις συνδέσεις σας σε εφαρμογές και στον ιστό. Όταν είναι ενεργοποιημένο, θα εμφανιστεί ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης</value>
+    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bravura Safe για να συμπληρώσετε αυτόματα τις συνδέσεις σας σε εφαρμογές και στον ιστό. Όταν είναι ενεργοποιημένο, θα εμφανιστεί ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bitwarden για να συμπληρώσετε αυτόματα τις συνδέσεις σας σε εφαρμογές και στον ιστό. (Απαιτείται η ενεργοποίηση του Draw-Over)</value>
+    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bravura Safe για να συμπληρώσετε αυτόματα τις συνδέσεις σας σε εφαρμογές και στον ιστό. (Απαιτείται η ενεργοποίηση του Draw-Over)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bitwarden για να χρησιμοποιήσετε το Πλακάκι γρήγορης δράσης αυτόματης συμπλήρωσης ή / και να εμφανιστεί ένα αναδυόμενο παράθυρο χρησιμοποιώντας το Draw-Over (εάν είναι ενεργοποιημένο).</value>
+    <value>Χρησιμοποιήστε την υπηρεσία προσβασιμότητας Bravura Safe για να χρησιμοποιήσετε το Πλακάκι γρήγορης δράσης αυτόματης συμπλήρωσης ή / και να εμφανιστεί ένα αναδυόμενο παράθυρο χρησιμοποιώντας το Draw-Over (εάν είναι ενεργοποιημένο).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Απαιτείται να χρησιμοποιήσετε το Πλακάκι αυτόματης συμπλήρωσης αυτόματης συμπλήρωσης ή για να αυξήσετε την υπηρεσία αυτόματης συμπλήρωσης χρησιμοποιώντας το Draw-Over (εάν είναι ενεργοποιημένο).</value>
@@ -1815,10 +1827,10 @@
     <value>Χρησιμοποιήστε το Draw-Over</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Όταν είναι ενεργοποιημένο, επιτρέπει στην υπηρεσία προσβασιμότητας Bitwarden να εμφανίζει ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης.</value>
+    <value>Όταν είναι ενεργοποιημένο, επιτρέπει στην υπηρεσία προσβασιμότητας Bravura Safe να εμφανίζει ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Εάν είναι ενεργοποιημένη, η υπηρεσία προσβασιμότητας Bitwarden θα εμφανίσει ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης για να βοηθούν στην αυτόματη συμπλήρωση των συνδέσεων σας.</value>
+    <value>Εάν είναι ενεργοποιημένη, η υπηρεσία προσβασιμότητας Bravura Safe θα εμφανίσει ένα αναδυόμενο παράθυρο όταν επιλέγονται πεδία σύνδεσης για να βοηθούν στην αυτόματη συμπλήρωση των συνδέσεων σας.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Εάν είναι ενεργοποιημένη, η προσβασιμότητα θα εμφανίσει ένα αναδυόμενο παράθυρο για την αύξηση της υπηρεσίας αυτόματης συμπλήρωσης για παλαιότερες εφαρμογές που δεν υποστηρίζουν το Android Autofill Framework.</value>
@@ -1830,20 +1842,20 @@
     <value>Μια πολιτική οργανισμού, επηρεάζει τις επιλογές ιδιοκτησίας σας.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Όλα τα Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Όλα τα Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Ένα φιλικό όνομα για την περιγραφή αυτού του Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ένα φιλικό όνομα για την περιγραφή αυτού του Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Κείμενο</value>
@@ -1852,8 +1864,8 @@
     <value>Το κείμενο που θέλετε να στείλετε.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Κατά την πρόσβαση σε αυτό το Send, αποκρύψτε το κείμενο από προεπιλογή</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Κατά την πρόσβαση σε αυτό το Share, αποκρύψτε το κείμενο από προεπιλογή</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Αρχείο</value>
@@ -1868,8 +1880,8 @@
     <value>Χρόνος Διαγραφής</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Το Send θα διαγραφεί οριστικά την καθορισμένη ημερομηνία και ώρα.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Το Share θα διαγραφεί οριστικά την καθορισμένη ημερομηνία και ώρα.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Εκκρεμεί διαγραφή</value>
@@ -1881,8 +1893,8 @@
     <value>Χρόνος λήξης</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Εάν οριστεί, η πρόσβαση σε αυτό το Send θα λήξει την καθορισμένη ημερομηνία και ώρα.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Εάν οριστεί, η πρόσβαση σε αυτό το Share θα λήξει την καθορισμένη ημερομηνία και ώρα.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Έληξε</value>
@@ -1892,7 +1904,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>Εάν οριστεί, οι χρήστες δεν θα μπορούν πλέον να έχουν πρόσβαση σε αυτό το send μόλις επιτευχθεί ο μέγιστος αριθμός πρόσβασης.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Φτάσατε στον μέγιστο αριθμό πρόσβασης</value>
@@ -1904,8 +1916,8 @@
     <value>Νέος Κωδικός</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Προαιρετικά απαιτείται κωδικός πρόσβασης για τους χρήστες για να έχουν πρόσβαση σε αυτό το Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Προαιρετικά απαιτείται κωδικός πρόσβασης για τους χρήστες για να έχουν πρόσβαση σε αυτό το Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Αφαίρεση κωδικού</value>
@@ -1920,20 +1932,20 @@
     <value>Ο κωδικός έχει αφαιρεθεί.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Ιδιωτικές σημειώσεις σχετικά με αυτό το Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ιδιωτικές σημειώσεις σχετικά με αυτό το Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Απενεργοποιήστε αυτό το Send έτσι ώστε κανείς να μην μπορεί να έχει πρόσβαση σε αυτό.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Απενεργοποιήστε αυτό το Share έτσι ώστε κανείς να μην μπορεί να έχει πρόσβαση σε αυτό.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>Δεν υπάρχουν sends στο λογαριασμό σας.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Προσθήκη Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Προσθήκη Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Αντιγραφή Συνδέσμου</value>
@@ -1942,36 +1954,36 @@
     <value>Κοινοποίηση Συνδέσμου</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Σύνδεσμος Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Σύνδεσμος Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Αναζήτηση Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Αναζήτηση Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Επεξεργασία Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Επεξεργασία Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Προσθήκη Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Προσθήκη Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Είστε βέβαιοι ότι θέλετε να διαγράψετε το Send;</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Είστε βέβαιοι ότι θέλετε να διαγράψετε το Share;</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>Το send έχει διαγραφεί.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
     <value>Το send ενημερώθηκε.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
     <value>Δημιουργήθηκε νέο send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 ημέρα</value>
@@ -1993,30 +2005,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>Κοινοποιήστε αυτό το send κατά την αποθήκευση.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Λόγω μιας επιχειρηματικής πολιτικής, είστε σε θέση να διαγράψετε μόνο ένα υπάρχον Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Λόγω μιας επιχειρηματικής πολιτικής, είστε σε θέση να διαγράψετε μόνο ένα υπάρχον Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Σχετικά με το Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Σχετικά με το Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Απόκρυψη της διεύθυνσης email μου από τους παραλήπτες.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>Μία ή περισσότερες οργανωτικές πολιτικές επηρεάζουν τις επιλογές send σας.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Οι δωρεάν λογαριασμοί περιορίζονται μόνο στην κοινή χρήση κειμένου. Μια premium συνδρομή απαιτείται για τη χρήση αρχείων με Αποστολή.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Πρέπει να επαληθεύσετε το email σας για να χρησιμοποιήσετε τα αρχεία με το send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Προτροπή κύριου κωδικού πρόσβασης</value>
@@ -2092,6 +2104,30 @@
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Μία ή περισσότερες οργανωτικές πολιτικές αποτρέπουν την εξαγωγή του προσωπικού vault.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Προσθήκη Λογαριασμού</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Ξεκλειδώθηκε</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Κλειδωμένο</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Αποσυνδεθήκατε</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Μετάβαση στον επόμενο διαθέσιμο λογαριασμό</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Κλειδωμένος Λογαριασμός</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Ο λογαριασμός αποσυνδέθηκε επιτυχώς</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Ο λογαριασμός αφαιρέθηκε επιτυχώς</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Διαγραφή Λογαριασμού</value>

@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>รายการโปรด</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>รายงานข้อบกพร่อง</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>คุณแน่ใจว่าต้องการออกจากระบบ</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Remove Account</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Are you sure you want to remove this account?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Account Already Added</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Would you like to switch to it now?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>รหัสผ่านหลัก</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>ตู้เซฟของฉัน</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>ชื่อ</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>เยี่ยมชมเว็บไซต์</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>เยี่ยมชมเว็บไซต์ของเราเพื่อขอความช่วยเหลือ, ข่าว, อีเมลถึงเรา, และ/หรือเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้ Bitwarden.</value>
+    <value>เยี่ยมชมเว็บไซต์ของเราเพื่อขอความช่วยเหลือ, ข่าว, อีเมลถึงเรา, และ/หรือเรียนรู้เพิ่มเติมเกี่ยวกับวิธีการใช้ Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>เว็บไซต์</value>
@@ -403,7 +415,7 @@
     <value>แอปส่วนขยาย</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>ใช้บริการ Bitwarden เพิ่อเข้าถึงการกรอกข้อมูลอัตโนมัติเข้าสู่ระบบผ่านแอปพลิเคชันและเว็บ</value>
+    <value>ใช้บริการ Bravura Safe เพิ่อเข้าถึงการกรอกข้อมูลอัตโนมัติเข้าสู่ระบบผ่านแอปพลิเคชันและเว็บ</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>บริการกรอกข้อมูลอัตโนมัติ</value>
@@ -412,31 +424,31 @@
     <value>หลีกเลี่ยงอักขระที่ไม่ชัดเจน</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>ส่วนขยายแอปพลิเคชัน Bitwarden</value>
+    <value>ส่วนขยายแอปพลิเคชัน Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>The easiest way to add new logins to your vault is from the Bitwarden App Extension. Learn more about using the Bitwarden App Extension by navigating to the "Settings" screen.</value>
+    <value>The easiest way to add new logins to your safe is from the Bravura Safe App Extension. Learn more about using the Bravura Safe App Extension by navigating to the "Settings" screen.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>ใช้ Bitwarden ใน Safari และแอปอื่น ๆ ในการกรอกข้อมูลอัตโนมัติเพื่อเข้าสู่ระบบ</value>
+    <value>ใช้ Bravura Safe ใน Safari และแอปอื่น ๆ ในการกรอกข้อมูลอัตโนมัติเพื่อเข้าสู่ระบบ</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden บริการกรอกข้อมูลอัตโนมัติ</value>
+    <value>Bravura Safe บริการกรอกข้อมูลอัตโนมัติ</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Use the bitwarden accessibility service to auto-fill your logins.</value>
+    <value>Use the Bravura Safe accessibility service to auto-fill your logins.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>เปลี่ยนอีเมล</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>คุณสามารถเปลี่ยนที่อยู่อีเมลของคุณบน เว็บนิรภัย bitwarden.com คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
+    <value>คุณสามารถเปลี่ยนที่อยู่อีเมลของคุณบน เว็บนิรภัย Bravura Safe คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>เปลี่ยนรหัสผ่านหลัก</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>คุณสามารถเปลี่ยนรหัสผ่านหลักของคุณบน เว็บนิรภัย bitwarden.com คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
+    <value>คุณสามารถเปลี่ยนรหัสผ่านหลักของคุณบน เว็บนิรภัย Bravura Safe คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>ปิด</value>
@@ -470,7 +482,7 @@
     <value>เปิดใช้งานแอปส่วนขยาย</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>In Safari, find bitwarden using the share icon (hint: scroll to the right on the bottom row of the menu).</value>
+    <value>In Safari, find Bravura Safe using the share icon (hint: scroll to the right on the bottom row of the menu).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>ขณะนี้คุณสามารถเข้าสู่ระบบอยู่ในได้อย่างง่ายดายจาก Safari, Chrome และปพลิเคชันอื่นๆที่ได้รับการสนับสนุน</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>In Safari and Chrome, find bitwarden using the share icon (hint: scroll to the right on the bottom row of the share menu).</value>
+    <value>In Safari and Chrome, find Bravura Safe using the share icon (hint: scroll to the right on the bottom row of the share menu).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Tap the bitwarden icon in the menu to launch the extension.</value>
+    <value>Tap the Bravura Safe icon in the menu to launch the extension.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>To turn on bitwarden in Safari and other apps, tap the "more" icon on the bottom row of the menu.</value>
+    <value>To turn on Bravura Safe in Safari and other apps, tap the "more" icon on the bottom row of the menu.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>รายการโปรด</value>
@@ -507,7 +519,7 @@
     <value>นำเข้ารายการ</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>คุณสามารถนำเข้ารายการจำนวนมากจาก เว็บนิรภัย bitwarden.com คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
+    <value>คุณสามารถนำเข้ารายการจำนวนมากจาก เว็บนิรภัย Bravura Safe คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>นำเข้ารายการจำนวนมากจากรายการจัดการรหัสผ่านอื่น ๆ ได้อย่างรวดเร็ว</value>
@@ -543,7 +555,7 @@
     <value>การดำเนินการหลังหมดเวลาล็อคตู้เซฟ</value>
   </data>
   <data name="VaultTimeoutLogOutConfirmation" xml:space="preserve">
-    <value>Logging out will remove all access to your vault and requires online authentication after the timeout period. Are you sure you want to use this setting?</value>
+    <value>Logging out will remove all access to your safe and requires online authentication after the timeout period. Are you sure you want to use this setting?</value>
   </data>
   <data name="LoggingIn" xml:space="preserve">
     <value>กำลังเข้าสู่ระบบ...</value>
@@ -582,7 +594,7 @@
     <value>การตั้งค่าเพิ่มเติม</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>You must log into the main bitwarden app before you can use the extension.</value>
+    <value>You must log into the main Bravura Safe app before you can use the extension.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>ไม่เคย</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Option defaults are set from the main bitwarden app's password generator tool.</value>
+    <value>Option defaults are set from the main Bravura Safe app's password generator tool.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>ตัวเลือก</value>
@@ -631,7 +643,7 @@
     <value>คุณแน่ใจว่าต้องการเขียนทับรหัสผ่านปัจจุบัน?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>bitwarden keeps your vault automatically synced by using push notifications. For the best possible experience, please select "Ok" on the following prompt when asked to enable push notifications.</value>
+    <value>Bravura Safe keeps your safe automatically synced by using push notifications. For the best possible experience, please select "Ok" on the following prompt when asked to enable push notifications.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>เข้าสู่ระบบแบบสองขั้นตอน</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>การเข้าสู่ระบบแบบสองขั้นตอนทำให้บัญชีของคุณมีความปลอดภัยมากขึ้นด้วยการให้คุณตรวจสอบการเข้าสู่ระบบของคุณกับอุปกรณ์อื่นเช่นคีย์ความปลอดภัย, แอพ authenticator, SMS, โทรศัพท์หรืออีเมล. เข้าสู่ระบบแบบสองขั้นตอนสามารถเปิดใช้งานบน เว็บนิรภัย bitwarden.com คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
+    <value>การเข้าสู่ระบบแบบสองขั้นตอนทำให้บัญชีของคุณมีความปลอดภัยมากขึ้นด้วยการให้คุณตรวจสอบการเข้าสู่ระบบของคุณกับอุปกรณ์อื่นเช่นคีย์ความปลอดภัย, แอพ authenticator, SMS, โทรศัพท์หรืออีเมล. เข้าสู่ระบบแบบสองขั้นตอนสามารถเปิดใช้งานบน เว็บนิรภัย Bravura Safe คุณต้องการเยี่ยมชมเว็บไซต์เดี๋ยวนี้หรือไม่</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>ปลดล็อก ด้วย {0}</value>
@@ -711,7 +723,7 @@
     <value>ดูรายการ</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>bitwarden Web Vault</value>
+    <value>Bravura Safe Web Vault</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>แอปตรวจสอบการยืนยันหายไป?</value>
@@ -735,19 +747,19 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>ไม่มีรายการ {0} ในห้องนิรภัยของคุณ</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>When you select an input field and see a Bitwarden auto-fill overlay, you can tap it to launch the auto-fill service.</value>
+    <value>When you select an input field and see a Bravura Safe auto-fill overlay, you can tap it to launch the auto-fill service.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
-    <value>Tap this notification to auto-fill a login from your vault.</value>
+    <value>Tap this notification to auto-fill a login from your safe.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAccessibilitySettings" xml:space="preserve">
     <value>เปิดการตั้งค่าการเข้าถึง</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. On the Android Accessibility Settings screen, touch "bitwarden" under the Services heading.</value>
+    <value>1. On the Android Accessibility Settings screen, touch "Bravura Safe" under the Services heading.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. สลับเปิดสวิตช์และกดตกลงเพื่อยอมรับ</value>
@@ -762,7 +774,7 @@
     <value>สถานะ</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>The easiest way to add new logins to your vault is from the Bitwarden Auto-fill Service. Learn more about using the Bitwarden Auto-fill Service by navigating to the "Settings" screen.</value>
+    <value>The easiest way to add new logins to your safe is from the Bravura Safe Auto-fill Service. Learn more about using the Bravura Safe Auto-fill Service by navigating to the "Settings" screen.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>กรอกข้อมูลอัตโนมัติ</value>
@@ -786,7 +798,7 @@
     <value>You are searching for an auto-fill login for "{0}".</value>
   </data>
   <data name="LearnOrg" xml:space="preserve">
-    <value>Learn About Organizations</value>
+    <value>Learn About Teams</value>
   </data>
   <data name="CannotOpenApp" xml:space="preserve">
     <value>ไม่สามารถเปิดแอป "{0}".</value>
@@ -961,7 +973,7 @@
     <value>จัดสภาพแวดล้อมโฮสต์ด้วยตนเอง</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Specify the base URL of your on-premise hosted bitwarden installation.</value>
+    <value>Specify the base URL of your on-premise hosted Bravura Safe installation.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL ของเซิร์ฟเวอร์</value>
@@ -1126,7 +1138,7 @@
     <value>URL ของเซิร์ฟเวอร์ไอคอน</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Auto-fill with bitwarden</value>
+    <value>Auto-fill with Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>ห้องนิรภัยถูกล็อก</value>
@@ -1150,10 +1162,10 @@
     <value>เติมข้อมูลบริการการเข้าถึงได้โดยอัตโนมัติ</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>The bitwarden auto-fill service uses the Android Autofill Framework to assist in filling logins, credit cards, and identity information into other apps on your device.</value>
+    <value>The Bravura Safe auto-fill service uses the Android Autofill Framework to assist in filling logins, credit cards, and identity information into other apps on your device.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Use the bitwarden accessibility service to auto-fill your logins.</value>
+    <value>Use the Bravura Safe accessibility service to auto-fill your logins.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>เปิดการตั้งค่าการป้อนอัตโนมัติ</value>
@@ -1202,11 +1214,11 @@
     <value>เอาออก</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>URI ใหม่</value>
+    <value>URL ใหม่</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>โดเมนพื้นฐาน</value>
@@ -1233,7 +1245,7 @@
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>ตรวจพบการจับคู่</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>ใช่ และบันทึก</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>องค์กร</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>ถือ Yubikey ไว้ใกล้ ๆ ด้านบนอุปกรณ์ของคุณ</value>
@@ -1269,7 +1281,7 @@
     <value>กรอกข้อมูลอัตโนมัติเปิดใช้งานแล้ว!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>You must log into the main Bitwarden app before you can use AutoFill.</value>
+    <value>You must log into the main Bravura Safe app before you can use AutoFill.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Your logins are now easily accessable right from your keyboard while logging into apps and websites.</value>
@@ -1278,7 +1290,7 @@
     <value>We recommend disabling any other AutoFill apps under Settings if you do not plan to use them.</value>
   </data>
   <data name="BitwardenAutofillDescription" xml:space="preserve">
-    <value>Access your vault directly from your keyboard to quickly autofill passwords.</value>
+    <value>Access your safe directly from your keyboard to quickly autofill passwords.</value>
   </data>
   <data name="AutofillTurnOn" xml:space="preserve">
     <value>To enable password autofill on your device, follow these instructions:</value>
@@ -1287,7 +1299,7 @@
     <value>1. Go to the iOS "Settings" app</value>
   </data>
   <data name="AutofillTurnOn2" xml:space="preserve">
-    <value>2. Tap "Passwords &amp; Accounts"</value>
+    <value>2. Tap "Passwords"</value>
   </data>
   <data name="AutofillTurnOn3" xml:space="preserve">
     <value>3. Tap "AutoFill Passwords"</value>
@@ -1296,13 +1308,13 @@
     <value>4. Turn on AutoFill</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Select "Bitwarden"</value>
+    <value>5. Select "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>กรอกรหัสผ่านอัตโนมัติ</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>The easiest way to add new logins to your vault is by using the Bitwarden Password AutoFill extension. Learn more about using the Bitwarden Password AutoFill extension by navigating to the "Settings" screen.</value>
+    <value>The easiest way to add new logins to your safe is by using the Bravura Safe Password AutoFill extension. Learn more about using the Bravura Safe Password AutoFill extension by navigating to the "Settings" screen.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>ที่อยู่อีเมลไม่ถูกต้อง</value>
@@ -1323,8 +1335,8 @@
     <value>รายการทั้งหมด</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URIs</value>
-    <comment>Plural form of a URI</comment>
+    <value>URLs</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>กำลังเช็กรหัสผ่าน...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} moved to {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Item has been shared.</value>
@@ -1404,13 +1416,13 @@
     <value>Share Item</value>
   </data>
   <data name="MoveToOrganization" xml:space="preserve">
-    <value>Move to Organization</value>
+    <value>Move to Team</value>
   </data>
   <data name="NoOrgsToList" xml:space="preserve">
-    <value>No organizations to list.</value>
+    <value>No teams to list.</value>
   </data>
   <data name="MoveToOrgDesc" xml:space="preserve">
-    <value>Choose an organization that you wish to move this item to. Moving to an organization transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</value>
+    <value>Choose a team that you wish to move this item to. Moving to a team transfers ownership of the item to that team. You will no longer be the direct owner of this item once it has been moved.</value>
   </data>
   <data name="NumberOfWords" xml:space="preserve">
     <value>Number of Words</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden allows you to share your vault items with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?</value>
+    <value>Bravura Safe allows you to share your safe items with others by using a team account. Would you like to visit the hitachi-id.com website to learn more?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>ส่งออกตู้เซฟ</value>
@@ -1456,17 +1468,17 @@
     <value>Unlock</value>
   </data>
   <data name="UnlockVault" xml:space="preserve">
-    <value>Unlock Vault</value>
+    <value>Unlock Safe</value>
   </data>
   <data name="ThirtyMinutes" xml:space="preserve">
     <value>30 minutes</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Set your PIN code for unlocking Bitwarden. Your PIN settings will be reset if you ever fully log out of the application.</value>
+    <value>Set your PIN code for unlocking Bravura Safe. Your PIN settings will be reset if you ever fully log out of the application.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Logged in as {0} on {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>ตู้เซฟของคุณถูกล็อค ใส่รหัสผ่านหลักของคุณเพื่อดำเนินการต่อ</value>
@@ -1475,7 +1487,7 @@
     <value>ตู้เซฟของคุณถูกล็อค ใส่ PIN ของคุณเพื่อดำเนินการต่อ</value>
   </data>
   <data name="VaultLockedIdentity" xml:space="preserve">
-    <value>Your vault is locked. Verify your identity to continue.</value>
+    <value>Your safe is locked. Verify your identity to continue.</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>มืด</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Default URI Match Detection</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Default URL Match Detection</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Choose the default way that URI match detection is handled for logins when performing actions such as auto-fill.</value>
+    <value>Choose the default way that URL match detection is handled for logins when performing actions such as auto-fill.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>ธีม</value>
@@ -1532,7 +1544,7 @@
     <value>ออก</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Are you sure you want to exit Bitwarden?</value>
+    <value>Are you sure you want to exit Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>You you want to require unlocking with your master password when the application is restarted?</value>
@@ -1542,22 +1554,22 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Blacklisted URIs</value>
+    <value>Blacklisted URLs</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>URIs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>URLs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Disable Save Prompt</value>
   </data>
   <data name="DisableSavePromptDescription" xml:space="preserve">
-    <value>The "Save Prompt" automatically prompts you to save new items to your vault whenever you enter them for the first time.</value>
+    <value>The "Save Prompt" automatically prompts you to save new items to your safe whenever you enter them for the first time.</value>
   </data>
   <data name="OnRestart" xml:space="preserve">
     <value>On App Restart</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Auto-fill makes it easy to securely access your Bitwarden vault from other websites and apps. It looks like you have not enabled an auto-fill service for Bitwarden. Enable auto-fill for Bitwarden from the "Settings" screen.</value>
+    <value>Auto-fill makes it easy to securely access your Bravura Safe safe from other websites and apps. It looks like you have not enabled an auto-fill service for Bravura Safe. Enable auto-fill for Bravura Safe from the "Settings" screen.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Your theme changes will apply when the app is restarted.</value>
@@ -1591,10 +1603,10 @@
     <value>Use Biometrics To Unlock</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden needs attention - See "Auto-fill Accessibility Service" from Bitwarden Settings</value>
+    <value>Bravura Safe needs attention - See "Auto-fill Accessibility Service" from Bravura Safe Settings</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. On the Android App Settings screen for Bitwarden, go to the "Display over other apps" options (under Advanced) and tap the toggle to enable overlay support.</value>
+    <value>3. On the Android App Settings screen for Bravura Safe, go to the "Display over other apps" options (under Advanced) and tap the toggle to enable overlay support.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>สิทธิ์การใช้งาน</value>
@@ -1603,7 +1615,7 @@
     <value>Open Overlay Permission Settings</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. On the Android App Settings screen for Bitwarden, select "Display over other apps" (under "Advanced") and switch on the toggle to allow the overlay.</value>
+    <value>3. On the Android App Settings screen for Bravura Safe, select "Display over other apps" (under "Advanced") and switch on the toggle to allow the overlay.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Denied</value>
@@ -1627,23 +1639,23 @@
     <value>Confirm your identity to continue.</value>
   </data>
   <data name="ExportVaultWarning" xml:space="preserve">
-    <value>This export contains your vault data in an unencrypted format. You should not store or send the exported file over unsecure channels (such as email). Delete it immediately after you are done using it.</value>
+    <value>This export contains your safe data in an unencrypted format. You should not store or send the exported file over unsecure channels (such as email). Delete it immediately after you are done using it.</value>
   </data>
   <data name="EncExportKeyWarning" xml:space="preserve">
     <value>This export encrypts your data using your account's encryption key. If you ever rotate your account's encryption key you should export again since you will not be able to decrypt this export file.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Account encryption keys are unique to each Bitwarden user account, so you can't import an encrypted export into a different account.</value>
+    <value>Account encryption keys are unique to each Bravura Safe user account, so you can't import an encrypted export into a different account.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
-    <value>Confirm Vault Export</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <value>Confirm Safe Export</value>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>คำเตือน</value>
   </data>
   <data name="ExportVaultFailure" xml:space="preserve">
-    <value>There was a problem exporting your vault.  If the problem persists, you'll need to export from the web vault.</value>
+    <value>There was a problem exporting your safe. If the problem persists, you'll need to export from the web safe.</value>
   </data>
   <data name="ExportVaultSuccess" xml:space="preserve">
     <value>ส่งออกตู้เซฟเรียบร้อยแล้ว</value>
@@ -1653,20 +1665,20 @@
     <comment>Clone an entity (verb).</comment>
   </data>
   <data name="PasswordGeneratorPolicyInEffect" xml:space="preserve">
-    <value>One or more organization policies are affecting your generator settings</value>
+    <value>One or more team policies are affecting your generator settings</value>
   </data>
   <data name="Open" xml:space="preserve">
     <value>เปิด</value>
     <comment>Button text for an open operation (verb).</comment>
   </data>
   <data name="UnableToSaveAttachment" xml:space="preserve">
-    <value>There was a problem saving this attachment. If the problem persists, you can save it from the web vault.</value>
+    <value>There was a problem saving this attachment. If the problem persists, you can save it from the web safe.</value>
   </data>
   <data name="SaveAttachmentSuccess" xml:space="preserve">
     <value>Attachment saved successfully</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Please enable "Auto-fill Accessibility Service" from Bitwarden Settings to use the Auto-fill tile.</value>
+    <value>Please enable "Auto-fill Accessibility Service" from Bravura Safe Settings to use the Auto-fill tile.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>No password fields detected</value>
@@ -1721,16 +1733,16 @@
     <value>Enable sync on refresh</value>
   </data>
   <data name="EnableSyncOnRefreshDescription" xml:space="preserve">
-    <value>Syncing vault with pull down gesture.</value>
+    <value>Syncing safe with pull down gesture.</value>
   </data>
   <data name="LogInSso" xml:space="preserve">
     <value>Enterprise Single Sign-On</value>
   </data>
   <data name="LogInSsoSummary" xml:space="preserve">
-    <value>Quickly log in using your organization's single sign-on portal. Please enter your organization's identifier to begin.</value>
+    <value>Quickly log in using your team's single sign-on portal. Please enter your team's identifier to begin.</value>
   </data>
   <data name="OrgIdentifier" xml:space="preserve">
-    <value>Organization Identifier</value>
+    <value>Team Identifier</value>
   </data>
   <data name="LoginSsoError" xml:space="preserve">
     <value>Currently unable to login with SSO</value>
@@ -1739,10 +1751,10 @@
     <value>Set Master Password</value>
   </data>
   <data name="SetMasterPasswordSummary" xml:space="preserve">
-    <value>In order to complete logging in with SSO, please set a master password to access and protect your vault.</value>
+    <value>In order to complete logging in with SSO, please set a master password to access and protect your safe.</value>
   </data>
   <data name="MasterPasswordPolicyInEffect" xml:space="preserve">
-    <value>One or more organization policies require your master password to meet the following requirements:</value>
+    <value>One or more team policies require your master password to meet the following requirements:</value>
   </data>
   <data name="PolicyInEffectMinComplexity" xml:space="preserve">
     <value>คะแนนความซับซ้อนขั้นต่ำของ {0}</value>
@@ -1766,7 +1778,7 @@
     <value>Invalid Password</value>
   </data>
   <data name="MasterPasswordPolicyValidationMessage" xml:space="preserve">
-    <value>Password does not meet organization requirements. Please check the policy information and try again.</value>
+    <value>Password does not meet team requirements. Please check the policy information and try again.</value>
   </data>
   <data name="Loading" xml:space="preserve">
     <value>กำลังโหลด</value>
@@ -1785,7 +1797,7 @@
     <value>นโยบายความเป็นส่วนตัว</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden needs attention - Enable "Draw-Over" in "Auto-fill Services" from Bitwarden Settings</value>
+    <value>Bravura Safe needs attention - Enable "Draw-Over" in "Auto-fill Services" from Bravura Safe Settings</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>บริการกรอกข้อมูลอัตโนมัติ</value>
@@ -1800,13 +1812,13 @@
     <value>Use Accessibility</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Use the Bitwarden Accessibility Service to auto-fill your logins across apps and the web. When enabled, we'll display a popup when login fields are selected.</value>
+    <value>Use the Bravura Safe Accessibility Service to auto-fill your logins across apps and the web. When enabled, we'll display a popup when login fields are selected.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Use the Bitwarden Accessibility Service to auto-fill your logins across apps and the web. (Requires Draw-Over to be enabled as well)</value>
+    <value>Use the Bravura Safe Accessibility Service to auto-fill your logins across apps and the web. (Requires Draw-Over to be enabled as well)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Use the Bitwarden Accessibility Service to use the Autofill Quick-Action Tile, and/or show a popup using Draw-Over (if enabled).</value>
+    <value>Use the Bravura Safe Accessibility Service to use the Autofill Quick-Action Tile, and/or show a popup using Draw-Over (if enabled).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Required to use the Autofill Quick-Action Tile, or to augment the Autofill Service by using Draw-Over (if enabled).</value>
@@ -1815,51 +1827,51 @@
     <value>ใช้งานการวางซ้อนการ</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>When enabled, allows the Bitwarden Accessibility Service to display a popup when login fields are selected.</value>
+    <value>When enabled, allows the Bravura Safe Accessibility Service to display a popup when login fields are selected.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>If enabled, the Bitwarden Accessibility Service will display a popup when login fields are selected to assist with auto-filling your logins.</value>
+    <value>If enabled, the Bravura Safe Accessibility Service will display a popup when login fields are selected to assist with auto-filling your logins.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>If enabled, accessibility will show a popup to augment the Autofill Service for older apps that don't support the Android Autofill Framework.</value>
   </data>
   <data name="PersonalOwnershipSubmitError" xml:space="preserve">
-    <value>Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections.</value>
+    <value>Due to an Enterprise Policy, you are restricted from saving items to your personal safe. Change the Ownership option to a team and choose from available Collections.</value>
   </data>
   <data name="PersonalOwnershipPolicyInEffect" xml:space="preserve">
-    <value>An organization policy is affecting your ownership options.</value>
+    <value>A team policy is affecting your ownership options.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Sends ทั้งหมด</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares ทั้งหมด</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>A friendly name to describe this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A friendly name to describe this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>ข้อความ</value>
   </data>
   <data name="TypeTextInfo" xml:space="preserve">
-    <value>The text you want to send.</value>
+    <value>The text you want to share.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>When accessing the Send, hide the text by default</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>When accessing the Share, hide the text by default</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>ไฟล์</value>
   </data>
   <data name="TypeFileInfo" xml:space="preserve">
-    <value>The file you want to send.</value>
+    <value>The file you want to share.</value>
   </data>
   <data name="DeletionDate" xml:space="preserve">
     <value>Deletion Date</value>
@@ -1868,8 +1880,8 @@
     <value>Deletion Time</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>The Send will be permanently deleted on the specified date and time.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>The Share will be permanently deleted on the specified date and time.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Pending deletion</value>
@@ -1881,8 +1893,8 @@
     <value>Expiration Time</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>If set, access to this Send will expire on the specified date and time.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>If set, access to this Share will expire on the specified date and time.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>หมดอายุ</value>
@@ -1891,8 +1903,8 @@
     <value>Maximum Access Count</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>If set, users will no longer be able to access this Send once the maximum access count is reached.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>If set, users will no longer be able to access this Share once the maximum access count is reached.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Max access count reached</value>
@@ -1904,8 +1916,8 @@
     <value>รหัสผ่านใหม่</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Optionally require a password for users to access this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Optionally require a password for users to access this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Remove Password</value>
@@ -1920,20 +1932,20 @@
     <value>Password has been removed.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Private notes about this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Private notes about this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Disable this Send so that no one can access it</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Disable this Share so that no one can access it</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>There are no Sends in your account.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>There are no Shares in your account.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Add a Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Add a Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Copy Link</value>
@@ -1942,36 +1954,36 @@
     <value>Share Link</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send link</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share link</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Search Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Search Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Edit Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Edit Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Add Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Add Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Are you sure you want to delete this Send?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Are you sure you want to delete this Share?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send has been deleted.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share has been deleted.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send updated.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share updated.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>New send created.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>New share created.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 วัน</value>
@@ -1992,31 +2004,31 @@
     <value>Custom</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Share this Send upon save</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share this Share upon save</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Due to an enterprise policy, you are only able to delete an existing Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Due to an enterprise policy, you are only able to delete an existing Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>เกี่ยวกับ Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>เกี่ยวกับ Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Hide my email address from recipients</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>One or more organization policies are affecting your Send options.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>One or more team policies are affecting your Share options.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>You must verify your email to use files with Send. You can verify your email in the web vault.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>You must verify your email to use files with Share. You can verify your email in the web safe.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Master password re-prompt</value>
@@ -2040,7 +2052,7 @@
     <value>Update Master Password</value>
   </data>
   <data name="UpdateMasterPasswordWarning" xml:space="preserve">
-    <value>Your Master Password was recently changed by an administrator in your organization. In order to access the vault, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
+    <value>Your Master Password was recently changed by an administrator in your team. In order to access the safe, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
   </data>
   <data name="UpdatingPassword" xml:space="preserve">
     <value>Updating Password</value>
@@ -2055,10 +2067,10 @@
     <value>{0} is using SSO with customer-managed encryption. Continuing will remove your Master Password from your account and require SSO to login.</value>
   </data>
   <data name="RemoveMasterPasswordWarning2" xml:space="preserve">
-    <value>If you do not want to remove your Master Password, you may leave this organization.</value>
+    <value>If you do not want to remove your Master Password, you may leave this team.</value>
   </data>
   <data name="LeaveOrganization" xml:space="preserve">
-    <value>Leave Organization</value>
+    <value>Leave Team</value>
   </data>
   <data name="LeaveOrganizationName" xml:space="preserve">
     <value>Leave {0}?</value>
@@ -2082,16 +2094,40 @@
     <value>Please make sure your default browser supports WebAuthn and try again.</value>
   </data>
   <data name="ResetPasswordAutoEnrollInviteWarning" xml:space="preserve">
-    <value>This organization has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow organization administrators to change your master password.</value>
+    <value>This team has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow team administrators to change your master password.</value>
   </data>
   <data name="VaultTimeoutPolicyInEffect" xml:space="preserve">
-    <value>Your organization policies are affecting your vault timeout. Maximum allowed Vault Timeout is {0} hour(s) and {1} minute(s)</value>
+    <value>Your team policies are affecting your safe timeout. Maximum allowed Safe Timeout is {0} hour(s) and {1} minute(s)</value>
   </data>
   <data name="VaultTimeoutToLarge" xml:space="preserve">
-    <value>Your vault timeout exceeds the restrictions set by your organization.</value>
+    <value>Your safe timeout exceeds the restrictions set by your team.</value>
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
-    <value>One or more organization policies prevents your from exporting your personal vault.</value>
+    <value>One or more team policies prevents you from exporting your personal safe.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Add Account</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Unlocked</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Locked</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Logged Out</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Switched to next available account</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Account Locked</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Account logged out successfully</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Account removed successfully</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Delete Account</value>
@@ -2121,7 +2157,7 @@
     <value>Sending</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copy Send link on save</value>
+    <value>Copy Share link on save</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>กำลังส่งโค้ด</value>

@@ -3,7 +3,7 @@
   <!-- Light System -->
   <color name="colorPrimary">#175DDC</color>
   <color name="colorPrimaryDark">#1A3B66</color>
-  <color name="primary">#175DDC</color>
+  <color name="primary">#000000</color>
   <color name="notificationBar">#1452BC</color>
   <color name="border">#dddddd</color>
 

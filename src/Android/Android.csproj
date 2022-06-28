@@ -8,7 +8,7 @@
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Bit.Droid</RootNamespace>
-    <AssemblyName>BitwardenAndroid</AssemblyName>
+    <AssemblyName>BravuraSafeAndroid</AssemblyName>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
@@ -84,7 +84,7 @@
     <PackageReference Include="Xamarin.AndroidX.MediaRouter" Version="1.2.5.2" />
     <PackageReference Include="Xamarin.AndroidX.Migration" Version="1.0.8" />
     <PackageReference Include="Xamarin.Essentials">
-      <Version>1.7.0</Version>
+      <Version>1.7.2</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Firebase.Messaging">
       <Version>122.0.0</Version>
@@ -153,7 +153,7 @@
     <Compile Include="Utilities\IntentExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\bwi-font.ttf" />
+    <AndroidAsset Include="Assets\FontAwesome.ttf" />
     <AndroidAsset Include="Assets\RobotoMono_Regular.ttf" />
     <AndroidAsset Include="Assets\MaterialIcons_Regular.ttf" />
     <None Include="8bit.keystore.enc" />
@@ -171,23 +171,23 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\logo_legacy.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\logo_white_legacy.png" />
     <AndroidResource Include="Resources\drawable\card.xml" />
-    <AndroidResource Include="Resources\drawable\cog.xml" />
-    <AndroidResource Include="Resources\drawable\icon.xml" />
-    <AndroidResource Include="Resources\drawable\ic_launcher_foreground.xml" />
+    <AndroidResource Include="Resources\drawable\cog_environment.xml" />
+    <AndroidResource Include="Resources\drawable\cog_settings.xml" />
+    <AndroidResource Include="Resources\drawable\icon.png" />
     <AndroidResource Include="Resources\drawable\ic_warning.xml" />
     <AndroidResource Include="Resources\drawable\id.xml" />
     <AndroidResource Include="Resources\drawable\info.xml" />
     <AndroidResource Include="Resources\drawable\list_item_bg.xml" />
     <AndroidResource Include="Resources\drawable\lock.xml" />
     <AndroidResource Include="Resources\drawable\login.xml" />
-    <AndroidResource Include="Resources\drawable\logo.xml" />
-    <AndroidResource Include="Resources\drawable\logo_white.xml" />
-    <AndroidResource Include="Resources\drawable\send.xml" />
+    <AndroidResource Include="Resources\drawable\logo.png" />
+    <AndroidResource Include="Resources\drawable\logo_white.png" />
+    <AndroidResource Include="Resources\drawable\paper_plane.xml" />
     <AndroidResource Include="Resources\drawable\pencil.xml" />
     <AndroidResource Include="Resources\drawable\plus.xml" />
-    <AndroidResource Include="Resources\drawable\generate.xml" />
+    <AndroidResource Include="Resources\drawable\refresh.xml" />
     <AndroidResource Include="Resources\drawable\search.xml" />
-    <AndroidResource Include="Resources\drawable\shield.xml" />
+    <AndroidResource Include="Resources\drawable\shield.png" />
     <AndroidResource Include="Resources\drawable-v23\splash_screen.xml" />
     <AndroidResource Include="Resources\drawable-v23\splash_screen_dark.xml" />
     <AndroidResource Include="Resources\drawable\switch_thumb.xml" />
@@ -197,14 +197,19 @@
     <AndroidResource Include="Resources\mipmap-anydpi-v26\ic_launcher.xml" />
     <AndroidResource Include="Resources\mipmap-anydpi-v26\ic_launcher_round.xml" />
     <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher_round.png" />
     <AndroidResource Include="Resources\mipmap-mdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-mdpi\ic_launcher_round.png" />
     <AndroidResource Include="Resources\mipmap-xhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xhdpi\ic_launcher_round.png" />
     <AndroidResource Include="Resources\mipmap-xxhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxhdpi\ic_launcher_round.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
     <AndroidResource Include="Resources\values-night\styles.xml" />
     <AndroidResource Include="Resources\values\styles.xml" />

@@ -8,7 +8,6 @@
     xmlns:controls="clr-namespace:Bit.App.Controls"
     xmlns:behaviors="clr-namespace:Bit.App.Behaviors"
     xmlns:effects="clr-namespace:Bit.App.Effects"
-    xmlns:core="clr-namespace:Bit.Core;assembly=BitwardenCore"
     x:DataType="pages:SendAddEditPageViewModel"
     x:Name="_page"
     Title="{Binding PageTitle}">
@@ -256,23 +255,24 @@
                                 x:Name="_btnOptions"
                                 StyleClass="box-row-button"
                                 TextColor="{DynamicResource PrimaryColor}"
-                                Margin="0" />
-                            <controls:IconButton
+                                Margin="0"
+                                Clicked="ToggleOptions_Clicked"/>
+                            <controls:FaButton
                                 x:Name="_btnOptionsUp"
-                                Text="{Binding Source={x:Static core:BitwardenIcons.ChevronUp}}"
+                                Text="&#xf077;"
                                 StyleClass="box-row-button"
                                 TextColor="{DynamicResource PrimaryColor}"
                                 Clicked="ToggleOptions_Clicked"
-                                IsVisible="False" />
-                            <controls:IconButton
+                                IsVisible="{Binding ShowOptions}" />
+                            <controls:FaButton
                                 x:Name="_btnOptionsDown"
-                                Text="{Binding Source={x:Static core:BitwardenIcons.AngleDown}}"
+                                Text="&#xf078;"
                                 StyleClass="box-row-button"
                                 TextColor="{DynamicResource PrimaryColor}"
                                 Clicked="ToggleOptions_Clicked"
-                                IsVisible="False" />
+                                IsVisible="{Binding ShowOptions, Converter={StaticResource inverseBool}}" />
                         </StackLayout>
-                        <StackLayout IsVisible="True">
+                        <StackLayout IsVisible="{Binding ShowOptions}">
                             <StackLayout
                                 StyleClass="box-row"
                                 Margin="0,10,0,0">
@@ -430,7 +430,7 @@
                                         IsSpellCheckEnabled="False"
                                         IsTextPredictionEnabled="False"
                                         HorizontalOptions="FillAndExpand" />
-                                    <controls:IconButton
+                                    <controls:FaButton
                                         IsEnabled="{Binding SendEnabled}"
                                         StyleClass="box-row-button, box-row-button-platform"
                                         Text="{Binding ShowPasswordIcon}"

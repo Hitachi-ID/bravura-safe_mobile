@@ -1,17 +1,17 @@
-﻿using Google.Apis.AndroidPublisher.v3;
-using Google.Apis.AndroidPublisher.v3.Data;
-using Google.Apis.Auth.OAuth2;
-using Google.Apis.Services;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
+using Google.Apis.AndroidPublisher.v3;
+using Google.Apis.AndroidPublisher.v3.Data;
+using Google.Apis.Auth.OAuth2;
+using Google.Apis.Services;
 
 namespace Bit.Publisher
 {
     public class Program
     {
-        private const string Package = "com.x8bit.bitwarden";
+        private const string Package = "com.hitachi_id.safe";
 
         private static string _aabFilePath;
         private static string _credsFilePath;

@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden - Pengelola Sandi</value>
+    <value>Bravura Safe - Pengelola Sandi</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden adalah pengelola sandi yang membantu Anda tetap aman saat daring.</value>
+    <value>Bravura Safe adalah pengelola sandi yang membantu Anda tetap aman saat daring.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden adalah cara termudah dan teraman untuk menyimpan semua info masuk dan sandi Anda sambil tetap menjaga mereka disinkronkan di antara semua perangkat Anda.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-Pencurian sandi adalah masalah serius. Situs web dan aplikasi yang Anda gunakan diserang setiap hari. Pelanggaran keamanan terjadi dan sandi Anda dicuri. Ketika Anda menggunakan sandi yang sama di aplikasi dan situs web peretas dapat dengan mudah mengakses email, bank, dan akun penting Anda yang lain.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Pakar keamanan merekomendasikan agar Anda menggunakan sandi yang berbeda dan dibuat secara acak untuk setiap akun yang Anda buat. Tapi bagaimana mengelola semua sandi tersebut? Bitwarden membuatnya menjadi mudah untuk Anda membuat, menyimpan dan mengakses sandi Anda.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Bitwarden menyimpan semua info masuk Anda di brankas terenkripsi yang disinkronkan di semua perangkat Anda. Karena sepenuhnya dienkripsi sebelum meninggalkan perangkat Anda, hanya Anda yang memiliki akses ke data Anda. Bahkan tim di Bitwarden tidak dapat membaca data Anda, bahkan jika kami mau. Data Anda disegel dengan ekripsi AES-256 bit, hash yang di-salt, dan PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden adalah 100% perangkat lunak sumber terbuka. Kode sumber untuk Bitwarden berada di GitHub dan setiap orang bebas untuk meninjau, mengaudit, dan berkontribusi ke basis kode Bitwarden.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

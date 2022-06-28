@@ -118,21 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Trình quản lý mật khẩu Bitwarden</value>
+    <value>Trình quản lý mật khẩu Bravura Safe</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden là một trình quản lý đăng nhập và mật khẩu giúp bạn giữ an toàn khi trực tuyến.</value>
+    <value>Bravura Safe là một trình quản lý đăng nhập và mật khẩu giúp bạn giữ an toàn khi trực tuyến.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>bitwarden là cách dễ dàng và an toàn nhất để lưu trữ tất cả các thông tin đăng nhập và mật khẩu của bạn và giữ chúng được đồng bộ giữa tất cả các thiết bị của bạn.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-Rò rỉ mật khẩu là một vấn đề rất nghiêm trọng. Các trang web và ứng dụng mà bạn sử dụng đang bị tấn công mỗi ngày. Vi phạm an ninh mạng xảy ra khiến mật khẩu của bạn bị đánh cắp. Khi bạn sử dụng cùng một mật khẩu trên nhiều ứng dụng và trang web, tin tặc có thể dễ dàng truy cập vào email, tài khoản ngân hàng và các tài khoản quan trọng khác của bạn.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Các chuyên gia bảo mật khuyên bạn nên sử dụng một mật khẩu được tạo ngẫu nhiên cho mỗi tài khoản của bạn. Nhưng làm thế nào để bạn quản lý tất cả những mật khẩu đó? bitwarden giúp bạn tạo, lưu trữ và truy cập tất cả mật khẩu một cách dễ dàng.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-bitwarden lưu trữ tất cả các thông tin đăng nhập của bạn trong một hầm được mã hóa và đồng bộ trên tất cả các thiết bị của bạn. Vì nó được mã hóa đầy đủ trước khi nó rời khỏi thiết bị của bạn nên chỉ có bạn mới có thể truy cập vào dữ liệu của mình. Ngay cả nhóm nghiên cứu tại bitwarden cũng không thể đọc được dữ liệu của bạn khi hộ muốn. Dữ liệu của bạn được bảo vệ bằng mã hóa AES-256 bit, hàm băm và PBKDF2 SHA-256.</value>
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust.
+
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

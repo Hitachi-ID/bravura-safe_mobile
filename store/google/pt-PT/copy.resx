@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden - Gestor de palavras-passe</value>
+    <value>Bravura Safe - Gestor de palavras-passe</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>O Bitwarden é um gestor de palavras-passe que lhe ajuda a manter-se seguro online.</value>
+    <value>O Bravura Safe é um gestor de palavras-passe que lhe ajuda a manter-se seguro online.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>O Bitwarden é a maneira mais fácil e segura de armazenar todas as suas credenciais e palavras-passe mantendo-as convenientemente sincronizadas entre todos os seus dispositivos.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-O furto de palavras-passe é um problema sério. Os websites e aplicações que utiliza estão sob ataque todos os dias. Quebras de segurança ocorrem e as suas palavras-passe são furtadas. Quando reutiliza as mesmas palavras-passe entre aplicações e websites, os hackers podem facilmente aceder ao seu email, banco, e outras contas importantes.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Os especialistas de segurança recomendam que utilize uma palavra-passe diferente e aleatoriamente gerada para todas as contas que cria. Mas como é que gere todas essas palavras-passe? O Bitwarden torna-lhe fácil criar, armazenar, e aceder às suas palavras-passe.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-O Bitwarden armazena todas as suas credenciais num cofre encriptado que sincroniza entre todos os seus dispositivos. Como são completamente encriptados antes de se quer sair do seu dispositivo, apenas você tem acesso aos seus dados. Nem se quer a equipa do Bitwarden pode ler os seus dados, mesmo se quiséssemos. Os seus dados são selados com encriptação AES-256 bits, salted hashing, e PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-O Bitwarden é 100% software de código aberto. O código fonte para o Bitwarden está hospedado no GitHub e todos podem revisar, auditar, e contribuir para a base de código do Bitwarden.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">
-    <value>Um gestor de palavras-passe seguro e gratuito para todos os seus dispositivos</value>
+    <value>Um gestor de palavras-passe seguro para todos os seus dispositivos</value>
   </data>
   <data name="Screenshot1" xml:space="preserve">
     <value>Gira todas as suas credenciais e palavras-passe a partir de um cofre seguro</value>

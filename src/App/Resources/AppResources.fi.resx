@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Suosikit</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Lähetä virheraportti</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Haluatko varmasti kirjautua ulos?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Poista tili</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Haluatko varmasti poistaa tämän tilin?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Tili on jo lisätty</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Haluatko vaihtaa siihen nyt?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Pääsalasana</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Oma holvi</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nimi</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Käy sivustollamme</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Käy sivustollamme, jossa voit saada apua Bitwardenin käyttämisessä, lukea palvelun uutisia tai lähettää meille sähköpostia.</value>
+    <value>Käy sivustollamme, jossa voit saada apua Bravura Safein käyttämisessä, lukea palvelun uutisia tai lähettää meille sähköpostia.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>SIvusto</value>
@@ -403,7 +415,7 @@
     <value>Sovelluslaajennus</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Käytä Bitwardenin esteettömyyspalvelua kirjautumistietojesi automaattiseen täyttöön sovelluksissa ja verkossa.</value>
+    <value>Käytä Bravura Safein esteettömyyspalvelua kirjautumistietojesi automaattiseen täyttöön sovelluksissa ja verkossa.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Automaattisen täytön palvelu</value>
@@ -412,31 +424,31 @@
     <value>Vältä epäselviä merkkejä</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwardenin sovelluslaajennus</value>
+    <value>Bravura Safein sovelluslaajennus</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Helpoin tapa lisätä holviisi uusia kirjautumistietoja on käyttää Bitwardenin sovelluslaajennusta. Asetusten "Lisäasetukset" -osiosta löydät lisätietoja laajennuksesta.</value>
+    <value>Helpoin tapa lisätä holviisi uusia kirjautumistietoja on käyttää Bravura Safein sovelluslaajennusta. Asetusten "Lisäasetukset" -osiosta löydät lisätietoja laajennuksesta.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Käytä Bitwardenia kirjautumistietojesi automaattiseen täyttöön Safarissa ja muissa sovelluksissa.</value>
+    <value>Käytä Bravura Safeia kirjautumistietojesi automaattiseen täyttöön Safarissa ja muissa sovelluksissa.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwardenin automaattisen täytön palvelu</value>
+    <value>Bravura Safein automaattisen täytön palvelu</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Käytä Bitwardenin esteettömyyspalvelua kirjautumistietojesi automaattiseen täyttöön.</value>
+    <value>Käytä Bravura Safein esteettömyyspalvelua kirjautumistietojesi automaattiseen täyttöön.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Vaihda sähköpostiosoite</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Voit vaihtaa sähköpostiosoitteesi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit vaihtaa sähköpostiosoitteesi Bravura Safe-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Vaihda pääsalasana</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Voit vaihtaa pääsalasanasi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit vaihtaa pääsalasanasi Bravura Safe-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Sulje</value>
@@ -470,7 +482,7 @@
     <value>Käytä sovelluslaajennusta</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Löydät Bitwardenin Safarista jakokuvaketta käyttäen (vihje: vieritä valikon alimmaista riviä oikealle).</value>
+    <value>Löydät Bravura Safein Safarista jakokuvaketta käyttäen (vihje: vieritä valikon alimmaista riviä oikealle).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Kirjautumistietosi ovat nyt helposti saatavilla Safarista, Chromesta ja muista tuetuista sovelluksista.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Löydät Bitwardenin Safarista ja Chromesta jakokuvaketta käyttäen (vihje: vieritä valikon alimmaista riviä oikealle).</value>
+    <value>Löydät Bravura Safein Safarista ja Chromesta jakokuvaketta käyttäen (vihje: vieritä valikon alimmaista riviä oikealle).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Avaa laajennus napauttamalla valikon Bitwarden-kuvaketta.</value>
+    <value>Avaa laajennus napauttamalla valikon Bravura Safe-kuvaketta.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Ottaaksesi Bitwardenin käyttöön Safarissa ja muissa sovelluksissa, napauta valikon alariviltä "Lisää" -kuvaketta.</value>
+    <value>Ottaaksesi Bravura Safein käyttöön Safarissa ja muissa sovelluksissa, napauta valikon alariviltä "Lisää" -kuvaketta.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Suosikki</value>
@@ -507,7 +519,7 @@
     <value>Tuo kohteita</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Voit tuoda kerralla kaikki kohteesi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Voit tuoda kerralla kaikki kohteesi Bravura Safe-verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Tuo kohteesi muista salasanojen hallintapalveluista kerralla.</value>
@@ -582,7 +594,7 @@
     <value>Lisää asetuksia</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Sinun on kirjauduttava Bitwardenin pääsovellukseen ennen kuin voit käyttää laajennusta.</value>
+    <value>Sinun on kirjauduttava Bravura Safein pääsovellukseen ennen kuin voit käyttää laajennusta.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Ei koskaan</value>
@@ -631,7 +643,7 @@
     <value>Haluatko varmasti korvata nykyisen salasanan?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden pitää holvisi automaattisesti synkronoituna push-ilmoitusten avulla. Parhaan mahdollisen kokemuksen takaamiseksi, valitse "Salli", kun sinua pyydetään ottamaan ilmoitukset käyttöön seuraavassa kehotteessa.</value>
+    <value>Bravura Safe pitää holvisi automaattisesti synkronoituna push-ilmoitusten avulla. Parhaan mahdollisen kokemuksen takaamiseksi, valitse "Salli", kun sinua pyydetään ottamaan ilmoitukset käyttöön seuraavassa kehotteessa.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Kaksivaiheinen kirjautuminen</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman edellyttämällä salasanan lisäksi kirjautumisen lisätodennusta todennuslaitteen, ‑sovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön bitwarden.com‑verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
+    <value>Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman edellyttämällä salasanan lisäksi kirjautumisen lisätodennusta todennuslaitteen, ‑sovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön Bravura Safe‑verkkoholvissa. Haluatko käydä sivustolla nyt?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Avaustapa: {0}</value>
@@ -711,7 +723,7 @@
     <value>Näytä kohde</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwardenin verkkoholvi</value>
+    <value>Bravura Safein verkkoholvi</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Etkö pysty käyttämään todennussovellustasi?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Holvissasi ei ole kohteita osoitteelle "{0}".</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Kun valitset syöttökentän ja näet Bitwardenin ponnahdusvalinnan, voit napauttaa sitä avataksesi automaattisen täytön palvelun.</value>
+    <value>Kun valitset syöttökentän ja näet Bravura Safein ponnahdusvalinnan, voit napauttaa sitä avataksesi automaattisen täytön palvelun.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Napauta tätä ilmoitusta täyttääksesi kohteen holvistasi automaattisesti.</value>
@@ -747,7 +759,7 @@
     <value>Avaa "Esteettömyys" -asetukset</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Valitse esteettömyysasetusten "Palvelut" -otsikon alta ”Bitwarden”.</value>
+    <value>1. Valitse esteettömyysasetusten "Palvelut" -otsikon alta ”Bravura Safe”.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Laita asetus päälle ja paina OK-painiketta hyväksyäksesi.</value>
@@ -762,7 +774,7 @@
     <value>Tila</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Helpoin tapa lisätä holviisi uusia kirjautumistietoja on Bitwardenin automaattisen täytön palvelu. Asetuksista löydät lisätietoja palvelun käytöstä.</value>
+    <value>Helpoin tapa lisätä holviisi uusia kirjautumistietoja on Bravura Safein automaattisen täytön palvelu. Asetuksista löydät lisätietoja palvelun käytöstä.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Automaattinen täyttö</value>
@@ -961,7 +973,7 @@
     <value>Oma palvelinympäristö</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Määritä omassa palvelinympäristössäsi suoritettavan Bitwarden-asennuksen pääverkkotunnus.</value>
+    <value>Määritä omassa palvelinympäristössäsi suoritettavan Bravura Safe-asennuksen pääverkkotunnus.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Palvelimen URL</value>
@@ -1126,7 +1138,7 @@
     <value>Kuvakepalvelimen URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Täytä automaattisesti Bitwardenilla</value>
+    <value>Täytä automaattisesti Bravura Safeilla</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Holvi on lukittu</value>
@@ -1150,10 +1162,10 @@
     <value>Automaattisen täytön esteettömyyspalvelu</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwardenin automaattisen täytön palvelu käyttää Android Autofill Framework -rajapintaa kirjautumistietojen täyttöön laitteen sovelluksissa.</value>
+    <value>Bravura Safein automaattisen täytön palvelu käyttää Android Autofill Framework -rajapintaa kirjautumistietojen täyttöön laitteen sovelluksissa.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Käytä Bitwardenin automaattisen täytön palvelua kirjautumistietojen täyttöön sovelluksissa.</value>
+    <value>Käytä Bravura Safein automaattisen täytön palvelua kirjautumistietojen täyttöön sovelluksissa.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Avaa "Automaattinen täyttö -palvelu" -asetukset</value>
@@ -1202,11 +1214,11 @@
     <value>Poista</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Uusi URI</value>
+    <value>Uusi URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Pääverkkotunnus</value>
@@ -1229,11 +1241,11 @@
     <value>Alkaa</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI:n tunnistustapa</value>
+    <value>URL:n tunnistustapa</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Tunnistustapa</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Kyllä ja tallenna</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organisaatio</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a  business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Pidä YubiKey-todenuslaittettasi lähellä laitteen yläosaa.</value>
@@ -1269,7 +1281,7 @@
     <value>Automaattinen täyttö on otettu käyttöön!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Sinun on kirjauduttava Bitwardenin pääsovellukseen ennen kuin voit käyttää automaattista täyttöä.</value>
+    <value>Sinun on kirjauduttava Bravura Safein pääsovellukseen ennen kuin voit käyttää automaattista täyttöä.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Kirjautumistietosi ovat nyt helposti saatavilla suoraan näppäimistöltäsi kun olet kirjautumassa sovelluksiin ja verkkosivustoille.</value>
@@ -1287,7 +1299,7 @@
     <value>1. Siirry iOS:n "Asetukset" -sovellukseen</value>
   </data>
   <data name="AutofillTurnOn2" xml:space="preserve">
-    <value>2. Napauta "Salasanat ja tilit"</value>
+    <value>2. Napauta "Salasanat"</value>
   </data>
   <data name="AutofillTurnOn3" xml:space="preserve">
     <value>3. Napauta "Täytä salasanat automaattisesti"</value>
@@ -1296,13 +1308,13 @@
     <value>4. Kytke automaattinen täyttö käyttöön</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Valitse "Bitwarden"</value>
+    <value>5. Valitse "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Salasanojen automaattinen täyttö</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Helpoin tapa lisätä uusia kirjautumistietoja holviisi on Bitwardenin automaattisen täytön laajennus. Asetuksista löydät lisätietoja laajennuksen käytöstä.</value>
+    <value>Helpoin tapa lisätä uusia kirjautumistietoja holviisi on Bravura Safein automaattisen täytön laajennus. Asetuksista löydät lisätietoja laajennuksen käytöstä.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Virheellinen sähköpostiosoite.</value>
@@ -1323,8 +1335,8 @@
     <value>Kaikki kohteet</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI:t</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL:t</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Tarkistetaan salasanaa...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} siirrettiin organisaatiolle {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Kohde jaettu.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwardenin avulla voit jakaa holvisi sisältöä muiden kanssa organisaatiotiliä käyttäen. Haluatko lukea bitwarden.com-sivustolta lisää?</value>
+    <value>Bravura Safein avulla voit jakaa holvisi sisältöä muiden kanssa organisaatiotiliä käyttäen. Haluatko lukea hitachi-id.com-sivustolta lisää?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Vie holvi</value>
@@ -1462,11 +1474,11 @@
     <value>30 minuuttia</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Aseta PIN-koodi Bitwardenin avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut kokonaan ulos sovelluksesta.</value>
+    <value>Aseta PIN-koodi Bravura Safein avaukselle. PIN-asetukset tyhjentyvät, jos kirjaudut kokonaan ulos sovelluksesta.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Kirjautunut tunnuksella {0} palveluun {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Holvisi on lukittu. Syötä pääsalasana jatkaaksesi.</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>URI:n tunnistuksen oletustapa</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>URL:n tunnistuksen oletustapa</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Valitse oletustapa, jolla kirjautumistietojen URI tunnistetaan kun suoritetaan toimintoja kuten automaattinen täyttö.</value>
+    <value>Valitse oletustapa, jolla kirjautumistietojen URL tunnistetaan kun suoritetaan toimintoja kuten automaattinen täyttö.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Teema</value>
@@ -1526,13 +1538,13 @@
     <value>Oletus (järjestelmä)</value>
   </data>
   <data name="CopyNotes" xml:space="preserve">
-    <value>Kopioi muistiinpanot</value>
+    <value>Kopioi merkinnät</value>
   </data>
   <data name="Exit" xml:space="preserve">
     <value>Poistu</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Haluatko varmasti poistua Bitwardenista?</value>
+    <value>Haluatko varmasti poistua Bravura Safeista?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Vaaditaanko lukituksen avaus pääsalasanalla, kun sovellus käynnistetään uudelleen?</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Estolistalla olevat URI:t</value>
+    <value>Estolistalla olevat URL:t</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Estolistalla olevat URI:t eivät tarjoa automaattista täyttöä. Erota listan kohteet pilkulla. Esim. "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>Estolistalla olevat URL:t eivät tarjoa automaattista täyttöä. Erota listan kohteet pilkulla. Esim. "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Poista tallennuskehote käytöstä</value>
@@ -1557,7 +1569,7 @@
     <value>Kun sovellus käynnistetään uudelleen</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Automaattinen täyttö tekee Bitwarden-holvisi käytöstä sivustoilla ja muissa sovelluksissa helppoa. Näyttää siltä, ettei automaattista täyttöä ole otettu käyttöön. Voit tehdä sen "Asetukset" -näytöstä.</value>
+    <value>Automaattinen täyttö tekee Bravura Safe-holvisi käytöstä sivustoilla ja muissa sovelluksissa helppoa. Näyttää siltä, ettei automaattista täyttöä ole otettu käyttöön. Voit tehdä sen "Asetukset" -ruudusta.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Teema vaihtuu kun sovellus käynnistetään uudelleen.</value>
@@ -1591,10 +1603,10 @@
     <value>Avaa biometrialla</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden vaatii huomiota - Katso "Automaattisen täytön esteettömyyspalvelu" Bitwardenin asetuksissa</value>
+    <value>Bravura Safe vaatii huomiota - Katso "Automaattisen täytön esteettömyyspalvelu" Bravura Safein asetuksissa</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Androidin sovellusasetuksissa, Bitwardenin ruudulla, siirry "Näkyminen muiden päällä" -asetukseen (lisäasetusten alla) ja ota ominaisuus käyttöön napauttamalla kytkintä.</value>
+    <value>3. Androidin sovellusasetuksissa, Bravura Safein ruudulla, siirry "Näkyminen muiden päällä" -asetukseen (lisäasetusten alla) ja ota ominaisuus käyttöön napauttamalla kytkintä.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Käyttöoikeus</value>
@@ -1603,7 +1615,7 @@
     <value>Avaa "Näkyminen muiden päällä" -käyttöoikeusasetukset</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Androidin sovellusasetuksissa, Bitwardenin ruudulla, siirry "Näkyminen muiden päällä" -asetukseen (lisäasetusten alla) ja ota ominaisuus käyttöön napauttamalla kytkintä.</value>
+    <value>3. Androidin sovellusasetuksissa, Bravura Safein ruudulla, siirry "Näkyminen muiden päällä" -asetukseen (lisäasetusten alla) ja ota ominaisuus käyttöön napauttamalla kytkintä.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Hylätty</value>
@@ -1633,11 +1645,11 @@
     <value>Tämä vienti salaa tietosi käyttäen tilisi salausavainta. Jos joskus uudistat tilisi salausavaimen, tulisi vienti suorittaa uudelleen, koska et voi enää purkaa nyt viedyn tiedoston salausta.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Tilin salausavaimet ovat ainutlaatuisia jokaiselle Bitwarden-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille.</value>
+    <value>Tilin salausavaimet ovat ainutlaatuisia jokaiselle Bravura Safe-käyttäjätilille, joten et voi tuoda salattua vientitiedostoa toiselle tilille.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Vahvista holvin vienti</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Varoitus</value>
@@ -1666,7 +1678,7 @@
     <value>Tiedostoliitteen tallennus onnistui</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Ota "Automaattisen täytön esteettömyyspalvelu" käyttöön Bitwardenin asetuksista käyttääksesi automaattisen täytön pikavalintapalkkia.</value>
+    <value>Ota "Automaattisen täytön esteettömyyspalvelu" käyttöön Bravura Safein asetuksista käyttääksesi automaattisen täytön pikavalintapalkkia.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Salasanakenttiä ei havaittu</value>
@@ -1784,7 +1796,7 @@
     <value>Tietosuojakäytäntö</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden tarvitsee huomiota - Katso "Näkyminen muiden päällä" Bitwardenin asetusten kohdasta "Automaattisen täytön palvelut"</value>
+    <value>Bravura Safe tarvitsee huomiota - Katso "Näkyminen muiden päällä" Bravura Safein asetusten kohdasta "Automaattisen täytön palvelut"</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Automaattisen täytön palvelut</value>
@@ -1799,13 +1811,13 @@
     <value>Esteettömyyspalvelu</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Käytä Bitwardenin esteettömyyspalvelua kirjautumistietojen automaattiseen täyttöön sovelluksissa ja verkossa. Kun tämä on käytössä, näytetään aktiivisten kirjautumiskenttien ohessa pikavalintapalkki.</value>
+    <value>Käytä Bravura Safein esteettömyyspalvelua kirjautumistietojen automaattiseen täyttöön sovelluksissa ja verkossa. Kun tämä on käytössä, näytetään aktiivisten kirjautumiskenttien ohessa pikavalintapalkki.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Käytä Bitwardenin esteettömyyspalvelua kirjautumistietojen automaattiseen täyttöön sovelluksissa ja verkossa (myös "Näkyminen muiden päällä" -asetuksen on oltava käytössä).</value>
+    <value>Käytä Bravura Safein esteettömyyspalvelua kirjautumistietojen automaattiseen täyttöön sovelluksissa ja verkossa (myös "Näkyminen muiden päällä" -asetuksen on oltava käytössä).</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Käytä Bitwardenin esteettömyyspalvelua käyttääksesi Automaattisen täytön pikavalintapalkkia ja/tai näytä palkki käyttäen "Näkyminen muiden päällä" -asetusta.</value>
+    <value>Käytä Bravura Safein esteettömyyspalvelua käyttääksesi Automaattisen täytön pikavalintapalkkia ja/tai näytä palkki käyttäen "Näkyminen muiden päällä" -asetusta.</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Vaaditaan automaattisen täytön pikavalintapalkin käyttöön tai automaattisen täytön laajentamiseen "Näkyminen muiden päällä" -asetuksella.</value>
@@ -1814,10 +1826,10 @@
     <value>Näkyminen muiden päällä</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Kun käytössä, sallii Bitwardenin esteettömyyspalvelun näyttää pikavalintapalkki aktiivisten kirjautumiskenttien ohessa.</value>
+    <value>Kun käytössä, sallii Bravura Safein esteettömyyspalvelun näyttää pikavalintapalkki aktiivisten kirjautumiskenttien ohessa.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Kun käytössä, Bitwardenin esteettömyyspalvelu näyttää aktiivisten kirjautumiskenttien ohessa pikavalintapalkin helpottaakseen kirjautumistietojesi automaattista täyttöä.</value>
+    <value>Kun käytössä, Bravura Safein esteettömyyspalvelu näyttää aktiivisten kirjautumiskenttien ohessa pikavalintapalkin helpottaakseen kirjautumistietojesi automaattista täyttöä.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Jos käytössä, esteettömyyspalvelu näyttää pikavalintapalkin laajentaakseen automaattisen täytön palvelun toiminnan kattamaan myös vanhemmat sovellukset, jotka eivät tue Android Autofill Framework -rajapintaa.</value>
@@ -1829,20 +1841,20 @@
     <value>Organisaatiokäytäntö vaikuttaa omistajuusvalintoihisi.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>Kaikki Sendit</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>Sendit</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>Kuvaava nimi Sendille.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Teksti</value>
@@ -1851,8 +1863,8 @@
     <value>Teksti, jonka haluat lähettää.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Piilota teksti oletuksena kun Send avataan</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Piilota teksti oletuksena kun Share avataan</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Tiedosto</value>
@@ -1867,8 +1879,8 @@
     <value>Poistoaika</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Send poistuu pysyvästi määritettynä ajankohtana.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share poistuu pysyvästi määritettynä ajankohtana.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Odottaa poistoa</value>
@@ -1880,8 +1892,8 @@
     <value>Erääntymisaika</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Send erääntyy määritettynä ajankohtana.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share erääntyy määritettynä ajankohtana.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Erääntynyt</value>
@@ -1891,7 +1903,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>Jos määritetty, käyttäjät eivät voi avata Sendiä käyttökertojen enimmäismäärän täytyttyä.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Käyttökertojen enimmäismäärä saavutettu</value>
@@ -1904,7 +1916,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>Halutessasi, vaadi käyttäjiä syöttämään salasana Sendin avaamiseksi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Poista salasana</value>
@@ -1919,20 +1931,20 @@
     <value>Salasana on poistettu.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Yksityiset muistiinpanot tästä Sendistä.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Yksityisiä merkintöjä tästä Sendistä.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Poista Send käytöstä, jottei kukaan voi avata sitä</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Poista Share käytöstä, jottei kukaan voi avata sitä</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>Tililläsi ei ole Sendejä.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Lisää Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Lisää Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Kopioi linkki</value>
@@ -1941,36 +1953,36 @@
     <value>Jaa linkki</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send-linkki</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-linkki</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>Hae Sendeistä</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>Muokkaa Sendiä</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Lisää Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Lisää Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>Haluatko varmasti poistaa Sendin?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send on poistettu.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share on poistettu.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send on päivitetty.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share on päivitetty.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Uusi Send on luotu.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Uusi Share on luotu.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 päivä</value>
@@ -1991,31 +2003,31 @@
     <value>Mukautettu</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Jaa Send tallennettaessa</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Jaa Share tallennettaessa</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>Yrityksen käytännön vuoksi voit poistaa vain olemassa olevan Sendin.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>Tietoja Sendistä</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Piilota sähköpostiosoitteeni vastaanottajilta</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Yksi tai useampi organisaatiokäytäntö vaikuttaa Send-asetuksiisi.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Yksi tai useampi organisaatiokäytäntö vaikuttaa Share-asetuksiisi.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Ilmaiset tilit on rajoitettu tekstin jakoon. Tiedostojen käyttö Sendeissä vaatii Premium-jäsenyyden.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Sinun on vahvistettava sähköpostiosoitteesi käyttääksesi tiedostoja Sendeissä. Voit vahvistaa osoitteesi verkkoholvissa.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Pääsalasanan uudelleenkysely</value>
@@ -2092,6 +2104,30 @@
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Yksi tai useampi organisaation käytäntö estää henkilökohtaisen holvisi viennin.</value>
   </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Lisää tili</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Avattu</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Lukittu</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Kirjauduttu ulos</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Vaihdettu seuraavaan käytettävissä olevaan tiliin</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Tili lukittu</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Tilin uloskirjaus onnistui</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Tilin poisto onnistui</value>
+  </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Poista tili</value>
   </data>
@@ -2120,7 +2156,7 @@
     <value>Lähetetään</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Kopioi Send-linkki tallennettaessa</value>
+    <value>Kopioi Share-linkki tallennettaessa</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Koodia lähetetään</value>

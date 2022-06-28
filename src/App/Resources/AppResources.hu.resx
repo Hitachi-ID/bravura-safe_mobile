@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Kedvencek</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Hiba jelentése</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Biztos, hogy ki szeretnél jelentkezni?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Fiók eltávolítása</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Biztosan törlésre kerüljön ez a fiók?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>A fiók már hozzáadásra került.</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Szeretnénk most átkapcsolni erre?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Mesterjelszó</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Széfem</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Név</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Látogasd meg a weboldalunkat</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>A fejlesztői webhely felkeresése segítségért, hírekért, email küldése a fejlesztőknek és/vagy további információk a Bitwarden használatáról.</value>
+    <value>A fejlesztői webhely felkeresése segítségért, hírekért, email küldése a fejlesztőknek és/vagy további információk a Bravura Safe használatáról.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Weboldal</value>
@@ -403,7 +415,7 @@
     <value>App kiterjesztés</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>A Bitwarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez alkalmazásból és weben.</value>
+    <value>A Bravura Safe kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez alkalmazásból és weben.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Automatikus kitöltő szolgáltatás</value>
@@ -412,31 +424,31 @@
     <value>Félreérthető karakterek mellőzése</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden alkalmazás bővítmény</value>
+    <value>Bravura Safe alkalmazás bővítmény</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bitwarden alkalmazás kiegészítőből. További információ olvasható a Bitwarden alkalmazás kiegészítő használatáról a  "Beállítások" képernyőn.</value>
+    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bravura Safe alkalmazás kiegészítőből. További információ olvasható a Bravura Safe alkalmazás kiegészítő használatáról a  "Beállítások" képernyőn.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>A Bitwarden használata Safariban és más alkalmazásokban a bejelentkezések automatikus kitöltéséhez.</value>
+    <value>A Bravura Safe használata Safariban és más alkalmazásokban a bejelentkezések automatikus kitöltéséhez.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden automatikus kitöltő szolgáltatás</value>
+    <value>Bravura Safe automatikus kitöltő szolgáltatás</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>A Bitwarden kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
+    <value>A Bravura Safe kisegítő szolgáltatás használata bejelentkezések automatikus kitöltéséhez.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>E-mail cím módosítása</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>E-mail címedet a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>E-mail címedet a Bravura Safe webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Mesterjelszó módosítása</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Mesterjelszavadat a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>Mesterjelszavadat a Bravura Safe webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Bezár</value>
@@ -470,7 +482,7 @@
     <value>Bővítmény engedélyezése</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>A Safariban keressük meg a Bitwardent a megosztás ikon használatával (tipp: gördítés a menü alsó sorának jobb oldalára).</value>
+    <value>A Safariban keressük meg a Bravura Safet a megosztás ikon használatával (tipp: gördítés a menü alsó sorának jobb oldalára).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>A bejelentkezések mostantól könnyen hozzáférhetők a Safariból, a Chrome-ból és más támogatott alkalmazásból.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>A Safariban és a Chrome-ban keressük meg a Bitwardent a megosztás ikon használatával (tipp: gördítés a menü alsó sorának jobb oldalára).</value>
+    <value>A Safariban és a Chrome-ban keressük meg a Bravura Safet a megosztás ikon használatával (tipp: gördítés a menü alsó sorának jobb oldalára).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Koppintás a Bitwarden ikonra a menüben a bővítmény elindításához.</value>
+    <value>Koppintás a Bravura Safe ikonra a menüben a bővítmény elindításához.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>A Safariban és más alkalmazásban a Bitwarden bekapcsolásához koppintsunk az "egyéb" ikonra a menü alsó sorában.</value>
+    <value>A Safariban és más alkalmazásban a Bravura Safe bekapcsolásához koppintsunk az "egyéb" ikonra a menü alsó sorában.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Kedvenc</value>
@@ -507,7 +519,7 @@
     <value>Elemek importálása</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Egyszerre importálhatunk elemeket a bitwarden.com webes széfjéből. Meglátogatjuk most a webhelyet?</value>
+    <value>Egyszerre importálhatunk elemeket a Bravura Safe webes széfjéből. Meglátogatjuk most a webhelyet?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Több bejelentkezés gyors importálása egyszerre egy másik jelszókezelő alkalmazásból.</value>
@@ -582,7 +594,7 @@
     <value>További beállítások</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>A kiegészítő használatához be kell jelentkezni a Bitwarden alkalmazásba.</value>
+    <value>A kiegészítő használatához be kell jelentkezni a Bravura Safe alkalmazásba.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Soha</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Az opció alapértelmezések a Bitwarden főalkalmazás jelszógeneráló eszközéből származnak.</value>
+    <value>Az opció alapértelmezések a Bravura Safe főalkalmazás jelszógeneráló eszközéből származnak.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Beállítások</value>
@@ -631,7 +643,7 @@
     <value>Biztosan felül akarod írni a jelenlegi jelszót?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>A Bitwarden push-értesítések használatával gondoskodik a széf automatikus szinkronizálásáról. A funkció előnyeinek kihasználásához a push-értesítések engedélyezésére vonatkozó kérdés megjelenésekor válasszuk az "Engedélyezés" lehetőséget.</value>
+    <value>A Bravura Safe push-értesítések használatával gondoskodik a széf automatikus szinkronizálásáról. A funkció előnyeinek kihasználásához a push-értesítések engedélyezésére vonatkozó kérdés megjelenésekor válasszuk az "Engedélyezés" lehetőséget.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Kétlépcsős bejelentkezés</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
+    <value>A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a Bravura Safe webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Kinyitás ezzel: {0}</value>
@@ -711,7 +723,7 @@
     <value>Elem megtekintése</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden webes széf</value>
+    <value>Bravura Safe webes széf</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Elveszett hitelesítő alkalmazás?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Nincs elem a széfben {0} oldalhoz.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Egy beviteli mezőt kiválasztva és megjelenik a Bitwarden automatikus kitöltési ablaka, arra rákoppintva elindítható az automatikus kitöltési szolgáltatás.</value>
+    <value>Egy beviteli mezőt kiválasztva és megjelenik a Bravura Safe automatikus kitöltési ablaka, arra rákoppintva elindítható az automatikus kitöltési szolgáltatás.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Erre az értesítésre koppintva automatikusan kitölthető egy elem a széfből.</value>
@@ -747,7 +759,7 @@
     <value>Akadálymentesítési szolgáltatások megnyitása</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Az Android Kisegítő lehetőségek képernyőjén koppintsunk a Bitwarden elemre a Szolgáltatások szakaszban.</value>
+    <value>1. Az Android Kisegítő lehetőségek képernyőjén koppintsunk a Bravura Safe elemre a Szolgáltatások szakaszban.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. A felugró ablakban a jóváhagyáshoz bökj az OK gombra.</value>
@@ -762,7 +774,7 @@
     <value>Állapot</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bitwarden automatikus kitöltés szolgáltatásból. További információ olvasható a Bitwarden automatikus kitöltés szolgáltatás használatáról a  "Beállítások" képernyőn.</value>
+    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bravura Safe automatikus kitöltés szolgáltatásból. További információ olvasható a Bravura Safe automatikus kitöltés szolgáltatás használatáról a  "Beállítások" képernyőn.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Automatikus kitöltés</value>
@@ -961,7 +973,7 @@
     <value>Saját üzemeltetésű környezet</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Adjuk meg a helyileg üzemeltetett Bitwarden telepítés alap webcímét.</value>
+    <value>Adjuk meg a helyileg üzemeltetett Bravura Safe telepítés alap webcímét.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Szerver URL</value>
@@ -1126,7 +1138,7 @@
     <value>Ikonszerver webcím</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Automatikus kitöltés Bitwardennel</value>
+    <value>Automatikus kitöltés Bravura Safenel</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>A széf zárolva van.</value>
@@ -1150,10 +1162,10 @@
     <value>Automatikus kitöltés akadálymentesítő szolgáltatás</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>A Bitwarden automatikus kitöltési szolgáltatása az Android automatikus kitöltő keretrendszerét használja a bejelentkezési adatok, hitelkártyaadatok és azonosítóadatok kitöltésére az eszközén telepített más alkalmazásokban.</value>
+    <value>A Bravura Safe automatikus kitöltési szolgáltatása az Android automatikus kitöltő keretrendszerét használja a bejelentkezési adatok, hitelkártyaadatok és azonosítóadatok kitöltésére az eszközén telepített más alkalmazásokban.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>A Bitwarden automatikus kitöltési szolgáltatásának használatával kitöltheted a bejelentkezési, hitelkártya- és azonosítóadatokat más alkalmazásokban.</value>
+    <value>A Bravura Safe automatikus kitöltési szolgáltatás használata a bejelentkezési-, hitelkártya- és azonosítóadatok kitöltéséhez más alkalmazásokban.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Automatikus kitöltés beállításainak megnyitása</value>
@@ -1202,11 +1214,11 @@
     <value>Eltávolítás</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Új URI</value>
+    <value>Új URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Alap domain</value>
@@ -1229,11 +1241,11 @@
     <value>Ezzel kezdődik</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI találatfelismerés</value>
+    <value>URL találatfelismerés</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Találatfelismerés</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Igen, és mentés</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Szervezet</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Tartsuk lenyomva a Yubikey-t, a készülék tetején.</value>
@@ -1269,7 +1281,7 @@
     <value>Az automatikus kitöltés bekapcsolásra került.</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Az automatikus kitöltő szolgáltatás használata előtt be kell jelentkezni a fő Bitwarden alkalmazásba.</value>
+    <value>Az automatikus kitöltő szolgáltatás használata előtt be kell jelentkezni a fő Bravura Safe alkalmazásba.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Az alkalmazásokba és webhelyekre a belépési adatok most már könnyedén elérhető a billentyűzetről.</value>
@@ -1296,13 +1308,13 @@
     <value>4. Kapcsoljuk be az Automatikus kitöltést</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Válasszuk ki a "Bitwarden"-t</value>
+    <value>5. Válasszuk ki a "Bravura Safe"-t</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Jelszó automatikus kitöltése</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bitwarden automatikus jelszó kitöltés bővítmény. További információ olvasható a Bitwarden automatikus jelszó kitöltés bővítmény használatáról a  "Beállítások" képernyőn.</value>
+    <value>A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bravura Safe automatikus jelszó kitöltés bővítmény. További információ olvasható a Bravura Safe automatikus jelszó kitöltés bővítmény használatáról a  "Beállítások" képernyőn.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Az email cím érvénytelen.</value>
@@ -1323,8 +1335,8 @@
     <value>Összes elem</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI elemek</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL elemek</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>A jelszó ellenőrzése folyamatban van...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} áthelyezésre került: {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Az elem megosztásra került.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>A Bitwardenben szervezeti fiók használatával megoszthatók másokkal a széfben lévő elemek.. Szeretnénk megnyitni a bitwarden.com webhelyet további információért?</value>
+    <value>A Bravura Safeben szervezeti fiók használatával megoszthatók másokkal a széfben lévő elemek.. Szeretnénk megnyitni a hitachi-id.com webhelyet további információért?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Széf exportálása</value>
@@ -1462,11 +1474,11 @@
     <value>30 perc</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>A pinkód beállítása a Bitwarden feloldásához. A pinkód beállítás alaphelyzetbe kerül, ha teljesen kijelentkezünk az alkalmazásból.</value>
+    <value>A pinkód beállítása a Bravura Safe feloldásához. A pinkód beállítás alaphelyzetbe kerül, ha teljesen kijelentkezünk az alkalmazásból.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Bejelentkezve mint {0} :: {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>A széf zárolva van. A folytatáshoz adjuk meg a mesterjelszót.</value>
@@ -1510,10 +1522,10 @@
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>Alapértelmezett találatfelismerés</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Az URI egyezés érzékelés alapértelmezett módjának kiválasztása a bejelentkezéseknél olyan műveletek esetében mint az automatikus kitöltés.</value>
+    <value>Az URL egyezés érzékelés alapértelmezett módjának kiválasztása a bejelentkezéseknél olyan műveletek esetében mint az automatikus kitöltés.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Téma</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Feketelistán levő URI elemek</value>
+    <value>Feketelistán levő URL elemek</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>A feketelistán levő URI elemek nem érintik az automatikus kitöltést. Az alkalmazások listáját vesszővel kell elválasztani. Példa: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>A feketelistán levő URL elemek nem érintik az automatikus kitöltést. Az alkalmazások listáját vesszővel kell elválasztani. Példa: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Mentés kérés letiltása</value>
@@ -1557,7 +1569,7 @@
     <value>Újraindításkor</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Az automatikus kitöltés megkönnyíti a Bitwarden széf biztonságos elérését más webhelyekről és alkalmazásokból. Úgy tűnik, hogy nem engedélyezett az automatikus kitöltés a Bitwardennél. Az automatikus kitöltés a Bitwardennél a "Beállítások" képernyőn engedélyezhető.</value>
+    <value>Az automatikus kitöltés megkönnyíti a Bravura Safe széf biztonságos elérését más webhelyekről és alkalmazásokból. Úgy tűnik, hogy nem engedélyezett az automatikus kitöltés a Bravura Safenél. Az automatikus kitöltés a Bravura Safenél a "Beállítások" képernyőn engedélyezhető.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>A témaváltás az alkalmazás újraindítása után lép életbe.</value>
@@ -1591,7 +1603,7 @@
     <value>Biometria használata a feloldáshoz</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>A Bitwarden figyelmet igényel - Információ az "Automatikus kitöltés elérési szolgáltatás" elemnél a Bitwarden beállításaiban</value>
+    <value>A Bravura Safe figyelmet igényel - Információ az "Automatikus kitöltés elérési szolgáltatás" elemnél a Bravura Safe beállításaiban</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
     <value>3. Az Android Alkalmazás beállítások képernyőn a "Megjelenítés más alkalmazások felett" opcióknál (a Bővített alatt) koppintsunk az átfedés támogatást engedélyező váltóra.</value>
@@ -1603,7 +1615,7 @@
     <value>Átfedés jogosultságok beállítás megnyitása</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. A Bitwardenre érvényes Android Alkalmazás beállítások képernyőn válasszuk a "Megjelenítés más alkalmazások felett" opciót (a Bővített alatt) és állítsuk át a váltóz az átfedés támogatást engedélyezésre.</value>
+    <value>3. A Bravura Safere érvényes Android Alkalmazás beállítások képernyőn válasszuk a "Megjelenítés más alkalmazások felett" opciót (a Bővített alatt) és állítsuk át a váltóz az átfedés támogatást engedélyezésre.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Megtagadva</value>
@@ -1633,11 +1645,11 @@
     <value>Ez az exportálás titkosítja az adatokat a fiók titkosítási kulcsával. Ha valaha a diók forgatási kulcsa más lesz, akkor újra exportálni kell, mert nem lehet visszafejteni ezt az exportálási fájlt.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>A fiók titkosítási kulcsai minden Bitwarden felhasználói fiókhoz egyediek, ezért nem importálhatunk titkosított exportálást egy másik fiókba.</value>
+    <value>A fiók titkosítási kulcsai minden Bravura Safe felhasználói fiókhoz egyediek, ezért nem importálhatunk titkosított exportálást egy másik fiókba.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Széf export megerősítése</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Figyelmeztetés</value>
@@ -1666,7 +1678,7 @@
     <value>A melléklet sikeresen mentésre került.</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Engedélyezzük az "Automatikus kitöltés elérés szolgáltatás" lehetőséget a Bitwarden beállításainál az automatikus kitöltés engedélyezéséhez.</value>
+    <value>Engedélyezzük az "Automatikus kitöltés elérés szolgáltatás" lehetőséget a Bravura Safe beállításainál az automatikus kitöltés engedélyezéséhez.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Nincs érzékelt jelszó mező.</value>
@@ -1784,7 +1796,7 @@
     <value>Adatvédelmi Irányelvek</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>A Bitwarden figyelmet igényel - Engedélyezzük Bitwarden beállításokban a  "Felülrajzolás" opciót az "Automatikus kitöltési szolgáltatások" résznél.</value>
+    <value>A Bravura Safe figyelmet igényel - Engedélyezzük Bravura Safe beállításokban a  "Felülrajzolás" opciót az "Automatikus kitöltési szolgáltatások" résznél.</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Automatikus kitöltés</value>
@@ -1799,13 +1811,13 @@
     <value>Akadálymentes használat</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Használjuk a Bitwarden Kisegítő Szolgáltatást a bejelentkezések automatikus kitöltéséhez az alkalmazásokban és az interneten. Ha engedélyezve van, akkor a bejelentkezési mezők kiválasztásakor megjelenik egy felbukkanó ablak.</value>
+    <value>Használjuk a Bravura Safe Kisegítő Szolgáltatást a bejelentkezések automatikus kitöltéséhez az alkalmazásokban és az interneten. Ha engedélyezve van, akkor a bejelentkezési mezők kiválasztásakor megjelenik egy felbukkanó ablak.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Használjuk a Bitwarden Kisegítő Szolgáltatást a bejelentkezések automatikus kitöltéséhez az alkalmazásokban és az interneten. (Megköveteli a Felülrajzolás engedélyezését is)</value>
+    <value>Használjuk a Bravura Safe Kisegítő Szolgáltatást a bejelentkezések automatikus kitöltéséhez az alkalmazásokban és az interneten. (Megköveteli a Felülrajzolás engedélyezését is)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Használjuk a Bitwarden Kisegítő Szolgáltatást az Automatikus kitöltés gyorsműveleti csempe használatához és/vagy egy felugró ablak megjelenítéséhez a Felülrajzolás használatával (ha engedélyezve van).</value>
+    <value>Használjuk a Bravura Safe Kisegítő Szolgáltatást az Automatikus kitöltés gyorsműveleti csempe használatához és/vagy egy felugró ablak megjelenítéséhez a Felülrajzolás használatával (ha engedélyezve van).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Szükséges az Automatikus kitöltés gyorsműveleti csempe használatához, vagy az automatikus kitöltési szolgáltatás bővítéséhez a Felülrajzolás használatával (ha engedélyezve van).</value>
@@ -1814,10 +1826,10 @@
     <value>Felülrajzolás használata</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Engedélyezve a Bitwarden Akadálymentes Szolgáltatás egy felbukkanó ablakot jelenít meg, amikor a bejelentkezési mezők kiválasztottak.</value>
+    <value>Engedélyezve a Bravura Safe Akadálymentes Szolgáltatás egy felbukkanó ablakot jelenít meg, amikor a bejelentkezési mezők kiválasztottak.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Engedélyezve a Bitwarden Kisegítő Szolgáltatás egy felbukkanó ablakot jelenít meg a bejelentkezések automatikus kitöltéséhez, amikor a bejelentkezési mezők kiválasztottak.</value>
+    <value>Engedélyezve a Bravura Safe Kisegítő Szolgáltatás egy felbukkanó ablakot jelenít meg a bejelentkezések automatikus kitöltéséhez, amikor a bejelentkezési mezők kiválasztottak.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Engedélyezve a a Kisegítő felbukkanó ablakot jelenít meg az Automatikus Kitöltési Szolgáltatás kibővítéséhez olyan régebbi alkalmazások számára, amelyek nem támogatják az Android automatikus kitöltés keretrendszerét.</value>
@@ -1829,20 +1841,20 @@
     <value>Egy szervezeti házirend befolyásolja a tulajdonjog beállításait.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Összes Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Összes Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>Küldések</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Barátságos név a Send elem leírására.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Barátságos név a Share elem leírására.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Szöveg</value>
@@ -1851,8 +1863,8 @@
     <value>A küldendő szöveg.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>A Send elérésekor alapértelmezés szerint a szöveg elrejtése</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share elérésekor alapértelmezés szerint a szöveg elrejtése</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Fájl</value>
@@ -1867,8 +1879,8 @@
     <value>Törlési dátum</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>A Send véglegesen törlésre kerül a meghatározott időpontban.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share véglegesen törlésre kerül a meghatározott időpontban.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Függőben lévő törlés</value>
@@ -1880,8 +1892,8 @@
     <value>Lejárati idő</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Beállítva a hozzáférés ehhez a Send elemhez lejár a meghatározott időpontban.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Beállítva a hozzáférés ehhez a Share elemhez lejár a meghatározott időpontban.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Lejárt</value>
@@ -1890,8 +1902,8 @@
     <value>Maximális elérési szám</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Beállítva a Send elérhetetlen lesz a meghatározott hozzáférések számának elérése után.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Beállítva a Share elérhetetlen lesz a meghatározott hozzáférések számának elérése után.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>A maximális hozzáférések száma elérésre került.</value>
@@ -1903,8 +1915,8 @@
     <value>Új jelszó</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Opcionálissan egy jelszó kérhető a felhasználóktól a Send eléréséhez.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Opcionálissan egy jelszó kérhető a felhasználóktól a Share eléréséhez.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Jelszó eltávolítása</value>
@@ -1920,19 +1932,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>Személyes megjegyzések erről a Sendről.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>A Send letiltásával mindenki hozzáférése megvonható.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share letiltásával mindenki hozzáférése megvonható.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>A fiókban nincsenek Send elemek.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A fiókban nincsenek Share elemek.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Send hozzáadása</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share hozzáadása</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Hivatkozás másolása</value>
@@ -1941,36 +1953,36 @@
     <value>Hivatkozás megosztása</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Send hivatkozás</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share hivatkozás</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Send elemek keresése</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share elemek keresése</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Send szerkesztése</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share szerkesztése</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Send hozzáadása</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share hozzáadása</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Biztosan törlésre kerüljön ez a Send elem?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Biztosan törlésre kerüljön ez a Share elem?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>A Send elem törlésre került.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share elem törlésre került.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>A Send elem frissítésre került.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share elem frissítésre került.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Az új Send elem létrejött.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Az új Share elem létrejött.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 nap</value>
@@ -1991,31 +2003,31 @@
     <value>Egyedi</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>A Send elem megosztása mentéskor.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A Share elem megosztása mentéskor.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>A vállalati házirend miatt csak egy meglévő Send elem törölhető.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A vállalati házirend miatt csak egy meglévő Share elem törölhető.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>A Sendről</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Saját email cím elrejtése a címzettek elől.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Egy vagy több szervezeti szabály érinti a Send opciókat.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Egy vagy több szervezeti szabály érinti a Share opciókat.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
     <value>Ingyenes fiókkal csak szöveget lehet megosztani. Prémium tagság szükséges a fájlok használatához a Sendnél.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
     <value>Ha fájlokat szeretnénk használni a Senddel, ellenőrizni kell az email címet.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Mesterjelszó újbóli bekérése</value>
@@ -2092,6 +2104,30 @@
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Egy vagy több szervezeti házirend tiltja a személyes széf exportálását.</value>
   </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Fiók hozzáadása</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Feloldva</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Lezárva</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Megtörtént a kijelentkezés.</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Megtörtént az átkapcsolás a következő elérhető fiókra.</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>A fiók lezárásra került.</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>A fiókból kijelentkezés sikeres volt.</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>A fiók eltávolítása sikeres volt.</value>
+  </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Fiók törlése</value>
   </data>
@@ -2120,7 +2156,7 @@
     <value>Küldés...</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Send hivatkozás másolása mentéskor</value>
+    <value>Share hivatkozás másolása mentéskor</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Küldési kód</value>

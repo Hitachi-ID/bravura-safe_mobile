@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Favorite</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Înregistrare raport de erori</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Sigur doriți să vă deconectați?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Eliminare cont</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Sunteți sigur că doriți să eliminați acest cont?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Cont deja adăugat</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Vreți să comutați la el acum?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Parolă principală</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Seiful meu</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Denumire</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Vizitați-ne saitul web</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Vizitați saitul nostru pentru a primi ajutor, știri, pentru a trimite e-mail, și/sau aflați mai multe despre cum să utilizați Bitwarden.</value>
+    <value>Vizitați saitul nostru pentru a primi ajutor, știri, pentru a trimite e-mail, și/sau aflați mai multe despre cum să utilizați Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Sait web</value>
@@ -403,7 +415,7 @@
     <value>Extensie aplicație</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Utilizați serviciul de accesibilitate Bitwarden pentru a completa automat datele de autentificare între aplicații și pagini web.</value>
+    <value>Utilizați serviciul de accesibilitate Bravura Safe pentru a completa automat datele de autentificare între aplicații și pagini web.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Serviciul de auto-completare</value>
@@ -412,31 +424,31 @@
     <value>Se evită caracterele ambigue</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Extensia aplicației Bitwarden</value>
+    <value>Extensia aplicației Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Cea mai ușoară modalitate de a adăuga noi autentificări în seif este din extensia aplicației Bitwarden. Aflați mai multe despre utilizarea extensiei aplicației Bitwarden accesând ecranul "Setări".</value>
+    <value>Cea mai ușoară modalitate de a adăuga noi autentificări în seif este din extensia aplicației Bravura Safe. Aflați mai multe despre utilizarea extensiei aplicației Bravura Safe accesând ecranul "Setări".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Utilizați Bitwarden în Safari și în alte aplicații pentru a completa automat datele de autentificare.</value>
+    <value>Utilizați Bravura Safe în Safari și în alte aplicații pentru a completa automat datele de autentificare.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Serviciul de auto-completare Bitwarden</value>
+    <value>Serviciul de auto-completare Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Utilizați serviciul Bitwarden pentru a completa automat datele de autentificare.</value>
+    <value>Utilizați serviciul Bravura Safe pentru a completa automat datele de autentificare.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Schimbare e-mail</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Puteți modifica adresa de e-mail pe saitul web bitwarden.com. Doriți să vizitați saitul acum?</value>
+    <value>Puteți modifica adresa de e-mail pe saitul web Bravura Safe. Doriți să vizitați saitul acum?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Schimbare parolă principală</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Puteți modifica parola principală pe saitul web bitwarden.com. Doriți să vizitați saitul acum?</value>
+    <value>Puteți modifica parola principală pe saitul web Bravura Safe. Doriți să vizitați saitul acum?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Închidere</value>
@@ -470,7 +482,7 @@
     <value>Activare extensie aplicație</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>În Safari, găsiți Bitwarden utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului).</value>
+    <value>În Safari, găsiți Bravura Safe utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Datele dvs. de conectare sunt acum ușor accesibile din Safari, Chrome și alte aplicații suportate.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>În Safari și Chrome, găsiți Bitwarden utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului partajare).</value>
+    <value>În Safari și Chrome, găsiți Bravura Safe utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului partajare).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Atingeți iconul Bitwarden din meniu pentru a lansa extensia.</value>
+    <value>Atingeți iconul Bravura Safe din meniu pentru a lansa extensia.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Pentru a activa Bitwarden în Safari și alte aplicații, atingeți iconul "mai multe" pe rândul de jos al meniului.</value>
+    <value>Pentru a activa Bravura Safe în Safari și alte aplicații, atingeți iconul "mai multe" pe rândul de jos al meniului.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Favorit</value>
@@ -507,7 +519,7 @@
     <value>Import articole</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Puteți să importați datele de conectare din seiful web bitwarden.com. Doriți să vizitați saitul acum?</value>
+    <value>Puteți să importați datele de conectare din seiful web Bravura Safe. Doriți să vizitați saitul acum?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Import rapid al datelor de conectare din alte aplicații de gestionare a parolelor.</value>
@@ -582,7 +594,7 @@
     <value>Mai multe setări</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Trebuie să vă conectați la aplicația principală Bitwarden înainte de a putea utiliza extensia.</value>
+    <value>Trebuie să vă conectați la aplicația principală Bravura Safe înainte de a putea utiliza extensia.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Niciodată</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Opțiunile implicite sunt setate din instrumentul principal de generare de parole al aplicației Bitwarden.</value>
+    <value>Opțiunile implicite sunt setate din instrumentul principal de generare de parole al aplicației Bravura Safe.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Opțiuni</value>
@@ -631,7 +643,7 @@
     <value>Sigur doriți să suprascrieți parola curentă?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden păstrează seiful dvs. sincronizat utilizând notificările "push". Pentru cele mai bune rezultate posibile, selectați "Permite" la următorul mesaj când vi se solicită să activați notificările "push".</value>
+    <value>Bravura Safe păstrează seiful dvs. sincronizat utilizând notificările "push". Pentru cele mai bune rezultate posibile, selectați "Permite" la următorul mesaj când vi se solicită să activați notificările "push".</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Autentificare în două etape</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Autentificarea în două etape întărește siguranța contului dvs. prin solicitarea unei confirmări de autentificare cu un alt dispozitiv, cum ar fi: o cheie de securitate, o aplicație de autentificare, un SMS, un apel telefonic sau un e-mail. Autentificarea în două etape poate fi activată în seiful web bitwarden.com. Doriți să vizitați saitul acum?</value>
+    <value>Autentificarea în două etape întărește siguranța contului dvs. prin solicitarea unei confirmări de autentificare cu un alt dispozitiv, cum ar fi: o cheie de securitate, o aplicație de autentificare, un SMS, un apel telefonic sau un e-mail. Autentificarea în două etape poate fi activată în seiful web Bravura Safe. Doriți să vizitați saitul acum?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Deblocare cu {0}</value>
@@ -711,7 +723,7 @@
     <value>Afișare articol</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Seif web Bitwarden</value>
+    <value>Seif web Bravura Safe</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Ați pierdut aplicația de autentificare?</value>
@@ -735,7 +747,7 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Nu sunt autentificări pentru {0} în seiful dvs.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
     <value>Când selectați un câmp de intrare și vedeți o propunere de auto-completare, atingeți-l ca să lansați serviciu de auto-completare.</value>
@@ -747,7 +759,7 @@
     <value>Deschidere setări de accesibilitate</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. În ecranul Accesibilitate din setările Android, atingeți "Bitwarden" sub titlul Servicii.</value>
+    <value>1. În ecranul Accesibilitate din setările Android, atingeți "Bravura Safe" sub titlul Servicii.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Activați comutatorul și apăsați OK pentru a accepta.</value>
@@ -762,7 +774,7 @@
     <value>Stare</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Cea mai ușoară modalitate de a adăuga noi autentificări în seif este cu Serviciul de Auto-completare Bitwarden. Aflați mai multe despre folosirea acestui serviciu Bitwarden din ecranul "Setări".</value>
+    <value>Cea mai ușoară modalitate de a adăuga noi autentificări în seif este cu Serviciul de Auto-completare Bravura Safe. Aflați mai multe despre folosirea acestui serviciu Bravura Safe din ecranul "Setări".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Auto-completare</value>
@@ -961,7 +973,7 @@
     <value>Mediu de găzduire personal</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Specificați URL-ul de bază al instalării Bitwarden.</value>
+    <value>Specificați URL-ul de bază al instalării Bravura Safe.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL server</value>
@@ -1126,7 +1138,7 @@
     <value>URL server de iconuri</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Auto-completare cu Bitwarden</value>
+    <value>Auto-completare cu Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Seiful este blocat</value>
@@ -1150,10 +1162,10 @@
     <value>Serviciul de accesibilitate pentru auto-completare</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Serviciul de autocompletare Bitwarden folosește Android Autofill Framework pentru a ajuta la completarea informațiilor de autentificare în alte aplicații de pe dispozitivul dumneavoastră.</value>
+    <value>Serviciul de autocompletare Bravura Safe folosește Android Autofill Framework pentru a ajuta la completarea informațiilor de autentificare în alte aplicații de pe dispozitivul dumneavoastră.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Folosiți serviciul de autocompletare Bitwarden pentru a completa informațiile de autentificare în alte aplicații.</value>
+    <value>Folosiți serviciul de autocompletare Bravura Safe pentru a completa informațiile de autentificare în alte aplicații.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Setări de auto-completare</value>
@@ -1202,11 +1214,11 @@
     <value>Ștergere</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>URI nou</value>
+    <value>URL nou</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Domeniu de bază</value>
@@ -1229,11 +1241,11 @@
     <value>Începe cu</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>Detectare de potrivire URI</value>
+    <value>Detectare de potrivire URL</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Detectare de potrivire</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Da, și salvare</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organizație</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Țineți Yubikey în partea superioară a dispozitivului.</value>
@@ -1269,7 +1281,7 @@
     <value>Auto-completare activată!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Trebuie să vă conectați la aplicația principală Bitwarden înainte de a putea utiliza auto-completarea.</value>
+    <value>Trebuie să vă conectați la aplicația principală Bravura Safe înainte de a putea utiliza auto-completarea.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Conectările dvs. sunt acum ușor accesibile chiar de la tastatură în timp ce vă conectați la aplicații și saituri web.</value>
@@ -1287,7 +1299,7 @@
     <value>1. Accesați Setările iOS</value>
   </data>
   <data name="AutofillTurnOn2" xml:space="preserve">
-    <value>2. Selectați "Parole și Conturi"</value>
+    <value>2. Selectați „Parole”</value>
   </data>
   <data name="AutofillTurnOn3" xml:space="preserve">
     <value>3. Selectați "Auto-completare parole"</value>
@@ -1296,13 +1308,13 @@
     <value>4. Activați "Completare automată"</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Selectați "Bitwarden"</value>
+    <value>5. Selectați "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Auto-completare parolă</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Cel mai simplu mod de a adăuga noi autentificări în seiful dvs. este prin utilizarea extensiei "Bitwarden Auto-completare parole". Aflați mai multe despre utilizarea acestei extensii navigând la ecranul "Setări".</value>
+    <value>Cel mai simplu mod de a adăuga noi autentificări în seiful dvs. este prin utilizarea extensiei "Bravura Safe Auto-completare parole". Aflați mai multe despre utilizarea acestei extensii navigând la ecranul "Setări".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Adresă de e-mail greșită.</value>
@@ -1323,8 +1335,8 @@
     <value>Toate elementele</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI-uri</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL-uri</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Verificare parolă...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} s-a mutat la {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Articolul a fost partajat.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden vă permite să vă partajați seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați saitul bitwarden.com pentru a afla mai multe?</value>
+    <value>Bravura Safe vă permite să vă partajați seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați saitul hitachi-id.com pentru a afla mai multe?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Export seif</value>
@@ -1462,11 +1474,11 @@
     <value>30 de minute</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Stabiliți codul PIN de deblocare Bitwarden. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație.</value>
+    <value>Stabiliți codul PIN de deblocare Bravura Safe. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Autentificat ca {0} pe {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Seiful dvs. este blocat. Verificați parola principală pentru a continua.</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Detectare de potrivire URI implicită</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Detectare de potrivire URL implicită</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Alege modul implicit de gestionare a detectării de potrivire URI pentru conectări când se efectuează acțiuni precum auto-completarea.</value>
+    <value>Alege modul implicit de gestionare a detectării de potrivire URL pentru conectări când se efectuează acțiuni precum auto-completarea.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Temă</value>
@@ -1532,7 +1544,7 @@
     <value>Ieșire</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Sigur doriți să ieșiți din Bitwarden?</value>
+    <value>Sigur doriți să ieșiți din Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Doriți să solicitați deblocarea cu parola principală atunci când aplicația este repornită?</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>URI-uri în lista neagră</value>
+    <value>URL-uri în lista neagră</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>URI-urile din lista neagră nu vor oferi auto-completare. Lista trebuie separată cu virgule. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>URL-urile din lista neagră nu vor oferi auto-completare. Lista trebuie separată cu virgule. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Dezactivare solicitare de salvare</value>
@@ -1557,7 +1569,7 @@
     <value>La repornirea aplicației</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Auto-completarea ușurează accesul securizat al seifului Bitwarden de pe alte saituri și aplicații. Se pare că nu ați activat serviciul de auto-completare pentru Bitwarden. Activați auto-completarea pentru Bitwarden din ecranul "Setări".</value>
+    <value>Auto-completarea ușurează accesul securizat al seifului Bravura Safe de pe alte saituri și aplicații. Se pare că nu ați activat serviciul de auto-completare pentru Bravura Safe. Activați auto-completarea pentru Bravura Safe din ecranul "Setări".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Modificările temei se vor aplica după repornirea aplicației.</value>
@@ -1591,10 +1603,10 @@
     <value>Utilizare biometrie la deblocare</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden necesită atenție! Consultați în Setările Bitwarden "Serviciul de accesibilitate auto-completare"</value>
+    <value>Bravura Safe necesită atenție! Consultați în Setările Bravura Safe "Serviciul de accesibilitate auto-completare"</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. În ecranul Android de Setări al aplicației Bitwarden, accesați opțiunile "Afișați peste alte aplicații" (sub Avansat) și atingeți comutatorul pentru a activa suportul pentru suprapunere.</value>
+    <value>3. În ecranul Android de Setări al aplicației Bravura Safe, accesați opțiunile "Afișați peste alte aplicații" (sub Avansat) și atingeți comutatorul pentru a activa suportul pentru suprapunere.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Permisiune</value>
@@ -1603,7 +1615,7 @@
     <value>Deschidere setări "Permisiune de suprapunere"</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. În ecranul Android de Setări al aplicației Bitwarden, accesați opțiunile "Afișați peste alte aplicații" (sub Avansat) și comutați pentru a permite suprapunerea.</value>
+    <value>3. În ecranul Android de Setări al aplicației Bravura Safe, accesați opțiunile "Afișați peste alte aplicații" (sub Avansat) și comutați pentru a permite suprapunerea.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Refuzat								</value>
@@ -1633,11 +1645,11 @@
     <value>Acest export criptează datele, utilizând cheia de criptare a contului. Dacă revocați vreodată cheia de criptare a contului dvs., ar trebui să exportați din nou, deoarece nu veți putea decripta acest fișier de export.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Cheile de criptare a contului sunt unice fiecărui cont de utilizator Bitwarden, astfel încât nu puteți importa un export criptat într-un cont diferit.</value>
+    <value>Cheile de criptare a contului sunt unice fiecărui cont de utilizator Bravura Safe, astfel încât nu puteți importa un export criptat într-un cont diferit.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Confirmare export seif</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Avertisment</value>
@@ -1666,7 +1678,7 @@
     <value>Atașament salvat cu succes</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Activați "Serviciul de accesibilitate Auto-completare" în setările Bitwarden ca să utilizați fila de Auto-completare.</value>
+    <value>Activați "Serviciul de accesibilitate Auto-completare" în setările Bravura Safe ca să utilizați fila de Auto-completare.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Nu s-au detectat câmpuri de parolă</value>
@@ -1784,7 +1796,7 @@
     <value>Politică de confidențialitate</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden are nevoie de atenție - Activați "Afișare peste" în "Serviciul de auto-completare" din Setările Bitwarden</value>
+    <value>Bravura Safe are nevoie de atenție - Activați "Afișare peste" în "Serviciul de auto-completare" din Setările Bravura Safe</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Servicii de auto-completare</value>
@@ -1799,13 +1811,13 @@
     <value>Utilizare Accesibilitate</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Utilizați Serviciul de Accesibilitate Bitwarden pentru auto-completarea conectărilor dvs. în aplicații și pe web. Dacă este activat, va afișa o fereastră pop-up când câmpurile de conectare sunt selectate.</value>
+    <value>Utilizați Serviciul de Accesibilitate Bravura Safe pentru auto-completarea conectărilor dvs. în aplicații și pe web. Dacă este activat, va afișa o fereastră pop-up când câmpurile de conectare sunt selectate.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Utilizați Serviciul de Accesibilitate Bitwarden pentru auto-completarea conectărilor dvs. în aplicații și pe web. (Necesită de asemenea să activați "Afișare peste")</value>
+    <value>Utilizați Serviciul de Accesibilitate Bravura Safe pentru auto-completarea conectărilor dvs. în aplicații și pe web. (Necesită de asemenea să activați "Afișare peste")</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Folosiți Serviciul de Accesibilitate Bitwarden pentru a utiliza fila "Acțiune rapidă de auto-completare" și/sau a afișa o fereastră pop-up folosind "Afișare peste" (dacă este activat).</value>
+    <value>Folosiți Serviciul de Accesibilitate Bravura Safe pentru a utiliza fila "Acțiune rapidă de auto-completare" și/sau a afișa o fereastră pop-up folosind "Afișare peste" (dacă este activat).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Necesar la folosirea filei "Acțiune rapidă de auto-completare" sau la îmbunătățirea Serviciului de auto-completare folosind "Afișare peste" (dacă este activat).</value>
@@ -1814,10 +1826,10 @@
     <value>Folosire "Afișare peste"</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Când este activat, permite Serviciului de Accesibilitate Bitwarden să afișeze o fereastră pop-up atunci când sunt selectate câmpurile de conectare.</value>
+    <value>Când este activat, permite Serviciului de Accesibilitate Bravura Safe să afișeze o fereastră pop-up atunci când sunt selectate câmpurile de conectare.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Dacă este activat, Serviciul de Accesibilitate Bitwarden va afișa o fereastră pop-up când câmpurile de conectare sunt selectate pentru a ajuta la auto-completare datelor de autentificare.</value>
+    <value>Dacă este activat, Serviciul de Accesibilitate Bravura Safe va afișa o fereastră pop-up când câmpurile de conectare sunt selectate pentru a ajuta la auto-completare datelor de autentificare.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Dacă este activată, accesibilitatea va afișa o fereastră pop-up pentru a augmenta Serviciul de Auto-completare pentru aplicațiile mai vechi care nu acceptă Android Autofill Framework.</value>
@@ -1829,20 +1841,20 @@
     <value>O politică de organizație vă afectează opțiunile de proprietate.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Toate Send-urile</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Toate Share-urile</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Send-uri</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-uri</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Un nume prietenos pentru a descrie acest Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Un nume prietenos pentru a descrie acest Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Text</value>
@@ -1851,8 +1863,8 @@
     <value>Textul pe care doriți să-l trimiteți.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Când Send-ul este accesat, ascundeți textul în mod implicit</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Când Share-ul este accesat, ascundeți textul în mod implicit</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Fişier</value>
@@ -1867,8 +1879,8 @@
     <value>Ora ștergerii</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Send-ul va fi șters definitiv la data și ora specificate.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-ul va fi șters definitiv la data și ora specificate.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Ștergere în așteptare</value>
@@ -1880,8 +1892,8 @@
     <value>Ora expirării</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Dacă este setat, accesul la acest Send va expira la data și ora specificate.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Dacă este setat, accesul la acest Share va expira la data și ora specificate.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Expirat</value>
@@ -1890,8 +1902,8 @@
     <value>Număr maxim de accesări</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Dacă este configurat, utilizatorii nu vor mai putea accesa acest Send când a fost atins numărul maxim de accesări.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Dacă este configurat, utilizatorii nu vor mai putea accesa acest Share când a fost atins numărul maxim de accesări.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>S-a atins numărul maxim de accesări</value>
@@ -1903,8 +1915,8 @@
     <value>Parolă nouă</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Opțional, este necesară o parolă pentru ca utilizatorii să acceseze acest Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Opțional, este necesară o parolă pentru ca utilizatorii să acceseze acest Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Eliminare parolă</value>
@@ -1919,20 +1931,20 @@
     <value>Parola a fost eliminată.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Note private despre acest Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Note private despre acest Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Dezactivați acest Send pentru ca nimeni să nu-l poată accesa</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Dezactivați acest Share pentru ca nimeni să nu-l poată accesa</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Nu există niciun Send în contul dvs.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Nu există niciun Share în contul dvs.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Adăugați un Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Adăugați un Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Copiere link</value>
@@ -1942,35 +1954,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>Trimitere link</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Căutare Send-uri</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Căutare Share-uri</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Editare Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Editare Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Adăugare Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Adăugare Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Sigur doriți să ștergeți acest Send?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Sigur doriți să ștergeți acest Share?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send-ul a fost șters.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-ul a fost șters.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send actualizat</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share actualizat</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>A fost creat un nou send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A fost creat un nou share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 zi</value>
@@ -1991,31 +2003,31 @@
     <value>Personalizat</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Partajați această Send după salvare</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Partajați această Share după salvare</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Datorită unei politici de întreprindere, puteți șterge numai un Send existent.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Datorită unei politici de întreprindere, puteți șterge numai un Share existent.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Despre Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Despre Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Ascundeți adresa mea de e-mail de la destinatari</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Una sau mai multe politici organizaționale vă afectează opțiunile Send-ului.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Una sau mai multe politici organizaționale vă afectează opțiunile Share-ului.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Conturile gratuite sunt limitate la partajarea de text. Trebuie să fiți membrii Premium pentru a utiliza fișiere cu Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Conturile gratuite sunt limitate la partajarea de text. Trebuie să fiți membrii Premium pentru a utiliza fișiere cu Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Trebuie să vă verificați e-mailul pentru a utiliza fișiere cu Send. Vă puteți verifica e-mailul în seiful web.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Trebuie să vă verificați e-mailul pentru a utiliza fișiere cu Share. Vă puteți verifica e-mailul în seiful web.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Re-solicitare parolă principală</value>
@@ -2092,6 +2104,30 @@
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Una sau mai multe politici ale organizației vă împiedică să exportați seiful personal.</value>
   </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Adăugare cont</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Deblocat</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Blocat</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Deconectat</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Comutat la următorul cont disponibil</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Cont blocat</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Contul s-a deconectat cu succes</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Cont eliminat cu succes</value>
+  </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Ștergere cont</value>
   </data>
@@ -2120,7 +2156,7 @@
     <value>Se trimite</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copiați linkul Send-ului la salvare</value>
+    <value>Copiați linkul Share-ului la salvare</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Se trimite codul</value>

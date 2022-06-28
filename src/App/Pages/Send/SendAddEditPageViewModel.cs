@@ -4,15 +4,11 @@ using System.Threading.Tasks;
 using Bit.App.Abstractions;
 using Bit.App.Resources;
 using Bit.App.Utilities;
-using Bit.Core;
 using Bit.Core.Abstractions;
 using Bit.Core.Enums;
 using Bit.Core.Exceptions;
 using Bit.Core.Models.View;
 using Bit.Core.Utilities;
-#if !FDROID
-using Microsoft.AppCenter.Crashes;
-#endif
 using Xamarin.Essentials;
 using Xamarin.Forms;
 
@@ -23,8 +19,9 @@ namespace Bit.App.Pages
         private readonly IDeviceActionService _deviceActionService;
         private readonly IPlatformUtilsService _platformUtilsService;
         private readonly IMessagingService _messagingService;
-        private readonly IUserService _userService;
+        private readonly IStateService _stateService;
         private readonly ISendService _sendService;
+        private readonly ILogger _logger;
         private bool _sendEnabled;
         private bool _canAccessPremium;
         private bool _emailVerified;
@@ -42,7 +39,7 @@ namespace Bit.App.Pages
         private TimeSpan? _expirationTime;
         private bool _isOverridingPickers;
         private int? _maxAccessCount;
-        private string[] _additionalSendProperties = new []
+        private string[] _additionalSendProperties = new[]
         {
             nameof(IsText),
             nameof(IsFile),
@@ -56,8 +53,10 @@ namespace Bit.App.Pages
             _deviceActionService = ServiceContainer.Resolve<IDeviceActionService>("deviceActionService");
             _platformUtilsService = ServiceContainer.Resolve<IPlatformUtilsService>("platformUtilsService");
             _messagingService = ServiceContainer.Resolve<IMessagingService>("messagingService");
-            _userService = ServiceContainer.Resolve<IUserService>("userService");
+            _stateService = ServiceContainer.Resolve<IStateService>("stateService");
             _sendService = ServiceContainer.Resolve<ISendService>("sendService");
+            _logger = ServiceContainer.Resolve<ILogger>("logger");
+
             TogglePasswordCommand = new Command(TogglePassword);
 
             TypeOptions = new List<KeyValuePair<string, SendType>>
@@ -209,7 +208,7 @@ namespace Bit.App.Pages
         {
             get => _showPassword;
             set => SetProperty(ref _showPassword, value,
-                additionalPropertyNames: new []
+                additionalPropertyNames: new[]
                 {
                     nameof(ShowPasswordIcon)
                 });
@@ -230,14 +229,14 @@ namespace Bit.App.Pages
         public bool IsFile => Send?.Type == SendType.File;
         public bool ShowDeletionCustomPickers => EditMode || DeletionDateTypeSelectedIndex == 6;
         public bool ShowExpirationCustomPickers => EditMode || ExpirationDateTypeSelectedIndex == 7;
-        public string ShowPasswordIcon => ShowPassword ? BitwardenIcons.EyeSlash : BitwardenIcons.Eye;
+        public string ShowPasswordIcon => ShowPassword ? "" : "";
 
         public async Task InitAsync()
         {
             PageTitle = EditMode ? AppResources.EditSend : AppResources.AddSend;
-            _canAccessPremium = await _userService.CanAccessPremiumAsync();
-            _emailVerified = await _userService.GetEmailVerifiedAsync();
-            SendEnabled = ! await AppHelpers.IsSendDisabledByPolicyAsync();
+            _canAccessPremium = await _stateService.CanAccessPremiumAsync();
+            _emailVerified = await _stateService.GetEmailVerifiedAsync();
+            SendEnabled = !await AppHelpers.IsSendDisabledByPolicyAsync();
             DisableHideEmail = await AppHelpers.IsHideEmailDisabledByPolicyAsync();
             SendOptionsPolicyInEffect = SendEnabled && DisableHideEmail;
         }
@@ -381,7 +380,7 @@ namespace Bit.App.Pages
 
             UpdateSendData();
 
-            if (string.IsNullOrWhiteSpace(NewPassword)) 
+            if (string.IsNullOrWhiteSpace(NewPassword))
             {
                 NewPassword = null;
             }
@@ -455,9 +454,7 @@ namespace Bit.App.Pages
             catch (Exception ex)
             {
                 await _deviceActionService.HideLoadingAsync();
-#if !FDROID
-                Crashes.TrackError(ex);
-#endif
+                _logger.Exception(ex);
                 await _platformUtilsService.ShowDialogAsync(AppResources.AnErrorHasOccurred);
             }
             return false;
@@ -523,7 +520,7 @@ namespace Bit.App.Pages
                     {
                         await _platformUtilsService.ShowDialogAsync(AppResources.SendFileEmailVerificationRequired);
                     }
-                    
+
                     if (IsAddFromShare && Device.RuntimePlatform == Device.Android)
                     {
                         _deviceActionService.CloseMainApp();

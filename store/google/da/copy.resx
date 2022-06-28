@@ -118,39 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Bitwarden adgangskodemanager</value>
+    <value>Bravura Safe adgangskodemanager</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden er en login- og adgangskodemanager, som sikrer dine informationer.</value>
+    <value>Bravura Safe er en login- og adgangskodemanager, som sikrer dine informationer.</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden, Inc. er moderselskab for 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-UDNÆVNT BEDSTE PASSWORD MANAGER AF THE VERGE, U.S. NEWS &amp; WORLD REPORT, CNET OG FLERE.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Administrér, gem, sikr og del adgangskoder ubegrænset på tværs af enheder hvor som helst. Bitwarden leverer open source adgangskodeadministrationsløsninger til alle, hvad enten det er hjemme, på arbejdspladsen eller på farten.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Generér stærke, unikke og tilfældige adgangskoder baseret på sikkerhedskrav til hvert websted, du besøger.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden Send overfører hurtigt krypterede oplysninger --- filer og almindelig tekst - direkte til enhver.
-
-Bitwarden tilbyder Teams og Enterprise-planer for virksomheder, så du sikkert kan dele adgangskoder med kolleger.
-
-Hvorfor vælge Bitwarden:
-
-Kryptering i verdensklasse
-Adgangskoder er beskyttet med avanceret end-to-end-kryptering (AES-256 bit, saltet hashtag og PBKDF2 SHA-256), så dine data forbliver sikre og private.
-
-Indbygget adgangskodegenerator
-Generér stærke, unikke og tilfældige adgangskoder baseret på sikkerhedskrav til hvert websted, du besøger.
-
-Globale oversættelser
-Bitwarden findes på 40 sprog, og flere kommer til, takket være vores globale fællesskab.
-
-Applikationer på tværs af platforme
-Beskyt og del følsomme data i din Bitwarden boks fra enhver browser, mobilenhed eller desktop OS og mere.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

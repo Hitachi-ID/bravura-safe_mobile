@@ -1,14 +1,18 @@
-[![Github Workflow build on master](https://github.com/bitwarden/mobile/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/bitwarden/mobile/actions/workflows/build.yml?query=branch:master)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/bitwarden-mobile/localized.svg)](https://crowdin.com/project/bitwarden-mobile)
-[![Join the chat at https://gitter.im/bitwarden/Lobby](https://badges.gitter.im/bitwarden/Lobby.svg)](https://gitter.im/bitwarden/Lobby)
+----------------------------------------------------------------
 
-# Bitwarden Mobile Application
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries. 
 
-<a href="https://play.google.com/store/apps/details?id=com.x8bit.bitwarden" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/YQzmZi9.png" width="153" height="46"></a> <a href="https://mobileapp.bitwarden.com/fdroid/" target="_blank"><img alt="Get it on Google Play" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/bitwarden-free-password-manager/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/GdGqPMY.png" width="135" height="40"></a>
+The original work is available at [https://github.com/bitwarden/mobile]. 
+The original documentation is available at [https://bitwarden.com/help/].
+A complete list of all changes is available in the git history of this project.
 
-The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
+This project contains the mobile applications.
 
-<img src="https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-android-myvault.png" alt="" width="325" height="650" /> <img src="https://raw.githubusercontent.com/bitwarden/brand/master/screenshots/mobile-ios-myvault.png" alt="" width="300" height="650" />
+# Mobile Application
+
+<a href="https://play.google.com/store/apps/details?id=com.x8bit..<replace me>" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/.<replace me>.png" width="153" height="46"></a> <a href="https://mobileapp.<replace me>/fdroid/" target="_blank"><img alt="Get it on Google Play" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/.<replace me>/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/.<replace me>.png" width="135" height="40"></a>
+
+The mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 
 # Build/Run
 
@@ -23,9 +27,3 @@ The Bitwarden mobile application is written in C# with Xamarin Android, Xamarin 
 - Restore the nuget packages.
 - Build and run the app.
 
-# Contribute
-
-Code contributions are welcome! Visual Studio with Xamarin is required to work on this project. Please commit any pull requests against the `master` branch.
-Learn more about how to contribute by reading the [`CONTRIBUTING.md`](CONTRIBUTING.md) file.
-
-Security audits and feedback are welcome. Please open an issue or email us privately if the report is sensitive in nature. You can read our security policy in the [`SECURITY.md`](SECURITY.md) file.

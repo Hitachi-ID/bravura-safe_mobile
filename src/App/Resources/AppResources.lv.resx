@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Izlase</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Iesniegt kļūdas ziņojumu</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Vai tiešām izrakstīties?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Noņemt kontu</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Vai tiešām noņemt šo kontu?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Konts jau ir pievienots</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Vai pārslēgties uz to?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Galvenā parole</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Mana glabātava</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nosaukums</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Apmeklēt mūsu tīmekļa vietni</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Apmeklē mūsu tīmekļa vietni lai iegūtu palīdzību, jaunumus, rakstītu mums e-pastu un/vai uzzinātu vairāk par to, kā izmantot Bitwarden.</value>
+    <value>Apmeklē mūsu tīmekļa vietni lai iegūtu palīdzību, jaunumus, rakstītu mums e-pastu un/vai uzzinātu vairāk par to, kā izmantot Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Tīmekļa vietne</value>
@@ -403,7 +415,7 @@
     <value>Lietotņu paplašinājums</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Izmantot Bitwarden pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī.</value>
+    <value>Izmantot Bravura Safe pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Automātiskā aizpilde</value>
@@ -412,31 +424,31 @@
     <value>Izvairīties no viegli sajaucamām rakstzīmēm</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden lietotņu paplašinājums</value>
+    <value>Bravura Safe lietotņu paplašinājums</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir no Bitwarden lietotņu paplašinājuma. Vairāk par Bitwarden lietotņu paplašinājumu var uzzināt dodoties uz iestatījumu sadaļu.</value>
+    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir no Bravura Safe lietotņu paplašinājuma. Vairāk par Bravura Safe lietotņu paplašinājumu var uzzināt dodoties uz iestatījumu sadaļu.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Izmantot Bitwarden Safari un citās lietotnēs, lai automātiski ievadītu pierakstīšanās vienumus.</value>
+    <value>Izmantot Bravura Safe Safari un citās lietotnēs, lai automātiski ievadītu pierakstīšanās vienumus.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden automātiskā aizpilde</value>
+    <value>Bravura Safe automātiskā aizpilde</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Izmantot Bitwarden pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes.</value>
+    <value>Izmantot Bravura Safe pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Mainīt e-pasta adresi</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>E-pasta adresi ir iespējams nomainīt bitwarden.com tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
+    <value>E-pasta adresi ir iespējams nomainīt Bravura Safe tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Mainīt galveno paroli</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Galveno paroli ir iespējams mainīt bitwarden.com tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
+    <value>Galveno paroli ir iespējams mainīt Bravura Safe tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Aizvērt</value>
@@ -470,7 +482,7 @@
     <value>Iespējot lietotņu paplašinājumu</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safari Bitwarden var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi izvēlnes apakšējā rindā).</value>
+    <value>Safari Bravura Safe var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi izvēlnes apakšējā rindā).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Tavi pierakstīšanās vienumi tagad ir viegli pieejami Safari, Chrome un citās atbalstītās lietotnēs.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Safari un Chrome Bitwarden var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi kopīgošanas izvēlnes apakšējā rindā).</value>
+    <value>Safari un Chrome Bravura Safe var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi kopīgošanas izvēlnes apakšējā rindā).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Piesist Bitwarden ikonai izvēlne, lai palaistu paplašinājumu.</value>
+    <value>Piesist Bravura Safe ikonai izvēlne, lai palaistu paplašinājumu.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Lai ieslēgtu Bitwarden Safari un citās lietotnēs, jāpiesit "vairāk" ikonai izvēlnes apakšējā rindā.</value>
+    <value>Lai ieslēgtu Bravura Safe Safari un citās lietotnēs, jāpiesit "vairāk" ikonai izvēlnes apakšējā rindā.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Izlasē</value>
@@ -507,7 +519,7 @@
     <value>Ievietot vienumus</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Daudzu vienumu ievietošanu var veikt bitwarden.com tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
+    <value>Daudzu vienumu ievietošanu var veikt Bravura Safe tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Ātri ievietot daudzus vienumus no citām paroļu pārvaldības lietotnēm.</value>
@@ -582,7 +594,7 @@
     <value>Citi iestatījumi</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Vispirms ir jāpierakstās galvenajā Bitwarden lietotnē, lai varētu izmantot paplašinājumu.</value>
+    <value>Vispirms ir jāpierakstās galvenajā Bravura Safe lietotnē, lai varētu izmantot paplašinājumu.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Nekad</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Iespēju noklusējuma vērtības tiek iegūtas no galvenās Bitwarden lietotnes paroļu veidotāja rīka.</value>
+    <value>Iespēju noklusējuma vērtības tiek iegūtas no galvenās Bravura Safe lietotnes paroļu veidotāja rīka.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Iespējas</value>
@@ -631,7 +643,7 @@
     <value>Vai tiešām pārrakstīt esošo paroli?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden nodrošina glabātavas sinhronizāciju, izmantojot pašpiegādes paziņojumus. Labākajai iespējamajai pieredzei lūgums atlasīt "Atļaut" gaidāmajā prasījuma logā, kad tiks vaicāts iespējot pašpiegādes paziņojumus.</value>
+    <value>Bravura Safe nodrošina glabātavas sinhronizāciju, izmantojot pašpiegādes paziņojumus. Labākajai iespējamajai pieredzei lūgums atlasīt "Atļaut" gaidāmajā prasījuma logā, kad tiks vaicāts iespējot pašpiegādes paziņojumus.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Divpakāpju pierakstīšanās</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Divpakāpju pieslēgšanās padara kontu krietni drošāku, pieprasot apstiprināt pierakstīšanos ar tādu citu ierīču vai pakalpojumu starpniecību kā drošības atslēga, autentificētāja lietotne, īsziņa, tālruņa zvans vai e-pasts. Divpakāpju pierakstīšanos var iespējot bitwarden.com tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
+    <value>Divpakāpju pieslēgšanās padara kontu krietni drošāku, pieprasot apstiprināt pierakstīšanos ar tādu citu ierīču vai pakalpojumu starpniecību kā drošības atslēga, autentificētāja lietotne, īsziņa, tālruņa zvans vai e-pasts. Divpakāpju pierakstīšanos var iespējot Bravura Safe tīmekļa glabātavā. Vai apmeklēt tīmekļa vietni?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Atslēgt ar {0}</value>
@@ -711,7 +723,7 @@
     <value>Skatīt vienumu</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden tīmekļa glabātava</value>
+    <value>Bravura Safe tīmekļa glabātava</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Pazuadēta autentificētāja lietotne?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Glabātavā nav {0} vienumu.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Kad tiek atlasīts ievades lauks un parādās Bitwarden automātiskās aizpildes lodziņš, jāpiesit tam, lai palaistu automātiskās aizpildes pakalpojumu.</value>
+    <value>Kad tiek atlasīts ievades lauks un parādās Bravura Safe automātiskās aizpildes lodziņš, jāpiesit tam, lai palaistu automātiskās aizpildes pakalpojumu.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Piesist šim paziņojumam, lai automātiski aizpildītu, izmantojot vienumu no glabātavas.</value>
@@ -747,7 +759,7 @@
     <value>Atvērt pieejamības iestatījumus</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Android pieejamības iestatījumu skatā jāpieskaras "Bitwarden", kas atrodas zem virsraksta "Pakalpojumi".</value>
+    <value>1. Android pieejamības iestatījumu skatā jāpieskaras "Bravura Safe", kas atrodas zem virsraksta "Pakalpojumi".</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Jāpārbīda slēdzis un jāspiež "Labi", lai apstiprinātu.</value>
@@ -762,7 +774,7 @@
     <value>Stāvoklis</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir no Bitwarden automātiskās aizpildes pakalpojuma. Vairāk par Bitwarden automātiskās aizpildi var uzzināt dodoties uz iestatījumu sadaļu.</value>
+    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir no Bravura Safe automātiskās aizpildes pakalpojuma. Vairāk par Bravura Safe automātiskās aizpildi var uzzināt dodoties uz iestatījumu sadaļu.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Automātiskā aizpilde</value>
@@ -961,7 +973,7 @@
     <value>Pašuzturēta vide</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Norādīt pašuzstādīta Bitwarden pamata URL.</value>
+    <value>Norādīt pašuzstādīta Bravura Safe pamata URL.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>Servera URL</value>
@@ -1126,7 +1138,7 @@
     <value>Ikonu servera URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Automātiskā aizpilde ar Bitwarden</value>
+    <value>Automātiskā aizpilde ar Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Glabātava ir slēgta</value>
@@ -1150,10 +1162,10 @@
     <value>Automātiskās aizpildes pieejamības pakalpojums</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden automātiskās aizpildes pakalpojums izmanto Android automātiskās aizpildes ietvaru, lai palīdzētu aizpildīt pierakstīšanās, kredītkartes, un identitātes informācijas veidnes citās ierīces lietotnēs.</value>
+    <value>Bravura Safe automātiskās aizpildes pakalpojums izmanto Android automātiskās aizpildes ietvaru, lai palīdzētu aizpildīt pierakstīšanās, kredītkartes, un identitātes informācijas veidnes citās ierīces lietotnēs.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Bitwarden automātiskās aizpilde tiek izmantota, lai aizpildītu pierakstīšanās, kredītkaršu un identitātes informācijas veidnes citās lietotnēs.</value>
+    <value>Bravura Safe automātiskās aizpilde tiek izmantota, lai aizpildītu pierakstīšanās, kredītkaršu un identitātes informācijas veidnes citās lietotnēs.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Atvērt automātiskās aizpildes iestatījumus</value>
@@ -1202,11 +1214,11 @@
     <value>Noņemt</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>Jauns URI</value>
+    <value>Jauns URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Pamata domēns</value>
@@ -1229,11 +1241,11 @@
     <value>Sākas ar</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI atbilstības noteikšana</value>
+    <value>URL atbilstības noteikšana</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Atbilstības noteikšana</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Jā un saglabāt</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Apvienība</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Turi YubiKey tuvu ierīces augšai!</value>
@@ -1269,7 +1281,7 @@
     <value>Automātiskā aizpilde iespējota!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Vispirms ir jāpierakstās galvenajā Bitwarden lietotnē, lai varētu izmantot automātisko aizpildi.</value>
+    <value>Vispirms ir jāpierakstās galvenajā Bravura Safe lietotnē, lai varētu izmantot automātisko aizpildi.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Tavi pierakstīšanās vienumi tagad ir viegli pieejami tastatūrā, kad notiek pierakstīšanās lietotnēs un tīmekļa vietnēs.</value>
@@ -1296,13 +1308,13 @@
     <value>4. Jāieslēdz automātiskā aizpilde</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Jāatlasa "Bitwarden"</value>
+    <value>5. Jāatlasa "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Paroļu automātiska aizpilde</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir izmantojot Bitwarden automātiskās aizpildes paplašinājumu. Vairāk par to var uzzināt dodoties uz iestatījumu sadaļu.</value>
+    <value>Vieglākais veids, kā glabātavā pievienot jaunus pierakstīšanās vienumus, ir izmantojot Bravura Safe automātiskās aizpildes paplašinājumu. Vairāk par to var uzzināt dodoties uz iestatījumu sadaļu.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Nederīga e-pasta adrese.</value>
@@ -1323,8 +1335,8 @@
     <value>Visi vienumi</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Tiek pārbaudīta parole...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} pārvietots uz {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Vienums tika kopīgots.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden nodrošina iespēju kopīgot glabātavas vienumus ar citiem, kad tiek izmantots apvienības konts. Vai apmeklēt bitwarden.com tīmekļa vietni, lai uzzinātu vairāk?</value>
+    <value>Bravura Safe nodrošina iespēju kopīgot glabātavas vienumus ar citiem, kad tiek izmantots apvienības konts. Vai apmeklēt hitachi-id.com tīmekļa vietni, lai uzzinātu vairāk?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Izgūt glabātavas saturu</value>
@@ -1462,11 +1474,11 @@
     <value>30 minūtes</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Uzstādi savu PIN kodu Bitwarden atslēgšanai! Tavi PIN iestatījumi tiks atiestatīti, ja Tu pilnībā izrakstīsies no lietotnes.</value>
+    <value>Uzstādi savu PIN kodu Bravura Safe atslēgšanai! Tavi PIN iestatījumi tiks atiestatīti, ja Tu pilnībā izrakstīsies no lietotnes.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Pierakstījies {1} kā {0}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Glabātava ir slēgta. Nepieciešams norādīt galveno paroli, lai turpinātu.</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Noklusējuma URI atbilstības noteikšana</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Noklusējuma URL atbilstības noteikšana</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Izvēlēties noklusējuma veidu, kādā URI atbilstības noteikšana tiek apstrādāta, kad tiek veiktas tādas darbības kā automātiska aizpildīšana.</value>
+    <value>Izvēlēties noklusējuma veidu, kādā URL atbilstības noteikšana tiek apstrādāta, kad tiek veiktas tādas darbības kā automātiska aizpildīšana.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Izskats</value>
@@ -1532,7 +1544,7 @@
     <value>Iziet</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Vai tiešām iziet no Bitwarden?</value>
+    <value>Vai tiešām iziet no Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>Vai pieprasīt atslēgšanu ar galveno paroli pēc lietotnes pārsāknēšanas?</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Melnajā sarakstā ievietoti URI</value>
+    <value>Melnajā sarakstā ievietoti URL</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>Automātiskā aizpilde netiks piedāvāta URI, kas ir ievietoti melnajā sarakstā. Sarakstā ir jābūt ar komatu atdalītām vērtībām. Piemēram: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>Automātiskā aizpilde netiks piedāvāta URL, kas ir ievietoti melnajā sarakstā. Sarakstā ir jābūt ar komatu atdalītām vērtībām. Piemēram: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Atspējot saglabāšanas uzvedni</value>
@@ -1557,7 +1569,7 @@
     <value>Pārsāknējot lietotni</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Automātiskā aizpilde padara drošu piekļuvi Bitwarden galbātavai vienkāršu no citām 0tīmekļa vietnēm un lietotnēm. Izskatās, ka nav iespējota Bitwarden automātiskā aizpilde. To var izdarīt iestatījumu sadaļā.</value>
+    <value>Automātiskā aizpilde padara drošu piekļuvi Bravura Safe galbātavai vienkāršu no citām 0tīmekļa vietnēm un lietotnēm. Izskatās, ka nav iespējota Bravura Safe automātiskā aizpilde. To var izdarīt iestatījumu sadaļā.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Izskata izmaiņas tiks pielietotas pēc lietotnes pārsāknēšanas.</value>
@@ -1591,10 +1603,10 @@
     <value>Izmantot biometriju, lai atslēgtu</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden ir nepieciešams pievērst uzmanību - skatīt "Automātiskās aizpildes pieejamības pakalpojums" Bitwarden iestatījumos.</value>
+    <value>Bravura Safe ir nepieciešams pievērst uzmanību - skatīt "Automātiskās aizpildes pieejamības pakalpojums" Bravura Safe iestatījumos.</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Android lietotņu iestatījumu sadaļā, kas attiecas uz Bitwarden, jāritina līdz "Papildu", jāatver "Rādīt pāri citām lietotnēm" un jāpiesit slēdzim, lai iespējotu pārklāšanās atbalstu.</value>
+    <value>3. Android lietotņu iestatījumu sadaļā, kas attiecas uz Bravura Safe, jāritina līdz "Papildu", jāatver "Rādīt pāri citām lietotnēm" un jāpiesit slēdzim, lai iespējotu pārklāšanās atbalstu.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>Atļauja</value>
@@ -1603,7 +1615,7 @@
     <value>Atvērt pārklāšanās atļauju iestatījumus</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Android lietotņu iestatījumu sadaļā, kas attiecas uz Bitwarden, jāritina līdz "Papildu", jāatver "Rādīt pāri citām lietotnēm" un jāpārbīda slēdzis, lai atļautu pārklāšanos.</value>
+    <value>3. Android lietotņu iestatījumu sadaļā, kas attiecas uz Bravura Safe, jāritina līdz "Papildu", jāatver "Rādīt pāri citām lietotnēm" un jāpārbīda slēdzis, lai atļautu pārklāšanos.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Noraidīts</value>
@@ -1633,11 +1645,11 @@
     <value>Šī izguve šifrē datus ar konta šifrēšanas atslēgu. Ja tā jebkad tiks mainīta, izvadi vajadzētu veikt vēlreiz, jo vairs nebūs iespējams atšifrēt šo datni.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Katram Bitwarden kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā.</value>
+    <value>Katram Bravura Safe kontam ir neatkārtojamas šifrēšanas atslēgas, tādēļ nav iespējams ievietot šifrētu izguvi citā kontā.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Apstiprināt glabātavas satura izgūšanu</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Brīdinājums</value>
@@ -1666,7 +1678,7 @@
     <value>Pielikums veiksmīgi saglabāts</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Lūgums iespējot "Automātiskās aizpildes pieejamības pakalpojums" Bitwarden iestatījumos, lai izmantotu automātiskās aizpildes laukumu.</value>
+    <value>Lūgums iespējot "Automātiskās aizpildes pieejamības pakalpojums" Bravura Safe iestatījumos, lai izmantotu automātiskās aizpildes laukumu.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Paroļu lauki netika atrasti</value>
@@ -1784,7 +1796,7 @@
     <value>Privātuma nosacījumi</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden ir nepieciešams pievērst uzmanību - jāiespējo "Rādīt pāri" Bitwarden iestatījumu sadaļā "Automātiskā aizpilde".</value>
+    <value>Bravura Safe ir nepieciešams pievērst uzmanību - jāiespējo "Rādīt pāri" Bravura Safe iestatījumu sadaļā "Automātiskā aizpilde".</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Automātiskā aizpilde</value>
@@ -1799,13 +1811,13 @@
     <value>Izmantot pieejamību</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Izmanto Bitwarden pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī. Kad tas ir iespējots, tiks attēlots uznirstošais logs, kad tiks atlasīts kāds pierakstīšanās veidnes lauks.</value>
+    <value>Izmanto Bravura Safe pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī. Kad tas ir iespējots, tiks attēlots uznirstošais logs, kad tiks atlasīts kāds pierakstīšanās veidnes lauks.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Izmanto Bitwarden pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī (ir nepieciešams iespējot arī "Rādīt pāri").</value>
+    <value>Izmanto Bravura Safe pieejamības pakalpojumu, lai automātiski aizpildītu pierakstīšanās veidnes dažādās lietotnēs un tīmeklī (ir nepieciešams iespējot arī "Rādīt pāri").</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Bitwarden pieejamības pakalpojums tiek izmantots, lai lietotu automātiskās aizpildes ātrās darbības laukumu un/vai parādītu uznirstošo logu, izmantojot rādīšanu pāri (ja iespējota).</value>
+    <value>Bravura Safe pieejamības pakalpojums tiek izmantots, lai lietotu automātiskās aizpildes ātrās darbības laukumu un/vai parādītu uznirstošo logu, izmantojot rādīšanu pāri (ja iespējota).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Nepieciešams, lai izmantotu automātiskās aizpildes ātrās darbības laukumu vai pastiprinātu automātisko aizpildi, izmantojot rādīšanu pāri (ja iespējota).</value>
@@ -1814,10 +1826,10 @@
     <value>Izmantot rādīšanu pāri</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Kad iespējots, ļauj Bitwarden pieejamības pakalpojumam attēlot uznirstošo logu, kad tiek atlasīti pierakstīšanās lauki.</value>
+    <value>Kad iespējots, ļauj Bravura Safe pieejamības pakalpojumam attēlot uznirstošo logu, kad tiek atlasīti pierakstīšanās lauki.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Ja iespējots, Bitwarden pieejamības pakalpojums attēlos uznirstošo logu, kad pierakstīšanās lauki tiek atlasīti, lai palīdzētu automātiski aizpildīt pieteikšanās veidnes.</value>
+    <value>Ja iespējots, Bravura Safe pieejamības pakalpojums attēlos uznirstošo logu, kad pierakstīšanās lauki tiek atlasīti, lai palīdzētu automātiski aizpildīt pieteikšanās veidnes.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Ja iespējots, pieejamība attēlos uznirstošo logu, lai pastiprinātu automātisko aizpildi vecākās lietotnēs, kas neatbalsta Android automātiskās aizpildes ietvaru.</value>
@@ -1829,20 +1841,20 @@
     <value>Apvienības nosacījumi ietekmē Tavas īpašumtiesību iespējas.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>"Send"</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share"</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Visi "Send"</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Visi "Share"</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>"Send" vienumi</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share" vienumi</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Lasāms nosaukums, kas apraksta šo "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Lasāms nosaukums, kas apraksta šo "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Teksts</value>
@@ -1851,8 +1863,8 @@
     <value>Teksts, kuru ir vēlme nosūtīt.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Kad piekļūst šim "Send", pēc noklusējuma paslēpt saturu</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Kad piekļūst šim "Share", pēc noklusējuma paslēpt saturu</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Datne</value>
@@ -1867,8 +1879,8 @@
     <value>Dzēšanas laiks</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>"Send" tiks pastāvīgi izdzēsts norādītajā dienā un laikā.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share" tiks pastāvīgi izdzēsts norādītajā dienā un laikā.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Gaida dzēšanu</value>
@@ -1880,8 +1892,8 @@
     <value>Derīguma beigu laiks</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Ja uzstādīts, piekļuve šim "Send" beigsies norādītajā dienā un laikā.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ja uzstādīts, piekļuve šim "Share" beigsies norādītajā dienā un laikā.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Beidzies izmantošanas laiks</value>
@@ -1890,8 +1902,8 @@
     <value>Lielākais pieļaujamais piekļuvju skaits</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Ja uzstādīts, lietotāji nevarēs piekļūt šim "Send", kad tiks sasniegts lielākais pieļaujamais piekļūšanas reižu skaits.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ja uzstādīts, lietotāji nevarēs piekļūt šim "Share", kad tiks sasniegts lielākais pieļaujamais piekļūšanas reižu skaits.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Sasniegts lielākais pieļaujamais piekļuvju skaits</value>
@@ -1903,8 +1915,8 @@
     <value>Jauna parole</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Pēc izvēles pieprasīt lietotājiem paroli, lai viņi varētu piekļūt šim "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Pēc izvēles pieprasīt lietotājiem paroli, lai viņi varētu piekļūt šim "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Noņemt paroli</value>
@@ -1919,20 +1931,20 @@
     <value>Parole ir noņemta</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Personīgās piezīmes par šo "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Personīgās piezīmes par šo "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Atspējot šo "Send", lai neviens tam nevarētu piekļūt.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Atspējot šo "Share", lai neviens tam nevarētu piekļūt.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Kontā nav neviena "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Kontā nav neviena "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Pievienot "Send'</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Pievienot "Share'</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Ievietot saiti starpliktuvē</value>
@@ -1941,36 +1953,36 @@
     <value>Kopīgot saiti</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>"Send" saite</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share" saite</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Meklēt "Send"</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Meklēt "Share"</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Labot "Send"</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Labot "Share"</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Pievienot "Send'</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Pievienot "Share'</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Vai tiešām izdzēst šo "Send"?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Vai tiešām izdzēst šo "Share"?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>"Send" tika izdzēsts.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share" tika izdzēsts.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>"Send" ir atjaunināts.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>"Share" ir atjaunināts.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Ir izveidots jauns "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ir izveidots jauns "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 diena</value>
@@ -1991,31 +2003,31 @@
     <value>Pielāgots</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Saglabājot kopīgot šo "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Saglabājot kopīgot šo "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Uzņēmuma nosacījumu kopas dēļ ir tikai iespējams dzēst esošu "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Uzņēmuma nosacījumu kopas dēļ ir tikai iespējams dzēst esošu "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Par "Send"</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Par "Share"</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Slēpt e-pasta adresi no saņēmējiem.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Viens vai vairāki apvienības nosacījumi ietekmē "Send" iestatījumus.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Viens vai vairāki apvienības nosacījumi ietekmē "Share" iestatījumus.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Ar bezmaksas kontu ir iespējams tikai kopīgot tekstu. Ir nepieciešama Premium dalība, lai sūtītu datnes ar "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ar bezmaksas kontu ir iespējams tikai kopīgot tekstu. Ir nepieciešama Premium dalība, lai sūtītu datnes ar "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Ir nepieciešams apstiprināt e-pasta adresi, lai sūtītu datnes ar "Send".</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Ir nepieciešams apstiprināt e-pasta adresi, lai sūtītu datnes ar "Share".</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Galvenās paroles pārvaicāšana</value>
@@ -2092,6 +2104,30 @@
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>Viens vai vairāki apvienības nosacījumi neļauj izgūt privātās glabātavas saturu.</value>
   </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Pievienot kontu</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Atslēgts</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Slēgts</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Izrakstījies</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Pārslēdzās uz nākamo pieejamo kontu</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Konts ir slēgts</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Izrakstīšanās no konta bija veiksmīga</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Konts tika veiksmīgi noņemts</value>
+  </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Dzēst kontu</value>
   </data>
@@ -2120,7 +2156,7 @@
     <value>Sūta</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Saglabājot ievietot "Send" saiti starpliktuvē</value>
+    <value>Saglabājot ievietot "Share" saiti starpliktuvē</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Sūta kodu</value>

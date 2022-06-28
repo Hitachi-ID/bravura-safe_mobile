@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>مورد علاقه‌ها</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>گزارش یک مشکل</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>آیا مطمئنید که می‌خواهید خارج شوید؟</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>حذف حساب</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>آیا از حذف این حساب اطمینان دارید؟</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>حساب قبلا اضافه شده</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value> آیا می خواهید همین الان تعویض کنید؟</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>کلمه عبور اصلی</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>گاوصندوق من</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>نام</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>از وب‌سایت ما دیدن کنید</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>برای کمک گرفتن، اخبار، رایانامه ما، و یا آموزش بیشتر برای استفاده از Bitwarden از وب سایت ما دیدن کنید.</value>
+    <value>برای کمک گرفتن، اخبار، رایانامه ما، و یا آموزش بیشتر برای استفاده از Bravura Safe از وب سایت ما دیدن کنید.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>وب‌سایت</value>
@@ -403,7 +415,7 @@
     <value>افزونه برنامه</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>از قابلیت دسترسی Bitwarden برای پر کردن خودکار ورود به سیستم خود در سراسر برنامه‌ها و وب استفاده کنید.</value>
+    <value>از قابلیت دسترسی Bravura Safe برای پر کردن خودکار ورود به سیستم خود در سراسر برنامه‌ها و وب استفاده کنید.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>سرویس پر کردن خودکار</value>
@@ -412,31 +424,31 @@
     <value>از کاراکترهای مبهم اجتناب کن</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>افزونه برنامه Bitwarden</value>
+    <value>افزونه برنامه Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>ساده‌ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه برنامه Bitwarden است. برای اطلاع بیشتر از چگونگی استفاده از افزونه برنامه صفحه "تنظیمات" را ببینید.</value>
+    <value>ساده‌ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه برنامه Bravura Safe است. برای اطلاع بیشتر از چگونگی استفاده از افزونه برنامه صفحه "تنظیمات" را ببینید.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>با Bitwarden در سافاری و دیگر برنامه‌ها می‌توانید از قابلیت پر کردن خودکار در ورودهایتان استفاده کنید.</value>
+    <value>با Bravura Safe در سافاری و دیگر برنامه‌ها می‌توانید از قابلیت پر کردن خودکار در ورودهایتان استفاده کنید.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>سرویس پرکردن خودکار Bitwarden</value>
+    <value>سرویس پرکردن خودکار Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>از قابلیت دسترسی Bitwarden برای تکمیل خودکار ورود به سیستم خود در سراسر برنامه‌ها و وب استفاده کنید.</value>
+    <value>از قابلیت دسترسی Bravura Safe برای تکمیل خودکار ورود به سیستم خود در سراسر برنامه‌ها و وب استفاده کنید.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>تغییر رایانامه</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>شما می‌توانید آدرس رایانامه را در نسخه وب گاوصندوق bitwarden.com تغییر دهید. می‌خواهید اکنون از سایت بازدید کنید؟</value>
+    <value>شما می‌توانید آدرس رایانامه را در نسخه وب گاوصندوق Bravura Safe تغییر دهید. می‌خواهید اکنون از سایت بازدید کنید؟</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>تغییر کلمه عبور اصلی</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>شما می‌توانید کلمه عبور اصلی خود را در bitwarden.com تغییر دهید. آیا می‌خواهید از سایت بازدید کنید؟</value>
+    <value>شما می‌توانید کلمه عبور اصلی خود را در Bravura Safe تغییر دهید. آیا می‌خواهید از سایت بازدید کنید؟</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>بستن</value>
@@ -470,7 +482,7 @@
     <value>افزونه برنامه را فعال کنید</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>در سافاری، Bitwarden را با استفاده از آیکون اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).</value>
+    <value>در سافاری، Bravura Safe را با استفاده از آیکون اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>اطلاعات ورود شما حالا از سافاری، کروم، و دیگر برنامه‌های پشتیبانی شده به راحتی قابل دسترسی است.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>در سافاری و کروم، Bitwarden را با استفاده از آیکون اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).</value>
+    <value>در سافاری و کروم، Bravura Safe را با استفاده از آیکون اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>برای راه اندازی افزونه به آیکون Bitwarden در منو ضربه بزنید.</value>
+    <value>برای راه اندازی افزونه به آیکون Bravura Safe در منو ضربه بزنید.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>برای فعال‌سازی Bitwarden در سافاری و سایر برنامه‌ها، نماد "بیشتر" را در پایین ردیف منو ضربه بزنید.</value>
+    <value>برای فعال‌سازی Bravura Safe در سافاری و سایر برنامه‌ها، نماد "بیشتر" را در پایین ردیف منو ضربه بزنید.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>مورد علاقه</value>
@@ -507,7 +519,7 @@
     <value>واردن کردن موارد</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>شما میتوانید موارد را بصورت فله ای در گاوصندوق وب bitwarden.com وارد کنید. آیا مایل به دیدن وبسایت هستید؟</value>
+    <value>شما میتوانید موارد را بصورت فله ای در گاوصندوق وب Bravura Safe وارد کنید. آیا مایل به دیدن وبسایت هستید؟</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>موارد مهم خود را سریعاً از دیگر برنامه های مدیریت کلمه عبور وارد کنید.</value>
@@ -582,7 +594,7 @@
     <value>تنظیمات بیشتر</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>شما بایستی به برنامه اصلی Bitwarden وارد شوید تا بتوانید از افزونه استفاده کنید.</value>
+    <value>شما بایستی به برنامه اصلی Bravura Safe وارد شوید تا بتوانید از افزونه استفاده کنید.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>هرگز</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>گزینه های پیش فرض از ابزار تولید کلمه عبور Bitwarden تنظیم شد.</value>
+    <value>گزینه های پیش فرض از ابزار تولید کلمه عبور Bravura Safe تنظیم شد.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>گزینه‌ها</value>
@@ -631,7 +643,7 @@
     <value>آیا از بازنویسی بر روی کلمه عبور فعلی مطمئن هستید؟</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden گاوصندوق شما را بصورت خودکار از طریق نشان دادن اطلاعیه ها به هنگام سازی میکند. برای بهترین تجربه کاربری ممکن، لطفاً زمانی که از شما پرسیده شد "مجاز" را سریعاً انتخاب کنید تا نمایش اعلانیه ها فعال شود.</value>
+    <value>Bravura Safe گاوصندوق شما را بصورت خودکار از طریق نشان دادن اطلاعیه ها به هنگام سازی میکند. برای بهترین تجربه کاربری ممکن، لطفاً زمانی که از شما پرسیده شد "مجاز" را سریعاً انتخاب کنید تا نمایش اعلانیه ها فعال شود.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>ورود دو مرحله ای</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>ورود دو مرحله‌ای باعث می شود که حساب کاربری شما با استفاده از یک دستگاه دیگر مانند کلید امنیتی، برنامه احراز هویت، پیامک، تماس تلفنی و یا رایانامه، اعتبار خود را با ایمنی بیشتر اثبات کند. ورود دو مرحله‌ای می‌تواند در bitwarden.com فعال شود. آیا می‌خواهید از سایت بازدید کنید؟</value>
+    <value>ورود دو مرحله‌ای باعث می شود که حساب کاربری شما با استفاده از یک دستگاه دیگر مانند کلید امنیتی، برنامه احراز هویت، پیامک، تماس تلفنی و یا رایانامه، اعتبار خود را با ایمنی بیشتر اثبات کند. ورود دو مرحله‌ای می‌تواند در Bravura Safe فعال شود. آیا می‌خواهید از سایت بازدید کنید؟</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>باز کردن با {0}</value>
@@ -711,7 +723,7 @@
     <value>مشاهده مورد</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>گاوصندوق وب Bitwarden</value>
+    <value>گاوصندوق وب Bravura Safe</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>برنامه تأیید کننده از دست رفته؟</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>هیج موردی در گاوصندوقتان برای {0} موجود نیست.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>هنگامی که یک فیلد ورودی را انتخاب می کنید و یک لایه پر کردن خودکار Bitwarden را مشاهده می کنید، می توانید برای راه اندازی سرویس پر کردن خودکار روی آن ضربه بزنید.</value>
+    <value>هنگامی که یک فیلد ورودی را انتخاب می کنید و یک لایه پر کردن خودکار Bravura Safe را مشاهده می کنید، می توانید برای راه اندازی سرویس پر کردن خودکار روی آن ضربه بزنید.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>برای پر کردن خودکار یک اطلاع رسانی در گاوصندوقتان این اطلاع رسانی را ضربه بزنید.</value>
@@ -747,7 +759,7 @@
     <value>باز کردن تنظیمات دستیابی</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. در صفحه تنظیمات دستیابی اندروید، "Bitwarden" را در قسمت سرویس ها لمس کنید.</value>
+    <value>1. در صفحه تنظیمات دستیابی اندروید، "Bravura Safe" را در قسمت سرویس ها لمس کنید.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>۲. روشن کردن را انتخاب کنید و تأیید را بفشارید.</value>
@@ -762,7 +774,7 @@
     <value>وضعیت</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>ساده ترین روش برای افزودن اطلاعات ورود به گاوصندوقتان از سرویس پر کردن خودکار Bitwarden است. برای اطلاعات بیشتر درباره استفاده از سرویس پر کردن خودکار Bitwarden است مرور کردن صفحه "تنظیمات" است.</value>
+    <value>ساده ترین روش برای افزودن اطلاعات ورود به گاوصندوقتان از سرویس پر کردن خودکار Bravura Safe است. برای اطلاعات بیشتر درباره استفاده از سرویس پر کردن خودکار Bravura Safe است مرور کردن صفحه "تنظیمات" است.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>پر کردن خودکار</value>
@@ -961,7 +973,7 @@
     <value>محیط خود میزبان</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>آدرس اینترنتی پایه فرضی نصب Bitwarden میزبانی شده را مشخص کنید.</value>
+    <value>آدرس اینترنتی پایه فرضی نصب Bravura Safe میزبانی شده را مشخص کنید.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>آدرس اینترنتی سرور</value>
@@ -1126,7 +1138,7 @@
     <value>آدرس سرور آیکون ها</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>پر کردن خودکار با Bitwarden</value>
+    <value>پر کردن خودکار با Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>گاوصندوق قفل شد</value>
@@ -1150,10 +1162,10 @@
     <value>سرویس دستیابی به پر کردن خودکار</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>سرویس خودکار Bitwarden با استفاده از چهار چوب پر کردن خودکار اندروید برای کمک به پر کردن ورودی ها، کارت های اعتباری و اطلاعات هویت به سایر برنامه ها در دستگاه شما کمک می کند.</value>
+    <value>سرویس خودکار Bravura Safe با استفاده از چهار چوب پر کردن خودکار اندروید برای کمک به پر کردن ورودی ها، کارت های اعتباری و اطلاعات هویت به سایر برنامه ها در دستگاه شما کمک می کند.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>از سرویس پر کردن خودکار Bitwarden برای پر کردن ورودها، کارتهای اعتباری، و اطلاعات هویتی درون اپلیکیشن ها استفاده کنید.</value>
+    <value>از سرویس پر کردن خودکار Bravura Safe برای پر کردن ورودها، کارتهای اعتباری، و اطلاعات هویتی درون اپلیکیشن ها استفاده کنید.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>باز کردن تنظیمات پر کردن خودکار</value>
@@ -1206,7 +1218,7 @@
   </data>
   <data name="URIPosition" xml:space="preserve">
     <value>آدرس اینترنتی {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>دامنه پایه</value>
@@ -1233,7 +1245,7 @@
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>تشخیص تطابق</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>بله، و ذخیره</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>سازمان</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Yubikey خود را در نزدیکی بالای دستگاه نگه دارید.</value>
@@ -1269,7 +1281,7 @@
     <value>پرکردن خودکار فعال شد!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>شما بایستی به برنامه اصلی Bitwarden وارد شوید تا بتوانید از پرکردن خودکار استفاده کنید.</value>
+    <value>شما بایستی به برنامه اصلی Bravura Safe وارد شوید تا بتوانید از پرکردن خودکار استفاده کنید.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Your logins are now easily accessable right from your keyboard while logging into apps and websites.</value>
@@ -1296,13 +1308,13 @@
     <value>۴. روشن کردن پرکردن خودکار</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>۵. انتخاب "Bitwarden"</value>
+    <value>۵. انتخاب "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>پرکردن خودکار کلمه عبور</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>ساده ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه پرکردن خودکار کلمه عبور Bitwarden است. برای اطلاع بیشتر از چگونگی استفاده از پرکردن خودکار کلمه عبور Bitwarden مرورکردن صفحه "تنظیمات" است.</value>
+    <value>ساده ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه پرکردن خودکار کلمه عبور Bravura Safe است. برای اطلاع بیشتر از چگونگی استفاده از پرکردن خودکار کلمه عبور Bravura Safe مرورکردن صفحه "تنظیمات" است.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>نشانی رایانامه نامعتبر است.</value>
@@ -1324,7 +1336,7 @@
   </data>
   <data name="URIs" xml:space="preserve">
     <value>آدرس اینترنتی</value>
-    <comment>Plural form of a URI</comment>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>درحال بررسی کلمه عبور…</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} منتقل شد به {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>مورد به اشتراک گذاشته شد.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden به شما اجازه می دهد با استفاده از سازماندهی حساب، موارد گاوصندوق خود را با دیگران به اشتراک بگذارید. آیا مایل به بازدید از وب سایت bitwarden.com برای کسب اطلاعات بیشتر هستید؟</value>
+    <value>Bravura Safe به شما اجازه می دهد با استفاده از سازماندهی حساب، موارد گاوصندوق خود را با دیگران به اشتراک بگذارید. آیا مایل به بازدید از وب سایت hitachi-id.com برای کسب اطلاعات بیشتر هستید؟</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>خروجی گرفتن از گاوصندوق</value>
@@ -1466,7 +1478,7 @@
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>وارد شده به عنوان {0} در {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>گاوصندوق شما قفل شد. برای ادامه کلمه عبور اصلی را وارد کنید.</value>
@@ -1510,7 +1522,7 @@
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
     <value>بازرسی تطابق URL پیشفرض</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
     <value>هنگام انجام کارهایی مانند پر کردن خودکار، روش پیش فرضی را که برای شناسایی ورود URL انجام می شود انتخاب کنید.</value>
@@ -1532,7 +1544,7 @@
     <value>خروج</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>آیا مطمئنید که می‌خواهید از Bitwarden خارج شوید؟</value>
+    <value>آیا مطمئنید که می‌خواهید از Bravura Safe خارج شوید؟</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>You you want to require unlocking with your master password when the application is restarted?</value>
@@ -1545,7 +1557,7 @@
     <value>فهرست سیاه آدرس های اینترنتی</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>URIs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>URLs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>غیر فعال کردن ذخیره سریع</value>
@@ -1557,7 +1569,7 @@
     <value>راه اندازی مجدد در برنامه</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>پرکردن خودکار دسترسی ایمن به گاوصندوق Bitwarden شما را از سایر وبسایت ها و برنامه ها آسان تر میکند. بنظر میرسد که سرویس پرکردن خودکار را برای Bitwarden فعال نکرده اید. از صفحه "تنظیمات" Bitwarden پرکردن خودکار رافعال کنید.</value>
+    <value>پرکردن خودکار دسترسی ایمن به گاوصندوق Bravura Safe شما را از سایر وبسایت ها و برنامه ها آسان تر میکند. بنظر میرسد که سرویس پرکردن خودکار را برای Bravura Safe فعال نکرده اید. از صفحه "تنظیمات" Bravura Safe پرکردن خودکار رافعال کنید.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>تغییرات شما در ظاهر برنامه بعد از اینکه برنامه را دوباره آغاز کردید اعمال می‌شود.</value>
@@ -1591,10 +1603,10 @@
     <value>برای قفل گشایی از بیومتریک استفاده کنید</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden نیاز به توجه دارد - از "سرویس دستیابی خودکار" در تنظیمات Bitwarden دیدن کنید</value>
+    <value>Bravura Safe نیاز به توجه دارد - از "سرویس دستیابی خودکار" در تنظیمات Bravura Safe دیدن کنید</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. در صفحه تنظیمات برنامه اندروید برای Bitwarden، به گزینه های "نمایش روی سایر برنامه ها" (زیر گزینه پیشرفته) بروید و برای فعال کردن پشتیبانی روی هم، روی ضامن ضربه بزنید.</value>
+    <value>3. در صفحه تنظیمات برنامه اندروید برای Bravura Safe، به گزینه های "نمایش روی سایر برنامه ها" (زیر گزینه پیشرفته) بروید و برای فعال کردن پشتیبانی روی هم، روی ضامن ضربه بزنید.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>مجوز</value>
@@ -1603,7 +1615,7 @@
     <value>تنظیمات اجازه همپوشانی را باز کنید</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. در صفحه تنظیمات برنامه اندروید برای Bitwarden ، "نمایش روی برنامه های دیگر" (در زیر "پیشرفته") را انتخاب کنید و ضامن را تغییر دهید تا پوشش روی آن امکان پذیر باشد.</value>
+    <value>3. در صفحه تنظیمات برنامه اندروید برای Bravura Safe ، "نمایش روی برنامه های دیگر" (در زیر "پیشرفته") را انتخاب کنید و ضامن را تغییر دهید تا پوشش روی آن امکان پذیر باشد.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>غیر مجاز</value>
@@ -1633,11 +1645,11 @@
     <value>این صادرات با استفاده از کلید رمزگذاری حساب شما ، اطلاعات شما را رمزگذاری می کند. اگر حتی کلید رمزگذاری حساب خود را بچرخانید ، باید دوباره صادر کنید چون قادر به رمزگشایی این پرونده صادراتی نخواهید بود.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>کلیدهای رمزگذاری حساب برای هر حساب کاربری Bitwarden منحصر به فرد است ، بنابراین نمی توانید صادرات رمزگذاری شده را به حساب دیگری وارد کنید.</value>
+    <value>کلیدهای رمزگذاری حساب برای هر حساب کاربری Bravura Safe منحصر به فرد است ، بنابراین نمی توانید صادرات رمزگذاری شده را به حساب دیگری وارد کنید.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>صادرات گاوصندوق را تأیید کنید</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>هشدار</value>
@@ -1666,7 +1678,7 @@
     <value>پیوست با موفقیت ذخیره شد.</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>لطفاً برای استفاده از کاشی پر کردن خودکار ، "سرویس دستیابی خودکار" را از تنظیمات Bitwarden فعال کنید.</value>
+    <value>لطفاً برای استفاده از کاشی پر کردن خودکار ، "سرویس دستیابی خودکار" را از تنظیمات Bravura Safe فعال کنید.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>هیچ فیلدی برای کلمه عبور شناسایی نشد</value>
@@ -1784,7 +1796,7 @@
     <value>سیاست حفظ حریم خصوصی</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden نیاز به توجه دارد - "قرعه کشی" را در تنظیمات Bitwarden فعال کنید</value>
+    <value>Bravura Safe نیاز به توجه دارد - "قرعه کشی" را در تنظیمات Bravura Safe فعال کنید</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>خدمات پر کردن خودکار</value>
@@ -1799,13 +1811,13 @@
     <value>از قابلیت دسترسی استفاده کنید</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>برای پر کردن خودکار ورود به سیستم خود در برنامه ها و وب، از سرویس دسترسی Bitwarden استفاده کنید. وقتی فعال شد، هنگام انتخاب قسمتهای ورود، یک پنجره بازشو نمایش خواهیم داد.</value>
+    <value>برای پر کردن خودکار ورود به سیستم خود در برنامه ها و وب، از سرویس دسترسی Bravura Safe استفاده کنید. وقتی فعال شد، هنگام انتخاب قسمتهای ورود، یک پنجره بازشو نمایش خواهیم داد.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>برای پر کردن خودکار ورود به سیستم خود در برنامه ها و وب، از سرویس دسترسی Bitwarden استفاده کنید. (برای فعال سازی نیاز به قرعه کشی نیز دارد)</value>
+    <value>برای پر کردن خودکار ورود به سیستم خود در برنامه ها و وب، از سرویس دسترسی Bravura Safe استفاده کنید. (برای فعال سازی نیاز به قرعه کشی نیز دارد)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>از سرویس قابلیت دسترسی Bitwarden برای استفاده از کاشی واکنش سریع پر کردن خودکار استفاده کنید و یا با استفاده از قرعه کشی (در صورت فعال بودن) پنجره بازشو را نشان دهید.</value>
+    <value>از سرویس قابلیت دسترسی Bravura Safe برای استفاده از کاشی واکنش سریع پر کردن خودکار استفاده کنید و یا با استفاده از قرعه کشی (در صورت فعال بودن) پنجره بازشو را نشان دهید.</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>برای استفاده از کاشی واکنش سریع پر کردن خودکار یا تقویت خدمات تکمیل خودکار، استفاده از قرعه کشی (در صورت فعال بودن) لازم است.</value>
@@ -1814,10 +1826,10 @@
     <value>از قرعه کشی استفاده کنید</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>هنگامی که فعال است، به سرویس دسترسی Bitwarden اجازه می دهد تا هنگام انتخاب قسمتهای ورود، یک پنجره بازشو نمایش دهد.</value>
+    <value>هنگامی که فعال است، به سرویس دسترسی Bravura Safe اجازه می دهد تا هنگام انتخاب قسمتهای ورود، یک پنجره بازشو نمایش دهد.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>در صورت فعال بودن، سرویس دسترسی Bitwarden هنگام انتخاب قسمتهای ورود به سیستم، پنجره بازشویی را برای کمک به پر کردن خودکار ورود به سیستم نشان می دهد.</value>
+    <value>در صورت فعال بودن، سرویس دسترسی Bravura Safe هنگام انتخاب قسمتهای ورود به سیستم، پنجره بازشویی را برای کمک به پر کردن خودکار ورود به سیستم نشان می دهد.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>در صورت فعال بودن، قابلیت دسترسی برای تقویت سرویس پر کردن خودکار برای برنامه های قدیمی که از چارچوب پر کردن خودکار اندروید پشتیبانی نمی کنند، پنجره ای ظاهر می شود.</value>
@@ -1830,19 +1842,19 @@
   </data>
   <data name="Send" xml:space="preserve">
     <value>ارسال</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
     <value>همه ارسال ها</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
     <value>ارسال ها</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
     <value>یک نام دوستانه برای توصیف این ارسال.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>متن</value>
@@ -1852,7 +1864,7 @@
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
     <value>هنگام دسترسی به ارسال، متن را به طور پیش فرض پنهان کن</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>فایل</value>
@@ -1868,7 +1880,7 @@
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
     <value>ارسال در تاریخ و ساعت مشخص شده برای همیشه حذف خواهد شد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>در انتظار حذف</value>
@@ -1881,7 +1893,7 @@
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
     <value>در صورت تنظیم، دسترسی به این ارسال در تاریخ و ساعت مشخص شده منقضی می شود.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>منقضی شده</value>
@@ -1891,7 +1903,7 @@
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
     <value>در صورت تنظیم، با رسیدن به حداکثر تعداد دسترسی، کاربران دیگر نمی توانند به این ارسال دسترسی پیدا کنند.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>به حداکثر تعداد دسترسی رسیده است</value>
@@ -1904,7 +1916,7 @@
   </data>
   <data name="PasswordInfo" xml:space="preserve">
     <value>به صورت اختیاری برای دسترسی کاربران به این ارسال به یک کلمه عبور نیاز دارید.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>حذف کلمه عبور</value>
@@ -1920,19 +1932,19 @@
   </data>
   <data name="NotesInfo" xml:space="preserve">
     <value>یادداشت های خصوصی در مورد این ارسال.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
     <value>این ارسال را غیرفعال کنید تا کسی نتواند به آن دسترسی پیدا کند.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
     <value>هیچ ارسالی در حساب شما وجود ندارد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
     <value>افزودن یک ارسال</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>کپی پیوند</value>
@@ -1942,35 +1954,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>ارسال پیوند</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
     <value>ارسال ها را جستجو کن</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
     <value>ویرایش ارسال</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
     <value>افزودن ارسال</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
     <value>آیا مطمئن هستید می خواهید این ارسال را حذف کنید؟</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
     <value>ارسال حذف شد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
     <value>ارسال بروزرسانی شد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
     <value>ارسال جدید ساخته شد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>۱ روز</value>
@@ -1992,30 +2004,30 @@
   </data>
   <data name="ShareOnSave" xml:space="preserve">
     <value>اشتراک گذاری این ارسال بعد از ذخیره کردن.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
     <value>به دلیل خط مشی سازمانی، شما فقط می توانید ارسال موجود را حذف کنید.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
     <value>درباره ارسال</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>آدرس ایمیلم را از گیرندگان مخفی کن.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
     <value>یک یا چند سیاست سازمان بر گزینه های ارسال شما تأثیر می گذارد.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>حساب های رایگان فقط به اشتراک گذاری متن محدود می شوند. برای استفاده از پرونده های با Send عضویت Premium لازم است.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>حساب های رایگان فقط به اشتراک گذاری متن محدود می شوند. برای استفاده از پرونده های با Share عضویت Premium لازم است.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>برای استفاده از پرونده های با Send باید ایمیل خود را تأیید کنید.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>برای استفاده از پرونده های با Share باید ایمیل خود را تأیید کنید.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>کلمه عبور اصلی دوباره تولید می شود</value>
@@ -2092,6 +2104,30 @@
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
     <value>یک یا چند خط مشی سازمان از صادرات گاوصندوق شخصی شما جلوگیری می کند.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>افزودن حساب کاربری</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>باز شده</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>قفل شده</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>خارج شده</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>به حساب بعدی موجود تغییر کرد</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>حساب قفل شده است</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>حساب کاربری با موفقیت خارج شد</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>حساب کاربری با موفقیت حذف شد</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>حذف حساب</value>

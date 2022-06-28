@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Title" xml:space="preserve">
-    <value>Менеджар пароляў Bitwarden</value>
+    <value>Менеджар пароляў Bravura Safe</value>
     <comment>Max 30 characters</comment>
   </data>
   <data name="ShortDescription" xml:space="preserve">
-    <value>Bitwarden — гэта менеджар імён карыстальніка і паролей, які дапамагае вам захаваць вашу бяспеку у анлайн-прасторы</value>
+    <value>Bravura Safe — гэта менеджар імён карыстальніка і паролей, які дапамагае вам захаваць вашу бяспеку у анлайн-прасторы</value>
     <comment>Max 80 characters</comment>
   </data>
   <data name="FullDesciption" xml:space="preserve">
-    <value>Bitwarden - просты і бяспечны спосаб захоўваць усе вашы імёны карыстальніка і паролі, а таксама лёгка іх сінхранізаваць паміж усімі вашымі прыладамі. Пашырэнне праграмы Bitwarden дазваляе хутка ўвайсці на любы вэб-сайт з дапамогай Safari або Chrome і падтрымліваецца сотнямі іншых папулярных праграм.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-Крадзеж пароляў — сур'ёзная праблема. Сайты і праграмы, якія вы выкарыстоўваеце падвяргаюцца нападам кожны дзень. Праблемы ў іх бяспецы могуць прывесці да крадзяжу вашага пароля. Акрамя таго, калі вы выкарыстоўваеце адны і тыя ж паролі на розных сайтах і праграмах, то хакеры могуць лёгка атрымаць доступ да некалькіх вашых уліковых запісаў адразу (да паштовай скрыні, да банкаўскага рахунку ды г. д.).
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Эксперты па бяспецы рэкамендуюць выкарыстоўваць розныя выпадкова знегерыраваныя паролі для кожнага створанага вамі ўліковага запісу. Але як жа кіраваць усімі гэтымі паролямі? Bitwarden дазваляе вам лёгка атрымаць доступ да вашых пароляў, а гэтак жа ствараць і захоўваць іх.
+It leverages two decades of Hitachi ID’s enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information. 
 
-Bitwarden захоўвае ўсе вашы імёны карыстальніка і паролі ў зашыфраваным сховішчы, якое сінхранізуецца паміж усімі вашымі прыладамі. Да таго, як даныя пакінуць вашу прыладу, яны будуць зашыфраваны і толькі потым адпраўлены. Мы ў Bitwarden не зможам прачытаць вашы даныя, нават калі мы гэтага захочам. Вашы даныя зашыфраваны пры дапамозе алгарытму AES-256 і PBKDF2 SHA-256.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust. 
 
-Bitwarden — гэта праграмнае забеспячэнне з адкрытым на 100% зыходным кодам. Зыходны код Bitwarden размешчаны на GitHub, і кожны можа свабодна праглядаць, правяраць і рабіць унёсак у код Bitwarden.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="FeatureGraphic" xml:space="preserve">

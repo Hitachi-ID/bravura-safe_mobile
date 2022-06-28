@@ -60,7 +60,7 @@ namespace Bit.Core.Services
         {
             var dateString = DateTime.Now.ToString("yyyyMMddHHmmss");
 
-            return string.Format("bitwarden{0}_export_{1}.{2}",
+            return string.Format("bravurasafe{0}_export_{1}.{2}",
                 !string.IsNullOrEmpty(prefix) ? ("_" + prefix) : string.Empty, dateString, extension);
         }
 

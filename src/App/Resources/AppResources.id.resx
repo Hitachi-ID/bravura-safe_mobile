@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>Favorit</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>Buat Laporan Masalah</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>Anda yakin ingin keluar?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Hapus Akun</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Apakah anda yakin ingin menghapus akun ini?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Akun telah ditambahkan</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Would you like to switch to it now?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>Kata Sandi Utama</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>Brankas Saya</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nama</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>Kunjungi Situs Web Kami</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>Kunjungi situs web kami untuk mendapatkan bantuan, berita, email kami, dan/atau mempelajari lebih lanjut tentang bagaimana menggunakan Bitwarden.</value>
+    <value>Kunjungi situs web kami untuk mendapatkan bantuan, berita, email kami, dan/atau mempelajari lebih lanjut tentang bagaimana menggunakan Bravura Safe.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>Situs web</value>
@@ -403,7 +415,7 @@
     <value>Ekstensi Aplikasi</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Gunakan layanan aksesibilitas Bitwarden untuk mengisi otomatis info masuk Anda di seluruh aplikasi dan web.</value>
+    <value>Gunakan layanan aksesibilitas Bravura Safe untuk mengisi otomatis info masuk Anda di seluruh aplikasi dan web.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>Layanan Pengisian Otomatis</value>
@@ -412,31 +424,31 @@
     <value>Hindari Karakter Ambigu</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Ekstensi Aplikasi Bitwarden</value>
+    <value>Ekstensi Aplikasi Bravura Safe</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dari Bitwarden App Extension. Pelajari lebih lanjut tentang menggunakan Bitwarden App Extension dengan menuju ke layar "Pengaturan".</value>
+    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dari Bravura Safe App Extension. Pelajari lebih lanjut tentang menggunakan Bravura Safe App Extension dengan menuju ke layar "Pengaturan".</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>Gunakan Bitwarden di Safari dan aplikasi lainnya untuk mengisi otomatis info masuk Anda.</value>
+    <value>Gunakan Bravura Safe di Safari dan aplikasi lainnya untuk mengisi otomatis info masuk Anda.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Layanan Pengisian Otomatis Bitwarden</value>
+    <value>Layanan Pengisian Otomatis Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Gunakan layanan aksesibilitas Bitwarden untuk mengisi otomatis info masuk Anda.</value>
+    <value>Gunakan layanan aksesibilitas Bravura Safe untuk mengisi otomatis info masuk Anda.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>Ubah Email</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>Anda dapat mengubah alamat email Anda di brankas web bitwarden.com. Anda ingin mengunjungi situs web sekarang?</value>
+    <value>Anda dapat mengubah alamat email Anda di brankas web Bravura Safe. Anda ingin mengunjungi situs web sekarang?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Ubah Kata Sandi Utama</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>Anda dapat mengubah kata sandi utama Anda di brankas web bitwarden.com. Anda ingin mengunjungi situs web sekarang?</value>
+    <value>Anda dapat mengubah kata sandi utama Anda di brankas web Bravura Safe. Anda ingin mengunjungi situs web sekarang?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Tutup</value>
@@ -470,7 +482,7 @@
     <value>Aktifkan Ekstensi Aplikasi</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Pada Safari, temukan Bitwarden menggunakan ikon berbagi (petunjuk: gulir ke kanan di baris bawah menu).</value>
+    <value>Pada Safari, temukan Bravura Safe menggunakan ikon berbagi (petunjuk: gulir ke kanan di baris bawah menu).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Login anda sekarang bisa diakses dengan mudah dari Safari, Chrome, dan aplikasi lain yang didukung.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>Pada Safari dan Chrome, temukan Bitwarden menggunakan ikon berbagi (petunjuk: gulir ke kanan di baris bawah menu).</value>
+    <value>Pada Safari dan Chrome, temukan Bravura Safe menggunakan ikon berbagi (petunjuk: gulir ke kanan di baris bawah menu).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
-    <value>Ketuk ikon Bitwarden pada menu untuk menjalankan ekstensi.</value>
+    <value>Ketuk ikon Bravura Safe pada menu untuk menjalankan ekstensi.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Untuk mengaktifkan Bitwarden di Safari dan aplikasi lainnya, ketuk ikon "lebih banyak" di baris bawah menu.</value>
+    <value>Untuk mengaktifkan Bravura Safe di Safari dan aplikasi lainnya, ketuk ikon "lebih banyak" di baris bawah menu.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>Favorit</value>
@@ -507,7 +519,7 @@
     <value>Impor Item</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>Anda dapat mengimpor massal item dari brankas web bitwarden.com. Anda ingin mengunjungi situs web sekarang?</value>
+    <value>Anda dapat mengimpor massal item dari brankas web Bravura Safe. Anda ingin mengunjungi situs web sekarang?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>Mengimpor massal item Anda dari aplikasi pengelola sandi lainnya dengan cepat.</value>
@@ -582,7 +594,7 @@
     <value>Setelan Lainnya</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>Anda harus masuk ke aplikasi utama Bitwarden sebelum Anda dapat menggunakan ekstensi.</value>
+    <value>Anda harus masuk ke aplikasi utama Bravura Safe sebelum Anda dapat menggunakan ekstensi.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>Jangan pernah</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>Pilihan baku diatur dari alat pembuat sandi utama aplikasi Bitwarden.</value>
+    <value>Pilihan baku diatur dari alat pembuat sandi utama aplikasi Bravura Safe.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Pilihan</value>
@@ -631,7 +643,7 @@
     <value>Anda yakin ingin menimpa sandi saat ini?</value>
   </data>
   <data name="PushNotificationAlert" xml:space="preserve">
-    <value>Bitwarden membuat brankas Anda disinkronkan secara otomatis dengan menggunakan notifikasi. Untuk pengalaman yang sebaik mungkin, silakan pilih "Oke" pada saran berikut ketika diminta untuk mengaktifkan notifikasi.</value>
+    <value>Bravura Safe membuat brankas Anda disinkronkan secara otomatis dengan menggunakan notifikasi. Untuk pengalaman yang sebaik mungkin, silakan pilih "Oke" pada saran berikut ketika diminta untuk mengaktifkan notifikasi.</value>
     <comment>Push notifications for apple products</comment>
   </data>
   <data name="RateTheApp" xml:space="preserve">
@@ -692,7 +704,7 @@
     <value>Info masuk dua langkah</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>Info masuk dua langkah membuat akun Anda lebih aman dengan mengharuskan Anda memverifikasi info masuk Anda dengan peranti lain seperti kode keamanan, aplikasi autentikasi, SMK, panggilan telepon, atau email. Info masuk dua langkah dapat diaktifkan di brankas web bitwarden.com. Anda ingin mengunjungi situs web sekarang?</value>
+    <value>Info masuk dua langkah membuat akun Anda lebih aman dengan mengharuskan Anda memverifikasi info masuk Anda dengan peranti lain seperti kode keamanan, aplikasi autentikasi, SMK, panggilan telepon, atau email. Info masuk dua langkah dapat diaktifkan di brankas web Bravura Safe. Anda ingin mengunjungi situs web sekarang?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>Buka denga {0}</value>
@@ -711,7 +723,7 @@
     <value>Lihat Item</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Brankas Web Bitwarden</value>
+    <value>Brankas Web Bravura Safe</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>Kehilangan aplikasi autentikasi?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>Tidak ada item di brankas Anda untuk {0}.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>Saat Anda memilih kolom input dan melihat overlay pengisian otomatis Bitwarden, Anda dapat mengetuknya untuk meluncurkan layanan pengisian otomatis.</value>
+    <value>Saat Anda memilih kolom input dan melihat overlay pengisian otomatis Bravura Safe, Anda dapat mengetuknya untuk meluncurkan layanan pengisian otomatis.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>Ketuk notifikasi ini untuk mengisi info masuk secara otomatis dari brankas Anda.</value>
@@ -747,7 +759,7 @@
     <value>Buka Setelan Aksesibilitas</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. Pada layar Setelan Aksesibilitas Android, sentuh "bitwarden" di bawah Layanan.</value>
+    <value>1. Pada layar Setelan Aksesibilitas Android, sentuh "Bravura Safe" di bawah Layanan.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>2. Aktifkan sakelar dan tekan OKE untuk menerima.</value>
@@ -762,7 +774,7 @@
     <value>Status</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dari Bitwarden Auto-fill Service. Pelajari lebih lanjut tentang menggunakan Bitwarden Auto-fill Service dengan menavigasi ke layar "Pengaturan".</value>
+    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dari Bravura Safe Auto-fill Service. Pelajari lebih lanjut tentang menggunakan Bravura Safe Auto-fill Service dengan menavigasi ke layar "Pengaturan".</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>Isi otomatis</value>
@@ -961,7 +973,7 @@
     <value>Lingkungan Host-Mandiri</value>
   </data>
   <data name="SelfHostedEnvironmentFooter" xml:space="preserve">
-    <value>Specify the base URL of your on-premise hosted bitwarden installation.</value>
+    <value>Specify the base URL of your on-premise hosted Bravura Safe installation.</value>
   </data>
   <data name="ServerUrl" xml:space="preserve">
     <value>URL Server</value>
@@ -1126,7 +1138,7 @@
     <value>URL Server Ikon</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Isi otomatis dengan Bitwarden</value>
+    <value>Isi otomatis dengan Bravura Safe</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>Brankas terkunci</value>
@@ -1150,10 +1162,10 @@
     <value>Layanan Aksesibilitas Isi Otomatis</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>Layanan pengisian otomatis bitwarden menggunakan Kerangka Kerja Pengisian Otomatis Android untuk membantu dalam mengisi info masuk, kartu kredit, dan informasi identitas ke aplikasi lain di perangkat Anda.</value>
+    <value>Layanan pengisian otomatis Bravura Safe menggunakan Kerangka Kerja Pengisian Otomatis Android untuk membantu dalam mengisi info masuk, kartu kredit, dan informasi identitas ke aplikasi lain di perangkat Anda.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>Gunakan layanan pengisian otomatis bitwarden untuk mengisi info masuk, kartu kredit, dan informasi identitas ke aplikasi lainnya.</value>
+    <value>Gunakan layanan pengisian otomatis Bravura Safe untuk mengisi info masuk, kartu kredit, dan informasi identitas ke aplikasi lainnya.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>Buka Setelan Isi Otomatis</value>
@@ -1205,8 +1217,8 @@
     <value>URl Baru</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>Domain basis</value>
@@ -1229,11 +1241,11 @@
     <value>Dimulai dengan</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>Deteksi kecocokan URI</value>
+    <value>Deteksi kecocokan URL</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>Deteksi kecocokan</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>Ya, dan Simpan</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>Organisasi</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>Pegang Yubikey di dekat bagian atas perangkat.</value>
@@ -1269,7 +1281,7 @@
     <value>Isi Otomatis diaktifkan!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>Anda harus masuk ke aplikasi utama Bitwarden sebelum Anda dapat menggunakan Isi Otomatis.</value>
+    <value>Anda harus masuk ke aplikasi utama Bravura Safe sebelum Anda dapat menggunakan Isi Otomatis.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>Sekarang login Anda bisa diakses dengan mudah dari keyboard Anda saat masuk ke aplikasi atau lewat situs web.</value>
@@ -1296,13 +1308,13 @@
     <value>4. Aktifkan AutoFill</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>5. Pilih "Bitwarden"</value>
+    <value>5. Pilih "Bravura Safe"</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>Isi Otomatis Sandi</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dengan menggunakan ekstensi Bitwarden Password AutoFill. Pelajari lebih lanjut tentang menggunakan ekstensi Bitwarden Password AutoFill dengan menavigasi ke layar "Pengaturan".</value>
+    <value>Cara termudah untuk menambahkan login baru ke vault Anda adalah dengan menggunakan ekstensi Bravura Safe Password AutoFill. Pelajari lebih lanjut tentang menggunakan ekstensi Bravura Safe Password AutoFill dengan menavigasi ke layar "Pengaturan".</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>Alamat email tidak valid.</value>
@@ -1323,8 +1335,8 @@
     <value>Semua Item</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URI</value>
-    <comment>Plural form of a URI</comment>
+    <value>URL</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>Memeriksa kata sandi...</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} dipindahkan ke {1}.</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>Item telah dibagikan.</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden memungkinkan Anda untuk berbagi brankas dengan orang lain menggunakan akun organisasi. Apakah Anda ingin mengunjungi bitwarden.com untuk mempelajari lebih lanjut?</value>
+    <value>Bravura Safe memungkinkan Anda untuk berbagi brankas dengan orang lain menggunakan akun organisasi. Apakah Anda ingin mengunjungi hitachi-id.com untuk mempelajari lebih lanjut?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>Ekspor Brankas</value>
@@ -1462,11 +1474,11 @@
     <value>30 menit</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Atur kode PIN Anda untuk membuka kunci Bitwarden. Pengaturan PIN Anda akan disetel ulang jika Anda benar-benar keluar dari aplikasi.</value>
+    <value>Atur kode PIN Anda untuk membuka kunci Bravura Safe. Pengaturan PIN Anda akan disetel ulang jika Anda benar-benar keluar dari aplikasi.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>Masuk sebagai {0} pada {1}.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>Brankas Anda terkunci. Verifikasi kata sandi utama Anda untuk melanjutkan.</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>Deteksi Kecocokan URI Default</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>Deteksi Kecocokan URL Default</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>Pilih cara default penanganan pencocokan URI untuk login saat melakukan tindakan seperti pengisian otomatis.</value>
+    <value>Pilih cara default penanganan pencocokan URL untuk login saat melakukan tindakan seperti pengisian otomatis.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>Tema</value>
@@ -1532,7 +1544,7 @@
     <value>Keluar</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Apakah anda yakin ingin keluar dari Bitwarden?</value>
+    <value>Apakah anda yakin ingin keluar dari Bravura Safe?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>You you want to require unlocking with your master password when the application is restarted?</value>
@@ -1542,10 +1554,10 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>Daftar hitam URI</value>
+    <value>Daftar hitam URL</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
-    <value>URIs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
+    <value>URLs that are blacklisted will not offer auto-fill. The list of apps should be comma separated. Ex: "https://twitter.com, androidapp://com.twitter.android".</value>
   </data>
   <data name="DisableSavePrompt" xml:space="preserve">
     <value>Nonaktifkan Saran Simpan</value>
@@ -1557,7 +1569,7 @@
     <value>Saat Aplikasi Memulai Ulang</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>Isi-otomatis memudahkan untuk mengakses brankas Bitwarden anda dengan aman dari situs web dan aplikasi lain. Sepertinya anda belum mengaktifkan layanan pengisian-otomatis untuk Bitwarden. Aktifkan pengisian-otomatis untuk Bitwarden dari layar "Pengaturan".</value>
+    <value>Isi-otomatis memudahkan untuk mengakses brankas Bravura Safe anda dengan aman dari situs web dan aplikasi lain. Sepertinya anda belum mengaktifkan layanan pengisian-otomatis untuk Bravura Safe. Aktifkan pengisian-otomatis untuk Bravura Safe dari layar "Pengaturan".</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>Perubahan tema anda akan diterapkan setelah aplikasi dimulai ulang.</value>
@@ -1591,10 +1603,10 @@
     <value>Gunakan Biometrik Untuk Membuka Kunci</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden membutuhkan perhatian - Lihat "Layanan Aksesibilitas Isi-Otomatis" dari Pengaturan Bitwarden</value>
+    <value>Bravura Safe membutuhkan perhatian - Lihat "Layanan Aksesibilitas Isi-Otomatis" dari Pengaturan Bravura Safe</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Pada layar Pengaturan Aplikasi Android untuk Bitwarden, buka opsi "Tampilkan di atas aplikasi lain" (di bawah Lanjutan) dan ketuk sakelar untuk mengaktifkan dukungan overlay.</value>
+    <value>3. Pada layar Pengaturan Aplikasi Android untuk Bravura Safe, buka opsi "Tampilkan di atas aplikasi lain" (di bawah Lanjutan) dan ketuk sakelar untuk mengaktifkan dukungan overlay.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>izin</value>
@@ -1603,7 +1615,7 @@
     <value>Buka Pengaturan Izin Overlay</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Pada layar Pengaturan Aplikasi Android untuk Bitwarden, pilih "Tampilan di atas aplikasi lain" (di bawah "Lanjutan") dan aktifkan sakelar untuk mengizinkan hamparan.</value>
+    <value>3. Pada layar Pengaturan Aplikasi Android untuk Bravura Safe, pilih "Tampilan di atas aplikasi lain" (di bawah "Lanjutan") dan aktifkan sakelar untuk mengizinkan hamparan.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>Ditolak</value>
@@ -1633,11 +1645,11 @@
     <value>Ekspor ini mengenkripsi data Anda menggunakan kunci enkripsi akun Anda. Jika Anda pernah merotasi kunci enkripsi akun Anda, Anda harus mengekspor lagi karena Anda tidak akan dapat mendekripsi file ekspor ini.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Kunci enkripsi akun unik untuk setiap akun pengguna Bitwarden, jadi Anda tidak dapat mengimpor ekspor terenkripsi ke akun lain.</value>
+    <value>Kunci enkripsi akun unik untuk setiap akun pengguna Bravura Safe, jadi Anda tidak dapat mengimpor ekspor terenkripsi ke akun lain.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>Konfirmasi Ekspor Vault</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>Peringatan</value>
@@ -1666,7 +1678,7 @@
     <value>Lampiran berhasil disimpan</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>Harap aktifkan "Layanan Aksesibilitas Isi-Otomatis" dari Pengaturan Bitwarden untuk menggunakan ubin Isi-Otomatis.</value>
+    <value>Harap aktifkan "Layanan Aksesibilitas Isi-Otomatis" dari Pengaturan Bravura Safe untuk menggunakan ubin Isi-Otomatis.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>Tidak ada bidang kata sandi yang terdeteksi</value>
@@ -1784,7 +1796,7 @@
     <value>Kebijakan pribadi</value>
   </data>
   <data name="AccessibilityDrawOverPermissionAlert" xml:space="preserve">
-    <value>Bitwarden membutuhkan perhatian - Aktifkan "Draw-Over" di "Layanan Isi-Otomatis" dari Pengaturan Bitwarden</value>
+    <value>Bravura Safe membutuhkan perhatian - Aktifkan "Draw-Over" di "Layanan Isi-Otomatis" dari Pengaturan Bravura Safe</value>
   </data>
   <data name="AutofillServices" xml:space="preserve">
     <value>Layanan Isi Otomatis</value>
@@ -1799,13 +1811,13 @@
     <value>Gunakan Aksesibilitas</value>
   </data>
   <data name="AccessibilityDescription" xml:space="preserve">
-    <value>Gunakan Layanan Aksesibilitas Bitwarden untuk mengisi login Anda secara otomatis di seluruh aplikasi dan web. Saat diaktifkan, kami akan menampilkan popup saat kolom login dipilih.</value>
+    <value>Gunakan Layanan Aksesibilitas Bravura Safe untuk mengisi login Anda secara otomatis di seluruh aplikasi dan web. Saat diaktifkan, kami akan menampilkan popup saat kolom login dipilih.</value>
   </data>
   <data name="AccessibilityDescription2" xml:space="preserve">
-    <value>Gunakan Layanan Aksesibilitas Bitwarden untuk mengisi login Anda secara otomatis di seluruh aplikasi dan web. (Membutuhkan Draw-Over untuk diaktifkan juga)</value>
+    <value>Gunakan Layanan Aksesibilitas Bravura Safe untuk mengisi login Anda secara otomatis di seluruh aplikasi dan web. (Membutuhkan Draw-Over untuk diaktifkan juga)</value>
   </data>
   <data name="AccessibilityDescription3" xml:space="preserve">
-    <value>Gunakan Layanan Aksesibilitas Bitwarden untuk menggunakan Ubin Tindakan Cepat IsiOtomatis, dan / atau tampilkan munculan menggunakan Draw-Over (jika diaktifkan).</value>
+    <value>Gunakan Layanan Aksesibilitas Bravura Safe untuk menggunakan Ubin Tindakan Cepat IsiOtomatis, dan / atau tampilkan munculan menggunakan Draw-Over (jika diaktifkan).</value>
   </data>
   <data name="AccessibilityDescription4" xml:space="preserve">
     <value>Diperlukan untuk menggunakan Ubin Tindakan Cepat IsiOtomatis, atau untuk menambah Layanan IsiOtomatis dengan menggunakan Draw-Over (jika diaktifkan).</value>
@@ -1814,10 +1826,10 @@
     <value>Gunakan Draw-Over</value>
   </data>
   <data name="DrawOverDescription" xml:space="preserve">
-    <value>Saat diaktifkan, izinkan Layanan Aksesibilitas Bitwarden untuk menampilkan munculan saat kolom login dipilih.</value>
+    <value>Saat diaktifkan, izinkan Layanan Aksesibilitas Bravura Safe untuk menampilkan munculan saat kolom login dipilih.</value>
   </data>
   <data name="DrawOverDescription2" xml:space="preserve">
-    <value>Jika diaktifkan, Layanan Aksesibilitas Bitwarden akan menampilkan munculan ketika kolom login dipilih untuk membantu pengisian login Anda secara otomatis.</value>
+    <value>Jika diaktifkan, Layanan Aksesibilitas Bravura Safe akan menampilkan munculan ketika kolom login dipilih untuk membantu pengisian login Anda secara otomatis.</value>
   </data>
   <data name="DrawOverDescription3" xml:space="preserve">
     <value>Jika diaktifkan, aksesibilitas akan menampilkan munculan untuk menambah Layanan IsiOtomatis untuk aplikasi lama yang tidak mendukung Kerangka Pengisian Otomatis Android.</value>
@@ -1829,20 +1841,20 @@
     <value>Kebijakan organisasi memengaruhi opsi kepemilikan anda.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>Semua Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Semua Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>Nama yang bersahabat untuk menggambarkan Send ini.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Nama yang bersahabat untuk menggambarkan Share ini.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>Teks</value>
@@ -1851,8 +1863,8 @@
     <value>Teks yang ingin Anda kirim.</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>Saat mengakses Send, sembunyikan teks secara default</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Saat mengakses Share, sembunyikan teks secara default</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>Berkas</value>
@@ -1867,8 +1879,8 @@
     <value>Waktu Penghapusan</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>Send akan dihapus secara permanen pada tanggal dan waktu yang ditentukan.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share akan dihapus secara permanen pada tanggal dan waktu yang ditentukan.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Penghapusan menunggu keputusan</value>
@@ -1880,8 +1892,8 @@
     <value>Waktu kedaluwarsa</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>Jika disetel, akses ke Send ini akan berakhir pada tanggal dan waktu yang ditentukan.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Jika disetel, akses ke Share ini akan berakhir pada tanggal dan waktu yang ditentukan.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>Kedaluwarsa</value>
@@ -1890,8 +1902,8 @@
     <value>Hitungan Akses Maksimum</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>Jika disetel, pengguna tidak dapat lagi mengakses Send ini setelah jumlah akses maksimum tercapai.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Jika disetel, pengguna tidak dapat lagi mengakses Share ini setelah jumlah akses maksimum tercapai.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Jumlah akses maksimum tercapai</value>
@@ -1903,8 +1915,8 @@
     <value>Kata Sandi baru</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Secara opsional, minta kata sandi bagi pengguna untuk mengakses Send ini.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Secara opsional, minta kata sandi bagi pengguna untuk mengakses Share ini.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>Hapus Kata Sandi</value>
@@ -1919,20 +1931,20 @@
     <value>Kata sandi telah dihapus.</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Catatan pribadi tentang Send ini.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Catatan pribadi tentang Share ini.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Nonaktifkan Send ini sehingga tidak ada yang dapat mengaksesnya.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Nonaktifkan Share ini sehingga tidak ada yang dapat mengaksesnya.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>Tidak ada Send di akun Anda.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tidak ada Share di akun Anda.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>Tambahkan Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tambahkan Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>Salin Tautan</value>
@@ -1941,36 +1953,36 @@
     <value>Membagikan tautan</value>
   </data>
   <data name="SendLink" xml:space="preserve">
-    <value>Tautan Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tautan Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Pencarian Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Pencarian Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Edit Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Edit Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Tambahkan Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tambahkan Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>Anda yakin ingin menghapus Send ini?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Anda yakin ingin menghapus Share ini?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send telah dihapus.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share telah dihapus.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send diperbarui.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share diperbarui.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>Send baru telah dibuat.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share baru telah dibuat.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 hari</value>
@@ -1991,31 +2003,31 @@
     <value>Kustom</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>Bagikan Send ini setelah disimpan.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Bagikan Share ini setelah disimpan.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Karena kebijakan perusahaan, Anda hanya dapat menghapus Send yang sudah ada.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Karena kebijakan perusahaan, Anda hanya dapat menghapus Share yang sudah ada.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Tentang Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Tentang Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Sembunyikan alamat surel saya dari penerima.</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>Satu atau lebih kebijakan orgnanisasi mempengaruhi pilihan Send Anda.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Satu atau lebih kebijakan orgnanisasi mempengaruhi pilihan Share Anda.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Akun gratis dibatasi hanya untuk berbagi teks. Keanggotaan premium diperlukan untuk menggunakan berkas dengan Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Akun gratis dibatasi hanya untuk berbagi teks. Keanggotaan premium diperlukan untuk menggunakan berkas dengan Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>Anda harus memverifikasi email Anda untuk menggunakan berkas dengan Send. Anda dapat memverifikasi email Anda di brankas web.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Anda harus memverifikasi email Anda untuk menggunakan berkas dengan Share. Anda dapat memverifikasi email Anda di brankas web.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Pengingat ulang sandi utama</value>
@@ -2087,13 +2099,37 @@
     <value>Kebijakan organisasi Anda memengaruhi waktu tunggu brankas Anda. Batas maksimal Waktu Tunggu Brankas yang diizinkan adalah {0} jam dan {1} menit</value>
   </data>
   <data name="VaultTimeoutToLarge" xml:space="preserve">
-    <value>Your vault timeout exceeds the restrictions set by your organization.</value>
+    <value>Your safe timeout exceeds the restrictions set by your team.</value>
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
-    <value>One or more organization policies prevents your from exporting your personal vault.</value>
+    <value>One or more team policies prevents your from exporting you personal safe.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Tambahkan Akun</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Tidak terkunci</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Terkunci</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Keluar</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Switched to next available account</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Akun terkunci</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Berhasil keluar</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Account removed successfully</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
-    <value>Delete Account</value>
+    <value>Hapus akun</value>
   </data>
   <data name="DeletingYourAccountIsPermanent" xml:space="preserve">
     <value>Deleting your account is permanent</value>
@@ -2102,13 +2138,13 @@
     <value>Your account and all associated data will be erased and unrecoverable. Are you sure you want to continue?</value>
   </data>
   <data name="DeletingYourAccount" xml:space="preserve">
-    <value>Deleting your account</value>
+    <value>Hapus akun anda</value>
   </data>
   <data name="YourAccountHasBeenPermanentlyDeleted" xml:space="preserve">
-    <value>Your account has been permanently deleted</value>
+    <value>Akun Anda telah dihapus secara permanen.</value>
   </data>
   <data name="InvalidVerificationCode" xml:space="preserve">
-    <value>Invalid Verification Code.</value>
+    <value>Kode verifikasi tidak valid.</value>
   </data>
   <data name="RequestOTP" xml:space="preserve">
     <value>Request one-time password</value>
@@ -2120,24 +2156,24 @@
     <value>Mengirim...</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copy Send link on save</value>
+    <value>Copy Share link on save</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Sending code</value>
   </data>
   <data name="Verifying" xml:space="preserve">
-    <value>Verifying</value>
+    <value>Memverifikasi...</value>
   </data>
   <data name="ResendCode" xml:space="preserve">
-    <value>Resend Code</value>
+    <value>Kirim ulang kode</value>
   </data>
   <data name="AVerificationCodeWasSentToYourEmail" xml:space="preserve">
-    <value>A verification code was sent to your email</value>
+    <value>Kode verifikasi telah dikirim ke email Anda.</value>
   </data>
   <data name="AnErrorOccurredWhileSendingAVerificationCodeToYourEmailPleaseTryAgain" xml:space="preserve">
     <value>An error occurred while sending a verification code to your email. Please try again</value>
   </data>
   <data name="EnterTheVerificationCodeThatWasSentToYourEmail" xml:space="preserve">
-    <value>Enter the verification code that was sent to your email</value>
+    <value>Masukkan kode verifikasi yang dikirim ke email anda</value>
   </data>
 </root>

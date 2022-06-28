@@ -140,7 +140,7 @@
     <comment>Navigate back to the previous screen.</comment>
   </data>
   <data name="Bitwarden" xml:space="preserve">
-    <value>Bitwarden</value>
+    <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -200,7 +200,7 @@
   </data>
   <data name="Favorites" xml:space="preserve">
     <value>പ്രിയങ്കരങ്ങള്‍</value>
-    <comment>Title for your favorite items in the vault.</comment>
+    <comment>Title for your favorite items in the safe.</comment>
   </data>
   <data name="FileBugReport" xml:space="preserve">
     <value>ബഗ്ഗ്‌ റിപ്പോർട്ട് സമർപ്പിക്കുക</value>
@@ -275,6 +275,18 @@
   <data name="LogoutConfirmation" xml:space="preserve">
     <value>നിങ്ങൾക്ക് ലോഗ് ഔട്ട് ചെയ്യണമെന്ന് ഉറപ്പാണോ?</value>
   </data>
+  <data name="RemoveAccount" xml:space="preserve">
+    <value>Remove Account</value>
+  </data>
+  <data name="RemoveAccountConfirmation" xml:space="preserve">
+    <value>Are you sure you want to remove this account?</value>
+  </data>
+  <data name="AccountAlreadyAdded" xml:space="preserve">
+    <value>Account Already Added</value>
+  </data>
+  <data name="SwitchToAlreadyAddedAccountConfirmation" xml:space="preserve">
+    <value>Would you like to switch to it now?</value>
+  </data>
   <data name="MasterPassword" xml:space="preserve">
     <value>പ്രാഥമിക പാസ്‌വേഡ്</value>
     <comment>Label for a master password.</comment>
@@ -285,7 +297,7 @@
   </data>
   <data name="MyVault" xml:space="preserve">
     <value>എൻ്റെ വാൾട്</value>
-    <comment>The title for the vault page.</comment>
+    <comment>The title for the safe page.</comment>
   </data>
   <data name="Name" xml:space="preserve">
     <value>പേര്</value>
@@ -344,7 +356,7 @@
     <comment>The title for the tools page.</comment>
   </data>
   <data name="URI" xml:space="preserve">
-    <value>URI</value>
+    <value>URL</value>
     <comment>Label for a uri/url.</comment>
   </data>
   <data name="UseFingerprintToUnlock" xml:space="preserve">
@@ -381,7 +393,7 @@
     <value>ഞങ്ങളുടെ വെബ്സൈറ്റ് സന്ദർശിക്കുക</value>
   </data>
   <data name="VisitOurWebsiteDescription" xml:space="preserve">
-    <value>സഹായം ലഭിക്കാൻ, വാർത്തകൾ അറിയാൻ, ഇമെയിൽ അയക്കാൻ അല്ലെങ്കിൽ Bitwardenനെ കുറിച്ച് കൂടുതൽ വിവരങ്ങൾ അറിയാൻ ഞങ്ങളുടെ വെബ്സൈറ്റ് സന്ദർശിക്കുക.</value>
+    <value>സഹായം ലഭിക്കാൻ, വാർത്തകൾ അറിയാൻ, ഇമെയിൽ അയക്കാൻ അല്ലെങ്കിൽ Bravura Safeനെ കുറിച്ച് കൂടുതൽ വിവരങ്ങൾ അറിയാൻ ഞങ്ങളുടെ വെബ്സൈറ്റ് സന്ദർശിക്കുക.</value>
   </data>
   <data name="Website" xml:space="preserve">
     <value>വെബ്സൈറ്റ്</value>
@@ -403,7 +415,7 @@
     <value>ആപ്പ് എക്സ്റ്റൻഷൻ</value>
   </data>
   <data name="AutofillAccessibilityDescription" xml:space="preserve">
-    <value>Bitwarden ആക്സിസിബിളിറ്റി സർവീസ് ഉപയോഗിച്ച് അപ്പുകളിലും വെബ്സൈറ്റുകളിലും ഓട്ടോമാറ്റിക്കായി  പ്രവേശിക്കുക.</value>
+    <value>Bravura Safe ആക്സിസിബിളിറ്റി സർവീസ് ഉപയോഗിച്ച് അപ്പുകളിലും വെബ്സൈറ്റുകളിലും ഓട്ടോമാറ്റിക്കായി  പ്രവേശിക്കുക.</value>
   </data>
   <data name="AutofillService" xml:space="preserve">
     <value>ഓട്ടോഫിൽ സേവനം</value>
@@ -412,31 +424,31 @@
     <value>അവ്യക്തമായ പ്രതീകങ്ങൾ ഒഴിവാക്കുക</value>
   </data>
   <data name="BitwardenAppExtension" xml:space="preserve">
-    <value>Bitwarden ആപ്പ് എക്സ്റ്റൻഷൻ</value>
+    <value>Bravura Safe ആപ്പ് എക്സ്റ്റൻഷൻ</value>
   </data>
   <data name="BitwardenAppExtensionAlert2" xml:space="preserve">
-    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ പ്രവേശനങ്ങൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bitwarden  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
+    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ പ്രവേശനങ്ങൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bravura Safe  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
   </data>
   <data name="BitwardenAppExtensionDescription" xml:space="preserve">
-    <value>നിങ്ങളുടെ പ്രവേശനങ്ങൾ ഓട്ടോഫിൽ ചെയ്യുന്നതിന് Safariയിലും മറ്റ് അപ്ലിക്കേഷനുകളിലും Bitwarden ഉപയോഗിക്കുക.</value>
+    <value>നിങ്ങളുടെ പ്രവേശനങ്ങൾ ഓട്ടോഫിൽ ചെയ്യുന്നതിന് Safariയിലും മറ്റ് അപ്ലിക്കേഷനുകളിലും Bravura Safe ഉപയോഗിക്കുക.</value>
   </data>
   <data name="BitwardenAutofillService" xml:space="preserve">
-    <value>Bitwarden ഓട്ടോഫിൽ സേവനം</value>
+    <value>Bravura Safe ഓട്ടോഫിൽ സേവനം</value>
   </data>
   <data name="BitwardenAutofillAccessibilityServiceDescription" xml:space="preserve">
-    <value>Bitwarden ആക്സിസിബിളിറ്റി സർവീസ് ഉപയോഗിച്ച് പ്രവേശനങ്ങൾ ഓട്ടോഫിൽ ചെയ്യുക.</value>
+    <value>Bravura Safe ആക്സിസിബിളിറ്റി സർവീസ് ഉപയോഗിച്ച് പ്രവേശനങ്ങൾ ഓട്ടോഫിൽ ചെയ്യുക.</value>
   </data>
   <data name="ChangeEmail" xml:space="preserve">
     <value>ഇമെയില്‍ മാറ്റുക</value>
   </data>
   <data name="ChangeEmailConfirmation" xml:space="preserve">
-    <value>നിങ്ങൾക്ക് Bitwarden വെബ് വാൾട്ടിൽ ഇമെയിൽ മാറ്റാൻ സാധിക്കും.വെബ്സൈറ്റ് ഇപ്പോൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്നുവോ?</value>
+    <value>നിങ്ങൾക്ക് Bravura Safe വെബ് വാൾട്ടിൽ ഇമെയിൽ മാറ്റാൻ സാധിക്കും.വെബ്സൈറ്റ് ഇപ്പോൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്നുവോ?</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>പ്രാഥമിക പാസ്‌വേഡ് മാറ്റുക</value>
   </data>
   <data name="ChangePasswordConfirmation" xml:space="preserve">
-    <value>നിങ്ങൾക്ക് bitwarden.com വെബ് വാൾട്ടിൽ പ്രാഥമിക പാസ്‌വേഡ് മാറ്റാൻ സാധിക്കും.വെബ്സൈറ്റ് ഇപ്പോൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ ?</value>
+    <value>നിങ്ങൾക്ക് Bravura Safe വെബ് വാൾട്ടിൽ പ്രാഥമിക പാസ്‌വേഡ് മാറ്റാൻ സാധിക്കും.വെബ്സൈറ്റ് ഇപ്പോൾ സന്ദർശിക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ ?</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>അടയ്ക്കുക</value>
@@ -470,7 +482,7 @@
     <value>ആപ്പ് എക്സ്റ്റൻഷൻ പ്രവർത്തനക്ഷമമാക്കുക</value>
   </data>
   <data name="ExtensionInSafari" xml:space="preserve">
-    <value>Safariയിൽ, Bitwarden കണ്ടുപിടിക്കാൻ ഷെയർ ഐക്കൺ ഉപയോഗിക്കുക (സൂചന: മെനുവിന്റെ താഴത്തെ വരിയിൽ വലതുവശത്തേക്ക് സ്ക്രോൾ ചെയ്യുക).</value>
+    <value>Safariയിൽ, Bravura Safe കണ്ടുപിടിക്കാൻ ഷെയർ ഐക്കൺ ഉപയോഗിക്കുക (സൂചന: മെനുവിന്റെ താഴത്തെ വരിയിൽ വലതുവശത്തേക്ക് സ്ക്രോൾ ചെയ്യുക).</value>
     <comment>Safari is the name of apple's web browser</comment>
   </data>
   <data name="ExtensionInstantAccess" xml:space="preserve">
@@ -483,13 +495,13 @@
     <value>Safari, Chrome, പിന്തുണയ്‌ക്കുന്ന മറ്റ് അപ്ലിക്കേഷനുകൾ എന്നിവയിൽ നിന്ന് നിങ്ങളുടെ പ്രവേശനങ്ങൾ ഇപ്പോൾ എളുപ്പത്തിൽ ആക്‌സസ്സുചെയ്യാനാകും.</value>
   </data>
   <data name="ExtensionSetup2" xml:space="preserve">
-    <value>SafariയിലുംChromeമിലും, ഷെയർ  ഐക്കൺ ഉപയോഗിച്ച് Bitwarden കണ്ടെത്തുക (സൂചന: പങ്കിടൽ മെനുവിന്റെ താഴത്തെ വരിയിൽ വലതുവശത്തേക്ക് സ്ക്രോൾ ചെയ്യുക).</value>
+    <value>SafariയിലുംChromeമിലും, ഷെയർ  ഐക്കൺ ഉപയോഗിച്ച് Bravura Safe കണ്ടെത്തുക (സൂചന: പങ്കിടൽ മെനുവിന്റെ താഴത്തെ വരിയിൽ വലതുവശത്തേക്ക് സ്ക്രോൾ ചെയ്യുക).</value>
   </data>
   <data name="ExtensionTapIcon" xml:space="preserve">
     <value>എക്സ്റ്റൻഷൻ തുറക്കാൻ വേണ്ടി മെനുവിലെ ഐക്കൺ സ്പർശിക്കുക.</value>
   </data>
   <data name="ExtensionTurnOn" xml:space="preserve">
-    <value>Safariലും മറ്റ് അപ്ലിക്കേഷനുകളിലുംBitwarden ഓണാക്കാൻ, മെനുവിന്റെ താഴത്തെ വരിയിലെ "കൂടുതൽ" ഐക്കൺ ടാപ്പുചെയ്യുക.</value>
+    <value>Safariലും മറ്റ് അപ്ലിക്കേഷനുകളിലുംBravura Safe ഓണാക്കാൻ, മെനുവിന്റെ താഴത്തെ വരിയിലെ "കൂടുതൽ" ഐക്കൺ ടാപ്പുചെയ്യുക.</value>
   </data>
   <data name="Favorite" xml:space="preserve">
     <value>പ്രിയങ്കരം</value>
@@ -507,7 +519,7 @@
     <value>ഇനങ്ങൾ ഇമ്പോർട് ചെയ്യുക</value>
   </data>
   <data name="ImportItemsConfirmation" xml:space="preserve">
-    <value>നിങ്ങൾക്ക് bitwarden.com വെബ് വാൾട്ടിൽ  നിന്ന് ഇമ്പോർട്ടുചെയ്യാൻ കഴിയും. നിങ്ങൾക്ക് ഇപ്പോൾ വെബ്സൈറ്റ് സന്ദർശിക്കാൻ ആഗ്രഹമുണ്ടോ?</value>
+    <value>നിങ്ങൾക്ക് Bravura Safe വെബ് വാൾട്ടിൽ  നിന്ന് ഇമ്പോർട്ടുചെയ്യാൻ കഴിയും. നിങ്ങൾക്ക് ഇപ്പോൾ വെബ്സൈറ്റ് സന്ദർശിക്കാൻ ആഗ്രഹമുണ്ടോ?</value>
   </data>
   <data name="ImportItemsDescription" xml:space="preserve">
     <value>മറ്റ് പാസ്‌വേഡ് മാനേജുമെന്റ് അപ്ലിക്കേഷനുകളിൽ നിന്ന് നിങ്ങളുടെ ഇനങ്ങൾ വേഗത്തിൽ ഇമ്പോർട് ചെയ്യുക.</value>
@@ -582,7 +594,7 @@
     <value>കൂടുതൽ  ക്രമീകരണങ്ങള്‍</value>
   </data>
   <data name="MustLogInMainApp" xml:space="preserve">
-    <value>എക്സ്റ്റൻഷൻ ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങൾ Bitwarden  അപ്ലിക്കേഷനിൽ പ്രവേശിക്കണം.</value>
+    <value>എക്സ്റ്റൻഷൻ ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങൾ Bravura Safe  അപ്ലിക്കേഷനിൽ പ്രവേശിക്കണം.</value>
   </data>
   <data name="Never" xml:space="preserve">
     <value>ഒരിക്കലും വേണ്ട</value>
@@ -607,7 +619,7 @@
     <comment>Confirmation, like "Ok, I understand it"</comment>
   </data>
   <data name="OptionDefaults" xml:space="preserve">
-    <value>പ്രധാന Bitwarden അപ്ലിക്കേഷന്റെ പാസ്‌വേഡ് ജനറേറ്റർ ഉപകരണത്തിൽ നിന്ന് ഓപ്‌ഷൻ സ്ഥിരസ്ഥിതികൾ സജ്ജമാക്കുക.</value>
+    <value>പ്രധാന Bravura Safe അപ്ലിക്കേഷന്റെ പാസ്‌വേഡ് ജനറേറ്റർ ഉപകരണത്തിൽ നിന്ന് ഓപ്‌ഷൻ സ്ഥിരസ്ഥിതികൾ സജ്ജമാക്കുക.</value>
   </data>
   <data name="Options" xml:space="preserve">
     <value>ഓപ്ഷനുകൾ</value>
@@ -692,7 +704,7 @@
     <value>രണ്ട്-ഘട്ട പ്രവേശനം</value>
   </data>
   <data name="TwoStepLoginConfirmation" xml:space="preserve">
-    <value>സുരക്ഷാ കീ, ഓതന്റിക്കേറ്റർ അപ്ലിക്കേഷൻ, SMS, ഫോൺ കോൾ അല്ലെങ്കിൽ ഇമെയിൽ പോലുള്ള മറ്റൊരു ഉപകരണം ഉപയോഗിച്ച് തങ്ങളുടെ പ്രവേശനം സ്ഥിരീകരിക്കാൻ ആവശ്യപ്പെടുന്നതിലൂടെ, രണ്ട്-ഘട്ട പ്രവേശനം  തങ്ങളുടെ അക്കൗണ്ടിനെ കൂടുതൽ സുരക്ഷിതമാക്കുന്നു. bitwarden.com വെബ് വാൾട്ടിൽ രണ്ട്-ഘട്ട പ്രവേശനം പ്രവർത്തനക്ഷമമാക്കാനാകും.തങ്ങള്ക്കു ഇപ്പോൾ വെബ്സൈറ്റ് സന്ദർശിക്കാൻ ആഗ്രഹമുണ്ടോ?</value>
+    <value>സുരക്ഷാ കീ, ഓതന്റിക്കേറ്റർ അപ്ലിക്കേഷൻ, SMS, ഫോൺ കോൾ അല്ലെങ്കിൽ ഇമെയിൽ പോലുള്ള മറ്റൊരു ഉപകരണം ഉപയോഗിച്ച് തങ്ങളുടെ പ്രവേശനം സ്ഥിരീകരിക്കാൻ ആവശ്യപ്പെടുന്നതിലൂടെ, രണ്ട്-ഘട്ട പ്രവേശനം  തങ്ങളുടെ അക്കൗണ്ടിനെ കൂടുതൽ സുരക്ഷിതമാക്കുന്നു. Bravura Safe വെബ് വാൾട്ടിൽ രണ്ട്-ഘട്ട പ്രവേശനം പ്രവർത്തനക്ഷമമാക്കാനാകും.തങ്ങള്ക്കു ഇപ്പോൾ വെബ്സൈറ്റ് സന്ദർശിക്കാൻ ആഗ്രഹമുണ്ടോ?</value>
   </data>
   <data name="UnlockWith" xml:space="preserve">
     <value>{0} ഉപയോഗിച്ച് അൺലോക്കുചെയ്യുക</value>
@@ -711,7 +723,7 @@
     <value>ഇനം കാണുക</value>
   </data>
   <data name="WebVault" xml:space="preserve">
-    <value>Bitwarden വെബ് വാൾട്</value>
+    <value>Bravura Safe വെബ് വാൾട്</value>
   </data>
   <data name="Lost2FAApp" xml:space="preserve">
     <value>ഓതന്റിക്കേറ്റർ ആപ്പ് നഷ്ടപ്പെട്ടോ ?</value>
@@ -735,10 +747,10 @@
   </data>
   <data name="NoItemsForUri" xml:space="preserve">
     <value>നിങ്ങളുടെ വാൾട്ടിൽ {0}ന് ഇനങ്ങളൊന്നുമില്ല.</value>
-    <comment>This is used for the autofill service. ex. "There are no items in your vault for twitter.com".</comment>
+    <comment>This is used for the autofill service. ex. "There are no items in your safe for twitter.com".</comment>
   </data>
   <data name="BitwardenAutofillServiceOverlay" xml:space="preserve">
-    <value>ഓട്ടോഫിൽ സേവനം പ്രവർത്തനമാക്കാൻ, നിങ്ങൾ ഒരു ഇൻപുട്ട് ഫീൽഡ് തിരഞ്ഞ്ഞെടുത്തതിന് ശേഷം കാണുന്ന Bitwarden ഓട്ടോഫിൽ ഓവർലേയിൽ ടാപ്പുചെയ്യുക.</value>
+    <value>ഓട്ടോഫിൽ സേവനം പ്രവർത്തനമാക്കാൻ, നിങ്ങൾ ഒരു ഇൻപുട്ട് ഫീൽഡ് തിരഞ്ഞ്ഞെടുത്തതിന് ശേഷം കാണുന്ന Bravura Safe ഓട്ടോഫിൽ ഓവർലേയിൽ ടാപ്പുചെയ്യുക.</value>
   </data>
   <data name="BitwardenAutofillServiceNotificationContent" xml:space="preserve">
     <value>നിങ്ങളുടെ വാൾട്ടിൽ നിന്ന് ഒരു ഇനം ഓട്ടോഫിൽ ചെയ്യാൻ  ഈ അറിയിപ്പ് ടാപ്പുചെയ്യുക.</value>
@@ -747,7 +759,7 @@
     <value>ആക്സിസിബിലിറ്റി ക്രമീകരണങ്ങൾ തുറക്കുക</value>
   </data>
   <data name="BitwardenAutofillServiceStep1" xml:space="preserve">
-    <value>1. ആൻഡ്രോയിഡ് ആക്സിസിബിലിറ്റി ക്രമീകരണ സ്‌ക്രീനിൽ, Services ശീർഷകത്തിന് കീഴിലുള്ള Bitwarden" സ്‌പർശിക്കുക.</value>
+    <value>1. ആൻഡ്രോയിഡ് ആക്സിസിബിലിറ്റി ക്രമീകരണ സ്‌ക്രീനിൽ, Services ശീർഷകത്തിന് കീഴിലുള്ള Bravura Safe" സ്‌പർശിക്കുക.</value>
   </data>
   <data name="BitwardenAutofillServiceStep2" xml:space="preserve">
     <value>ടോഗിൾ സ്വിച്ച് ഓൺ ആകിയതിനു ശേഷം ശരി അമർത്തി അംഗീകരിക്കുക.</value>
@@ -762,7 +774,7 @@
     <value>അവസ്ഥ</value>
   </data>
   <data name="BitwardenAutofillServiceAlert2" xml:space="preserve">
-    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ പ്രവേശനങ്ങൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bitwarden  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
+    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ പ്രവേശനങ്ങൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bravura Safe  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
   </data>
   <data name="Autofill" xml:space="preserve">
     <value>ഓട്ടോഫിൽ</value>
@@ -1126,7 +1138,7 @@
     <value>ഐക്കണുകളുടെ സെർവർ URL</value>
   </data>
   <data name="AutofillWithBitwarden" xml:space="preserve">
-    <value>Bitwarden ഉപയോഗിച്ച് ഓട്ടോഫിൽ ചെയ്യുക</value>
+    <value>Bravura Safe ഉപയോഗിച്ച് ഓട്ടോഫിൽ ചെയ്യുക</value>
   </data>
   <data name="VaultIsLocked" xml:space="preserve">
     <value>വാൾട് പൂട്ടിയിരിക്കുന്നു</value>
@@ -1150,10 +1162,10 @@
     <value>ഓട്ടോഫിൽ ആക്സിസിബിലിറ്റി സേവനം</value>
   </data>
   <data name="AutofillServiceDescription" xml:space="preserve">
-    <value>നിങ്ങളുടെ ഉപകരണത്തിലെ മറ്റ് അപ്പ്ലിക്കേഷനുകളിൽ ലോഗിനുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ, ഐഡന്റിറ്റി വിവരങ്ങൾ എന്നിവ പൂരിപ്പിക്കുന്നതിന് സഹായിക്കുന്നത്  ആൻഡ്രോയിഡ് ഓട്ടോഫിൽ ഫ്രെയിംവർക്ക് ഉപയോഗിക്കുന്ന Bitwarden ഓട്ടോഫിൽ സേവനം ആണ്.</value>
+    <value>നിങ്ങളുടെ ഉപകരണത്തിലെ മറ്റ് അപ്പ്ലിക്കേഷനുകളിൽ ലോഗിനുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ, ഐഡന്റിറ്റി വിവരങ്ങൾ എന്നിവ പൂരിപ്പിക്കുന്നതിന് സഹായിക്കുന്നത്  ആൻഡ്രോയിഡ് ഓട്ടോഫിൽ ഫ്രെയിംവർക്ക് ഉപയോഗിക്കുന്ന Bravura Safe ഓട്ടോഫിൽ സേവനം ആണ്.</value>
   </data>
   <data name="BitwardenAutofillServiceDescription" xml:space="preserve">
-    <value>മറ്റ് അപ്ലിക്കേഷനുകളിലേക്ക് ലോഗിനുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ, ഐഡന്റിറ്റി വിവരങ്ങൾ എന്നിവ ഓട്ടോഫിൽ ചെയ്‌യുന്നതിനു  Bitwarden ഓട്ടോഫിൽ സേവനം ഉപയോഗിക്കുക.</value>
+    <value>മറ്റ് അപ്ലിക്കേഷനുകളിലേക്ക് ലോഗിനുകൾ, ക്രെഡിറ്റ് കാർഡുകൾ, ഐഡന്റിറ്റി വിവരങ്ങൾ എന്നിവ ഓട്ടോഫിൽ ചെയ്‌യുന്നതിനു  Bravura Safe ഓട്ടോഫിൽ സേവനം ഉപയോഗിക്കുക.</value>
   </data>
   <data name="BitwardenAutofillServiceOpenAutofillSettings" xml:space="preserve">
     <value>ഓട്ടോഫിൽ ക്രമീകരണങ്ങൾ തുറക്കുക</value>
@@ -1202,11 +1214,11 @@
     <value>നീക്കുക</value>
   </data>
   <data name="NewUri" xml:space="preserve">
-    <value>പുതിയ URI</value>
+    <value>പുതിയ URL</value>
   </data>
   <data name="URIPosition" xml:space="preserve">
-    <value>URI {0}</value>
-    <comment>Label for a uri/url with position. i.e. URI 1, URI 2, etc</comment>
+    <value>URL {0}</value>
+    <comment>Label for a uri/url with position. i.e. URL 1, URL 2, etc</comment>
   </data>
   <data name="BaseDomain" xml:space="preserve">
     <value>അടിസ്ഥാന ഡൊമെയ്ൻ</value>
@@ -1229,11 +1241,11 @@
     <value>തുടങ്ങുന്നത്</value>
   </data>
   <data name="URIMatchDetection" xml:space="preserve">
-    <value>URI പൊരുത്തം കണ്ടെത്തൽ</value>
+    <value>URL പൊരുത്തം കണ്ടെത്തൽ</value>
   </data>
   <data name="MatchDetection" xml:space="preserve">
     <value>മാച്ച് ഡിറ്റക്ഷൻ</value>
-    <comment>URI match detection for auto-fill.</comment>
+    <comment>URL match detection for auto-fill.</comment>
   </data>
   <data name="YesAndSave" xml:space="preserve">
     <value>അതെ, സംരക്ഷിക്കുക</value>
@@ -1243,7 +1255,7 @@
   </data>
   <data name="Organization" xml:space="preserve">
     <value>സംഘടന</value>
-    <comment>An entity of multiple related people (ex. a team or business organization).</comment>
+    <comment>An entity of multiple related people (ex. a business team).</comment>
   </data>
   <data name="HoldYubikeyNearTop" xml:space="preserve">
     <value>നിങ്ങളുടെ Yubikey ഉപകരണത്തിന്റെ മുകളിൽ പിടിക്കുക.</value>
@@ -1269,7 +1281,7 @@
     <value>ഓട്ടോഫിൽ സജീവമാക്കി!</value>
   </data>
   <data name="MustLogInMainAppAutofill" xml:space="preserve">
-    <value>ഓട്ടോഫിൽ  ഉപയോഗിക്കുന്നതിന് മുമ്പ് Bitwarden അപ്ലിക്കേഷനിൽ നിങ്ങൾ പ്രവേശിക്കണം.</value>
+    <value>ഓട്ടോഫിൽ  ഉപയോഗിക്കുന്നതിന് മുമ്പ് Bravura Safe അപ്ലിക്കേഷനിൽ നിങ്ങൾ പ്രവേശിക്കണം.</value>
   </data>
   <data name="AutofillSetup" xml:space="preserve">
     <value>അപ്ലിക്കേഷനുകളിലേക്കും വെബ്‌സൈറ്റുകളിലേക്കും ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ കീബോർഡിൽ നിന്ന് നിങ്ങളുടെ ലോഗിനുകൾ ഇപ്പോൾ എളുപ്പത്തിൽ ആക്‌സസ്സുചെയ്യാനാകും.</value>
@@ -1296,13 +1308,13 @@
     <value>4. ഓട്ടോ ഫിൽ ഓണാക്കുക്ക</value>
   </data>
   <data name="AutofillTurnOn5" xml:space="preserve">
-    <value>"Bitwarden" തിരഞ്ഞെടുക്കുക</value>
+    <value>"Bravura Safe" തിരഞ്ഞെടുക്കുക</value>
   </data>
   <data name="PasswordAutofill" xml:space="preserve">
     <value>പാസ്‌വേഡ് ഓട്ടോഫിൽ</value>
   </data>
   <data name="BitwardenAutofillAlert2" xml:space="preserve">
-    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ ലോഗിനുകൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bitwarden  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
+    <value>നിങ്ങളുടെ വാൾട്ടിലേക്കു  പുതിയ ലോഗിനുകൾ ചേർക്കുന്നതിനുള്ള ഏറ്റവും എളുപ്പ മാർഗം Bravura Safe  അപ്ലിക്കേഷൻ എക്സ്റ്റൻഷൻ ആണ്. കൂടുതൽ വിവരങ്ങൾക്കായി 'ക്രമീകരണങ്ങൾ' പേജിലേക്ക് പോവുക.</value>
   </data>
   <data name="InvalidEmail" xml:space="preserve">
     <value>അസാധുവായ ഇമെയിൽ.</value>
@@ -1323,8 +1335,8 @@
     <value>എല്ലാ ഇനങ്ങൾ</value>
   </data>
   <data name="URIs" xml:space="preserve">
-    <value>URIs</value>
-    <comment>Plural form of a URI</comment>
+    <value>URLs</value>
+    <comment>Plural form of a URL</comment>
   </data>
   <data name="CheckingPassword" xml:space="preserve">
     <value>പാസ്‌വേഡ് പരിശോധിക്കുന്നു…</value>
@@ -1389,7 +1401,7 @@
   </data>
   <data name="MovedItemToOrg" xml:space="preserve">
     <value>{0} {1}-ലേക്ക് മാറ്റി</value>
-    <comment>ex: Item moved to Organization.</comment>
+    <comment>ex: Item moved to Team.</comment>
   </data>
   <data name="ItemShared" xml:space="preserve">
     <value>ഇനം പങ്കിട്ടു.</value>
@@ -1410,7 +1422,7 @@
     <value>പ്രദർശിപ്പിക്കാൻ സംഘടനകൾ  ഒന്നും ഇല്ല.</value>
   </data>
   <data name="MoveToOrgDesc" xml:space="preserve">
-    <value>Choose an organization that you wish to move this item to. Moving to an organization transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</value>
+    <value>Choose a team that you wish to move this item to. Moving to a team transfers ownership of the item to that team. You will no longer be the direct owner of this item once it has been moved.</value>
   </data>
   <data name="NumberOfWords" xml:space="preserve">
     <value>വാക്കുകളുടെ എണ്ണം</value>
@@ -1441,7 +1453,7 @@
     <comment>A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.</comment>
   </data>
   <data name="LearnOrgConfirmation" xml:space="preserve">
-    <value>Bitwarden allows you to share your vault items with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?</value>
+    <value>Bravura Safe allows you to share your safe items with others by using a team account. Would you like to visit the hitachi-id.com website to learn more?</value>
   </data>
   <data name="ExportVault" xml:space="preserve">
     <value>വാൾട് എക്സ്പോർട്</value>
@@ -1456,17 +1468,17 @@
     <value>അൺലോക്ക്</value>
   </data>
   <data name="UnlockVault" xml:space="preserve">
-    <value>Unlock Vault</value>
+    <value>Unlock Safe</value>
   </data>
   <data name="ThirtyMinutes" xml:space="preserve">
     <value>30 മിനിറ്റ്</value>
   </data>
   <data name="SetPINDescription" xml:space="preserve">
-    <value>Bitwarden അൺലോക്കുചെയ്യുന്നതിന് തങ്ങളുടെ പിൻ കോഡ് സജ്ജമാക്കുക. തങ്ങൾ എപ്പോഴെങ്കിലും അപ്ലിക്കേഷനിൽ നിന്ന് പൂർണ്ണമായി ലോഗ് ഔട്ട് ചെയ്യുകയാണെങ്കിൽ, പിൻ ക്രമീകരണങ്ങൾ പുനസജ്ജമാക്കും.</value>
+    <value>Bravura Safe അൺലോക്കുചെയ്യുന്നതിന് തങ്ങളുടെ പിൻ കോഡ് സജ്ജമാക്കുക. തങ്ങൾ എപ്പോഴെങ്കിലും അപ്ലിക്കേഷനിൽ നിന്ന് പൂർണ്ണമായി ലോഗ് ഔട്ട് ചെയ്യുകയാണെങ്കിൽ, പിൻ ക്രമീകരണങ്ങൾ പുനസജ്ജമാക്കും.</value>
   </data>
   <data name="LoggedInAsOn" xml:space="preserve">
     <value>{1}ൽ {0} പ്രവേശിച്ചരിക്കുന്നു.</value>
-    <comment>ex: Logged in as user@example.com on bitwarden.com.</comment>
+    <comment>ex: Logged in as user@example.com on hitachi-id.com.</comment>
   </data>
   <data name="VaultLockedMasterPassword" xml:space="preserve">
     <value>നിങ്ങളുടെ വാൾട് പൂട്ടിയിരിക്കുന്നു. തുടരുന്നതിന് നിങ്ങളുടെ പ്രാഥമിക പാസ്‌വേഡ് സ്ഥിരീകരിക്കുക .</value>
@@ -1475,7 +1487,7 @@
     <value>നിങ്ങളുടെ വാൾട് പൂട്ടിയിരിക്കുന്നു. തുടരാൻ പിൻ കോഡ് സ്ഥിരീകരിക്കുക.</value>
   </data>
   <data name="VaultLockedIdentity" xml:space="preserve">
-    <value>Your vault is locked. Verify your identity to continue.</value>
+    <value>Your safe is locked. Verify your identity to continue.</value>
   </data>
   <data name="Dark" xml:space="preserve">
     <value>ഡാർക്ക്</value>
@@ -1509,11 +1521,11 @@
     <comment>Clipboard is the operating system thing where you copy/paste data to on your device.</comment>
   </data>
   <data name="DefaultUriMatchDetection" xml:space="preserve">
-    <value>സാധാരണ URI മാച്ച് ഡിറ്റക്ഷൻ</value>
-    <comment>Default URI match detection for auto-fill.</comment>
+    <value>സാധാരണ URL മാച്ച് ഡിറ്റക്ഷൻ</value>
+    <comment>Default URL match detection for auto-fill.</comment>
   </data>
   <data name="DefaultUriMatchDetectionDescription" xml:space="preserve">
-    <value>ഓട്ടോഫിൽ പോലുള്ള പ്രവർത്തനങ്ങൾ നടത്തുമ്പോൾ ലോഗിനുകൾക്കായി URI മാച്ച് ഡിറ്റക്ഷൻ കൈകാര്യം ചെയ്യുന്ന സ്ഥിരസ്ഥിതി മാർഗം തിരഞ്ഞെടുക്കുക.</value>
+    <value>ഓട്ടോഫിൽ പോലുള്ള പ്രവർത്തനങ്ങൾ നടത്തുമ്പോൾ ലോഗിനുകൾക്കായി URL മാച്ച് ഡിറ്റക്ഷൻ കൈകാര്യം ചെയ്യുന്ന സ്ഥിരസ്ഥിതി മാർഗം തിരഞ്ഞെടുക്കുക.</value>
   </data>
   <data name="Theme" xml:space="preserve">
     <value>തീം</value>
@@ -1532,7 +1544,7 @@
     <value>പുറത്തേക്കുപോവുക</value>
   </data>
   <data name="ExitConfirmation" xml:space="preserve">
-    <value>Bitwardenനിൽ നിന്ന്  നിങ്ങൾക്ക് പുറത്തുകടക്കണമെന്ന് ഉറപ്പാണോ?</value>
+    <value>Bravura Safeനിൽ നിന്ന്  നിങ്ങൾക്ക് പുറത്തുകടക്കണമെന്ന് ഉറപ്പാണോ?</value>
   </data>
   <data name="PINRequireMasterPasswordRestart" xml:space="preserve">
     <value>അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുമ്പോൾ നിങ്ങളുടെപ്രാഥമിക പാസ്‌വേഡ് ഉപയോഗിച്ച് അൺലോക്കുചെയ്യാൻ ആഗ്രഹമുണ്ടോ?</value>
@@ -1542,7 +1554,7 @@
     <comment>The color black</comment>
   </data>
   <data name="BlacklistedUris" xml:space="preserve">
-    <value>സംശയാസ്‌പദമായ URIs</value>
+    <value>സംശയാസ്‌പദമായ URLs</value>
   </data>
   <data name="BlacklistedUrisDescription" xml:space="preserve">
     <value>സംശയാസ്‌പദമായ URIകൾ ഓട്ടോഫിൽ സേവനത്തിൽ ഉള്പെടത്തില്ല. ഈ ലിസ്റ്റ് കോമ ഉപയോഗിച്ച് വേർപെടുത്തണം. ഉദാഹരണം: "https://twitter.com, androidapp://com.twitter.android".</value>
@@ -1557,7 +1569,7 @@
     <value>അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുമ്പോൾ</value>
   </data>
   <data name="AutofillServiceNotEnabled" xml:space="preserve">
-    <value>മറ്റ് വെബ്‌സൈറ്റുകളിൽ നിന്നും അപ്ലിക്കേഷനുകളിൽ നിന്നും നിങ്ങളുടെ Bitwarden വാൾട് സുരക്ഷിതമായി അക്സസ്സ്ചെയ്യാൻ എളുപ്പമാക്കുന്നു. Bitwardenനായി നിങ്ങൾ ഓട്ടോഫിൽ സേവനം പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ലെന്ന് തോന്നുന്നു. "ക്രമീകരണങ്ങൾ" സ്ക്രീനിൽ നിന്ന് Bitwardenനായി ഓട്ടോഫിൽ  പ്രാപ്തമാക്കുക.</value>
+    <value>മറ്റ് വെബ്‌സൈറ്റുകളിൽ നിന്നും അപ്ലിക്കേഷനുകളിൽ നിന്നും നിങ്ങളുടെ Bravura Safe വാൾട് സുരക്ഷിതമായി അക്സസ്സ്ചെയ്യാൻ എളുപ്പമാക്കുന്നു. Bravura Safeനായി നിങ്ങൾ ഓട്ടോഫിൽ സേവനം പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ലെന്ന് തോന്നുന്നു. "ക്രമീകരണങ്ങൾ" സ്ക്രീനിൽ നിന്ന് Bravura Safeനായി ഓട്ടോഫിൽ  പ്രാപ്തമാക്കുക.</value>
   </data>
   <data name="ThemeAppliedOnRestart" xml:space="preserve">
     <value>അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുമ്പോൾ നിങ്ങളുടെ തീം മാറ്റങ്ങൾ ബാധകമാകും.</value>
@@ -1591,10 +1603,10 @@
     <value>അൺലോക്കുചെയ്യാൻ ബയോമെട്രിക്സ് ഉപയോഗിക്കുക</value>
   </data>
   <data name="AccessibilityOverlayPermissionAlert" xml:space="preserve">
-    <value>Bitwarden ശ്രദ്ധ ആവശ്യമാണ് -  ക്രമീകരണങ്ങളിൽ നിന്ന്  "ഓട്ടോഫിൽ ആക്സിസിബിലിറ്റി സേവനം" കാണുക</value>
+    <value>Bravura Safe ശ്രദ്ധ ആവശ്യമാണ് -  ക്രമീകരണങ്ങളിൽ നിന്ന്  "ഓട്ടോഫിൽ ആക്സിസിബിലിറ്റി സേവനം" കാണുക</value>
   </data>
   <data name="BitwardenAutofillServiceOverlayPermission" xml:space="preserve">
-    <value>3. Bitwardenനായുള്ള ആൻഡ്രോയിഡ് അപ്ലിക്കേഷൻ ക്രമീകരണ സ്‌ക്രീനിൽ, "മറ്റ് അപ്ലിക്കേഷനുകളിൽ പ്രദർശിപ്പിക്കുക" ("വിപുലമായത്" എന്നതിന് കീഴിൽ) തിരഞ്ഞെടുത്ത്, ഓവർലേ അനുവദിക്കുന്നതിന് ടോഗിൾ ഓണാക്കുക.</value>
+    <value>3. Bravura Safeനായുള്ള ആൻഡ്രോയിഡ് അപ്ലിക്കേഷൻ ക്രമീകരണ സ്‌ക്രീനിൽ, "മറ്റ് അപ്ലിക്കേഷനുകളിൽ പ്രദർശിപ്പിക്കുക" ("വിപുലമായത്" എന്നതിന് കീഴിൽ) തിരഞ്ഞെടുത്ത്, ഓവർലേ അനുവദിക്കുന്നതിന് ടോഗിൾ ഓണാക്കുക.</value>
   </data>
   <data name="OverlayPermission" xml:space="preserve">
     <value>അനുമതി</value>
@@ -1603,7 +1615,7 @@
     <value>ഓവർലേ അനുമതി ക്രമീകരണങ്ങൾ തുറക്കുക</value>
   </data>
   <data name="BitwardenAutofillServiceStep3" xml:space="preserve">
-    <value>3. Bitwardenനായുള്ള ആൻഡ്രോയിഡ് അപ്ലിക്കേഷൻ ക്രമീകരണ സ്‌ക്രീനിൽ, "മറ്റ് അപ്ലിക്കേഷനുകളിൽ പ്രദർശിപ്പിക്കുക" ("വിപുലമായത്" എന്നതിന് കീഴിൽ) തിരഞ്ഞെടുത്ത്, ഓവർലേ അനുവദിക്കുന്നതിന് ടോഗിൾ ഓണാക്കുക.</value>
+    <value>3. Bravura Safeനായുള്ള ആൻഡ്രോയിഡ് അപ്ലിക്കേഷൻ ക്രമീകരണ സ്‌ക്രീനിൽ, "മറ്റ് അപ്ലിക്കേഷനുകളിൽ പ്രദർശിപ്പിക്കുക" ("വിപുലമായത്" എന്നതിന് കീഴിൽ) തിരഞ്ഞെടുത്ത്, ഓവർലേ അനുവദിക്കുന്നതിന് ടോഗിൾ ഓണാക്കുക.</value>
   </data>
   <data name="Denied" xml:space="preserve">
     <value>നിരസിച്ചു</value>
@@ -1633,11 +1645,11 @@
     <value>This export encrypts your data using your account's encryption key. If you ever rotate your account's encryption key you should export again since you will not be able to decrypt this export file.</value>
   </data>
   <data name="EncExportAccountWarning" xml:space="preserve">
-    <value>Account encryption keys are unique to each Bitwarden user account, so you can't import an encrypted export into a different account.</value>
+    <value>Account encryption keys are unique to each Bravura Safe user account, so you can't import an encrypted export into a different account.</value>
   </data>
   <data name="ExportVaultConfirmationTitle" xml:space="preserve">
     <value>വാൾട് എക്‌സ്‌പോർട്ട് സ്ഥിരീകരിക്കുക</value>
-    <comment>Title for the alert to confirm vault exports.</comment>
+    <comment>Title for the alert to confirm safe exports.</comment>
   </data>
   <data name="Warning" xml:space="preserve">
     <value>മുന്നറിയിപ്പ്‌</value>
@@ -1666,7 +1678,7 @@
     <value>അറ്റാച്ചുമെന്റ് വിജയകരമായി സംരക്ഷിച്ചു</value>
   </data>
   <data name="AutofillTileAccessibilityRequired" xml:space="preserve">
-    <value>ഓട്ടോഫിൽ ടൈൽ ഉപയോഗിക്കുന്നതിന് Bitwarden ക്രമീകരണങ്ങളിൽ നിന്ന് "ഓട്ടോഫിൽ ആക്സിസിബിലിറ്റി  സേവനം" പ്രാപ്തമാക്കുക.</value>
+    <value>ഓട്ടോഫിൽ ടൈൽ ഉപയോഗിക്കുന്നതിന് Bravura Safe ക്രമീകരണങ്ങളിൽ നിന്ന് "ഓട്ടോഫിൽ ആക്സിസിബിലിറ്റി  സേവനം" പ്രാപ്തമാക്കുക.</value>
   </data>
   <data name="AutofillTileUriNotFound" xml:space="preserve">
     <value>പാസ്‌വേഡ് ഫീൽഡുകളൊന്നും കണ്ടെത്തിയില്ല</value>
@@ -1826,23 +1838,23 @@
     <value>ഒരു എന്റർപ്രൈസ് പോളിസി നിങ്ങളുടെ സ്വകാര്യ വാൾട്ടിലേക്ക് ഇനങ്ങൾ സംരക്ഷിക്കുന്നതിൽ നിന്ന് നിങ്ങളെ നിയന്ത്രിച്ചിരിക്കുന്നു. ഉടമസ്ഥാവകാശ ഓപ്ഷൻ ഒരു സംഘടനയിലേക്ക് മാറ്റി ലഭ്യമായ ശേഖരങ്ങളിൽ നിന്ന് തിരഞ്ഞെടുക്കുക.</value>
   </data>
   <data name="PersonalOwnershipPolicyInEffect" xml:space="preserve">
-    <value>An organization policy is affecting your ownership options.</value>
+    <value>A team policy is affecting your ownership options.</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AllSends" xml:space="preserve">
-    <value>എല്ലാം Send-കൾ</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>എല്ലാം Share-കൾ</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Sends" xml:space="preserve">
-    <value>Sends</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Shares</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NameInfo" xml:space="preserve">
-    <value>A friendly name to describe this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>A friendly name to describe this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeText" xml:space="preserve">
     <value>വാചകം</value>
@@ -1851,8 +1863,8 @@
     <value>നിങ്ങൾ അയയ്ക്കാൻ ആഗ്രഹിക്കുന്ന വാചകം</value>
   </data>
   <data name="HideTextByDefault" xml:space="preserve">
-    <value>When accessing the Send, hide the text by default</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>When accessing the Share, hide the text by default</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="TypeFile" xml:space="preserve">
     <value>ഫയൽ</value>
@@ -1867,8 +1879,8 @@
     <value>ഇല്ലാതാക്കൽ സമയം</value>
   </data>
   <data name="DeletionDateInfo" xml:space="preserve">
-    <value>നിർദ്ദിഷ്ട തീയതിയിലും സമയത്തിലും Send ശാശ്വതമായി ഇല്ലാതാക്കും.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>നിർദ്ദിഷ്ട തീയതിയിലും സമയത്തിലും Share ശാശ്വതമായി ഇല്ലാതാക്കും.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PendingDelete" xml:space="preserve">
     <value>Pending deletion</value>
@@ -1880,8 +1892,8 @@
     <value>കാലഹരണപ്പെടുന്ന സമയം</value>
   </data>
   <data name="ExpirationDateInfo" xml:space="preserve">
-    <value>If set, access to this Send will expire on the specified date and time.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>If set, access to this Share will expire on the specified date and time.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="Expired" xml:space="preserve">
     <value>കാലഹരണപ്പെട്ടു</value>
@@ -1890,8 +1902,8 @@
     <value>Maximum Access Count</value>
   </data>
   <data name="MaximumAccessCountInfo" xml:space="preserve">
-    <value>If set, users will no longer be able to access this Send once the maximum access count is reached.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>If set, users will no longer be able to access this Share once the maximum access count is reached.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="MaximumAccessCountReached" xml:space="preserve">
     <value>Max access count reached</value>
@@ -1903,8 +1915,8 @@
     <value>പുതിയ പാസ്‍വേഡ്</value>
   </data>
   <data name="PasswordInfo" xml:space="preserve">
-    <value>Optionally require a password for users to access this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Optionally require a password for users to access this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="RemovePassword" xml:space="preserve">
     <value>പാസ്‌വേഡ് നീക്കംചെയ്യുക</value>
@@ -1919,20 +1931,20 @@
     <value>പാസ്‌വേഡ് നീക്കം ചെയ്തു</value>
   </data>
   <data name="NotesInfo" xml:space="preserve">
-    <value>Private notes about this Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Private notes about this Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="DisableSend" xml:space="preserve">
-    <value>Disable this Send so that no one can access it</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Disable this Share so that no one can access it</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NoSends" xml:space="preserve">
-    <value>There are no Sends in your account.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>There are no Shares in your account.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddASend" xml:space="preserve">
-    <value>ഒരു Send ചേർക്കുക</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>ഒരു Share ചേർക്കുക</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="CopyLink" xml:space="preserve">
     <value>ലിങ്ക് പകർത്തുക</value>
@@ -1942,35 +1954,35 @@
   </data>
   <data name="SendLink" xml:space="preserve">
     <value>ലിങ്ക് അയയ്‌ക്കുക</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SearchSends" xml:space="preserve">
-    <value>Send-കൾ തിരയുക</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-കൾ തിരയുക</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="EditSend" xml:space="preserve">
-    <value>Send തിരുത്തുക</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share തിരുത്തുക</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AddSend" xml:space="preserve">
-    <value>Send ചേർക്കുക</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ചേർക്കുക</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AreYouSureDeleteSend" xml:space="preserve">
-    <value>ഈ Send ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>ഈ Share ഇല്ലാതാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDeleted" xml:space="preserve">
-    <value>Send ഇല്ലാതാക്കി</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share ഇല്ലാതാക്കി</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendUpdated" xml:space="preserve">
-    <value>Send പുതുക്കി.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share പുതുക്കി.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="NewSendCreated" xml:space="preserve">
-    <value>പുതിയ Send സൃഷ്ടിച്ചു.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>പുതിയ Share സൃഷ്ടിച്ചു.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="OneDay" xml:space="preserve">
     <value>1 ദിവസം</value>
@@ -1991,31 +2003,31 @@
     <value>ഇഷ്‌ടാനുസൃതം</value>
   </data>
   <data name="ShareOnSave" xml:space="preserve">
-    <value>സംരക്ഷിച്ചതിന് ശേഷം ഈ Send പങ്കിടുക.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>സംരക്ഷിച്ചതിന് ശേഷം ഈ Share പങ്കിടുക.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendDisabledWarning" xml:space="preserve">
-    <value>Due to an enterprise policy, you are only able to delete an existing Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Due to an enterprise policy, you are only able to delete an existing Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="AboutSend" xml:space="preserve">
-    <value>Send-നെ കുറിച്ച്</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Share-നെ കുറിച്ച്</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="HideEmail" xml:space="preserve">
     <value>Hide my email address from recipients</value>
   </data>
   <data name="SendOptionsPolicyInEffect" xml:space="preserve">
-    <value>One or more organization policies are affecting your Send options.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>One or more team policies are affecting your Share options.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFilePremiumRequired" xml:space="preserve">
-    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Send.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>Free accounts are restricted to sharing text only. A premium membership is required to use files with Share.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="SendFileEmailVerificationRequired" xml:space="preserve">
-    <value>You must verify your email to use files with Send. You can verify your email in the web vault.</value>
-    <comment>'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.</comment>
+    <value>You must verify your email to use files with Share. You can verify your email in the web safe.</value>
+    <comment>'Share' is a noun and the name of a feature called 'Bravura Safe Share'. It should not be translated.</comment>
   </data>
   <data name="PasswordPrompt" xml:space="preserve">
     <value>Master password re-prompt</value>
@@ -2039,7 +2051,7 @@
     <value>പ്രാഥമിക പാസ്‌വേഡ് പുതുക്കുക</value>
   </data>
   <data name="UpdateMasterPasswordWarning" xml:space="preserve">
-    <value>Your Master Password was recently changed by an administrator in your organization. In order to access the vault, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
+    <value>Your Master Password was recently changed by an administrator in your team. In order to access the safe, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour.</value>
   </data>
   <data name="UpdatingPassword" xml:space="preserve">
     <value>പാസ്‌വേഡ് പുതുക്കുന്നു</value>
@@ -2054,10 +2066,10 @@
     <value>{0} is using SSO with customer-managed encryption. Continuing will remove your Master Password from your account and require SSO to login.</value>
   </data>
   <data name="RemoveMasterPasswordWarning2" xml:space="preserve">
-    <value>If you do not want to remove your Master Password, you may leave this organization.</value>
+    <value>If you do not want to remove your Master Password, you may leave this team.</value>
   </data>
   <data name="LeaveOrganization" xml:space="preserve">
-    <value>Leave Organization</value>
+    <value>Leave Team</value>
   </data>
   <data name="LeaveOrganizationName" xml:space="preserve">
     <value>Leave {0}?</value>
@@ -2081,16 +2093,40 @@
     <value>Please make sure your default browser supports WebAuthn and try again.</value>
   </data>
   <data name="ResetPasswordAutoEnrollInviteWarning" xml:space="preserve">
-    <value>This organization has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow organization administrators to change your master password.</value>
+    <value>This team has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow team administrators to change your master password.</value>
   </data>
   <data name="VaultTimeoutPolicyInEffect" xml:space="preserve">
-    <value>Your organization policies are affecting your vault timeout. Maximum allowed Vault Timeout is {0} hour(s) and {1} minute(s)</value>
+    <value>Your team policies are affecting your safe timeout. Maximum allowed Safe Timeout is {0} hour(s) and {1} minute(s)</value>
   </data>
   <data name="VaultTimeoutToLarge" xml:space="preserve">
-    <value>Your vault timeout exceeds the restrictions set by your organization.</value>
+    <value>Your safe timeout exceeds the restrictions set by your team.</value>
   </data>
   <data name="DisablePersonalVaultExportPolicyInEffect">
-    <value>One or more organization policies prevents your from exporting your personal vault.</value>
+    <value>One or more team policies prevents you from exporting your personal safe.</value>
+  </data>
+  <data name="AddAccount" xml:space="preserve">
+    <value>Add Account</value>
+  </data>
+  <data name="AccountUnlocked" xml:space="preserve">
+    <value>Unlocked</value>
+  </data>
+  <data name="AccountLocked" xml:space="preserve">
+    <value>Locked</value>
+  </data>
+  <data name="AccountLoggedOut" xml:space="preserve">
+    <value>Logged Out</value>
+  </data>
+  <data name="AccountSwitchedAutomatically" xml:space="preserve">
+    <value>Switched to next available account</value>
+  </data>
+  <data name="AccountLockedSuccessfully" xml:space="preserve">
+    <value>Account Locked</value>
+  </data>
+  <data name="AccountLoggedOutSuccessfully" xml:space="preserve">
+    <value>Account logged out successfully</value>
+  </data>
+  <data name="AccountRemovedSuccessfully" xml:space="preserve">
+    <value>Account removed successfully</value>
   </data>
   <data name="DeleteAccount" xml:space="preserve">
     <value>Delete Account</value>
@@ -2120,7 +2156,7 @@
     <value>Sending</value>
   </data>
   <data name="CopySendLinkOnSave" xml:space="preserve">
-    <value>Copy Send link on save</value>
+    <value>Copy Share link on save</value>
   </data>
   <data name="SendingCode" xml:space="preserve">
     <value>Sending code</value>

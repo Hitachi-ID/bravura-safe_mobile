@@ -81,7 +81,7 @@ namespace Bit.App.Utilities
                 }
                 else
                 {
-                    iconsUrl = "https://icons.bitwarden.net";
+                    iconsUrl = "https://icons.hitachi-id.com";
                 }
             }
             return string.Format("{0}/{1}/icon.png", iconsUrl, hostname);

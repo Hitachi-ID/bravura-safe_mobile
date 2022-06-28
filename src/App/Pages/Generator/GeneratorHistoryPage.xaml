@@ -7,7 +7,6 @@
     xmlns:controls="clr-namespace:Bit.App.Controls"
     xmlns:u="clr-namespace:Bit.App.Utilities"
     xmlns:domain="clr-namespace:Bit.Core.Models.Domain;assembly=BitwardenCore"
-    xmlns:core="clr-namespace:Bit.Core;assembly=BitwardenCore"
     x:DataType="pages:GeneratorHistoryPageViewModel"
     x:Name="_page"
     Title="{Binding PageTitle}">
@@ -76,9 +75,9 @@
                             Grid.Row="1"
                             StyleClass="list-subtitle, list-subtitle-platform"
                             Text="{Binding Date, Mode=OneWay, Converter={StaticResource dateTime}}" />
-                        <controls:IconButton
+                        <controls:FaButton
                             StyleClass="list-row-button, list-row-button-platform"
-                            Text="{Binding Source={x:Static core:BitwardenIcons.Paste}}"
+                            Text="&#xf0ea;"
                             Command="{Binding BindingContext.CopyCommand, Source={x:Reference _page}}"
                             CommandParameter="{Binding .}"
                             Grid.Row="0"
