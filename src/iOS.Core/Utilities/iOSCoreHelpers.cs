@@ -19,11 +19,11 @@ namespace Bit.iOS.Core.Utilities
 {
     public static class iOSCoreHelpers
     {
-        public static string AppId = "com.8bit.bitwarden";
-        public static string AppAutofillId = "com.8bit.bitwarden.autofill";
-        public static string AppExtensionId = "com.8bit.bitwarden.find-login-action-extension";
-        public static string AppGroupId = "group.com.8bit.bitwarden";
-        public static string AccessGroup = "LTZ2PFU5D6.com.8bit.bitwarden";
+        public static string AppId = "com.hitachiid.safe";
+        public static string AppAutofillId = "com.hitachiid.safe.autofill";
+        public static string AppExtensionId = "com.hitachiid.safe.find-login-action-extension";
+        public static string AppGroupId = "group.com.hitachiid.safe";
+        public static string AccessGroup = "LTZ2PFU5D6.com.hitachiid.safe";
 
         public static void RegisterAppCenter()
         {

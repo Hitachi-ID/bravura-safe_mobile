@@ -5,11 +5,11 @@
 	<key>MinimumOSVersion</key>
 	<string>10.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>Bitwarden</string>
+	<string>Bravura Safe</string>
 	<key>CFBundleName</key>
-	<string>Bitwarden</string>
+	<string>Bravura Safe</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.8bit.bitwarden</string>
+	<string>com.hitachiid.safe</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.18.0</string>
 	<key>CFBundleVersion</key>
@@ -21,13 +21,13 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>bitwarden</string>
+				<string>bravurasafe</string>
 				<string>org-appextension-feature-password-management</string>
 			</array>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.8bit.bitwarden.url</string>
+			<string>com.hitachiid.safe.url</string>
 		</dict>
 	</array>
 	<key>CFBundleLocalizations</key>

@@ -6,11 +6,11 @@
     <string>ad-hoc</string>
     <key>provisioningProfiles</key>
     <dict>
-        <key>com.8bit.bitwarden</key>
+        <key>com.hitachiid.safe</key>
         <string>Ad hoc: Bitwarden 2021</string>
-        <key>com.8bit.bitwarden.autofill</key>
+        <key>com.hitachiid.safe.autofill</key>
         <string>Ad hoc: Autofill 2021</string>
-        <key>com.8bit.bitwarden.find-login-action-extension</key>
+        <key>com.hitachiid.safe.find-login-action-extension</key>
         <string>Ad hoc: Extension 2021</string>
     </dict>
 </dict>

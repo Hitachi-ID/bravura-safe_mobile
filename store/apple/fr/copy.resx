@@ -122,31 +122,15 @@
     <comment>Max 30 characters</comment>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Bitwarden, Inc. est la société mère de 8bit Solutions LLC.
+    <value>An easy-to-implement enterprise password safe that centrally manages decentralized passwords to protect against cyberattacks.
 
-NOMMÉ MEILLEUR GESTIONNAIRE DE MOTS DE PASSE PAR THE VERGE, U.S. NEWS &amp; WORLD REPORT, CNET, ET PLUS ENCORE.
+Hitachi ID Bravura Safe is an easy-to-implement enterprise password safe that centrally, consistently, and securely manages decentralized passwords, secrets, personal information, and files to protect against cyberattacks.
 
-Gérez, stockez, sécurisez et partagez un nombre illimité de mots de passe sur un nombre illimité d'appareils, où que vous soyez. Bitwarden fournit des solutions de gestion de mots de passe open source à tout le monde, que ce soit à la maison, au travail ou en déplacement.
+It leverages two decades of Hitachi ID's enterprise cybersecurity solutions that organizations around the world already trust for their security needs. You can trust that Bravura Safe will protect and respect your privacy through its Zero Knowledge encryption. All sensitive information ( passwords, personal information, files, etc ) are encrypted client side. Only encrypted data is transferred to the Bravura Safe service. It is impossible for employees at Hitachi ID to decrypt this data since you - and you alone - know the encryption key to your personal information.
 
-Générez des mots de passe forts, uniques et aléatoires basés sur des exigences de sécurité pour chaque site web que vous fréquentez.
+Bravura Safe is open source software and is freely available on github ( https://github.com/Hitachi-ID ) for anyone to review. Hitachi ID believes this openness is critical for building a foundation of trust.
 
-Bitwarden Send transmet rapidement des informations chiffrées --- fichiers et texte --- directement à quiconque.
-
-Bitwarden propose les plans Teams et Enterprise pour les entreprises afin que vous puissiez partager des mots de passe en toute sécurité avec vos collègues.
-
-Pourquoi choisir Bitwarden :
-
-Un chiffrement de classe internationale
-Les mots de passe sont protégés par un chiffrement avancé de bout en bout (AES-256 bit, salted hashtag, et PBKDF2 SHA-256) afin que vos données restent sécurisées et privées.
-
-Générateur de mots de passe intégré
-Générez des mots de passe forts, uniques et aléatoires en fonction des exigences de sécurité pour chaque site web que vous fréquentez.
-
-Traductions mondiales
-Les traductions de Bitwarden existent dans 40 langues et ne cessent de croître, grâce à notre communauté mondiale.
-
-Applications multiplateformes
-Sécurisez et partagez des données sensibles dans votre coffre-fort Bitwarden à partir de n'importe quel navigateur, appareil mobile ou système d'exploitation de bureau, et plus encore.</value>
+Hitachi ID Bravura Safe is a modified version of Bitwarden®. It was developed using Bitwarden open source software. Hitachi ID Systems, Inc. and Bravura Safe are not affiliated with or endorsed by Bitwarden or Bitwarden, Inc. Bitwarden is a trademark or registered trademark of Bitwarden, Inc. in the United States and/or other countries.</value>
   <comment>Max 4000 characters</comment>
   </data>
   <data name="Keywords" xml:space="preserve">

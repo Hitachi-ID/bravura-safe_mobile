@@ -11,7 +11,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Bit.iOS.Core</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>BitwardeniOSCore</AssemblyName>
+    <AssemblyName>BravuraSafeiOSCore</AssemblyName>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
