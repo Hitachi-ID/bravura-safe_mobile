@@ -19,11 +19,11 @@ namespace Bit.iOS.Core.Utilities
 {
     public static class iOSCoreHelpers
     {
-        public static string AppId = "com.hitachiid.safe";
-        public static string AppAutofillId = "com.hitachiid.safe.autofill";
-        public static string AppExtensionId = "com.hitachiid.safe.find-login-action-extension";
-        public static string AppGroupId = "group.com.hitachiid.safe";
-        public static string AccessGroup = "LTZ2PFU5D6.com.hitachiid.safe";
+        public static string AppId = "com.hitachiid.bravurasafe";
+        public static string AppAutofillId = "com.hitachiid.bravurasafe.autofill";
+        public static string AppExtensionId = "com.hitachiid.bravurasafe.find-login-action-extension";
+        public static string AppGroupId = "group.com.hitachiid.bravurasafe";
+        public static string AccessGroup = "LTZ2PFU5D6.com.hitachiid.bravurasafe";
 
         public static void RegisterAppCenter()
         {

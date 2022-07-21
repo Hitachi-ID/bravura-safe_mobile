@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Bravura Safe</string>
 	<key>CFBundleName</key>
-	<string>Bitwarden Autofill</string>
+	<string>Bravura Safe Autofill</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.hitachiid.safe.autofill</string>
 	<key>CFBundleShortVersionString</key>

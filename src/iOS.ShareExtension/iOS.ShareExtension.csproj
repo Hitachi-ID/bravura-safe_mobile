@@ -51,6 +51,7 @@
     <MtouchVerbosity>
     </MtouchVerbosity>
     <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
+    <CodesignProvision>Automatic</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>pdbonly</DebugType>
@@ -69,6 +70,7 @@
     </MtouchVerbosity>
     <AssemblyName>BravuraSafeiOSShareExtension</AssemblyName>
     <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
+    <CodesignProvision>Automatic</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
     <DebugSymbols>true</DebugSymbols>
