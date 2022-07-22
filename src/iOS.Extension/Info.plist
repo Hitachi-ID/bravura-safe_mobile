@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bitwarden Extension</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.hitachiid.safe.find-login-action-extension</string>
+	<string>com.hitachiid.bravurasafe.find-login-action-extension</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.18.0</string>
 	<key>CFBundleLocalizations</key>
@@ -103,7 +103,7 @@
 			||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.change-password-action"
 			||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.fill-webview-action"
 			||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.fill-browser-action"
-            ||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "com.hitachiid.safe.extension-setup"
+            ||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "com.hitachiid.bravurasafe.extension-setup"
 		).@count == $extensionItem.attachments.@count
 	).@count == 1</string>
 		</dict>

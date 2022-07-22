@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bravura Safe Autofill</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.hitachiid.safe.autofill</string>
+	<string>com.hitachiid.bravurasafe.autofill</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.18.0</string>
 	<key>CFBundleVersion</key>

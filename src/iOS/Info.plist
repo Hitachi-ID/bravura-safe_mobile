@@ -9,7 +9,7 @@
 	<key>CFBundleName</key>
 	<string>Bravura Safe</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.hitachiid.safe</string>
+	<string>com.hitachiid.bravurasafe</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.18.0</string>
 	<key>CFBundleVersion</key>
@@ -27,7 +27,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.hitachiid.safe.url</string>
+			<string>com.hitachiid.bravurasafe.url</string>
 		</dict>
 	</array>
 	<key>CFBundleLocalizations</key>
