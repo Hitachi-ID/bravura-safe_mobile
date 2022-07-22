@@ -139,7 +139,7 @@
     <value>Πίσω</value>
     <comment>Navigate back to the previous screen.</comment>
   </data>
-  <data name="Bravura Safe" xml:space="preserve">
+  <data name="Bitwarden" xml:space="preserve">
     <value>Bravura Safe</value>
     <comment>App name. Shouldn't ever change.</comment>
   </data>

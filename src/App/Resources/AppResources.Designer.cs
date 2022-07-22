@@ -85,7 +85,7 @@ namespace Bit.App.Resources {
         
         public static string Bitwarden {
             get {
-                return ResourceManager.GetString("Bravura Safe", resourceCulture);
+                return ResourceManager.GetString("Bitwarden", resourceCulture);
             }
         }
         
