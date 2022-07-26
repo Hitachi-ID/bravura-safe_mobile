@@ -3,7 +3,7 @@ using UIKit;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-[assembly: ResolutionGroupName("Bitwarden")]
+[assembly: ResolutionGroupName("Bravura Safe")]
 [assembly: ExportEffect(typeof(ScrollEnabledEffect), "ScrollEnabledEffect")]
 namespace Bit.iOS.Core.Effects
 {

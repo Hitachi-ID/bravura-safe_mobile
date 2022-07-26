@@ -4,7 +4,7 @@ using Google.Android.Material.BottomNavigation;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 
-[assembly: ResolutionGroupName("Bitwarden")]
+[assembly: ResolutionGroupName("Bravura Safe")]
 [assembly: ExportEffect(typeof(TabBarEffect), "TabBarEffect")]
 namespace Bit.Droid.Effects
 {

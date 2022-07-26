@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -11,7 +11,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Bit.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>BitwardeniOS</AssemblyName>
+    <AssemblyName>BravuraSafeiOS</AssemblyName>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -41,9 +41,11 @@
     <MtouchLink>Full</MtouchLink>
     <MtouchArch>x86_64</MtouchArch>
     <ConsolePause>false</ConsolePause>
-    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardeniOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BitwardeniOSShareExtension </MtouchExtraArgs>
+    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BravuraSafeiOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BravuraSafeiOSShareExtension </MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignProvision>Automatic</CodesignProvision>
+    <CodesignKey>iPhone Developer</CodesignKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
     <DebugSymbols>true</DebugSymbols>
@@ -74,7 +76,7 @@
     <CodesignKey>iPhone Developer</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchLink>Full</MtouchLink>
-    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardeniOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BravuraSafeiOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
@@ -89,7 +91,7 @@
     <CodesignKey>iPhone Distribution</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchLink>Full</MtouchLink>
-    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardeniOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BravuraSafeiOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <CodesignProvision>Automatic:AdHoc</CodesignProvision>
   </PropertyGroup>
@@ -104,7 +106,7 @@
     <CodesignProvision>Automatic:AppStore</CodesignProvision>
     <CodesignKey>iPhone Distribution</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardeniOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BravuraSafeiOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <MtouchLink>Full</MtouchLink>
   </PropertyGroup>
@@ -116,7 +118,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardeniOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper</MtouchExtraArgs>
+    <MtouchExtraArgs>--nodevcodeshare --http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BravuraSafeiOSExtension --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=CsvHelper</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <MtouchLink>SdkOnly</MtouchLink>
   </PropertyGroup>
@@ -348,67 +350,67 @@
     <BundleResource Include="Resources\yubikey%403x.png" />
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-1024.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\1024.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-120.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\120.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-152.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\152.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-167.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\167.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-180.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\180.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-20.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\20.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-29.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\29.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-40.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\40.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-58.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\58.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-60.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\60.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-76.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\76.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-80.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\80.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\Icon-87.png">
+    <ImageAsset Include="Resources\Assets.xcassets\AppIcons.appiconset\87.png">
       <Visible>false</Visible>
     </ImageAsset>
   </ItemGroup>
