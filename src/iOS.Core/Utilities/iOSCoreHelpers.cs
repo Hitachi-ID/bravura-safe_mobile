@@ -23,7 +23,7 @@ namespace Bit.iOS.Core.Utilities
         public static string AppAutofillId = "com.hitachiid.bravurasafe.autofill";
         public static string AppExtensionId = "com.hitachiid.bravurasafe.find-login-action-extension";
         public static string AppGroupId = "group.com.hitachiid.bravurasafe";
-        public static string AccessGroup = "LTZ2PFU5D6.com.hitachiid.bravurasafe";
+        public static string AccessGroup = "P96648JUTV.com.hitachiid.bravurasafe";
 
         public static void RegisterAppCenter()
         {
