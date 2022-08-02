@@ -2200,7 +2200,7 @@
     <value>Submit crash logs</value>
   </data>
   <data name="SubmitCrashLogsDescription" xml:space="preserve">
-    <value>Help Bitwarden improve app stability by submitting crash reports.</value>
+    <value>Help Hitachi ID Systems improve app stability by submitting crash reports.</value>
   </data>
   <data name="OptionsExpanded" xml:space="preserve">
     <value>Options are expanded, tap to collapse.</value>

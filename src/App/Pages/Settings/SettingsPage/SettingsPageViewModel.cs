@@ -510,7 +510,7 @@ namespace Bit.App.Pages
                 new SettingsPageListItem { Name = AppResources.Options },
                 new SettingsPageListItem { Name = AppResources.About }
 #if !FDROID 
-                new SettingsPageListItem
+                , new SettingsPageListItem
                 {
                     Name = AppResources.SubmitCrashLogs,
                     SubLabel = _reportLoggingEnabled ? AppResources.Enabled : AppResources.Disabled,

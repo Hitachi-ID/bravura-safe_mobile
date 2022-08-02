@@ -121,7 +121,7 @@
     <controls:MiButton
         Grid.Row="0"
         Grid.Column="2"
-        Text="{Binding Source={x:Static core:BitwardenIcons.ViewCellMenu}}"
+        Text="&#xe5d3;"
         IsVisible="{Binding ShowOptions, Mode=OneWay}"
         StyleClass="list-row-button, list-row-button-platform, btn-disabled"
         Clicked="MoreButton_Clicked"
