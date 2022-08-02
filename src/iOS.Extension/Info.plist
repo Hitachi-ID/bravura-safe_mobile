@@ -11,7 +11,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.hitachiid.bravurasafe.find-login-action-extension</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.18.0</string>
+	<string>2022.6.0</string>
 	<key>CFBundleLocalizations</key>
 	<array>
 		<string>en</string>

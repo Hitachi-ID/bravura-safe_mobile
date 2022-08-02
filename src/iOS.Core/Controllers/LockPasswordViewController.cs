@@ -17,6 +17,8 @@ using Xamarin.Forms;
 
 namespace Bit.iOS.Core.Controllers
 {
+    // TODO: Leaving this here until all inheritance is changed to use BaseLockPasswordViewController instead of UITableViewController
+    [Obsolete("Use BaseLockPasswordViewController instead")]
     public abstract class LockPasswordViewController : ExtendedUITableViewController
     {
         private IVaultTimeoutService _vaultTimeoutService;
