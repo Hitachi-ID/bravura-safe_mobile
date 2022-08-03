@@ -5,9 +5,9 @@
 	<key>MinimumOSVersion</key>
 	<string>10.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>Bitwarden</string>
+	<string>Bravura Safe</string>
 	<key>CFBundleName</key>
-	<string>Bitwarden Extension</string>
+	<string>Bravura Safe Extension</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.hitachiid.bravurasafe.find-login-action-extension</string>
 	<key>CFBundleShortVersionString</key>
