@@ -203,7 +203,7 @@ namespace Bit.App.Pages
                 providerData = _authService.TwoFactorProvidersData[TwoFactorProviderType.Fido2WebAuthn];
             }
 
-            var callbackUri = "bitwarden://webauthn-callback";
+            var callbackUri = "bravurasafe://webauthn-callback";
             var data = AppHelpers.EncodeDataParameter(new
             {
                 callbackUri = callbackUri,
