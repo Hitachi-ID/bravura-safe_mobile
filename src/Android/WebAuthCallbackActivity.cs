@@ -10,7 +10,7 @@ namespace Bit.Droid
         LaunchMode = LaunchMode.SingleTop)]
     [IntentFilter(new[] { Android.Content.Intent.ActionView },
         Categories = new[] { Android.Content.Intent.CategoryDefault, Android.Content.Intent.CategoryBrowsable },
-        DataScheme = "bitwarden")]
+        DataScheme = "bravurasafe")]
     public class WebAuthCallbackActivity : Xamarin.Essentials.WebAuthenticatorCallbackActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

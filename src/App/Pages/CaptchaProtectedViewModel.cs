@@ -18,7 +18,7 @@ namespace Bit.App.Pages
 
         protected async Task<bool> HandleCaptchaAsync(string CaptchaSiteKey)
         {
-            var callbackUri = "bitwarden://captcha-callback";
+            var callbackUri = "bravurasafe://captcha-callback";
             var data = AppHelpers.EncodeDataParameter(new
             {
                 siteKey = CaptchaSiteKey,

@@ -106,7 +106,7 @@ namespace Bit.App.Pages
 
             var state = await _passwordGenerationService.GeneratePasswordAsync(passwordOptions);
 
-            var redirectUri = "bitwarden://sso-callback";
+            var redirectUri = "bravurasafe://sso-callback";
 
             var url = _apiService.IdentityBaseUrl + "/connect/authorize?" +
                       "client_id=" + _platformUtilsService.GetClientType().GetString() + "&" +
