@@ -10,7 +10,7 @@ This project contains the mobile applications.
 
 # Mobile Application
 
-<a href="https://play.google.com/store/apps/details?id=com.x8bit..<replace me>" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/.<replace me>.png" width="153" height="46"></a> <a href="https://mobileapp.<replace me>/fdroid/" target="_blank"><img alt="Get it on Google Play" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/.<replace me>/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/.<replace me>.png" width="135" height="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.xhitachiid..<replace me>" target="_blank"><img alt="Get it on Google Play" src="https://imgur.com/.<replace me>.png" width="153" height="46"></a> <a href="https://mobileapp.<replace me>/fdroid/" target="_blank"><img alt="Get it on Google Play" src="https://i.imgur.com/HDicnzz.png" width="154" height="46"></a> <a href="https://itunes.apple.com/us/app/.<replace me>/id1137397744?mt=8" target="_blank"><img src="https://imgur.com/.<replace me>.png" width="135" height="40"></a>
 
 The mobile application is written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 

@@ -7,7 +7,7 @@
     <ProjectTypeGuids>{EE2C853D-36AF-4FDB-B1AD-8E90477E2198};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>Bit.iOS.Autofill</RootNamespace>
-    <AssemblyName>BitwardeniOSAutofill</AssemblyName>
+    <AssemblyName>BravuraSafeiOSAutofill</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AppDesignerFolder>Properties</AppDesignerFolder>
   </PropertyGroup>
@@ -41,10 +41,10 @@
     <ConsolePause>false</ConsolePause>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
-    <CodesignKey>iPhone Distribution</CodesignKey>
-    <CodesignProvision>Dist: Autofill</CodesignProvision>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>Automatic</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
     <DebugSymbols>true</DebugSymbols>
@@ -75,12 +75,12 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchArch>ARM64</MtouchArch>
     <ConsolePause>false</ConsolePause>
-    <CodesignKey>iPhone Distribution</CodesignKey>
+    <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchLink>Full</MtouchLink>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <OptimizePNGs>true</OptimizePNGs>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
-    <CodesignProvision>Dist: Autofill</CodesignProvision>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
+    <CodesignProvision>Automatic</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
     <AppExtensionDebugBundleId />
@@ -93,7 +93,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <MtouchLink>Full</MtouchLink>
@@ -112,7 +112,7 @@
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <MtouchLink>Full</MtouchLink>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <MtouchArch>ARM64</MtouchArch>
     <MtouchSdkVersion>10.2</MtouchSdkVersion>
@@ -128,7 +128,7 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <MtouchLink>Full</MtouchLink>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
@@ -149,7 +149,7 @@
     <MtouchArch>ARM64</MtouchArch>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <MtouchLink>Full</MtouchLink>
-    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BitwardeniOS --linkskip=BitwardeniOSCore --linkskip=BitwardeniOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BitwardeniOSShareExtension</MtouchExtraArgs>
+    <MtouchExtraArgs>--http-message-handler=NSUrlSessionHandler --linkskip=BravuraSafeiOS --linkskip=BravuraSafeiOSCore --linkskip=BravuraSafeiOSAutofill --linkskip=BitwardenApp --linkskip=BitwardenCore --linkskip=LiteDB --linkskip=BravuraSafeiOSShareExtension</MtouchExtraArgs>
     <OptimizePNGs>true</OptimizePNGs>
     <CodesignKey>iPhone Distribution</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>

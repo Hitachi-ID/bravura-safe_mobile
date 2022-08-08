@@ -13,7 +13,7 @@ namespace Bit.Droid.Services
 {
     public class BiometricService : IBiometricService
     {
-        private const string KeyName = "com.8bit.bitwarden.biometric_integrity";
+        private const string KeyName = "com.hitachi_id.safe.biometric_integrity";
 
         private const string KeyStoreName = "AndroidKeyStore";
 
