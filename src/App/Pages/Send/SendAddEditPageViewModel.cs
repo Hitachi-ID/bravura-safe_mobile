@@ -43,6 +43,8 @@ namespace Bit.App.Pages
         {
             nameof(IsText),
             nameof(IsFile),
+            nameof(FileTypeAccessibilityLabel),
+            nameof(TextTypeAccessibilityLabel)
         };
         private bool _disableHideEmail;
         private bool _sendOptionsPolicyInEffect;
@@ -58,6 +60,7 @@ namespace Bit.App.Pages
             _logger = ServiceContainer.Resolve<ILogger>("logger");
 
             TogglePasswordCommand = new Command(TogglePassword);
+            ToggleOptionsCommand = new Command(ToggleOptions);
 
             TypeOptions = new List<KeyValuePair<string, SendType>>
             {
@@ -88,6 +91,7 @@ namespace Bit.App.Pages
         }
 
         public Command TogglePasswordCommand { get; set; }
+        public Command ToggleOptionsCommand { get; set; }
         public string SendId { get; set; }
         public int SegmentedButtonHeight { get; set; }
         public int SegmentedButtonFontSize { get; set; }
@@ -101,6 +105,7 @@ namespace Bit.App.Pages
         public bool DisableHideEmailControl { get; set; }
         public bool IsAddFromShare { get; set; }
         public string ShareOnSaveText => CopyInsteadOfShareAfterSaving ? AppResources.CopySendLinkOnSave : AppResources.ShareOnSave;
+        public string OptionsAccessilibityText => ShowOptions ? AppResources.OptionsExpanded : AppResources.OptionsCollapsed;
         public List<KeyValuePair<string, SendType>> TypeOptions { get; }
         public List<KeyValuePair<string, string>> DeletionTypeOptions { get; }
         public List<KeyValuePair<string, string>> ExpirationTypeOptions { get; }
@@ -133,7 +138,11 @@ namespace Bit.App.Pages
         public bool ShowOptions
         {
             get => _showOptions;
-            set => SetProperty(ref _showOptions, value);
+            set => SetProperty(ref _showOptions, value,
+                additionalPropertyNames: new[]
+                {
+                    nameof(OptionsAccessilibityText)
+                });
         }
         public int ExpirationDateTypeSelectedIndex
         {
@@ -210,7 +219,8 @@ namespace Bit.App.Pages
             set => SetProperty(ref _showPassword, value,
                 additionalPropertyNames: new[]
                 {
-                    nameof(ShowPasswordIcon)
+                    nameof(ShowPasswordIcon),
+                    nameof(PasswordVisibilityAccessibilityText)
                 });
         }
         public bool DisableHideEmail
@@ -230,6 +240,9 @@ namespace Bit.App.Pages
         public bool ShowDeletionCustomPickers => EditMode || DeletionDateTypeSelectedIndex == 6;
         public bool ShowExpirationCustomPickers => EditMode || ExpirationDateTypeSelectedIndex == 7;
         public string ShowPasswordIcon => ShowPassword ? "" : "";
+        public string PasswordVisibilityAccessibilityText => ShowPassword ? AppResources.PasswordIsVisibleTapToHide : AppResources.PasswordIsNotVisibleTapToShow;
+        public string FileTypeAccessibilityLabel => IsFile ? AppResources.FileTypeIsSelected : AppResources.FileTypeIsNotSelected;
+        public string TextTypeAccessibilityLabel => IsText ? AppResources.TextTypeIsSelected : AppResources.TextTypeIsNotSelected;
 
         public async Task InitAsync()
         {

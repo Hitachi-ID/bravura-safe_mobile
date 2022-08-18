@@ -167,6 +167,10 @@ namespace Bit.App.Pages
             {
                 await _vm.UpdatePinAsync();
             }
+            else if (item.Name == AppResources.SubmitCrashLogs)
+            {
+                await _vm.LoggerReportingAsync();
+            }
             else
             {
                 var biometricName = AppResources.Biometrics;
