@@ -52,7 +52,7 @@ namespace Bit.Droid.Services
             var activity = (MainActivity)CrossCurrentActivity.Current.Activity;
             var clipboardManager = activity.GetSystemService(
                 Context.ClipboardService) as Android.Content.ClipboardManager;
-            var clipData = ClipData.NewPlainText("bitwarden", text);
+            var clipData = ClipData.NewPlainText("bravurasafe", text); // this used to be "bitwarden" and not "bravurasafe"
             if (isSensitive)
             {
                 clipData.Description.Extras ??= new PersistableBundle();
