@@ -48,8 +48,6 @@
                                 Clicked="LogIn_Clicked" />
                         <Button Text="{u:I18n CreateAccount}"
                                 Clicked="Register_Clicked" />
-                        <Button Text="{u:I18n LogInSso}"
-                                Clicked="LogInSso_Clicked" />
                         <Button Text="{u:I18n Cancel}"
                                 IsVisible="{Binding ShowCancelButton}"
                                 Margin="0,10,0,0"

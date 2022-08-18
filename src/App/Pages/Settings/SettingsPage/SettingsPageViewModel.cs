@@ -428,8 +428,7 @@ namespace Bit.App.Pages
                 {
                     autofillItems.Add(new SettingsPageListItem { Name = AppResources.PasswordAutofill });
                 }
-                // hide app extension list item on settings page
-                //autofillItems.Add(new SettingsPageListItem { Name = AppResources.AppExtension });
+                autofillItems.Add(new SettingsPageListItem { Name = AppResources.AppExtension });
             }
             var manageItems = new List<SettingsPageListItem>
             {
