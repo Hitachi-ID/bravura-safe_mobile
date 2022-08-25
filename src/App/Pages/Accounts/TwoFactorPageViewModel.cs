@@ -29,6 +29,7 @@ namespace Bit.App.Pages
         private readonly IBroadcasterService _broadcasterService;
         private readonly IStateService _stateService;
         private readonly II18nService _i18nService;
+        private readonly IAppIdService _appIdService;
 
         private TwoFactorProviderType? _selectedProviderType;
         private string _totpInstruction;
@@ -49,6 +50,7 @@ namespace Bit.App.Pages
             _broadcasterService = ServiceContainer.Resolve<IBroadcasterService>("broadcasterService");
             _stateService = ServiceContainer.Resolve<IStateService>("stateService");
             _i18nService = ServiceContainer.Resolve<II18nService>("i18nService");
+            _appIdService = ServiceContainer.Resolve<IAppIdService>("appIdService");
 
             PageTitle = AppResources.TwoStepLogin;
             SubmitCommand = new Command(async () => await SubmitAsync());
@@ -203,7 +205,7 @@ namespace Bit.App.Pages
                 providerData = _authService.TwoFactorProvidersData[TwoFactorProviderType.Fido2WebAuthn];
             }
 
-            var callbackUri = "bitwarden://webauthn-callback";
+            var callbackUri = "bravurasafe://webauthn-callback";
             var data = AppHelpers.EncodeDataParameter(new
             {
                 callbackUri = callbackUri,
@@ -380,7 +382,8 @@ namespace Bit.App.Pages
                 var request = new TwoFactorEmailRequest
                 {
                     Email = _authService.Email,
-                    MasterPasswordHash = _authService.MasterPasswordHash
+                    MasterPasswordHash = _authService.MasterPasswordHash,
+                    DeviceIdentifier = await _appIdService.GetAppIdAsync()
                 };
                 await _apiService.PostTwoFactorEmailAsync(request);
                 if (showLoading)

@@ -7,10 +7,10 @@ using Bit.App.Resources;
 using Bit.Core.Abstractions;
 using Bit.Core.Enums;
 using Bit.Core.Models.Domain;
+using Bit.Core.Services;
 using Bit.Core.Utilities;
 using Xamarin.CommunityToolkit.ObjectModel;
 using Xamarin.Forms;
-using ZXing.Client.Result;
 
 namespace Bit.App.Pages
 {
@@ -29,7 +29,7 @@ namespace Bit.App.Pages
         private readonly ILocalizeService _localizeService;
         private readonly IKeyConnectorService _keyConnectorService;
         private readonly IClipboardService _clipboardService;
-
+        private readonly ILogger _loggerService;
         private const int CustomVaultTimeoutValue = -100;
 
         private bool _supportsBiometric;
@@ -39,6 +39,7 @@ namespace Bit.App.Pages
         private string _vaultTimeoutDisplayValue;
         private string _vaultTimeoutActionDisplayValue;
         private bool _showChangeMasterPassword;
+        private bool _reportLoggingEnabled;
 
         private List<KeyValuePair<string, int?>> _vaultTimeouts =
             new List<KeyValuePair<string, int?>>
@@ -79,6 +80,7 @@ namespace Bit.App.Pages
             _localizeService = ServiceContainer.Resolve<ILocalizeService>("localizeService");
             _keyConnectorService = ServiceContainer.Resolve<IKeyConnectorService>("keyConnectorService");
             _clipboardService = ServiceContainer.Resolve<IClipboardService>("clipboardService");
+            _loggerService = ServiceContainer.Resolve<ILogger>("logger");
 
             GroupedItems = new ObservableRangeCollection<ISettingsPageListItem>();
             PageTitle = AppResources.Settings;
@@ -123,7 +125,7 @@ namespace Bit.App.Pages
 
             _showChangeMasterPassword = IncludeLinksWithSubscriptionInfo() &&
                 !await _keyConnectorService.GetUsesKeyConnector();
-
+            _reportLoggingEnabled = await _loggerService.IsEnabled();
             BuildList();
         }
 
@@ -274,6 +276,26 @@ namespace Bit.App.Pages
             }
         }
 
+        public async Task LoggerReportingAsync()
+        {
+            var options = new[]
+            {
+                    CreateSelectableOption(AppResources.Yes, _reportLoggingEnabled),
+                    CreateSelectableOption(AppResources.No, !_reportLoggingEnabled),
+            };
+
+            var selection = await Page.DisplayActionSheet(AppResources.SubmitCrashLogsDescription, AppResources.Cancel, null, options);
+
+            if (selection == null || selection == AppResources.Cancel)
+            {
+                return;
+            }
+
+            await _loggerService.SetEnabled(CompareSelection(selection, AppResources.Yes));
+            _reportLoggingEnabled = await _loggerService.IsEnabled();
+            BuildList();
+        }
+
         public async Task VaultTimeoutActionAsync()
         {
             var options = _vaultTimeoutActions.Select(o =>
@@ -406,8 +428,7 @@ namespace Bit.App.Pages
                 {
                     autofillItems.Add(new SettingsPageListItem { Name = AppResources.PasswordAutofill });
                 }
-                // hide app extension list item on settings page
-                //autofillItems.Add(new SettingsPageListItem { Name = AppResources.AppExtension });
+                autofillItems.Add(new SettingsPageListItem { Name = AppResources.AppExtension });
             }
             var manageItems = new List<SettingsPageListItem>
             {
@@ -482,16 +503,20 @@ namespace Bit.App.Pages
             {
                 toolsItems.Add(new SettingsPageListItem { Name = AppResources.WebVault });
             }
+
             var otherItems = new List<SettingsPageListItem>
             {
                 new SettingsPageListItem { Name = AppResources.Options },
                 new SettingsPageListItem { Name = AppResources.About }
+#if !FDROID 
+                , new SettingsPageListItem
+                {
+                    Name = AppResources.SubmitCrashLogs,
+                    SubLabel = _reportLoggingEnabled ? AppResources.Enabled : AppResources.Disabled,
+                },
+#endif
             };
-            if (IncludeLinksWithSubscriptionInfo())
-            {
-                otherItems.Add(new SettingsPageListItem { Name = AppResources.LearnOrg });
-            }
-            otherItems.Add(new SettingsPageListItem { Name = AppResources.HelpAndFeedback });
+
             // TODO: improve this. Leaving this as is to reduce error possibility on the hotfix.
             var settingsListGroupItems = new List<SettingsPageListGroup>()
             {
@@ -565,5 +590,9 @@ namespace Bit.App.Pages
         {
             return _vaultTimeouts.FirstOrDefault(o => o.Key == key).Value;
         }
+
+        private string CreateSelectableOption(string option, bool selected) => selected ? $"✓ {option}" : option;
+
+        private bool CompareSelection(string selection, string compareTo) => selection == compareTo || selection == $"✓ {compareTo}";
     }
 }
