@@ -2230,16 +2230,16 @@
     <value>Password is not visible, tap to show.</value>
   </data>
   <data name="FilterByVault" xml:space="preserve">
-    <value>Filter items by vault</value>
+    <value>Filter items by safe</value>
   </data>
   <data name="AllVaults" xml:space="preserve">
-    <value>All Vaults</value>
+    <value>All Safe(s)</value>
   </data>
   <data name="Vaults" xml:space="preserve">
-    <value>Vaults</value>
+    <value>Safe</value>
   </data>
   <data name="VaultFilterDescription" xml:space="preserve">
-    <value>Vault: {0}</value>
+    <value>Safe: {0}</value>
   </data>
   <data name="All" xml:space="preserve">
     <value>All</value>

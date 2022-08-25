@@ -67,7 +67,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Send.
+        ///   Looks up a localized string similar to About Share.
         /// </summary>
         public static string AboutSend {
             get {
@@ -104,7 +104,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden Accessibility Service to auto-fill your logins across apps and the web. When enabled, we&apos;ll display a popup when login fields are selected..
+        ///   Looks up a localized string similar to Use the Bravura Safe Accessibility Service to auto-fill your logins across apps and the web. When enabled, we&apos;ll display a popup when login fields are selected..
         /// </summary>
         public static string AccessibilityDescription {
             get {
@@ -113,7 +113,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden Accessibility Service to auto-fill your logins across apps and the web. (Requires Draw-Over to be enabled as well).
+        ///   Looks up a localized string similar to Use the Bravura Safe Accessibility Service to auto-fill your logins across apps and the web. (Requires Draw-Over to be enabled as well).
         /// </summary>
         public static string AccessibilityDescription2 {
             get {
@@ -122,7 +122,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden Accessibility Service to use the Autofill Quick-Action Tile, and/or show a popup using Draw-Over (if enabled)..
+        ///   Looks up a localized string similar to Use the Bravura Safe Accessibility Service to use the Autofill Quick-Action Tile, and/or show a popup using Draw-Over (if enabled)..
         /// </summary>
         public static string AccessibilityDescription3 {
             get {
@@ -140,7 +140,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden needs attention - Enable &quot;Draw-Over&quot; in &quot;Auto-fill Services&quot; from Bitwarden Settings.
+        ///   Looks up a localized string similar to Bravura Safe needs attention - Enable &quot;Draw-Over&quot; in &quot;Auto-fill Services&quot; from Bravura Safe Settings.
         /// </summary>
         public static string AccessibilityDrawOverPermissionAlert {
             get {
@@ -149,7 +149,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden needs attention - See &quot;Auto-fill Accessibility Service&quot; from Bitwarden Settings.
+        ///   Looks up a localized string similar to Bravura Safe needs attention - See &quot;Auto-fill Accessibility Service&quot; from Bravura Safe Settings.
         /// </summary>
         public static string AccessibilityOverlayPermissionAlert {
             get {
@@ -275,7 +275,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add a Send.
+        ///   Looks up a localized string similar to Add a Share.
         /// </summary>
         public static string AddASend {
             get {
@@ -347,7 +347,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add Send.
+        ///   Looks up a localized string similar to Add Share.
         /// </summary>
         public static string AddSend {
             get {
@@ -374,7 +374,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All Sends.
+        ///   Looks up a localized string similar to All Shares.
         /// </summary>
         public static string AllSends {
             get {
@@ -383,7 +383,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All Vaults.
+        ///   Looks up a localized string similar to All Safe(s).
         /// </summary>
         public static string AllVaults {
             get {
@@ -437,7 +437,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to delete this Send?.
+        ///   Looks up a localized string similar to Are you sure you want to delete this Share?.
         /// </summary>
         public static string AreYouSureDeleteSend {
             get {
@@ -545,7 +545,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden accessibility service to auto-fill your logins across apps and the web..
+        ///   Looks up a localized string similar to Use the Bravura Safe accessibility service to auto-fill your logins across apps and the web..
         /// </summary>
         public static string AutofillAccessibilityDescription {
             get {
@@ -599,7 +599,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Bitwarden auto-fill service uses the Android Autofill Framework to assist in filling login information into other apps on your device..
+        ///   Looks up a localized string similar to The Bravura Safe auto-fill service uses the Android Autofill Framework to assist in filling login information into other apps on your device..
         /// </summary>
         public static string AutofillServiceDescription {
             get {
@@ -608,7 +608,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Auto-fill makes it easy to securely access your Bitwarden vault from other websites and apps. It looks like you have not enabled an auto-fill service for Bitwarden. Enable auto-fill for Bitwarden from the &quot;Settings&quot; screen..
+        ///   Looks up a localized string similar to Auto-fill makes it easy to securely access your Bravura Safe safe from other websites and apps. It looks like you have not enabled an auto-fill service for Bravura Safe. Enable auto-fill for Bravura Safe from the &quot;Settings&quot; screen..
         /// </summary>
         public static string AutofillServiceNotEnabled {
             get {
@@ -644,7 +644,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please enable &quot;Auto-fill Accessibility Service&quot; from Bitwarden Settings to use the Auto-fill tile..
+        ///   Looks up a localized string similar to Please enable &quot;Auto-fill Accessibility Service&quot; from Bravura Safe Settings to use the Auto-fill tile..
         /// </summary>
         public static string AutofillTileAccessibilityRequired {
             get {
@@ -707,7 +707,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 5. Select &quot;Bitwarden&quot;.
+        ///   Looks up a localized string similar to 5. Select &quot;Bravura Safe&quot;.
         /// </summary>
         public static string AutofillTurnOn5 {
             get {
@@ -716,7 +716,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Auto-fill with Bitwarden.
+        ///   Looks up a localized string similar to Auto-fill with Bravura Safe.
         /// </summary>
         public static string AutofillWithBitwarden {
             get {
@@ -797,7 +797,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden.
+        ///   Looks up a localized string similar to Bravura Safe.
         /// </summary>
         public static string Bitwarden {
             get {
@@ -806,7 +806,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden App Extension.
+        ///   Looks up a localized string similar to Bravura Safe App Extension.
         /// </summary>
         public static string BitwardenAppExtension {
             get {
@@ -815,7 +815,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The easiest way to add new logins to your vault is from the Bitwarden App Extension. Learn more about using the Bitwarden App Extension by navigating to the &quot;Settings&quot; screen..
+        ///   Looks up a localized string similar to The easiest way to add new logins to your safe is from the Bravura Safe App Extension. Learn more about using the Bravura Safe App Extension by navigating to the &quot;Settings&quot; screen..
         /// </summary>
         public static string BitwardenAppExtensionAlert2 {
             get {
@@ -824,7 +824,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use Bitwarden in Safari and other apps to auto-fill your logins..
+        ///   Looks up a localized string similar to Use Bravura Safe in Safari and other apps to auto-fill your logins..
         /// </summary>
         public static string BitwardenAppExtensionDescription {
             get {
@@ -833,7 +833,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden accessibility service to auto-fill your logins..
+        ///   Looks up a localized string similar to Use the Bravura Safe accessibility service to auto-fill your logins..
         /// </summary>
         public static string BitwardenAutofillAccessibilityServiceDescription {
             get {
@@ -851,7 +851,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The easiest way to add new logins to your vault is by using the Bitwarden Password AutoFill extension. Learn more about using the Bitwarden Password AutoFill extension by navigating to the &quot;Settings&quot; screen..
+        ///   Looks up a localized string similar to The easiest way to add new logins to your safe is by using the Bravura Safe Password AutoFill extension. Learn more about using the Bravura Safe Password AutoFill extension by navigating to the &quot;Settings&quot; screen..
         /// </summary>
         public static string BitwardenAutofillAlert2 {
             get {
@@ -860,7 +860,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Access your vault directly from your keyboard to quickly autofill passwords..
+        ///   Looks up a localized string similar to Access your safe directly from your keyboard to quickly autofill passwords..
         /// </summary>
         public static string BitwardenAutofillDescription {
             get {
@@ -878,7 +878,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden Auto-fill Service.
+        ///   Looks up a localized string similar to Bravura Safe Auto-fill Service.
         /// </summary>
         public static string BitwardenAutofillService {
             get {
@@ -887,7 +887,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The easiest way to add new logins to your vault is from the Bitwarden Auto-fill Service. Learn more about using the Bitwarden Auto-fill Service by navigating to the &quot;Settings&quot; screen..
+        ///   Looks up a localized string similar to The easiest way to add new logins to your safe is from the Bravura Safe Auto-fill Service. Learn more about using the Bravura Safe Auto-fill Service by navigating to the &quot;Settings&quot; screen..
         /// </summary>
         public static string BitwardenAutofillServiceAlert2 {
             get {
@@ -896,7 +896,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Use the Bitwarden auto-fill service to fill login information into other apps..
+        ///   Looks up a localized string similar to Use the Bravura Safe auto-fill service to fill login information into other apps..
         /// </summary>
         public static string BitwardenAutofillServiceDescription {
             get {
@@ -914,7 +914,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tap this notification to auto-fill an item from your vault..
+        ///   Looks up a localized string similar to Tap this notification to auto-fill an item from your safe..
         /// </summary>
         public static string BitwardenAutofillServiceNotificationContent {
             get {
@@ -923,7 +923,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tap this notification to view items from your vault..
+        ///   Looks up a localized string similar to Tap this notification to view items from your safe..
         /// </summary>
         public static string BitwardenAutofillServiceNotificationContentOld {
             get {
@@ -959,7 +959,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When you select an input field and see a Bitwarden auto-fill overlay, you can tap it to launch the auto-fill service..
+        ///   Looks up a localized string similar to When you select an input field and see a Bravura Safe auto-fill overlay, you can tap it to launch the auto-fill service..
         /// </summary>
         public static string BitwardenAutofillServiceOverlay {
             get {
@@ -968,7 +968,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3. On the Android App Settings screen for Bitwarden, go to the &quot;Display over other apps&quot; options (under Advanced) and tap the toggle to enable overlay support..
+        ///   Looks up a localized string similar to 3. On the Android App Settings screen for Bravura Safe, go to the &quot;Display over other apps&quot; options (under Advanced) and tap the toggle to enable overlay support..
         /// </summary>
         public static string BitwardenAutofillServiceOverlayPermission {
             get {
@@ -986,7 +986,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 1. On the Android Accessibility Settings screen, touch &quot;Bitwarden&quot; under the Services heading..
+        ///   Looks up a localized string similar to 1. On the Android Accessibility Settings screen, touch &quot;Bravura Safe&quot; under the Services heading..
         /// </summary>
         public static string BitwardenAutofillServiceStep1 {
             get {
@@ -1004,7 +1004,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 3. On the Android App Settings screen for Bitwarden, select &quot;Display over other apps&quot; (under &quot;Advanced&quot;) and switch on the toggle to allow the overlay..
+        ///   Looks up a localized string similar to 3. On the Android App Settings screen for Bravura Safe, select &quot;Display over other apps&quot; (under &quot;Advanced&quot;) and switch on the toggle to allow the overlay..
         /// </summary>
         public static string BitwardenAutofillServiceStep3 {
             get {
@@ -1022,7 +1022,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Blacklisted URIs.
+        ///   Looks up a localized string similar to Blacklisted URLs.
         /// </summary>
         public static string BlacklistedUris {
             get {
@@ -1031,7 +1031,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URIs that are blacklisted will not offer auto-fill. The list should be comma separated. Ex: &quot;https://twitter.com, androidapp://com.twitter.android&quot;..
+        ///   Looks up a localized string similar to URLs that are blacklisted will not offer auto-fill. The list should be comma separated. Ex: &quot;https://twitter.com, androidapp://com.twitter.android&quot;..
         /// </summary>
         public static string BlacklistedUrisDescription {
             get {
@@ -1148,7 +1148,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can change your email address on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can change your email address on the Bravura Safe web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ChangeEmailConfirmation {
             get {
@@ -1166,7 +1166,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can change your master password on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can change your master password on the Bravura Safe web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ChangePasswordConfirmation {
             get {
@@ -1355,7 +1355,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy Send link on save.
+        ///   Looks up a localized string similar to Copy Share link on save.
         /// </summary>
         public static string CopySendLinkOnSave {
             get {
@@ -1517,7 +1517,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Default URI Match Detection.
+        ///   Looks up a localized string similar to Default URL Match Detection.
         /// </summary>
         public static string DefaultUriMatchDetection {
             get {
@@ -1526,7 +1526,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose the default way that URI match detection is handled for logins when performing actions such as auto-fill..
+        ///   Looks up a localized string similar to Choose the default way that URL match detection is handled for logins when performing actions such as auto-fill..
         /// </summary>
         public static string DefaultUriMatchDetectionDescription {
             get {
@@ -1598,7 +1598,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The Send will be permanently deleted on the specified date and time..
+        ///   Looks up a localized string similar to The Share will be permanently deleted on the specified date and time..
         /// </summary>
         public static string DeletionDateInfo {
             get {
@@ -1652,7 +1652,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One or more organization policies prevents your from exporting your personal vault..
+        ///   Looks up a localized string similar to One or more team policies prevents you from exporting your personal safe..
         /// </summary>
         public static string DisablePersonalVaultExportPolicyInEffect {
             get {
@@ -1670,7 +1670,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The &quot;Save Prompt&quot; automatically prompts you to save new items to your vault whenever you enter them for the first time..
+        ///   Looks up a localized string similar to The &quot;Save Prompt&quot; automatically prompts you to save new items to your safe whenever you enter them for the first time..
         /// </summary>
         public static string DisableSavePromptDescription {
             get {
@@ -1679,7 +1679,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Disable this Send so that no one can access it.
+        ///   Looks up a localized string similar to Disable this Share so that no one can access it.
         /// </summary>
         public static string DisableSend {
             get {
@@ -1697,7 +1697,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Website Icons provide a recognizable image next to each login item in your vault..
+        ///   Looks up a localized string similar to Website Icons provide a recognizable image next to each login item in your safe..
         /// </summary>
         public static string DisableWebsiteIconsDescription {
             get {
@@ -1778,7 +1778,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When enabled, allows the Bitwarden Accessibility Service to display a popup when login fields are selected..
+        ///   Looks up a localized string similar to When enabled, allows the Bravura Safe Accessibility Service to display a popup when login fields are selected..
         /// </summary>
         public static string DrawOverDescription {
             get {
@@ -1787,7 +1787,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If enabled, the Bitwarden Accessibility Service will display a popup when login fields are selected to assist with auto-filling your logins..
+        ///   Looks up a localized string similar to If enabled, the Bravura Safe Accessibility Service will display a popup when login fields are selected to assist with auto-filling your logins..
         /// </summary>
         public static string DrawOverDescription2 {
             get {
@@ -1832,7 +1832,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit Send.
+        ///   Looks up a localized string similar to Edit Share.
         /// </summary>
         public static string EditSend {
             get {
@@ -1904,7 +1904,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Syncing vault with pull down gesture..
+        ///   Looks up a localized string similar to Syncing safe with pull down gesture..
         /// </summary>
         public static string EnableSyncOnRefreshDescription {
             get {
@@ -1913,7 +1913,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Account encryption keys are unique to each Bitwarden user account, so you can&apos;t import an encrypted export into a different account..
+        ///   Looks up a localized string similar to Account encryption keys are unique to each Bravura Safe user account, so you can&apos;t import an encrypted export into a different account..
         /// </summary>
         public static string EncExportAccountWarning {
             get {
@@ -2003,7 +2003,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to exit Bitwarden?.
+        ///   Looks up a localized string similar to Are you sure you want to exit Bravura Safe?.
         /// </summary>
         public static string ExitConfirmation {
             get {
@@ -2039,7 +2039,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If set, access to this Send will expire on the specified date and time..
+        ///   Looks up a localized string similar to If set, access to this Share will expire on the specified date and time..
         /// </summary>
         public static string ExpirationDateInfo {
             get {
@@ -2084,7 +2084,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Export Vault.
+        ///   Looks up a localized string similar to Export Safe.
         /// </summary>
         public static string ExportVault {
             get {
@@ -2093,7 +2093,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm Vault Export.
+        ///   Looks up a localized string similar to Confirm Safe Export.
         /// </summary>
         public static string ExportVaultConfirmationTitle {
             get {
@@ -2102,7 +2102,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was a problem exporting your vault.  If the problem persists, you&apos;ll need to export from the web vault..
+        ///   Looks up a localized string similar to There was a problem exporting your safe. If the problem persists, you&apos;ll need to export from the web safe..
         /// </summary>
         public static string ExportVaultFailure {
             get {
@@ -2111,7 +2111,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your master password to export your vault data..
+        ///   Looks up a localized string similar to Enter your master password to export your safe data..
         /// </summary>
         public static string ExportVaultMasterPasswordDescription {
             get {
@@ -2120,7 +2120,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vault exported successfully.
+        ///   Looks up a localized string similar to Safe exported successfully.
         /// </summary>
         public static string ExportVaultSuccess {
             get {
@@ -2129,7 +2129,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This export contains your vault data in an unencrypted format. You should not store or send the exported file over unsecure channels (such as email). Delete it immediately after you are done using it..
+        ///   Looks up a localized string similar to This export contains your safe data in an unencrypted format. You should not store or send the exported file over unsecure channels (such as email). Delete it immediately after you are done using it..
         /// </summary>
         public static string ExportVaultWarning {
             get {
@@ -2165,7 +2165,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In Safari, find Bitwarden using the share icon (hint: scroll to the right on the bottom row of the menu)..
+        ///   Looks up a localized string similar to In Safari, find Bravura Safe using the share icon (hint: scroll to the right on the bottom row of the menu)..
         /// </summary>
         public static string ExtensionInSafari {
             get {
@@ -2201,7 +2201,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In Safari and Chrome, find Bitwarden using the share icon (hint: scroll to the right on the bottom row of the share menu)..
+        ///   Looks up a localized string similar to In Safari and Chrome, find Bravura Safe using the share icon (hint: scroll to the right on the bottom row of the share menu)..
         /// </summary>
         public static string ExtensionSetup2 {
             get {
@@ -2210,7 +2210,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tap the Bitwarden icon in the menu to launch the extension..
+        ///   Looks up a localized string similar to Tap the Bravura Safe icon in the menu to launch the extension..
         /// </summary>
         public static string ExtensionTapIcon {
             get {
@@ -2219,7 +2219,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to To turn on Bitwarden in Safari and other apps, tap the &quot;more&quot; icon on the bottom row of the menu..
+        ///   Looks up a localized string similar to To turn on Bravura Safe in Safari and other apps, tap the &quot;more&quot; icon on the bottom row of the menu..
         /// </summary>
         public static string ExtensionTurnOn {
             get {
@@ -2444,7 +2444,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Filter items by vault.
+        ///   Looks up a localized string similar to Filter items by safe.
         /// </summary>
         public static string FilterByVault {
             get {
@@ -2606,7 +2606,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to my vault.
+        ///   Looks up a localized string similar to Go to my safe.
         /// </summary>
         public static string GoToMyVault {
             get {
@@ -2660,7 +2660,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to When accessing the Send, hide the text by default.
+        ///   Looks up a localized string similar to When accessing the Share, hide the text by default.
         /// </summary>
         public static string HideTextByDefault {
             get {
@@ -2750,7 +2750,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can bulk import items from the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to You can bulk import items from the Bravura Safe web vault. Do you want to visit the website now?.
         /// </summary>
         public static string ImportItemsConfirmation {
             get {
@@ -2984,7 +2984,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Learn About Organizations.
+        ///   Looks up a localized string similar to Learn About Teams.
         /// </summary>
         public static string LearnOrg {
             get {
@@ -2993,7 +2993,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden allows you to share your vault items with others by using an organization account. Would you like to visit the bitwarden.com website to learn more?.
+        ///   Looks up a localized string similar to Bravura Safe allows you to share your safe items with others by using a team account. Would you like to visit the hitachi-id.com website to learn more?.
         /// </summary>
         public static string LearnOrgConfirmation {
             get {
@@ -3002,7 +3002,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Leave Organization.
+        ///   Looks up a localized string similar to Leave Team.
         /// </summary>
         public static string LeaveOrganization {
             get {
@@ -3119,7 +3119,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Log in or create a new account to access your secure vault..
+        ///   Looks up a localized string similar to Log in or create a new account to access your secure safe..
         /// </summary>
         public static string LoginOrCreateNewAccount {
             get {
@@ -3155,7 +3155,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Quickly log in using your organization&apos;s single sign-on portal. Please enter your organization&apos;s identifier to begin..
+        ///   Looks up a localized string similar to Quickly log in using your team&apos;s single sign-on portal. Please enter your team&apos;s identifier to begin..
         /// </summary>
         public static string LogInSsoSummary {
             get {
@@ -3245,7 +3245,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The master password is the password you use to access your vault. It is very important that you do not forget your master password. There is no way to recover the password in the event that you forget it..
+        ///   Looks up a localized string similar to The master password is the password you use to access your safe. It is very important that you do not forget your master password. There is no way to recover the password in the event that you forget it..
         /// </summary>
         public static string MasterPasswordDescription {
             get {
@@ -3281,7 +3281,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One or more organization policies require your master password to meet the following requirements:.
+        ///   Looks up a localized string similar to One or more team policies require your master password to meet the following requirements:.
         /// </summary>
         public static string MasterPasswordPolicyInEffect {
             get {
@@ -3290,7 +3290,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Password does not meet organization requirements. Please check the policy information and try again..
+        ///   Looks up a localized string similar to Password does not meet team requirements. Please check the policy information and try again..
         /// </summary>
         public static string MasterPasswordPolicyValidationMessage {
             get {
@@ -3344,7 +3344,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If set, users will no longer be able to access this Send once the maximum access count is reached..
+        ///   Looks up a localized string similar to If set, users will no longer be able to access this Share once the maximum access count is reached..
         /// </summary>
         public static string MaximumAccessCountInfo {
             get {
@@ -3452,7 +3452,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Move to Organization.
+        ///   Looks up a localized string similar to Move to Team.
         /// </summary>
         public static string MoveToOrganization {
             get {
@@ -3461,7 +3461,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose an organization that you wish to move this item to. Moving to an organization transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved..
+        ///   Looks up a localized string similar to Choose a team that you wish to move this item to. Moving to a team transfers ownership of the item to that team. You will no longer be the direct owner of this item once it has been moved..
         /// </summary>
         public static string MoveToOrgDesc {
             get {
@@ -3506,7 +3506,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must log into the main Bitwarden app before you can use the extension..
+        ///   Looks up a localized string similar to You must log into the main Bravura Safe app before you can use the extension..
         /// </summary>
         public static string MustLogInMainApp {
             get {
@@ -3515,7 +3515,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must log into the main Bitwarden app before you can use AutoFill..
+        ///   Looks up a localized string similar to You must log into the main Bravura Safe app before you can use AutoFill..
         /// </summary>
         public static string MustLogInMainAppAutofill {
             get {
@@ -3524,7 +3524,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My Vault.
+        ///   Looks up a localized string similar to My Safe.
         /// </summary>
         public static string MyVault {
             get {
@@ -3542,7 +3542,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A friendly name to describe this Send..
+        ///   Looks up a localized string similar to A friendly name to describe this Share..
         /// </summary>
         public static string NameInfo {
             get {
@@ -3587,7 +3587,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New send created..
+        ///   Looks up a localized string similar to New share created..
         /// </summary>
         public static string NewSendCreated {
             get {
@@ -3596,7 +3596,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to New URI.
+        ///   Looks up a localized string similar to New URL.
         /// </summary>
         public static string NewUri {
             get {
@@ -3632,7 +3632,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no favorites in your vault..
+        ///   Looks up a localized string similar to There are no favorites in your safe..
         /// </summary>
         public static string NoFavorites {
             get {
@@ -3659,7 +3659,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no items in your vault..
+        ///   Looks up a localized string similar to There are no items in your safe..
         /// </summary>
         public static string NoItems {
             get {
@@ -3686,7 +3686,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no items in your vault for {0}..
+        ///   Looks up a localized string similar to There are no items in your safe for {0}..
         /// </summary>
         public static string NoItemsForUri {
             get {
@@ -3695,7 +3695,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no items in your vault for this website/app. Tap to add one..
+        ///   Looks up a localized string similar to There are no items in your safe for this website/app. Tap to add one..
         /// </summary>
         public static string NoItemsTap {
             get {
@@ -3722,7 +3722,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No organizations to list..
+        ///   Looks up a localized string similar to No teams to list..
         /// </summary>
         public static string NoOrgsToList {
             get {
@@ -3740,7 +3740,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There are no Sends in your account..
+        ///   Looks up a localized string similar to There are no Shares in your account..
         /// </summary>
         public static string NoSends {
             get {
@@ -3758,7 +3758,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Private notes about this Send..
+        ///   Looks up a localized string similar to Private notes about this Share..
         /// </summary>
         public static string NotesInfo {
             get {
@@ -3893,7 +3893,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Option defaults are set from the main Bitwarden app&apos;s password generator tool..
+        ///   Looks up a localized string similar to Option defaults are set from the main Bravura Safe app&apos;s password generator tool..
         /// </summary>
         public static string OptionDefaults {
             get {
@@ -3929,7 +3929,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Organization.
+        ///   Looks up a localized string similar to Team.
         /// </summary>
         public static string Organization {
             get {
@@ -3938,7 +3938,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Organization Identifier.
+        ///   Looks up a localized string similar to Team Identifier.
         /// </summary>
         public static string OrgIdentifier {
             get {
@@ -4055,7 +4055,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One or more organization policies are affecting your generator settings.
+        ///   Looks up a localized string similar to One or more team policies are affecting your generator settings.
         /// </summary>
         public static string PasswordGeneratorPolicyInEffect {
             get {
@@ -4091,7 +4091,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Optionally require a password for users to access this Send..
+        ///   Looks up a localized string similar to Optionally require a password for users to access this Share..
         /// </summary>
         public static string PasswordInfo {
             get {
@@ -4154,7 +4154,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An organization policy is affecting your ownership options..
+        ///   Looks up a localized string similar to A team policy is affecting your ownership options..
         /// </summary>
         public static string PersonalOwnershipPolicyInEffect {
             get {
@@ -4163,7 +4163,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections..
+        ///   Looks up a localized string similar to Due to an Enterprise Policy, you are restricted from saving items to your personal safe. Change the Ownership option to a team and choose from available Collections..
         /// </summary>
         public static string PersonalOwnershipSubmitError {
             get {
@@ -4289,7 +4289,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden keeps your vault automatically synced by using push notifications. For the best possible experience, please select &quot;Allow&quot; on the following prompt when asked to enable push notifications..
+        ///   Looks up a localized string similar to Bravura Safe keeps your safe automatically synced by using push notifications. For the best possible experience, please select &quot;Allow&quot; on the following prompt when asked to enable push notifications..
         /// </summary>
         public static string PushNotificationAlert {
             get {
@@ -4397,7 +4397,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If you do not want to remove your Master Password, you may leave this organization..
+        ///   Looks up a localized string similar to If you do not want to remove your Master Password, you may leave this team..
         /// </summary>
         public static string RemoveMasterPasswordWarning2 {
             get {
@@ -4442,7 +4442,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This organization has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow organization administrators to change your master password..
+        ///   Looks up a localized string similar to This team has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow team administrators to change your master password..
         /// </summary>
         public static string ResetPasswordAutoEnrollInviteWarning {
             get {
@@ -4550,7 +4550,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search Sends.
+        ///   Looks up a localized string similar to Search Shares.
         /// </summary>
         public static string SearchSends {
             get {
@@ -4577,7 +4577,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Search Vault.
+        ///   Looks up a localized string similar to Search Safe.
         /// </summary>
         public static string SearchVault {
             get {
@@ -4649,7 +4649,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Specify the base URL of your on-premise hosted Bitwarden installation..
+        ///   Looks up a localized string similar to Specify the base URL of your on-premise hosted Bravura Safe installation..
         /// </summary>
         public static string SelfHostedEnvironmentFooter {
             get {
@@ -4658,7 +4658,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Send.
+        ///   Looks up a localized string similar to Share.
         /// </summary>
         public static string Send {
             get {
@@ -4676,7 +4676,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Send has been deleted..
+        ///   Looks up a localized string similar to Share has been deleted..
         /// </summary>
         public static string SendDeleted {
             get {
@@ -4685,7 +4685,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Due to an enterprise policy, you are only able to delete an existing Send..
+        ///   Looks up a localized string similar to Due to an enterprise policy, you are only able to delete an existing Share..
         /// </summary>
         public static string SendDisabledWarning {
             get {
@@ -4694,7 +4694,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must verify your email to use files with Send. You can verify your email in the web vault..
+        ///   Looks up a localized string similar to You must verify your email to use files with Share. You can verify your email in the web safe..
         /// </summary>
         public static string SendFileEmailVerificationRequired {
             get {
@@ -4703,7 +4703,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Free accounts are restricted to sharing text only. A premium membership is required to use files with Send..
+        ///   Looks up a localized string similar to Free accounts are restricted to sharing text only. A premium membership is required to use files with Share..
         /// </summary>
         public static string SendFilePremiumRequired {
             get {
@@ -4730,7 +4730,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Send link.
+        ///   Looks up a localized string similar to Share link.
         /// </summary>
         public static string SendLink {
             get {
@@ -4739,7 +4739,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to One or more organization policies are affecting your Send options..
+        ///   Looks up a localized string similar to One or more team policies are affecting your Share options..
         /// </summary>
         public static string SendOptionsPolicyInEffect {
             get {
@@ -4757,7 +4757,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sends.
+        ///   Looks up a localized string similar to Shares.
         /// </summary>
         public static string Sends {
             get {
@@ -4766,7 +4766,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Send updated..
+        ///   Looks up a localized string similar to Share updated..
         /// </summary>
         public static string SendUpdated {
             get {
@@ -4820,7 +4820,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to In order to complete logging in with SSO, please set a master password to access and protect your vault..
+        ///   Looks up a localized string similar to In order to complete logging in with SSO, please set a master password to access and protect your safe..
         /// </summary>
         public static string SetMasterPasswordSummary {
             get {
@@ -4838,7 +4838,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set your PIN code for unlocking Bitwarden. Your PIN settings will be reset if you ever fully log out of the application..
+        ///   Looks up a localized string similar to Set your PIN code for unlocking Bravura Safe. Your PIN settings will be reset if you ever fully log out of the application..
         /// </summary>
         public static string SetPINDescription {
             get {
@@ -4910,7 +4910,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share this Send upon save.
+        ///   Looks up a localized string similar to Share this Share upon save.
         /// </summary>
         public static string ShareOnSave {
             get {
@@ -5000,7 +5000,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Help Bitwarden improve app stability by submitting crash reports..
+        ///   Looks up a localized string similar to Help Hitachi ID Systems improve app stability by submitting crash reports..
         /// </summary>
         public static string SubmitCrashLogsDescription {
             get {
@@ -5063,7 +5063,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sync Vault Now.
+        ///   Looks up a localized string similar to Sync Safe Now.
         /// </summary>
         public static string SyncVaultNow {
             get {
@@ -5306,7 +5306,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be enabled on the bitwarden.com web vault. Do you want to visit the website now?.
+        ///   Looks up a localized string similar to Two-step login makes your account more secure by requiring you to verify your login with another device such as a security key, authenticator app, SMS, phone call, or email. Two-step login can be enabled on the Bravura Safe web vault. Do you want to visit the website now?.
         /// </summary>
         public static string TwoStepLoginConfirmation {
             get {
@@ -5351,7 +5351,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The file you want to send..
+        ///   Looks up a localized string similar to The file you want to share..
         /// </summary>
         public static string TypeFileInfo {
             get {
@@ -5405,7 +5405,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The text you want to send..
+        ///   Looks up a localized string similar to The text you want to share..
         /// </summary>
         public static string TypeTextInfo {
             get {
@@ -5432,7 +5432,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was a problem saving this attachment. If the problem persists, you can save it from the web vault..
+        ///   Looks up a localized string similar to There was a problem saving this attachment. If the problem persists, you can save it from the web safe..
         /// </summary>
         public static string UnableToSaveAttachment {
             get {
@@ -5450,7 +5450,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unlock Vault.
+        ///   Looks up a localized string similar to Unlock Safe.
         /// </summary>
         public static string UnlockVault {
             get {
@@ -5504,7 +5504,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your Master Password was recently changed by an administrator in your organization. In order to access the vault, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour..
+        ///   Looks up a localized string similar to Your Master Password was recently changed by an administrator in your team. In order to access the safe, you must update your Master Password now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour..
         /// </summary>
         public static string UpdateMasterPasswordWarning {
             get {
@@ -5540,7 +5540,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI.
+        ///   Looks up a localized string similar to URL.
         /// </summary>
         public static string URI {
             get {
@@ -5549,7 +5549,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI Match Detection.
+        ///   Looks up a localized string similar to URL Match Detection.
         /// </summary>
         public static string URIMatchDetection {
             get {
@@ -5558,7 +5558,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URI {0}.
+        ///   Looks up a localized string similar to URL {0}.
         /// </summary>
         public static string URIPosition {
             get {
@@ -5567,7 +5567,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to URIs.
+        ///   Looks up a localized string similar to URLs.
         /// </summary>
         public static string URIs {
             get {
@@ -5657,7 +5657,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vault: {0}.
+        ///   Looks up a localized string similar to Safe: {0}.
         /// </summary>
         public static string VaultFilterDescription {
             get {
@@ -5666,7 +5666,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vault is locked.
+        ///   Looks up a localized string similar to Safe is locked.
         /// </summary>
         public static string VaultIsLocked {
             get {
@@ -5675,7 +5675,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your vault is locked. Verify your identity to continue..
+        ///   Looks up a localized string similar to Your safe is locked. Verify your identity to continue..
         /// </summary>
         public static string VaultLockedIdentity {
             get {
@@ -5684,7 +5684,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your vault is locked. Verify your master password to continue..
+        ///   Looks up a localized string similar to Your safe is locked. Verify your master password to continue..
         /// </summary>
         public static string VaultLockedMasterPassword {
             get {
@@ -5693,7 +5693,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your vault is locked. Verify your PIN code to continue..
+        ///   Looks up a localized string similar to Your safe is locked. Verify your PIN code to continue..
         /// </summary>
         public static string VaultLockedPIN {
             get {
@@ -5702,7 +5702,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vaults.
+        ///   Looks up a localized string similar to Safe.
         /// </summary>
         public static string Vaults {
             get {
@@ -5711,7 +5711,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vault Timeout.
+        ///   Looks up a localized string similar to Safe Timeout.
         /// </summary>
         public static string VaultTimeout {
             get {
@@ -5720,7 +5720,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vault Timeout Action.
+        ///   Looks up a localized string similar to Safe Timeout Action.
         /// </summary>
         public static string VaultTimeoutAction {
             get {
@@ -5729,7 +5729,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Logging out will remove all access to your vault and requires online authentication after the timeout period. Are you sure you want to use this setting?.
+        ///   Looks up a localized string similar to Logging out will remove all access to your safe and requires online authentication after the timeout period. Are you sure you want to use this setting?.
         /// </summary>
         public static string VaultTimeoutLogOutConfirmation {
             get {
@@ -5738,7 +5738,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your organization policies are affecting your vault timeout. Maximum allowed Vault Timeout is {0} hour(s) and {1} minute(s).
+        ///   Looks up a localized string similar to Your team policies are affecting your safe timeout. Maximum allowed Safe Timeout is {0} hour(s) and {1} minute(s).
         /// </summary>
         public static string VaultTimeoutPolicyInEffect {
             get {
@@ -5747,7 +5747,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your vault timeout exceeds the restrictions set by your organization..
+        ///   Looks up a localized string similar to Your safe timeout exceeds the restrictions set by your team..
         /// </summary>
         public static string VaultTimeoutToLarge {
             get {
@@ -5873,7 +5873,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Visit our website to get help, news, email us, and/or learn more about how to use Bitwarden..
+        ///   Looks up a localized string similar to Visit our website to get help, news, email us, and/or learn more about how to use Bravura Safe..
         /// </summary>
         public static string VisitOurWebsiteDescription {
             get {
@@ -5900,7 +5900,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bitwarden Web Vault.
+        ///   Looks up a localized string similar to Bravura Safe Web Vault.
         /// </summary>
         public static string WebVault {
             get {
@@ -5909,7 +5909,7 @@ namespace Bit.App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Web Vault Server URL.
+        ///   Looks up a localized string similar to Web Safe Server URL.
         /// </summary>
         public static string WebVaultUrl {
             get {
